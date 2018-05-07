@@ -1,0 +1,12 @@
+title: Notification Center
+description: >
+  Ein zentrales Benachrichtigungszentrum das von Entwicklern benutzt werden kann.
+  Das Notification Center bildet die Basis für beliebige Benachrichtigungstypen und Gateways (Email, SMS, etc.) und erleichtert Entwicklern somit das Senden von Benachrichtigungen und bringt den Anwendern eine Menge Flexibilität.
+keywords:
+ - email
+ - sms
+ - gateway
+ - Benachrichtigungen
+ - Anhänge
+ - Mitteilungen
+category: Kommunikation
