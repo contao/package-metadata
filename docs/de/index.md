@@ -1,18 +1,18 @@
 
 # Paketmetadaten für den Contao Manager
 
-Dieses Repository stellt Metainformationen für den Suchindex des [Contao Managers](https://github.com/contao/contao-manager) bereit .
+Dieses Repository stellt Metainformationen für den Suchindex des [Contao Managers](https://github.com/contao/contao-manager) bereit.
 
 Die Metadaten werden in Yaml-Dateien gespeichert und es kann ein Logo im SVG-Format angegeben werden.
 
 ## Beispieldaten für ein Paket
 
-     meta/[vendor]/[package]
-         - de.yml
-         - en.yml
-         - ru.yml
-         - ...
-         - logo.svg (optional)
+    meta/[vendor]/[package]
+        - de.yml
+        - en.yml
+        - ru.yml
+        - ...
+        - logo.svg (optional)
 
 ## Beispiel für eine Sprachdatei (Yaml)
 

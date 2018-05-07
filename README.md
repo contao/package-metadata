@@ -46,4 +46,4 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 1. Clone the repo
 2. Select an existing package or create new folders for a none existing package like "meta/vendor/package"
 3. Make pull request
-4. The review team will check yout contribution within approximately 5 days
+4. The review team will check your contribution within approximately 5 days
