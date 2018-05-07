@@ -1,25 +1,26 @@
 title: Mobile.de Inserate
 description: >
-  Eine Erweiterung mit Filtern und Funktionen um den mobile.de Fahrzeugbestand auf der eigenen Website anzuzeigen.
-  Alle Inserate werden direkt aus der mobile.de* API ausgelesen und in der Erweiterung übersichtlich dargestellt. Umfangreiche Filter- & Sortierungsfunktionen runden die Listenansicht ab. Die Detailansicht enthält alle Fahrzeuginformationen und einen schlanken Produkt-Slider. Auf Wunsch können auch zusätzliche Funktionen integriert werden. Fragen Sie uns an.
+    Eine Erweiterung mit Filtern und Funktionen um den mobile.de Fahrzeugbestand auf der eigenen Website anzuzeigen.
+    Alle Inserate werden direkt aus der mobile.de* API ausgelesen und in der Erweiterung übersichtlich dargestellt. Umfangreiche Filter- & Sortierungsfunktionen runden die Listenansicht ab. Die Detailansicht enthält alle Fahrzeuginformationen und einen schlanken Produkt-Slider. Auf Wunsch können auch zusätzliche Funktionen integriert werden. Fragen Sie uns an.
 
-  Ihre Vorteile
+    Ihre Vorteile
 
-  Listenansicht mit umfangreichen Filter- und Sortierungsfunktionen
-  Detailansicht mit Contao Bildslider
-  Empfohlenes Objekt
-  Automatischer Abgleich der Fahrzeuge über mobile.de* API
-  Templates und Design können auf gewohnte "Contao Art" angepasst werden
-  garantierte Unterstützung der letzten bzw. aktuellen Contao LTS Version
-  Mehr Informationen https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+    - Listenansicht mit umfangreichen Filter- und Sortierungsfunktionen
+    - Detailansicht mit Contao Bildslider
+    - Empfohlenes Objekt
+    - Automatischer Abgleich der Fahrzeuge über mobile.de* API
+    - Templates und Design können auf gewohnte "Contao Art" angepasst werden
+    - garantierte Unterstützung der letzten bzw. aktuellen Contao LTS Version
+
+    Mehr Informationen https://pdir.de/mobile-de-integration-fuer-contao-cms.html
 keywords:
-  - mobile
-  - Fahrzeuge
-  - Inserate
-  - API
-  - Import
-  - Autohändler
+    - mobile
+    - Fahrzeuge
+    - Inserate
+    - API
+    - Import
+    - Autohändler
 category: Inhalte
 homepage:
 support:
-  docs: https://docs.pdir.de/mobilede/mobilede_inserate.html
+    docs: https://docs.pdir.de/mobilede/mobilede_inserate.html

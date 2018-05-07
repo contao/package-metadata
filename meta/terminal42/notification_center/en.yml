@@ -1,12 +1,12 @@
 title: Notification Center
 description: >
-  A central notification center that can be used by developers to provide notifications.
-  The Notification Center is the foundation for any kind of notification type and gateway (eMail, SMS, etc.) and makes it easier for developers to send notifications and brings a lot of flexibility to the users.
+    A central notification center that can be used by developers to provide notifications.
+    The Notification Center is the foundation for any kind of notification type and gateway (eMail, SMS, etc.) and makes it easier for developers to send notifications and brings a lot of flexibility to the users.
 keywords:
- - email
- - sms
- - gateway
- - notification
- - messages
- - attachments
+    - email
+    - sms
+    - gateway
+    - notification
+    - messages
+    - attachments
 category: Communication

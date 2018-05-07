@@ -31,6 +31,8 @@ Read this in other languages: [German](docs/de/index.md)
       ...
     category: Tools
 
+Please use 4 spaces for indentation or nesting.
+
 ## Available categories
 
 - Communication

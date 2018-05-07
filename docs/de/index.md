@@ -29,6 +29,8 @@ Die Metadaten werden in Yaml-Dateien gespeichert und es kann ein Logo im SVG-For
       ...
     category: Tools
 
+Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln.
+
 ## Verfügbare Kategorien
 
 - Kommunikation

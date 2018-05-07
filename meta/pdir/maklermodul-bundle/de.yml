@@ -1,27 +1,27 @@
 title: Maklermodul für Immobilienmakler
 description: >
-  Das Maklermodul für Contao 3 und 4 bildet die Schnittstelle zwischen Ihrer Maklersoftware und dem Content-Management-System Contao.
+    Das Maklermodul für Contao 3 und 4 bildet die Schnittstelle zwischen Ihrer Maklersoftware und dem Content-Management-System Contao.
 
-  Die Daten werden hierbei automatisch importiert, als filterbare Objektliste angezeigt und in der Detailansicht nach Ihren wünschen dargestellt.
+    Die Daten werden hierbei automatisch importiert, als filterbare Objektliste angezeigt und in der Detailansicht nach Ihren wünschen dargestellt.
 
-  - Importieren der Objekte direkt aus Ihrer Immobiliensoftware
-  - Optimierte Darstellung Ihrer Objekte
-  - Umfangreiche Filterfunktionen für Objekte
-  - einfach und flexibel anpassbar durch Contao-Templates
-  - Schnelle und einfache Installation des Moduls
+    - Importieren der Objekte direkt aus Ihrer Immobiliensoftware
+    - Optimierte Darstellung Ihrer Objekte
+    - Umfangreiche Filterfunktionen für Objekte
+    - einfach und flexibel anpassbar durch Contao-Templates
+    - Schnelle und einfache Installation des Moduls
 
-  Mehr erfahren Sie unter https://www.maklermodul.de/
+    Mehr erfahren Sie unter https://www.maklermodul.de/
 keywords:
-  - immobilien
-  - import
-  - expose
-  - Immobilienmakler
-  - Maklersoftware
-  - Immobiliensoftware
-  - Maklerbüro
-  - open immo
+    - immobilien
+    - import
+    - expose
+    - Immobilienmakler
+    - Maklersoftware
+    - Immobiliensoftware
+    - Maklerbüro
+    - open immo
 category: Inhalte
 homepage: https://www.maklermodul.de/
 support:
-  email: info@maklermodul.de
-  docs: https://docs.maklermodul.de
+    email: info@maklermodul.de
+    docs: https://docs.maklermodul.de
