@@ -1,11 +1,11 @@
-title: EasyThemes
-description: >
-    Easier management of multiple themes
-    This extension can be useful as soon as several themes have to be managed.
+en:
+    title: EasyThemes
+    description: >
+        Easier management of multiple themes
+        This extension can be useful as soon as several themes have to be managed.
 
-    You can choose whether you would like to show the EasyThemes navigation after a right click or on mouseover in your personal settings where you also need to activate the module itself first.
-keywords:
-    - theme
-    - tools
-    - administration
-category: Tools
+        You can choose whether you would like to show the EasyThemes navigation after a right click or on mouseover in your personal settings where you also need to activate the module itself first.
+    keywords:
+        - theme
+        - tools
+        - administration
