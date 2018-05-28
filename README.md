@@ -18,20 +18,22 @@ Read this in other languages: [German](docs/de/index.md)
 
 ## Language yaml example
 
-    title: Title of bundle or module
-    description: >
-      Long description of bundle or module with line breaks.
-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum.
-    keywords:
-      - keyword1
-      - lorem ipsum
-      - keyword2
-      ...
-    category: Tools
+    en:
+        title: Title of bundle or module
+        description: >
+          Long description of bundle or module with line breaks.
+    
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+          At vero eos et accusam et justo duo dolores et ea rebum.
+        keywords:
+          - keyword1
+          - lorem ipsum
+          - keyword2
+          ...
+        category: Tools
 
 Please use 4 spaces for indentation or nesting.
+For more information on the file format, see [the Transifex documentation][1]
 
 ## Available categories
 
@@ -49,3 +51,6 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 2. Select an existing package or create new folders for a none existing package like "meta/vendor/package"
 3. Make pull request
 4. The review team will check your contribution within approximately 5 days
+
+
+[1]: https://docs.transifex.com/formats/yaml
