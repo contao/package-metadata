@@ -54,6 +54,20 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 3. Make pull request
 4. The review team will check your contribution within approx. 5 days
 
+## Roadmap
+
+* **Automated re-indexing**
+
+    Right now, the index is not updated automatically when this repository is changed. We plan to
+introduce something like using a GitHub webhook to trigger the package re-indexing for the affected packages.
+
+* **Merge access for the responsible developers**
+
+    We understand it is sort of a problem that developers of packages are not allowed to update their package information
+on their own but instead need to wait for somebody that has merge rights to get a pull request merged. We plan to
+introduce a bot that is able to determine which GitHub users are allowed to review pull requests for certain paths in the
+meta data directory. This could be done based on the GitHub `OWNERS` file and review feature.
+
 
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml

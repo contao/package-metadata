@@ -53,6 +53,21 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 3. Erstelle einen Pull Request
 4. Das Review-Team überprüft deinen Pull-Request innerhalb von ca. 5 Tagen
 
+## Roadmap
+
+* **Automatisiertes Reindexieren**
+
+    Aktuell wird der Index nicht automaitsch aktualisiert, sobald sich dieses Repository ändert. Wir planen aber die
+    Nutzung von z.B. GitHub Webhooks um die betroffenen Pakete im Index automatisch zu aktualisieren.
+
+* **Merge Berechtigungen für die betroffenen Entwickler**
+
+    Es ist tatsächlich ein "Problem", dass Entwickler von Paketen im Moment keine Möglichkeit haben, die Paketinformationen
+    ihrer eigenen Pakete zu aktualisieren, ohne dass jemand mit Merge-Rechten den Pull Request merged. Wir planen die
+    Einführung eines Bots der in der Lage ist, zu entscheiden, welcher GitHub-User für welche Pfade innerhalb des meta-Daten
+    Verzeichnisses verantwortlich ist und daher einen Pull Request freigeben darf. Sobald freigegeben, würde der Bot das
+    Mergen übernehmen. Denkbar wäre eine Implementierung auf Basis der GitHub `OWNERS` Datei bzw. deren Review-Feature.
+
 
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
