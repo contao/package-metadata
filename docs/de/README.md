@@ -39,9 +39,8 @@ de:
       ...
 ```
 
-Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln.
+Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "Sie" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
-
 
 ## Unterstützte Sprachen
 
