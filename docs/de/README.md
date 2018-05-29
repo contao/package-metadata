@@ -57,7 +57,7 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 
 * **Automatisiertes Reindexieren**
 
-    Aktuell wird der Index nicht automaitsch aktualisiert, sobald sich dieses Repository ändert. Wir planen aber die
+    Aktuell wird der Index nicht automatisch aktualisiert, sobald sich dieses Repository ändert. Wir planen aber die
     Nutzung von z.B. GitHub Webhooks um die betroffenen Pakete im Index automatisch zu aktualisieren.
 
 * **Merge Berechtigungen für die betroffenen Entwickler**
