@@ -1,0 +1,13 @@
+en:
+    title: Kalender für Contao
+    description: >
+        Dieses Bundle fügt Contao Kalender-Funktionalität hinzu. Sie können es nutzen um zukünftige und vergangene
+        Veranstaltungen zu verwalten.
+
+        Es bietet Frontendmodule zur Anzeige verschiedenener Kalenderformate an und unterstützt sich wiederholende
+        Veranstaltungen.
+    keywords:
+        - kalender
+        - agenda
+        - datum
+        - veranstaltung
