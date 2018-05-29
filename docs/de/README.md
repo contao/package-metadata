@@ -8,8 +8,6 @@ werden.
 
 Die Metadaten werden in im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden.
 
-
-
 ## Beispiel einer Paketstruktur
 
 ```
@@ -20,6 +18,9 @@ meta/[vendor]/[paket-name]
     - ...
     - logo.svg (optional)
 ```
+
+Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
+dieses `[vendor]` verwendet, sofern kein Logo für das explizite Paket angegeben wurde.
 
 ## Beispiel einer YAML Sprachdatei
 

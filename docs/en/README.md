@@ -19,6 +19,9 @@ meta/[vendor]/[package]
     - logo.svg (optional)
 ```
 
+Hint: The `logo.svg` can also be place directly within `[vendor]`. It is then used as a fallback logo for all packages of
+`[vendor]` in case there was no specific `logo.svg` defined for the package.
+
 ## Language YAML example
 
 ```
