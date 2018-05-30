@@ -1,0 +1,11 @@
+en:
+    title: Contao Theme Helper
+    description: >
+        Global content will managed through folders, each section gets its own article and tag theme. The article properties can be used to assign available tags.
+
+        The articles can be integrated at any position via a separate insert tag: e.g. {{theme::content::MATE01/01}}. The available tags are registered in the config.php.
+    keywords:
+        - theme
+        - helper
+        - insert tags
+    category: Content

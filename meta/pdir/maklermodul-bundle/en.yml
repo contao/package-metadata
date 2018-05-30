@@ -1,11 +1,12 @@
-title: Maklermodul für Immobilienmakler
-description: >
-    Real estate bundle with open immo import
-keywords:
-    - real estate
-    - open immo
-    - expose
-    - agent
-    - broker software
-    - broker office
-category: Content
+en:
+    title: Maklermodul für Immobilienmakler
+    description: >
+        Real estate bundle with open immo import
+    keywords:
+        - real estate
+        - open immo
+        - expose
+        - agent
+        - broker software
+        - broker office
+    category: Content

@@ -1,0 +1,9 @@
+en:
+    title: Contao Privacy
+    description: >
+        This extension provides some privacy features to Contao 4.
+    keywords:
+        - privacy
+        - registration
+        - policy
+        - gdpr
