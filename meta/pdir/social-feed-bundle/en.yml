@@ -1,0 +1,10 @@
+en:
+    title: Social Feed
+    description: >
+        The Social Feed Extension shows a user feed from the most popular social networks. Currently the extension supports facebook and google plus.
+    keywords:
+        - social
+        - feed
+        - facebook
+        - google plus
+    category: Content

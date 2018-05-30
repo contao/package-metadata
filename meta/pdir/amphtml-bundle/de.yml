@@ -1,0 +1,13 @@
+de:
+    title: Amphtml
+    description: >
+        Diese Erweiterung ermöglicht Ihnen zusätzliche AMPHTML-Seiten in Ihrer Contao-Installation auszuliefern. Die Umsetzung erfolgt über ein eigenes Theme, welches an die eigenen Anforderungen angepasst werden kann. Die Inhalte können anschließend durch Anhängen von /?amp aufgerufen werden.
+    keywords:
+        - amp
+        - amphtml
+        - mobile Seiten
+        - schnell
+        - optimiert
+    category: Inhalte
+    support:
+        docs: https://docs.pdir.de/amphtml/amphtml.html

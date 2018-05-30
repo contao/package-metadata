@@ -1,0 +1,10 @@
+de:
+    title: Contao Theme Helper
+    description: >
+        Globale Inhalte werden über Ordner verwaltet und jeder Bereich bekommt einen eigenen Artikel und ein Theme Tag zugewiesen. Über die Artikeleigenschaften können verfügbare Tags zugewiesen werden.
+
+        Die Artikel können über ein eigenes Insert-Tag an einer beliebigen Stelle eingebunden werden: z. B. {{theme::content::MATE01/01}}. Die verfügbaren Tags werden in der config.php registriert.
+    keywords:
+        - theme
+        - insert tags
+    category: Inhalte

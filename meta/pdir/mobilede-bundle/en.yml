@@ -1,22 +1,23 @@
-title: Mobile.de Ads
-description: >
-    An extension with filters and functions around the mobile.de vehicle stock on your own website.
-    All ads will be read directly from the mobile.de * API and will clearly presented in extension. Extensive filter & sort functions complete the List view. The detailed view contains all vehicle information and a lean one Product Slider. On request, additional functions can be integrated. Ask us.
+en:
+    title: Mobile.de Ads
+    description: >
+        An extension with filters and functions around the mobile.de vehicle stock on your own website.
+        All ads will be read directly from the mobile.de * API and will clearly presented in extension. Extensive filter & sort functions complete the List view. The detailed view contains all vehicle information and a lean one Product Slider. On request, additional functions can be integrated. Ask us.
 
-    Your advantages
+        Your advantages
 
-    - List view with extensive filtering and sorting functions
-    - Detail view with Contao picture slider
-    - Recommended object
-    - Automatic comparison of vehicles via mobile.de * API
-    - Templates and design can be adapted to the usual "Contao Art"
-    - Guaranteed support of the latest or current version of Contao LTS
+        - List view with extensive filtering and sorting functions
+        - Detail view with Contao picture slider
+        - Recommended object
+        - Automatic comparison of vehicles via mobile.de * API
+        - Templates and design can be adapted to the usual "Contao Art"
+        - Guaranteed support of the latest or current version of Contao LTS
 
-    More information https://pdir.de/mobile-de-integration-fuer-contao-cms.html
-keywords:
-    - car dealer
-    - mobile
-    - ads
-    - cars
-    - automobile
-category: Content
+        More information https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+    keywords:
+        - car dealer
+        - mobile
+        - ads
+        - cars
+        - automobile
+    category: Content
