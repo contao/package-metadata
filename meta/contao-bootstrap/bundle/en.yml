@@ -1,0 +1,12 @@
+en:
+    title: Bootstrap Bundle
+    description: >
+        This extension includes all bootstrap components.
+    keywords:
+        - bootstrap
+        - bundle
+        - core
+        - layout
+        - navbar
+        - grid
+        - form

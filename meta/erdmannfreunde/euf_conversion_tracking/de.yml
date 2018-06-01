@@ -1,0 +1,9 @@
+de:
+    title: EuF-Conversion-Tracking
+    description: >
+        Mit der Erweiterung euf_conversion_tracking kannst du Conversion Tracking Codes auf beliebigen Seiten Seiten in Contao einbinden, ohne dafür ein Extra Seitenlayout anlegen zu müssen. Der Tracking Code kann wahlweise im Head oder vor dem schließenden Body Tag eingefügt werden.
+    keywords:
+        - conversion tracking
+        - google adwords
+        - facebook pixel
+        - google analytics

@@ -1,0 +1,10 @@
+en:
+    title: Geocode
+    description: >
+        Get geo coordinates from a given address.
+    keywords:
+        - google
+        - google maps
+        - geocode
+        - coordinates
+        - address

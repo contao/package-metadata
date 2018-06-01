@@ -1,0 +1,7 @@
+en:
+    title: Contao Bootstrapper
+    description: >
+        Adjusts contao elements & markups, to take advantage of twitter bootstrap.
+    keywords:
+        - bootstrap
+        - twitter
