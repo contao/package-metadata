@@ -3,6 +3,9 @@ en:
     description: >
         The extension for Contao Open Source CMS that provides frontend integration with Bootstrap 3.
     keywords:
-        - cookie
-        - cookiebar
-        - cookielaw
+        - bootstrap
+        - layout
+        - css
+        - grid
+        - form
+        - template
