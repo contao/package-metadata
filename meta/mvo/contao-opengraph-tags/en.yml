@@ -1,0 +1,8 @@
+en:
+    title: OpenGraph Tags
+    description: >
+        Adds configurable OpenGraph meta tags to pages that are inherited by sub pages.
+        The meta data template can be adapted (Twig).
+    keywords:
+        - opengraph
+        - tag

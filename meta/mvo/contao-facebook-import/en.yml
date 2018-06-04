@@ -1,0 +1,12 @@
+en:
+    title: Facebook Import
+    description: >
+        Use Facebook's events and posts as native content elements by importing them (and keeps them synced if required).
+        If an event or post contains an image, a high resolution version gets stored on the server – there is no need for a visitor to load any content from Facebook.
+    keywords:
+        - facebook
+        - import
+        - social
+        - posts
+        - events
+        - auto

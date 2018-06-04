@@ -1,0 +1,11 @@
+de:
+    title: Unter-Formulare
+    description: >
+        Fügt dem Formulargenerator die Möglichkeit hinzu, Unter-Formulare einzubetten und erlaubt somit die Wiederverwertung von Felderguppen.
+    keywords:
+        - Formulare
+        - Formular Generator
+        - verschachtelt
+        - eingebettet
+        - Untergruppe
+        - Vererbung

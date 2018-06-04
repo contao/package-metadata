@@ -1,0 +1,18 @@
+de:
+    title: Trigger Framework
+    description: >
+        Erweiterbares 'Bedingung ⇒ Aktion'-Framework, um Automatisierungsaufgaben zu unterstützen.
+        Bedingungen werden in regelmäßigen Abständen überprüft und, falls zutreffend, zugeordnete Aktionen ausgeführt.
+
+        Standard Bedingungen:
+         - Zeitpunkt (Trigger auslösen sobald ein bestimmter Zeitpunkt erreicht ist)
+         - Tabelleneinträge (Trigger einmal pro Tabellenzeile auslösen, wenn eine bestimmtes Kriterium erfüllt ist)
+
+        Standard Aktionen:
+         - Benachrichtigung (Benutzerdefinierte Nachricht senden; erfordert terminal42\notification_center)
+    keywords:
+        - trigger
+        - time
+        - table
+        - automation
+        - notifications
