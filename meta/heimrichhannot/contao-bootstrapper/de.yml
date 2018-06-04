@@ -1,0 +1,7 @@
+de:
+    title: Contao Bootstrapper
+    description: >
+        Passt Contao-Elemente und Markups an, um Twitter-Bootstrap zu nutzen.
+    keywords:
+        - bootstrap
+        - twitter

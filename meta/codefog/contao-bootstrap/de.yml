@@ -1,0 +1,11 @@
+de:
+    title: Contao Bootstrap
+    description: >
+        Diese Erweiterung fügt die Frontend-Integration für Bootstrap 3 hinzu.
+    keywords:
+        - bootstrap
+        - layout
+        - css
+        - grid
+        - form
+        - template

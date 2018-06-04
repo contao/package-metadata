@@ -1,0 +1,9 @@
+de:
+    title: rel-canonical
+    description: >
+        Mit dieser Erweiterung können Sie das Header-Tag rel="canonical" nutzen, falls Sie auf Ihrer Webseite Seiten mit gleichen Inhalten haben und dies sich nicht vermeiden lässt.
+    keywords:
+        - google
+        - canonical
+        - rel
+        - doppelter Inhalt

@@ -1,0 +1,11 @@
+en:
+    title: Contao Bootstrap
+    description: >
+        The extension for Contao Open Source CMS that provides frontend integration with Bootstrap 3.
+    keywords:
+        - bootstrap
+        - layout
+        - css
+        - grid
+        - form
+        - template

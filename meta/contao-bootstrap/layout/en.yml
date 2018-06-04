@@ -1,0 +1,7 @@
+en:
+    title: Bootstrap Layout
+    description: >
+        The layout component allows to define a grid based layout using the backend layout editor.
+    keywords:
+        - bootstrap
+        - layout

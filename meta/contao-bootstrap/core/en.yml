@@ -1,0 +1,7 @@
+en:
+    title: Bootstrap Core
+    description: >
+        This extension adds the core of Contao Bootstrap extension in contao.
+    keywords:
+        - bootstrap
+        - core

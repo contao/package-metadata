@@ -1,0 +1,7 @@
+de:
+    title: Bootstrap Layout
+    description: >
+        Die Layout-Komponente ermöglicht es ein gitterbasiertes Layout mit dem Backend-Layout-Editor zu definieren.
+    keywords:
+        - bootstrap
+        - layout

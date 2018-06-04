@@ -1,0 +1,12 @@
+de:
+    title: Bootstrap Bundle
+    description: >
+        Diese Erweiterung installiert alle Bootstrap-Komponenten.
+    keywords:
+        - bootstrap
+        - bundle
+        - core
+        - layout
+        - navbar
+        - grid
+        - form
