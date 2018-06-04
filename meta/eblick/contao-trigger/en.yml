@@ -1,0 +1,18 @@
+en:
+    title: Trigger Framework
+    description: >
+        Extensible condition ⇒ action framework to support automation tasks.
+        Conditions are checked on a regular basis and adjacent actions executed (if they apply).
+
+        Default conditions:
+         - Point in Time (trigger as soon as a point in time is reached)
+         - Table Records (trigger if a certain condition is met for each of a table's records)
+
+        Default actions:
+         - Notification (send a custom notification; requires terminal42\notification_center)
+    keywords:
+        - trigger
+        - time
+        - table
+        - automation
+        - notifications

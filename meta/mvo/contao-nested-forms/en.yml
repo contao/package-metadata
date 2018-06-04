@@ -1,0 +1,11 @@
+en:
+    title: Nested Forms
+    description: >
+        Add the ability to use sub forms in the form generator to allow reusing groups of fields.
+    keywords:
+        - forms
+        - form generator
+        - nested
+        - embed
+        - sub group
+        - inheritance
