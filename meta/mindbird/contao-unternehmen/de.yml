@@ -1,0 +1,9 @@
+de:
+    title: Auflistung von Unternehmen in Archiven gruppiert
+    description: >
+        Im Backend können verschiedene Archive angelegt werden in denen man Unternehmen gruppieren kann. Diese können per
+        Frontend-Modul ausgegeben werden.
+    keywords:
+        - Unternehmen
+        - Firma
+        - Sponsoren

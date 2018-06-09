@@ -1,0 +1,9 @@
+en:
+    title: Listing of person grouped by archives
+    description: >
+        You can create archives containing person in the backend and display them by modules in the frontend.
+    keywords:
+        - person
+        - management
+        - club
+        - team

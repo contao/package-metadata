@@ -1,0 +1,11 @@
+de:
+    title: Einfaches Buchungsformular für Räume etc.
+    description: >
+        Ein simples Buchungsformular basierend auf dem Contao Kalender. Pro Kalender kann ein Formular eingebunden
+        werden. Freie Zeiten im Kalender können gebucht werden.
+    keywords:
+        - Buchung
+        - Raum
+        - Räume
+        - Reservieren
+        - Formular
