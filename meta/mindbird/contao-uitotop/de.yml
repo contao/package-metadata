@@ -1,0 +1,13 @@
+de:
+    title: Button um zum Anfang der Seite zu springen
+    description: >
+        Das Modul kann im Frontend eingebunden werden und stellt einen Button, mit dem man an den Anfang der Seite
+        scrollen kann, zur Verfügung. Der Inhalt des Buttons kann in den Moduleinstellungen geändert werden
+        (Text, Iconfont etc.).
+        Es wird das jQuery Plugin UItoTop von Matt Varone eingebunden. jQuery muss im Layout aktiviert werden.
+    keywords:
+        - top
+        - jQuery
+        - scrollen
+        - Anfang
+        - Seite

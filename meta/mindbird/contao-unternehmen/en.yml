@@ -1,0 +1,9 @@
+en:
+    title: Listing of companies grouped by archives
+    description: >
+        You can create archives containing companies in the backend and display them by modules in the frontend.
+    keywords:
+        - company
+        - companies
+        - club
+        - sponsoring
