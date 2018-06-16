@@ -1,0 +1,10 @@
+en:
+    title: Visitor Statistics
+    description: >
+        Visitor extension for Contao Open Source CMS. Allows you to count hits and visits of your website, with statistics.
+    keywords:
+        - contao
+        - bundle
+        - visits	
+        - hits
+        - visitors

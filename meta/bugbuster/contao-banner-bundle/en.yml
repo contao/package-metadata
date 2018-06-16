@@ -1,0 +1,10 @@
+en:
+    title: Banner Advertisement
+    description: >
+        A banner advertisement extension for Contao CMS
+    keywords:
+        - contao
+        - bundle
+        - counter	
+        - banner
+        - advertisement
