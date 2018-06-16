@@ -1,7 +1,9 @@
 en:
     title: Banner Advertisement
     description: >
-        A banner advertisement extension for Contao CMS
+        A banner advertisement extension for Contao 4 with a simple form of weighting. 
+
+        In the back end you can see banner view and banner click statistics.
     keywords:
         - contao
         - bundle
