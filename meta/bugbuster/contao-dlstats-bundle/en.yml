@@ -1,0 +1,12 @@
+en:
+    title: Download Statistics
+    description: >
+        Download statistics for Contao Open Source CMS. Counts the number of file downloads performed via the content element Download(s).
+
+        In the back end there are a statistic overview.
+    keywords:
+        - contao
+        - bundle
+        - download	
+        - statistics
+        - dlstats
