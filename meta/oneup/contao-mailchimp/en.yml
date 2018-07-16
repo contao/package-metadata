@@ -1,0 +1,14 @@
+en:
+    title: Contao MailChimp Bundle
+    description: >
+        This Contao bundle connects a Contao installation with MailChimp.
+        The Contao MailChimp Bundle provides subscribe and unsubscribe forms for easy integration in Contao.
+    keywords:
+        - MailChimp
+        - Email
+        - Marketing
+        - Services
+        - Newsletter
+        - Subscription
+        - Subscribe
+        - Unsubscribe
