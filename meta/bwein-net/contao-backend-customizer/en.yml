@@ -1,0 +1,16 @@
+en:
+    title: Backend Customizer
+    description: >
+        This Bundle allows to set some params via config and generates a custom backend stylesheet before symfony command assets:install.
+        After the stylesheet generation, the backend header will show an other color and an environment highlight.
+    keywords:
+        - contao
+        - backend
+        - customizer
+        - header
+        - environment
+        - custom
+        - theme
+        - color
+        - css
+        - style
