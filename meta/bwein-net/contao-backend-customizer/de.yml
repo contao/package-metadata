@@ -1,4 +1,4 @@
-en:
+de:
     title: Backend Customizer
     description: >
         Diese Erweiterung ermöglicht das Setzen von Parametern in der Konfiguration und generiert ein individuelles Backend-Stylesheet vor dem Symfony-Befehl assets:install.
