@@ -1,7 +1,8 @@
 en:
-    title: Bootstrap Tab
+    title: Bootstrap For Contao Tab
     description: >
-        This extension adds the Bootstrap Tab component as content element to Contao.
+        This extension provides content elements to organise content in tabs.
     keywords:
         - bootstrap
+        - bootstrap 4
         - tab

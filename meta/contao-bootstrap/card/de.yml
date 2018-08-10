@@ -1,7 +1,8 @@
 de:
-    title: Bootstrap Card
+    title: Bootstrap für Contao Card
     description: >
         Diese Erweiterung fügt Templates der Bootstrap 4 Komponente Card hinzu.
     keywords:
         - bootstrap
+        - bootstrap 4
         - card

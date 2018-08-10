@@ -1,0 +1,13 @@
+en:
+    title: Bootstrap For Contao Panel
+    description: >
+        This extension provides content elements to organise content in panels/accordions.
+
+        It's based on Bootstrap 4 cards and collapse components.
+    keywords:
+        - bootstrap
+        - bootstrap 4
+        - panel
+        - accordion
+        - cards
+        - collapse

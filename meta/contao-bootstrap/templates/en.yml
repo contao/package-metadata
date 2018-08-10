@@ -1,0 +1,17 @@
+en:
+    title: Bootstrap For Contao Tab
+    description: >
+        This extension provides a collection of customized Contao templates.
+
+        It contains templates for search, registration, member data, rss module and adds additional templates
+        for navigations and galleries.
+    keywords:
+        - bootstrap
+        - bootstrap 4
+        - templates
+        - navigation
+        - login
+        - registration
+        - search
+        - galerie
+        - rss module

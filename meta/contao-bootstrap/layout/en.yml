@@ -1,7 +1,11 @@
 en:
-    title: Bootstrap Layout
+    title: Bootstrap For Contao Layout
     description: >
-        The layout component allows to define a grid based layout using the backend layout editor.
+        The layout component extends the page layouts of Contao to create css class based page layouts.
+
     keywords:
         - bootstrap
+        - bootstrap 4
         - layout
+        - page layout
+        - layout builder

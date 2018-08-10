@@ -1,7 +1,9 @@
 en:
-    title: Bootstrap Form
+    title: Bootstrap For Contao Form
     description: >
-        Navigation templates supporting bootstrap dropdown navigation.
+        This extension supports Bootstrap form markup using the form generator.
     keywords:
         - bootstrap
+        - bootstrap 4
         - form
+        - form generator

@@ -1,7 +1,10 @@
 de:
-    title: Bootstrap Form
+    title: Bootstrap für Contao Form
     description: >
-        Navigation-Templates unterstützen Bootstrap Dropdown Navigation.
+        Diese Erweiterung ermöglicht die Verwendung von Bootstrap Formular Markup im Formulargenenerator.
     keywords:
         - bootstrap
+        - bootstrap 4
         - form
+        - formular
+        - formular generator
