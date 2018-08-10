@@ -1,7 +1,8 @@
 de:
-    title: Bootstrap Core
+    title: Bootstrap für Contao Core
     description: >
-        Diese Erweiterung fügt den Bootstrap Core in Contao hinzu.
+        Diese Erweiterung ist der Core für alle Bootstrap für Contao Komponenten.
     keywords:
         - bootstrap
+        - bootstrap 4
         - core

@@ -1,0 +1,13 @@
+de:
+    title: Bootstrap für Contao Panel
+    description: >
+        Diese Erweiterung stellt Inhaltselemente zur Organisation von Inhalten in Panels/Akkordions zur Verfügung.
+
+        Die Erweiterung basiert auf die Bootstrap 4 Komponenten Cards und Collapse.
+    keywords:
+        - bootstrap
+        - bootstrap 4
+        - panel
+        - akkordion
+        - cards
+        - collapse

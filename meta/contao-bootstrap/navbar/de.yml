@@ -1,7 +1,8 @@
 de:
-    title: Bootstrap Navbar
+    title: Bootstrap für Contao Navbar
     description: >
-        Diese Erweiterung fügt Navigationsfunktionen der Bootstrap Komponente Navbar hinzu.
+        Diese Komponente stellt ein Frontend-Module der Bootstrap Komponente Navbar zur Verfügung.
     keywords:
         - bootstrap
+        - bootstrap 4
         - navbar

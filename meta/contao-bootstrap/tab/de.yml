@@ -1,7 +1,9 @@
 de:
-    title: Bootstrap Tab
+    title: Bootstrap für Contao Tab
     description: >
-        Diese Erweiterung fügt die Bootstrap Tab Komponente als Content Element für Contao hinzu.
+        Diese Erweiterung stellt Inhaltselemente zur Organisation von Inhalten in Tabs zur Verfügung.
     keywords:
         - bootstrap
+        - bootstrap 4
         - tab
+        - dropdown

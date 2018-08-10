@@ -1,12 +1,16 @@
 de:
-    title: Bootstrap Bundle
+    title: Bootstrap für Contao Bundle
     description: >
-        Diese Erweiterung installiert alle Bootstrap-Komponenten.
+        Diese Erweiterung installiert alle Komponenten von Bootstrap für Contao.
     keywords:
         - bootstrap
+        - bootstrap 4
         - bundle
         - core
         - layout
         - navbar
         - grid
         - form
+        - tab
+        - panel
+        - templates

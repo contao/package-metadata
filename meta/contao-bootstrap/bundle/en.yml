@@ -1,12 +1,16 @@
 en:
-    title: Bootstrap Bundle
+    title: Bootstrap For Contao Bundle
     description: >
-        This extension includes all bootstrap components.
+        This extension includes all Bootstrap for Contao components.
     keywords:
         - bootstrap
+        - bootstrap 4
         - bundle
         - core
         - layout
         - navbar
         - grid
         - form
+        - tab
+        - panel
+        - templates

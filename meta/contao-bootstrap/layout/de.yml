@@ -1,7 +1,12 @@
 de:
-    title: Bootstrap Layout
+    title: Bootstrap für Contao Layout
     description: >
-        Die Layout-Komponente ermöglicht es ein gitterbasiertes Layout mit dem Backend-Layout-Editor zu definieren.
+        Die Layout Komponente erweitert die Seitenlayouts von Contao zur Erstellung von CSS-Klassenbasierte
+        Seitenlayouts.
+
     keywords:
         - bootstrap
+        - bootstrap 4
         - layout
+        - seitenlayout
+        - layout builder
