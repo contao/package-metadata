@@ -1,0 +1,10 @@
+en:
+    title: Backend User Online
+    description: >
+        Displays in the backend the online status of the backend and frontend users.
+    keywords:
+        - contao
+        - bundle
+        - backend	
+        - user
+        - online
