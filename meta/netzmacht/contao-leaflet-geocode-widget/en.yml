@@ -1,0 +1,11 @@
+en:
+    title: Leaflet Geocode Widget
+    description: >
+        This extension provides two backend widgets for geocoding addresses including their perimeter.
+
+    keywords:
+    - leaflet
+    - gps
+    - geocode
+    - backend widget
+    - widget
