@@ -1,0 +1,9 @@
+de:
+    title: MetaModels Integration
+    description: >
+        Die Erweiterung ermöglicht die Integration von MetaModel-Datensätzen in eine Leaflet-Karte.
+
+    keywords:
+        - leaflet
+        - maps
+        - metamodels

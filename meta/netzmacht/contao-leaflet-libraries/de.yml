@@ -1,0 +1,15 @@
+de:
+    title: Leaflet Libraries für Contao
+    description: >
+        Diese Erweiterung ist eine Sammlung von Leaflet Bibliotheken für die Leaflet Maps Erweiterung für Contao.
+
+    keywords:
+        - leaflet
+        - maps
+        - osm
+        - open street maps
+        - gpx
+        - kml
+        - geojson
+        - omnivore
+        - osmtogeojson

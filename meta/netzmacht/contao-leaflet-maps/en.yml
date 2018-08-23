@@ -1,0 +1,16 @@
+en:
+    title: Leaflet Maps for Contao
+    description: >
+        Leaflet Maps for Contao is a Leaflet based map application for Contao.
+
+        It allows the management of multiple maps and layers. It integrates a variety of leaflet plugins
+        comfortable in Contao: creating marker clusters, embedding GPX and KML files, using OSM cards and much more.
+
+    keywords:
+    - leaflet
+    - maps
+    - osm
+    - open street maps
+    - gpx
+    - kml
+    - geojson
