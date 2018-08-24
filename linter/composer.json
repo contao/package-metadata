@@ -1,0 +1,26 @@
+{
+    "name": "contao/package-metadata-linter",
+    "description": "A linter for the package meta data",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "symfony/console": "^4.1",
+        "symfony/finder": "^4.1",
+        "symfony/yaml": "^4.1"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yanick Witschi",
+            "email": "yanick.witschi@terminal42.ch"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contao\\PackageMetaDataLinter\\": "src/"
+        }
+    }
+}

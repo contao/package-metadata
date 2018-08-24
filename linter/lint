@@ -1,0 +1,15 @@
+#!/usr/bin/env php
+<?php
+// application.php
+
+require __DIR__.'/vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Contao\PackageMetaDataLinter\LintCommand;
+
+$lintCommand = new LintCommand();
+
+$application = new Application();
+$application->add($lintCommand);
+$application->setDefaultCommand($lintCommand->getName());
+$application->run();
