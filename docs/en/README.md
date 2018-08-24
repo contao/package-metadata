@@ -56,11 +56,6 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 
 ## Roadmap
 
-* **Automated re-indexing**
-
-    Right now, the index is not updated automatically when this repository is changed. We plan to
-introduce something like using a GitHub webhook to trigger the package re-indexing for the affected packages.
-
 * **Merge access for the responsible developers**
 
     We understand it is sort of a problem that developers of packages are not allowed to update their package information
