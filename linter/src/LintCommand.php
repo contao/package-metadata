@@ -11,6 +11,7 @@ declare(strict_types=1);
 
 namespace Contao\PackageMetaDataLinter;
 
+use JsonSchema\Validator;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -25,11 +26,6 @@ class LintCommand extends Command
      * @var SymfonyStyle
      */
     private $io;
-
-    /**
-     * @var array
-     */
-    private static $allowedKeys = ['title', 'description', 'keywords', 'homepage', 'support'];
 
     protected function configure()
     {
@@ -67,8 +63,8 @@ class LintCommand extends Command
             }
 
             // Content
-            if (!$this->validateContent($language, $content)) {
-                $this->error($package, $language, 'Some of the specified keys are not allowed. The only ones allowed are: '.implode(', ', self::$allowedKeys));
+            if (!$this->validateContent($content[$language])) {
+                $this->error($package, $language, 'The YAML file contains invalid data.');
 
                 return;
             }
@@ -77,11 +73,19 @@ class LintCommand extends Command
         $this->io->success('All checks successful!');
     }
 
-    private function validateContent(string $language, array $content): bool
+    private function validateContent(array $content): bool
     {
-        $keys = array_keys($content[$language]);
+        $data = json_decode(json_encode($content));
 
-        return 0 === \count(array_diff($keys, self::$allowedKeys));
+        $validator = new Validator();
+        $validator->validate($data, (object) ['$ref' => 'file://'.realpath(\dirname(__DIR__).'/schema.json')]);
+
+        foreach ($validator->getErrors() as $error) {
+            $message = $error['message'].(('' !== $error['property']) ? (' ['.$error['property'].']') : '');
+            $this->io->error($message);
+        }
+
+        return $validator->isValid();
     }
 
     private function error(string $package, string $language, string $message)

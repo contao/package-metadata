@@ -1,0 +1,73 @@
+{
+  "$id": "https://raw.githubusercontent.com/contao/package-metadata/master/linter/schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Contao Package Metadata",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minItems": 1,
+        "uniqueItems": true
+      }
+    },
+    "homepage": {
+      "type": "string",
+      "description": "Homepage URL for the project.",
+      "format": "uri"
+    },
+    "support": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "description": "Email address for support.",
+          "format": "email"
+        },
+        "issues": {
+          "type": "string",
+          "description": "URL to the issue tracker.",
+          "format": "uri"
+        },
+        "forum": {
+          "type": "string",
+          "description": "URL to the forum.",
+          "format": "uri"
+        },
+        "wiki": {
+          "type": "string",
+          "description": "URL to the wiki.",
+          "format": "uri"
+        },
+        "irc": {
+          "type": "string",
+          "description": "IRC channel for support, as irc://server/channel.",
+          "format": "uri"
+        },
+        "source": {
+          "type": "string",
+          "description": "URL to browse or download the sources.",
+          "format": "uri"
+        },
+        "docs": {
+          "type": "string",
+          "description": "URL to the documentation.",
+          "format": "uri"
+        },
+        "rss": {
+          "type": "string",
+          "description": "URL to the RSS feed.",
+          "format": "uri"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}
