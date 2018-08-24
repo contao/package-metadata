@@ -1,0 +1,11 @@
+en:
+    title: Merger²
+    description: >
+        The Contao Community Alliance merger² extension provides a powerful frontend module to merge various content:
+        Article inheritance, conditional content and a powerful condition language
+
+    keywords:
+        - theme
+        - layout
+        - module
+        - conditional content

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="726" height="726" fill-rule="evenodd" version="1.1" viewBox="0 0 544.49999 544.49999" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <g transform="translate(-263.98 -1282)">
+    <path d="m369.82 1631.5v-154.32l89.155-89.15h131.59v-105.84h-163.29c-12.096 0-16.631 4.536-21.167 9.072l-133.05 133.05c-4.535 4.54-9.071 9.08-9.071 21.17l-1e-3 217.72c1e-3 12.1 4.537 16.63 9.072 21.17l133.05 133.05c4.536 4.54 9.071 9.07 21.167 9.07h163.29v-105.83h-131.59z" fill="#ce3921"/>
+    <path d="m602.66 1282.2v105.84h99.788v332.63h-99.788v105.83h193.53c6.046 0 12.095-6.05 12.095-12.09v-520.11c0-7.562-6.049-12.098-12.22-12.098z" fill="#a6301f"/>
+    <path d="m504.87 1614.8h91.738v-120.95h-91.738l-29.218 29.21v62.52z" fill="#7a2416"/>
+  </g>
+</svg>
