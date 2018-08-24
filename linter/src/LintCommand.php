@@ -29,7 +29,7 @@ class LintCommand extends Command
     /**
      * @var array
      */
-    private static $allowedKeys = ['title', 'description', 'keywords'];
+    private static $allowedKeys = ['title', 'description', 'keywords', 'homepage', 'support'];
 
     protected function configure()
     {
