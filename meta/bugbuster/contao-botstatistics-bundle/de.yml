@@ -1,0 +1,12 @@
+de:
+    title: Bot Statistiken
+    description: >
+        Bot Statistik zählt die Anzahl der Bot Anfragen (visits, pages).
+
+        Im Backend gibt es eine Statistikübersicht.
+    keywords:
+        - contao
+        - bundle
+        - bot	
+        - statistics
+        - counter
