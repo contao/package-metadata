@@ -1,7 +1,7 @@
 de:
     title: Cron Bundle - Scheduler für Contao 4
     description: >
-        Cron Bundle ist ein Cron-ähnliches Scheduler für Contao 4.
+        Cron Bundle ist ein Cron-ähnlicher Scheduler für Contao 4.
 
         Im Backend können Jobs definiert werden.
     keywords:
