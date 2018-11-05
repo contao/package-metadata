@@ -1,0 +1,7 @@
+de:
+    title: con4gis-Import
+    description: >
+        con4gis-Import ist ein Backendmodul für das Importieren von Daten. Bspw. können CSV-Daten direkt in eine neue Tabelle geschrieben werden.
+    keywords:
+        - con4gis
+        - CSV Import

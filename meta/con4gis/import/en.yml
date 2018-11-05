@@ -1,0 +1,7 @@
+en:
+    title: con4gis-Import
+    description: >
+        Contao bundle for creating generic imports.
+    keywords:
+        - con4gis
+        - csv import
