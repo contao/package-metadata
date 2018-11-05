@@ -1,0 +1,8 @@
+de:
+    title: con4gis-Documents
+    description: >
+        Mit con4gis-Documents lassen sich PDFs erzeugen und an das Frontend ausliefern.
+    keywords:
+        - con4gis
+        - dompdf
+        - PDF Generator

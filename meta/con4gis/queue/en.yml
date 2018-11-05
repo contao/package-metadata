@@ -1,0 +1,10 @@
+de:
+    title: con4gis-Queue
+    description: >
+        The batch processing brick of the Contao GIS-kit con4gis.
+    keywords:
+        - con4gis
+        - queue
+        - stack
+        - batch
+        - processing

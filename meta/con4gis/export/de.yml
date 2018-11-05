@@ -1,0 +1,9 @@
+de:
+    title: con4gis-Export
+    description: >
+        Mit con4gis-Export kann man über ein Backend-Modul Tabellen exportieren.
+        Beispielsweise um die Daten einer anderen Anwendung oder Schnittstelle zur Verfügung zu stellen.
+    keywords:
+        - con4gis
+        - CSV Export
+        - Daten exportieren

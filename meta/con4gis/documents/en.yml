@@ -1,0 +1,8 @@
+en:
+    title: con4gis-Documents
+    description: >
+        Generating pdf documents directly or per stack.
+    keywords:
+        - con4gis
+        - dompdf
+        - pdf generator
