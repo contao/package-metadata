@@ -1,0 +1,9 @@
+en:
+    title: con4gis-Queue
+    description: >
+        Das Bundle con4gis-Queue wurde zur Verarbeitung von zeitintensiven Prozessen entwickelt.
+        Die unterschiedlichen Jobs der Queue können über einen oder mehrere Cron-Jobs getriggert werden.
+    keywords:
+        - con4gis
+        - Stapelverarbeitung
+        - Stack

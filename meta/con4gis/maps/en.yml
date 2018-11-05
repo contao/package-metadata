@@ -1,0 +1,23 @@
+en:
+    title: con4gis-Maps
+    description: >
+        The interactive maps brick of the Contao GIS-kit con4gis.
+    keywords:
+        - con4gis
+        - Karten
+        - gis
+        - geoinformations
+        - OpenLayers
+        - Nominatim
+        - OSRM
+        - Overpass API
+        - OpenRouteService
+        - OpenStreetMap
+        - Mapbox
+        - Here Maps
+        - Bing Maps
+        - Thunderforest
+        - OpenMapTiles
+        - OpenSeaMap
+        - GPX
+        - GeoJson

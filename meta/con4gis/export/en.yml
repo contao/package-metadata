@@ -1,0 +1,8 @@
+en:
+    title: con4gis-Export
+    description: >
+        Contao bundle for creating generic exports.
+    keywords:
+        - con4gis
+        - csv export
+        - data export
