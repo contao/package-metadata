@@ -1,0 +1,11 @@
+en:
+    title: Cron Bundle - Scheduler for Contao 4
+    description: >
+        Cron Bundle is a cron like scheduler for Contao 4. 
+
+        Jobs can be defined in the back end.
+    keywords:
+        - contao
+        - bundle
+        - cron	
+        - scheduler

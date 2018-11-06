@@ -1,0 +1,15 @@
+de:
+    title: con4gis-Groups
+    description: >
+        Das Anlegen und Konfigurieren von Mitglieder-Gruppen wird mit dieser Erweiterung auch im Frontend möglich.
+        Mitglieder können ihre Gruppen selbst verwalten, andere Personen einladen und bestimmen welche Rechte die Mitglieder in ihrer Gruppe haben.
+        Auch "Untergruppen", sogenannte Kompetenzteams können bequem im Frontend definiert werden.
+        Da es sich bei den Gruppen um eine Erweiterung der Contao-Standard-Mitgliedergruppen handelt, ist dieses Modul mit jeder anderen Erweiterung, die von diesen Gruppen Gebrauch macht, kompatibel.
+        Der Baustein bring einige Standardrechte mit die sowohl im Backend an der Mitgliedergruppe, als auch im Frontend mit entsprechender Berechtigung gesetzt werden können.
+        Über eine Schnittstelle können diese Berechtigungen erweitert werden. Dieses wird beispielsweise von auf con4gis-Projects basierenden Frontend-Modulen genutzt.
+    keywords:
+        - con4gis
+        - Frontend Gruppenverwaltung
+        - Mitglieder einladen
+        - Mitglieder verwalten
+        - Mitgliederrechte

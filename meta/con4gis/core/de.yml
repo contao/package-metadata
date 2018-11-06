@@ -1,0 +1,7 @@
+de:
+    title: con4gis-Core
+    description: >
+        Der con4gis Core Baustein wird von allen anderen con4gis Bausteinen für Schnittstellen, Basisbibliotheken und Grundfunktionen genutzt.
+        Der Baustein hat "stand-alone" keine nutzbaren Funktionen und wird über Composer automatisch mit installiert.
+    keywords:
+        - con4gis
