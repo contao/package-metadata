@@ -1,10 +1,11 @@
 de:
-  title: tiny-compress-images
+  title: JPG- und PNG-Komprimierung
   description: >
-    This plugin automatically optimizes your images by integrating with the popular image compression services TinyJPG and TinyPNG.  keywords:
+    Dieses Plugin optimiert Bilder automatisch durch die Integration des TinyJPG / TinyPNG Services.
   keywords:
   - tinypng
   - tinyjpg
-  - compress
-  - images
-  - tiny
+  - Komprimierung
+  - Bilder
+  - verkleinern
+  - jpeg
