@@ -3,7 +3,7 @@ de:
     description: >
         Javascript Animations-Engine für Contao 4
     keywords:
-    - contao
-    - bundle
-    - kutejs
-    - animation
+        - contao
+        - bundle
+        - kutejs
+        - animation
