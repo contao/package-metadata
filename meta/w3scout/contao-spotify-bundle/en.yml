@@ -1,0 +1,10 @@
+en:
+    title: Spotify Button
+    description: >
+        Provides a configurable Spotify button module for the frontend
+    keywords:
+        - contao
+        - bundle
+        - frontend
+        - spotify
+        - music
