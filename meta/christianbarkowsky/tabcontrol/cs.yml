@@ -1,7 +1,7 @@
 cs:
-  title: TabControl záložky
-  description: >
-    Vytvoření záložek jako prvku obsahu.
-  keywords:
-  - tabs
-  - tabcontrol
+    title: TabControl záložky
+    description: >
+        Vytvoření záložek jako prvku obsahu.
+    keywords:
+        - tabs
+        - tabcontrol

@@ -47,8 +47,17 @@ class LintCommand extends Command
             $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
             $language = str_replace(['.yaml', '.yml'], '', $file->getBasename());
 
+            $content = file_get_contents($file->getPath().'/'.$file->getFilename());
+
+            // Line ending
+            if (!("\n" === substr($content, -1) && "\n" !== substr($content, -2))) {
+                $this->error($package, $language, 'All files must end by a singe new line.');
+
+                return;
+            }
+
             try {
-                $content = Yaml::parseFile($file->getPath().'/'.$file->getFilename());
+                $content = Yaml::parse($content);
             } catch (ParseException $e) {
                 $this->error($package, $language, 'The YAML file is invalid');
 

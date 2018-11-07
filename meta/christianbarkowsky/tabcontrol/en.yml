@@ -1,7 +1,7 @@
 en:
-  title: TabControl ContentElement
-  description: >
-    Allows the easy-as-can-be creation of tabs and panes in articles.
-  keywords:
-  - tabs
-  - tabcontrol
+    title: TabControl ContentElement
+    description: >
+        Allows the easy-as-can-be creation of tabs and panes in articles.
+    keywords:
+        - tabs
+        - tabcontrol
