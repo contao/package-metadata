@@ -1,0 +1,10 @@
+de:
+    title: FAQ Suche
+    description: >
+        Das Bundle stellt ein Modul für FAQ-Seiten zur Verfügung und stellt die FAQs als durchsuchbares Accordion dar, bei dem mehrere Elemente parallel geöffnet sein können. wenn mehrere Elemente Suchtreffer enthalten.
+    keywords:
+        - contao
+        - bundle
+        - faq
+        - accordion
+        - suche
