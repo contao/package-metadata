@@ -1,0 +1,10 @@
+en:
+    title: Member Redirect
+    description: >
+        Redirect members individually after login and/or logout.
+    keywords:
+        - contao
+        - bundle
+        - member
+        - redirect
+        - individual
