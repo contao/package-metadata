@@ -4,8 +4,8 @@ en:
         This extension provides two backend widgets for geocoding addresses including their perimeter.
 
     keywords:
-    - leaflet
-    - gps
-    - geocode
-    - backend widget
-    - widget
+        - leaflet
+        - gps
+        - geocode
+        - backend widget
+        - widget
