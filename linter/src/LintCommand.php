@@ -53,7 +53,7 @@ class LintCommand extends Command
             if (!("\n" === substr($content, -1) && "\n" !== substr($content, -2))) {
                 $this->error($package, $language, 'All files must end by a singe new line.');
 
-                return;
+                return 1;
             }
 
             try {
@@ -61,25 +61,27 @@ class LintCommand extends Command
             } catch (ParseException $e) {
                 $this->error($package, $language, 'The YAML file is invalid');
 
-                return;
+                return 1;
             }
 
             // Language
             if (!isset($content[$language])) {
                 $this->error($package, $language, 'The language key in the YAML file does not match the specified language file name.');
 
-                return;
+                return 1;
             }
 
             // Content
             if (!$this->validateContent($content[$language])) {
                 $this->error($package, $language, 'The YAML file contains invalid data.');
 
-                return;
+                return 1;
             }
         }
 
         $this->io->success('All checks successful!');
+
+        return 0;
     }
 
     private function validateContent(array $content): bool
