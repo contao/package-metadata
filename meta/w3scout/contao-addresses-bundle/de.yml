@@ -1,0 +1,10 @@
+de:
+    title: Mitglieder Adressen
+    description: >
+        Diese Erweiterung ermöglicht es, Mitgliedern mehrere Adressen zuzuordnen. Z.B. eine Rechnungs- und eine Lieferanschrift.
+    keywords:
+        - Contao
+        - Bundle
+        - Mitglied
+        - Adresse
+        - Anschrift
