@@ -4,10 +4,12 @@
     "type": "project",
     "require": {
         "php": "^7.2",
+        "ext-json": "*",
         "symfony/console": "^4.1",
         "symfony/finder": "^4.1",
         "symfony/yaml": "^4.1",
-        "justinrainbow/json-schema": "^5.2"
+        "justinrainbow/json-schema": "^5.2",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.13"
