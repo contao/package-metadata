@@ -42,6 +42,14 @@ de:
 Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "Sie" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
 
+## Öffentliche vs. private/proprietäre Pakete
+
+Das Metadaten-Repository füttert den Suchindex des Contao Managers und erlaubt die Suche sowohl nach öffentlichen als auch
+nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pakettypen Beschreibungen einreichen. Die
+Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
+Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
+und soll Angaben zur Installation und ggf. Erwerb eines Lizenschlüssels etc. enthalten.
+
 ## Unterstützte Sprachen
 
 Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
@@ -68,4 +76,5 @@ Review approvest.
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
 [3]: https://github.com/contao/contao-manager
-[4]: http://yaml.org/
+[4]: http://yaml.org
+[5]: https://packagist.org

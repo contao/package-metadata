@@ -43,6 +43,14 @@ en:
 Please use 4 spaces for indentation or nesting.
 For more information on the file format, see [the Transifex documentation][2]
 
+## Public vs. private/proprietary packages
+
+The metadata repository feeds the Contao Manager search index and as such allows to search for both, publicly available
+or private/proprietary packages. You are allowed to submit any package description. The definition of a publicly available
+package is the fact that it's registered on [packagist.org][5]. For private packages, the Contao Manager does currently
+not provide any automated installation process so providing a homepage link to describe how a user can obtain and install
+the package is required.
+
 ## Supported languages
 
 See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
@@ -67,4 +75,5 @@ affect your own paths yourself.
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
 [3]: https://github.com/contao/contao-manager
-[4]: http://yaml.org/
+[4]: http://yaml.org
+[5]: https://packagist.org
