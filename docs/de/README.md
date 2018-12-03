@@ -48,7 +48,7 @@ Das Metadaten-Repository füttert den Suchindex des Contao Managers und erlaubt 
 nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pakettypen Beschreibungen einreichen. Die
 Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
-und soll Angaben zur Installation und ggf. Erwerb eines Lizenschlüssels etc. enthalten.
+und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
 
 ## Unterstützte Sprachen
 
