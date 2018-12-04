@@ -60,17 +60,7 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 2. Wähle ein vorhandenes Paket oder erstelle einen neuen Ordner für ein nicht existierendes Paket wie "meta/vendor/package"
 3. Erstelle einen Pull Request
 4. Dein Pull Request wird automatisch überprüft.
-5. Sobald alle Checks grün sind, kann entweder ein Code Owner oder ein Mitglied des Review-Teams deinen Pull Request 
-   freigeben.
-   
-## Code Owner werden
-
-Code Owner können durch normale GitHub Reviews Pull Requests automatisch mergen lassen, ohne dass sie Push Zugriff auf
-das Repository haben. Damit du für deinen Vendor zum Code Owner werden kannst, musst du einen Pull Request stellen und
-dich entsprechend in der Datei `CODEOWNERS` für deinen Pfad eintragen. Sobald ein Mitglied des Review-Teams kontrolliert
-hat ob du auch wirklich Änderungen für diesen Vendor vornehmen darfst, wird dieser Pull Request gemerged und du kannst
-fortan Änderungen selber mergen lassen indem du einen Pull Request stellst und diesen gleich selber durch einen GitHub
-Review approvest.
+5. Sobald alle Checks grün sind, kann ein Mitglied des Review-Teams deinen Pull Request freigeben.
 
 
 [1]: https://getcomposer.org

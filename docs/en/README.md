@@ -61,16 +61,8 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 2. Select an existing package or create new folders for a none existing package like "meta/vendor/package"
 3. Make pull request
 4. Your pull request is checked automatically.
-5. As soon as all checks are green, either a Code Owner or a member of the review team can approve and merge your
-   Pull Request.
-   
-## Becoming a Code Owner
+5. As soon as all checks are green, a member of the review team can approve and merge your Pull Request.
 
-Code Owners can approve Pull Requests through regular GitHub Reviews and trigger automated merging without actually
-having push access to the repository. To become a Code Owner of your vendor you have to create a Pull Request adjusting
-the `CODEOWNERS` file. As soon as a member of the review team approves the changes and checks if you are really allowed
-to make changes for the given vendor, the Pull Request is merged and from now on you can approve Pull Requests that
-affect your own paths yourself.
 
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
