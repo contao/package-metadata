@@ -6,7 +6,8 @@ Es erlaubt das Übersetzen und Anreichern von Paketinformationen jedes beliebige
 auch Pakete die nicht vom Typ `contao-bundle` sind (wie bspw. eine allgemeine PHP Excel Exportbibliothek) übersetzt
 werden.
 
-Die Metadaten werden in im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden.
+Die Metadaten werden im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden. Es wird 
+empfohlen, das Logo beispielsweise mittels [SVGO][6] bzw. dem GUI-Tool [SVGOMG][7] entsprechend zu optimieren.
 
 ## Beispiel einer Paketstruktur
 
@@ -68,3 +69,5 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [3]: https://github.com/contao/contao-manager
 [4]: http://yaml.org
 [5]: https://packagist.org
+[6]: https://github.com/svg/svgo
+[7]: https://jakearchibald.github.io/svgomg/

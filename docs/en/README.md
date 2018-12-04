@@ -6,7 +6,8 @@ It allows to translate and enhance package information of any [Composer][1] pack
 provide meta information for e.g. packages that are not of type `contao-bundle` but e.g. a suggestion of
 your very own bundle such as a general PHP excel library.
 
-The metadata is stored in [YAML format][4] and a logo can be specified in SVG format.
+The metadata is stored in [YAML format][4] and a logo can be specified in SVG format. It is recommended to 
+optimize the logo using [SVGO][6] or the GUI tool [SVGOMG][7], for example.
 
 ## Package structure example
 
@@ -69,3 +70,5 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [3]: https://github.com/contao/contao-manager
 [4]: http://yaml.org
 [5]: https://packagist.org
+[6]: https://github.com/svg/svgo
+[7]: https://jakearchibald.github.io/svgomg/
