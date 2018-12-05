@@ -1,0 +1,9 @@
+en:
+    title: Member Addresses
+    description: >
+        Add more then one address to a member. E.g. billing address and delivery address.
+    keywords:
+        - contao
+        - bundle
+        - member
+        - address

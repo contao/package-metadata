@@ -1,0 +1,10 @@
+en:
+    title: FAQ Search
+    description: >
+        The bundle adds a search-module for FAQ-sites and turns the FAQ-items into an accordion, which can have multiple items open simultaneously if more than one faq-item contains matches.
+    keywords:
+        - contao
+        - bundle
+        - faq
+        - accordion
+        - search

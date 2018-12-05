@@ -1,0 +1,10 @@
+de:
+    title: Mitglieder Weiterleitung
+    description: >
+        Diese Erweiterung ermöglicht es, Mitglieder nach dem Login und/oder Logout individuell weiterzuleiten.
+    keywords:
+        - Contao
+        - Bundle
+        - Mitglied
+        - Weiterleitung
+        - Individuell
