@@ -1,15 +1,15 @@
 en:
-     title: con4gis-Routing
-        description: >
-            The routing brick of the Contao GIS-kit con4gis. Extends con4gis-Maps.
-        keywords:
-            - con4gis
-            - maps
-            - routing
-            - ORS
-            - Openrouteservice
-            - OSRM
-            - proximity search
-            - distances
-            - route
-            - route planning
+    title: con4gis-Routing
+    description: >
+        The routing brick of the Contao GIS-kit con4gis. Extends con4gis-Maps.
+    keywords:
+        - con4gis
+        - maps
+        - routing
+        - ORS
+        - Openrouteservice
+        - OSRM
+        -  proximity search
+        - distances
+        - route
+        - route planning
