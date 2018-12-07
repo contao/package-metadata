@@ -1,0 +1,9 @@
+en:
+    title: Contao FAQ Extensions
+    description: >
+        Extends the FAQ bundle in Contao. The bundle allows you to highlight very popular FAQ articles or your personal recommendations in the Contao frontend. It also introduces voting support for FAQ articles.
+    keywords:
+        - faq
+        - recommendations
+        - lists
+        - voting
