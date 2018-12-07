@@ -1,7 +1,17 @@
 en:
-    title: Maklermodul für Immobilienmakler
+    title: Broker module for real estate agents
     description: >
-        Real estate bundle with open immo import
+        Real estate bundle for Contao 3 and 4 forms the interactive between broker software and the content management system Contao.
+
+        The data is automatically imported, displayed as a filterable object list and displayed in the detail view according to your wishes.
+
+        - Import the objects directly from your broker software (real estate)
+        - Optimized presentation of your objects
+        - Extensive filter functions for objects
+        - Easy and flexible customizable by Contao templates
+        - Quick and easy installation of the module
+
+        Find out more at https://www.maklermodul.de/
     keywords:
         - real estate
         - open immo
@@ -9,3 +19,7 @@ en:
         - agent
         - broker software
         - broker office
+    homepage: https://www.maklermodul.de/
+    support:
+      email: info@maklermodul.de
+      docs: https://docs.maklermodul.de
