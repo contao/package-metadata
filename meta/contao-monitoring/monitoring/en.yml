@@ -1,0 +1,6 @@
+en:
+    title: ContaoMonitoring Core
+    description: >
+        Contao Monitoring system for checking availability of websites.
+    keywords:
+        - monitoring
