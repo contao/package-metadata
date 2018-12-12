@@ -1,0 +1,8 @@
+de:
+    title: Contao 4 AjaxPagination Bundle
+    description: >
+        Mit dem AjaxPagination Bundle ist es möglich, aus jedem in Contao zur Verfügung stehenden paginierbaren Element eine ajaxpagenierung zu machen.
+        Somit können Abschnitte einer Seite, die paginiert sind, umgeblättert werden ohne das die komplette Seite neu geladen werden muss.
+    keywords:
+        - AjaxPagination
+        - Element
