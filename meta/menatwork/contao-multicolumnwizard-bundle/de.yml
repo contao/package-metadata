@@ -1,0 +1,13 @@
+de:
+    title: MultiColumnWizard
+    description: >
+        Der MultiColumnWizard ist ein Widget zur Abbildung von mehreren Feldern gleichen und/oder unterschiedlichen Typs (Inputtype) in einem DCA-Element.
+
+        Mehr unter http://de.contaowiki.org/MultiColumnWizard
+    keywords:
+        - contao
+        - bundle
+        - widget
+        - wizard
+        - multicolumnwizard
+        - mcw
