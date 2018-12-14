@@ -2,9 +2,7 @@ de:
     title: MetaModels Core
     description: >
         Mit MetaModels können Sie Datenmodelle im Contao Backend ohne Programmierung konfigurieren. Jedes MetaModell besteht aus verschiedenen Attributen bestimmter Datentypen (Attributtypen sind als Erweiterungen verfügbar und werden bei der Installation registriert). Verschiedene Datenmodelle können mit Relationen (1:1, 1:n, m:n) in Verbindung gebracht werden.
-
         Um die Daten auf dem Bildschirm darzustellen (z.B. Listen- oder Detailansicht), definieren Sie Rendereinstellungen für das MetaModel, die festlegen, wie die verschiedenen Attributausgaben aussehen sollen (Bildgrößen, Verwendung von Leuchtkästen, etc.).
-
         Die Filterung von Daten in Listenansichten erfordert die Konfiguration der Filtereinstellungen. Filtereinstellungen sind ein sehr komplexes Thema, da sie verschachtelt (UND/OR-Bedingungen) und unterschiedlicher Typen (Select, Checkbox, Textfeld usw.) sein können.
     keywords:
         - metamodels
