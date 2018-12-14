@@ -2,9 +2,7 @@ en:
     title: MetaModels core
     description: >
         MetaModels are data models you can configure in the Contao Backend. Every MetaModel consists of various attributes of certain data types (attribute types are available as extensions and get registered upon installation).
-
         To present the data on the screen (i.e. list and detail view), you define render settings for the MetaModel which define how the various attribute output shall look like (image sizes, use lightboxes, etc.).
-
         Filtering data in list views needs configuration of filter settings. Filter settings are a very complex topic, as they can be nested (AND/OR conditions i.e.) and be of various nature.
     keywords:
         - metamodels
