@@ -1,0 +1,8 @@
+en:
+    title: Contao TwitterReader
+    description: >
+        This extension connects a Twitter account with Contao and lists the recent tweets associated to this account
+    keywords:
+        - twitter
+        - social media
+        - lists

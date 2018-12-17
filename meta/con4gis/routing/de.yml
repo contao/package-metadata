@@ -1,0 +1,15 @@
+de:
+    title: con4gis-Routing
+    description: >
+        Routing ist der con4gis Baustein, den Sie benötigen wenn Sie den Nutzern Ihrer con4gis Karte eine Routenplanung und/oder Umkreissuche zur Verfügung stellen wollen.
+    keywords:
+        - con4gis
+        - maps
+        - Routing
+        - ORS
+        - Openrouteservice
+        - OSRM
+        - Umkreissuche
+        - Wegstrecke
+        - Routenfinder
+        - Routenplanung

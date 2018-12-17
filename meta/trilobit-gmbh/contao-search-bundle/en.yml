@@ -1,0 +1,9 @@
+en:
+    title: Contao 4 Search Bundle
+    description: >
+        Extension of the Contao search module with further restrictive parameters (minimum and maximum number of search terms, maximum number of keywords)
+    keywords:
+        - Contao search module
+        - parameters
+        - search terms
+        - keywords

@@ -1,0 +1,10 @@
+de:
+    title: Contao 4 Socialmedia Bundle
+    description: >
+        Das Constants Bundle fügt dem Backend von Contao den Punkt Konstanten hinzu, wo Sie mit einer Bezeichnung und einem dazugehörenden Wert eine oder mehrere Konstanten festlegen können.
+        Diese können dann wiederum durch einen Insert-Tag überall in ihrer Contao Installation eingefügt werden.
+    keywords:
+        - Konstanten
+        - Bezeichnung
+        - Wert
+        - Insert-Tag

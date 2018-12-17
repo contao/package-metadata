@@ -1,0 +1,11 @@
+de:
+    title: Contao 4 Calculator Bundle
+    description: >
+        Das Calculator Bundle ermöglicht es durch Verwendung eines Insert-Tags eine Vielzahl an Operationen durchzuführen.
+        Mögliche Operationen währen arithmetische Operationen, mit denen es möglich ist, einfache bis verschachtelte Berechnungen auszuführen.
+        Durch die Verwendung der Symfony Expression Language ist es außerdem möglich, Variablen zu definieren und diese wiederum für Operationen zu verwenden.
+    keywords:
+        - Insert-Tags
+        - arithmetische
+        - Berechnungen
+        - Symfony Expression Language
