@@ -1,0 +1,10 @@
+en:
+    title: Link splitter
+    description: >
+        Redirects depends on post / get variables or InsertTags.
+    keywords:
+        - contao
+        - bundle
+        - redirect
+        - splitting
+        - branching

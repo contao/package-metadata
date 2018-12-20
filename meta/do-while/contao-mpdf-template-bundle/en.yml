@@ -1,0 +1,9 @@
+en:
+    title: mPDF template
+    description: >
+        With the mpdf-template extension, you can style the PDF output in the article (syndication) with a PDF template file. Uses the mPDF library.
+    keywords:
+        - contao
+        - bundle
+        - pdf
+        - letter paper

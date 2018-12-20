@@ -1,0 +1,11 @@
+en:
+    title: Ticker line
+    description: >
+        Integration of a ticker line into a web page; uses the jQuery framework.
+    keywords:
+        - contao
+        - bundle
+        - ticker
+        - marquee
+        - jquery
+        - telex
