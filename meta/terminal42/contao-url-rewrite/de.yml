@@ -1,0 +1,11 @@
+de:
+  title: Folder page
+  description: >
+    Diese Erweiterung stellt verschiedene Möglichkeiten für URL-Rewriting zur Verfügung.
+    Regeln können über Einträge in einer Konfiguartionsdatei oder in einem Backend-Modul
+    erstellt werden.
+  keywords:
+    - URL-Rewriting
+    - Adressumschreibung
+    - Tool
+
