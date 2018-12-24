@@ -1,0 +1,10 @@
+en:
+    title: Leads
+    description: >
+        This extension allows you to store and manage form data within Leads. Each Lead consists of a master form and optional slave forms. The master form defines which fields are available. This approach helps you e.g. to implement multilingual forms and store all data in the same Lead.
+    keywords:
+        - form
+        - form data
+        - store
+        - Lead
+        - Leads

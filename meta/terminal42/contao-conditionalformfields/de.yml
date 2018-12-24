@@ -1,0 +1,11 @@
+de:
+    title: Anzeige eines Formularfeldes basierend auf einer Bedingung
+    description: >
+        Ermöglicht die Anzeige eines Formularfeldes basierend auf einer Bedingung, die es ermöglicht, etwas wie "nur das Feld anzeigen zu lassen, wenn der Wert des Feldes 'foo' = 'bar' und 'bla' = 'yes' ist."
+    keywords:
+        - Formulargenerator
+        - Formular
+        - Benutzer
+        - Benutzergruppen
+        - Zugriffsrechte
+        - Inhaltselemente

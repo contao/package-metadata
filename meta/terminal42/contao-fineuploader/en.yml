@@ -1,0 +1,10 @@
+en:
+    title: Fine Uploader
+    description: >
+        Provides the Fine Uploader to the Contao. The uploader initially uploads the files to system/tmp and moves them to the destination after the form is being submitted.
+    keywords:
+        - Fine Uploader
+        - Uploader
+        - data
+        - files
+        - images
