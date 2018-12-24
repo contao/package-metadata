@@ -1,9 +1,11 @@
 de:
-    title: Land Select-Menü
+    title: Länderauswahl für die Contao Formulare
     description: >
         Dies ist ein Select-Menü für den Formulargenerator, welches die Auswahl eines Landes erlaubt.
+        Verwende das Platzhalter-Attribut, um der ersten Option eine Bezeichnung zu geben.
     keywords:
         - Formulargenerator
         - Formular
         - Land
         - Select-Menü
+        - Formularfelder
