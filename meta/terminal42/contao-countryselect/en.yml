@@ -1,0 +1,9 @@
+en:
+    title: Länderauswahl für die Contao Formulare
+    description: >
+        This is a select menu for the Contao Form Generator that allows you to select a country.
+        Use the placeholder attribute to give the first option a label.
+    keywords:
+        - forms
+        - country
+        - fields

@@ -1,0 +1,20 @@
+en:
+    title: Custom InsertTags
+    description: >
+        Create InsertTags to replace content in front- or backend.
+        The Custom InsertTags module is a powerful tool to dynamically change your website content. You can add as many
+        inserttags as you like, order them and apply rules. Limit certain insert tags to pages, specific dates and/or
+        times of the day, or even define your own custom rules. The syntax for embedding the inserttags is
+        [{]custom::inserttag_name[}], you can place them in your own content modules of your page layout
+        (e.g. "Custom HTML Code") or in the WYSIWYG editor.
+
+        Here are a few examples:
+
+        Use an inserttag to define a content image, and limit different images to different pages.
+        Display a welcome-greeting to your user. "Good Morning" from 06 am to 11 am, "Good Evening" from 5 pm to 10 pm, and "Hello" the other times of the day.
+        Display a gender-specific greeting like "Welcome Mr. Smith" if the user's gender is male, or "Welcome Mrs. Jones" if the user's gender is female. You can utilise the existing TYPOlight/Contao insert tag {‎{user::gender[}] for that purpose.
+    keywords:
+        - InsertTags
+        - Frontend
+        - Backend
+        - Content

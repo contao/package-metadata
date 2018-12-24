@@ -1,0 +1,9 @@
+en:
+    title: Node Bundle
+    description: >
+        Manage content centrally as nodes and reuse them everywhere.
+    keywords:
+        - node
+        - content
+        - administration
+        - backend

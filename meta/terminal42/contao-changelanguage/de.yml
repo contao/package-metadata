@@ -1,0 +1,15 @@
+de:
+    title: Sprachwähler
+    description: >
+        Sprachwähler ist eine Erweiterung für das Contao CMS (Version 3.5 und 4.x), mit der Besucher zwischen
+        verschiedenen Sprachen Ihrer Website wechseln können.
+
+        Contao selbst bietet standardmäßig mehrsprachige Unterstützung, Sie können beliebig viele Seitenbäume erstellen
+        und verschiedene Sprachen auf der selben oder unterschiedlichen Domains definieren. Sprachwähler fügt einfach
+        die Funktionalität hinzu die verschiedenen Seitenbäume miteinander zu verknüpfen und generiert eine Liste der
+        verfügbaren Sprachen für die Webseiten-Besucher.
+    keywords:
+        - Sprachwechsler
+        - Sprachen
+        - Mehrsprachigkeit
+        - Navigation

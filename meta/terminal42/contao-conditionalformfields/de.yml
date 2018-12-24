@@ -1,0 +1,14 @@
+de:
+    title: Bedingte Formularfelder
+    description: >
+        Eine einfache Möglichkeit zum Erhöhen von Formularkonvertierungen ist die Verwendung von Bedingungsfeldern.
+        Bedingungsfelder sind standardmäßig ausgeblendet und erscheinen erst wenn sie relevant werden. Sie sind eine
+        großartige Möglichkeit um Formulare übersihctlicher, kürzer und persönlicher zu gestalten.
+
+        Die Erweiterung ermöglicht die Anzeige eines Formularfelds basierend auf einer Bedingung, wie "nur das Anzeigen von
+        Feld A, wenn der Wert des Feldes 'foo' 'bar' ist und/oder der Wert des Feldes 'bla' 'yes' ist."
+    keywords:
+        - Formulare
+        - Bedingungen
+        - Formularfelder
+        - Optimierung

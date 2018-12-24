@@ -1,0 +1,20 @@
+de:
+    title: Leads
+    description: >
+        Dies ist eine Contao-Erweiterung, mit der Sie Formulardaten in Leads speichern und verwalten können. Jeder Lead
+        besteht aus einem Master-Formular und optionalen Slave-Formularen. Das Masterformular definiert, welche Felder
+        verfügbar sind. Dieser Ansatz hilft Ihnen bei der Implementierung mehrsprachiger Formulare und alle Daten werden
+        in demselben Lead gespeichert.
+
+        Alle Konfigurationen können im Formulargenerator von Contao vorgenommen werden.
+
+        Die Lead-Erweiterung bietet zusätzlich eine Exportfunktion im Backend. Sie können den Export nach Ihren Wünschen
+        anpassen und es stehen Exportoptionen für CSV und Exel zur Verfügung. Sie müssen lediglich die Erweiterung
+        [php_excel] oder das "phpoffice / phpexcel-Paket" für die Excel-Unterstützung installieren.
+    keywords:
+        - Formulare
+        - Export
+        - Excel
+        - CSV
+        - Leadgenerierung
+        - Verkaufpotenzial

@@ -1,0 +1,20 @@
+de:
+    title: Platzhalter-Modul (InsertTags)
+    description: >
+        Erstellen Sie Platzhalter für Inhalte Ihrer Seite.
+        Das Platzhalter-Modul ist ein leistungsstarkes Werkzeug, um den Inhalt Ihrer Website dynamisch anzupassen. Sie
+        können unbegrenzt Platzhalter erstellen, diese sortieren und Regeln zuordnen. Erstellen Sie Platzhalter für
+        spezifische Seiten, für bestimmte Zeiten und Zeiträume; auf Wunsch können auch anderweitige eigene Regeln
+        definiert werden. Die Einbindung der Platzhalter erfolgt nach dem Schema [{]custom::platzhaltername[}] in
+        eigenen Inhaltsmodulen des Seitenlayouts (zum Beispiel "Eigener HTML-Code") oder im WYSIWYG-Editor.
+
+        Hier einige Beispiele:
+
+        Definieren Sie einen Platzhalter in Ihrem Seitenlayout, und erstellen Sie mehrere Platzhalter welche jeweils nur für bestimmte Seiten zutreffen.
+        Begrüssen Sie Ihre Besucher basierend auf der Tageszeit. "Guten Morgen" zwischen 06:00 und 11:00 Uhr, "Guten Abend" zwischen 17:00 und 22:00 Uhr, und "Guten Tag" für den Rest der Zeit.
+        Begrüssen Sie angemeldete Benutzer anhand des Geschlechts in Ihrem Profil. "Willkommen Herr Müller" bei Männern, "Willkommen Frau Meier" bei Frauen. Komplexe Regeln können mit Hilfe der in TYPOlight enthaltenen Regeln erstellt werden.
+    keywords:
+        - Platzhalter
+        - Frontend
+        - Backend
+        - Inhalte
