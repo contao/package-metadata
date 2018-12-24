@@ -1,0 +1,10 @@
+de:
+    title: Linksplitter
+    description: >
+        Weiterleitungen abhängig von Post-/Get-Variablen oder InsertTags.
+    keywords:
+        - contao
+        - bundle
+        - weiterleitung
+        - aufteilung
+        - verzweigung

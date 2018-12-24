@@ -1,0 +1,9 @@
+de:
+    title: mPDF-Template
+    description: >
+        Mit der mpdf-template Erweiterung können Sie die PDF-Ausgabe im Artikel (Syndikation) mit einer PDF-Vorlagedatei gestalten. Verwendet wird in dieser Erweiterung die Bibliothek mPDF.
+    keywords:
+        - contao
+        - bundle
+        - pdf
+        - briefpapier

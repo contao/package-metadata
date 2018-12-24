@@ -1,0 +1,8 @@
+de:
+    title: Contao TwitterReader
+    description: >
+        Diese Erweiterung verbindet ein Twitter-Konto mit Contao und listet die letzten Tweets auf, die zu diesem Konto gehören.
+    keywords:
+        - twitter
+        - social media
+        - listen
