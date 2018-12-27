@@ -1,7 +1,7 @@
 de:
     title: con4gis-Maps
     description: >
-        con4gis-Maps ist der Baustein den Sie benötigen, wenn es darum geht Karten in Contao darzustellen.
+        con4gis-Maps ist der Baustein den du benötigst, wenn es darum geht Karten in Contao darzustellen.
         Schneller, wenn es um kleinere Anfahrtskarten für Vereine oder Firmen geht, etwas zeitintensiver, wenn es um komplexere Darstellungen in Karten bis hin zu Geoinformationssystemen geht.
         con4gis-Maps verbindet auf einfache Weise Karten und Geodaten in Deiner Website und das ganz ohne Programmierkenntnisse.
         Dabei wird auf Open-Source-Bibliotheken, wie OpenLayers, Nominatim, OSRM, die Overpass-API und auf die freie, weltweite Geodatenbank OpenStreetMap gesetzt.

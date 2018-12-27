@@ -40,7 +40,7 @@ de:
       ...
 ```
 
-Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "Sie" an.
+Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
 
 ## Öffentliche vs. private/proprietäre Pakete
