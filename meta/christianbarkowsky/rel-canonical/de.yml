@@ -1,7 +1,7 @@
 de:
     title: rel-canonical
     description: >
-        Mit dieser Erweiterung kannst du das Header-Tag rel="canonical" nutzen, falls du auf deiner Webseite Seiten mit gleichen Inhalten hast und sich dies sich nicht vermeiden lässt.
+        Mit dieser Erweiterung kannst du das Header-Tag rel="canonical" nutzen, falls du auf deiner Webseite Seiten mit gleichen Inhalten hast und sich dies nicht vermeiden lässt.
     keywords:
         - google
         - canonical
