@@ -1,0 +1,10 @@
+de:
+    title: Fine Uploader
+    description: >
+        Bietet den Fine Uploader unter Contao an. Der Uploader lädt die Dateien zunächst nach system/tmp und verschiebt sie nach dem absenden des Formulars an das gewünschte Ziel. 
+    keywords:
+        - Fine Uploader
+        - Uploader
+        - Daten
+        - Dateien
+        - Bilder

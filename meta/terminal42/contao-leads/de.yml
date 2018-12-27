@@ -1,0 +1,10 @@
+de:
+    title: Leads
+    description: >
+        Mit dieser Erweiterung können Sie Formulardaten in Leads speichern und verwalten. Jeder Lead besteht aus einem Master-Formular und optionalen Slave-Formularen. Das Master-Formular definiert, welche Felder verfügbar sind. Dieser Ansatz hilft Ihnen z.B. mehrsprachige Formulare zu erstellen und alle Daten in demselben Lead zu speichern.
+    keywords:
+        - Formular
+        - Daten
+        - speichern
+        - Lead
+        - Leads

@@ -1,0 +1,9 @@
+en:
+    title: Limit access to content elements
+    description: >
+        This extension allows you to limit users from accessing certain content elements.
+    keywords:
+        - Users
+        - User groups
+        - Access rights
+        - content elements
