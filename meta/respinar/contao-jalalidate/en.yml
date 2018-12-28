@@ -1,7 +1,6 @@
 en:
     title: Persian Date class for Contao
     description: >
-        This extension show Persian (Jalali - Shamsi) date in Contao frontend.
+        This extension show Persian Date in Contao frontend.
     keywords:
         - Persian Date
-        - Jalali Date
