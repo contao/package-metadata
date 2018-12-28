@@ -389,7 +389,6 @@ bla
 bokking
 bspw
 bzw
-bzw
 canonical
 center
 con
@@ -409,10 +408,8 @@ eMail
 estao
 etc
 euf
-facebook
 faq
 favicons
-filemanagement
 filterbare
 foo
 formvalidation
