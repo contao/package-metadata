@@ -3,7 +3,7 @@ de:
     description: >
         Dieses Paket integriert Bynder Assets Management direkt in Ihr Contao 4.4+ Backend. Aktuell kann Contao nur
         mit Bildern arbeiten, die in das Dateisystem hochgeladen wurden (noch keine Abstraktion des Dateisystems).
-        Neben der regulären Dateiauswahl-Registerkarte wird eine neue Registerkarte hinzugefügt, auf der Du die Bilder
+        Neben der regulären Dateiauswahl-Registerkarte wird eine neue Registerkarte hinzugefügt, auf der du die Bilder
         Deines Bynder Kontos durchsuchen, filtern, herunterladen und dann direkt über den Dateibaum auswählen und einbinden kannst.
     keywords:
         - bynder
