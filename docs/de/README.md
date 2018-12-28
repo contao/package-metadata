@@ -51,6 +51,11 @@ Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.o
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
 und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
 
+## Rechtschreibprüfung
+
+Die Metadaten werden automatisch auf korrekte Rechtschreibung überprüft. Womöglich musst du die `whitelist.txt` aktualisieren,
+wenn die Überprüfung fehlschlägt, du dir aber sicher bist, dass das Wort korrekt ist.
+
 ## Unterstützte Sprachen
 
 Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js

@@ -52,6 +52,11 @@ package is the fact that it's registered on [packagist.org][5]. For private pack
 not provide any automated installation process so providing a homepage link to describe how a user can obtain and install
 the package is required.
 
+## Spell checking
+
+Your meta data is automatically checked for spelling issues. You might need to update the `whitelist.txt` in your
+pull request in case the spell check fails but you are sure the word you used is correct.
+
 ## Supported languages
 
 See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
