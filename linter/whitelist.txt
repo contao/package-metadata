@@ -321,7 +321,6 @@ TabControl
 Tabellenzeile
 Tabs
 Telematik
-Tempalte
 Tempaltes
 Template
 Templates
