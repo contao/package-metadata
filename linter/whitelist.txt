@@ -498,3 +498,7 @@ yes
 youtube
 zeitintensiven
 zeitintensiver
+Avatar
+Avatare
+TableLookupWizard
+DC
