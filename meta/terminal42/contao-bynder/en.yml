@@ -2,7 +2,7 @@ en:
     title: Bynder Assets Management
     description: >
         This bundle integrates Bynder Asset Management directly into your Contao 4.4+ back end. Because as of today,
-        Contao can only work with images that have been uploaded to the filesystem (no filesystem abstraction yet), it
+        Contao can only work with images that have been uploaded to the file system (no file system abstraction yet), it
         works by adding a new tab next to the regular file picker tab where you can choose your images of your Bynder
         Asset Management account. You can search and filter your Bynder assets, download and then select them right from
         the file tree widget.

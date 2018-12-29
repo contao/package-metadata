@@ -502,3 +502,15 @@ Avatar
 Avatare
 TableLookupWizard
 DC
+excel
+phpoffice
+phpexcel
+Länderauswahl
+Bynder
+Assets
+Registerkarte
+Dateiauswahl
+hochgeladen
+Dateibaum
+Bedingungsfeldern
+Bedingungsfelder
