@@ -1,0 +1,7 @@
+en:
+    title: TableLookupWizard Widget
+    description: >
+        This widget allows you to look up a foreign table and select records from it. Its primary advantage is that not all database records are listed, so it is very useful if you have a large set of records.
+    keywords:
+        - widget
+        - tablelookupwizard

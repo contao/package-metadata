@@ -2,6 +2,9 @@ de:
     title: Anzeige eines Formularfeldes basierend auf einer Bedingung
     description: >
         Ermöglicht die Anzeige eines Formularfeldes basierend auf einer Bedingung, die es ermöglicht, etwas wie "nur das Feld anzeigen zu lassen, wenn der Wert des Feldes 'foo' = 'bar' und 'bla' = 'yes' ist."
+        Eine einfache Möglichkeit zum Erhöhen von Formular Konvertierungen ist die Verwendung von Bedingungsfeldern.
+        Bedingungsfelder sind standardmäßig ausgeblendet und erscheinen erst wenn sie relevant werden. Sie sind eine
+        großartige Möglichkeit um Formulare übersichtlicher, kürzer und persönlicher zu gestalten.
     keywords:
         - Formulargenerator
         - Formular
