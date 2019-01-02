@@ -426,7 +426,6 @@ inkl
 install
 jQuery
 javascript
-keinerelei
 kommentierbar
 lightboxes
 listWizard
