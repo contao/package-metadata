@@ -257,7 +257,6 @@ Plugins
 Positionsverfolgung
 Posts
 Preview
-Prioriät
 Privacy
 Programmierkenntnisse
 Projects
