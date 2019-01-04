@@ -512,3 +512,5 @@ hochgeladen
 Dateibaum
 Bedingungsfeldern
 Bedingungsfelder
+Catalog
+Manager
