@@ -21,11 +21,6 @@ class SpellChecker
     private $whitelistDir;
 
     /**
-     * @var array[]
-     */
-    private $whitelists = [];
-
-    /**
      * @var array|null
      */
     private $supportedLanguages;
@@ -83,15 +78,17 @@ class SpellChecker
 
     private function loadWhitelist(string $key): array
     {
-        if (isset($this->whitelists[$key])) {
-            return $this->whitelists[$key];
+        static $whitelists = [];
+
+        if (isset($whitelists[$key])) {
+            return $whitelists[$key];
         }
 
         $whitelistFile = $this->whitelistDir . '/' . $key . '.txt';
-        $this->whitelists[$key] = file_exists($whitelistFile)
+        $whitelists[$key] = file_exists($whitelistFile)
             ? array_filter(explode("\n", file_get_contents($whitelistFile)))
             : [];
 
-        return $this->whitelists[$key];
+        return $whitelists[$key];
     }
 }
