@@ -89,7 +89,7 @@ class SpellChecker
 
         $whitelistFile = $this->whitelistDir . '/' . $key . '.txt';
         $this->whitelists[$key] = file_exists($whitelistFile)
-            ? array_filter(explode("\m", file_get_contents($whitelistFile)))
+            ? array_filter(explode("\n", file_get_contents($whitelistFile)))
             : [];
 
         return $this->whitelists[$key];
