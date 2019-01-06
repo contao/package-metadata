@@ -1,7 +1,7 @@
 en:
     title: Bot Detection Bundle
     description: >
-        Contao 4 bundle helper class to detect search engines, bots, spiders, crawlers ...
+        Contao 4 bundle helper class to detect search engines, bots, spiders, crawlers, etc.
     keywords:
         - contao
         - bundle
