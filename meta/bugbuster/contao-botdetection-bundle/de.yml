@@ -1,7 +1,7 @@
 de:
     title: Bot Detection Bundle
     description: >
-        Contao 4 Bundle Hilfsklasse zur Erkennung von Suchmaschinen, Bots, Spiders, Crawlers ...
+        Contao 4 Bundle Hilfsklasse zur Erkennung von Suchmaschinen, Bots, Spiders, Crawlers, etc.
     keywords:
         - contao
         - bundle
