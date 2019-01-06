@@ -42,6 +42,7 @@ Body
 Bootstrap
 Bootstrapper
 BotStatistics
+Bots
 Bspw
 Buchungsformular
 Bundle
@@ -72,6 +73,7 @@ Conversion
 Cookiebar
 Cookieconsent
 Core
+Crawlers
 Cron
 Custom
 Customizer
@@ -82,6 +84,7 @@ Dateiverwaltung
 Datenbanksicherung
 Datensichten
 Detailansicht
+Detection
 Documents
 Drittanbieter
 EasyThemes
@@ -143,6 +146,7 @@ Hauptsprache
 Head
 HeaderFooterCode
 Helper
+Hilfsklasse
 History
 Iconfont
 Immobilienlösung
@@ -301,6 +305,7 @@ Sortierungsfunktionen
 Source
 Spaltenbreite
 Spam
+Spiders
 Spotify
 Sprachenwechsler
 Standardrechte
