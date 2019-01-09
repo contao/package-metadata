@@ -54,7 +54,7 @@ und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels et
 ## Rechtschreibprüfung
 
 Die Metadaten werden automatisch auf korrekte Rechtschreibung überprüft. Wenn die Überprüfung fehlschlägt, du dir aber sicher bist, 
-dass das Wort korrekt ist.musst du womöglich die Whitelists aktualisieren. Diese werden im Ordner `linter/whitelists` nach Sprache 
+dass das Wort korrekt ist, musst du womöglich die Whitelists aktualisieren. Diese werden im Ordner `linter/whitelists` nach Sprache 
 gepflegt. Eigennamen, die in jeder Sprache identisch sind, werden in `default.txt` gepflegt.
 
 ## Unterstützte Sprachen
