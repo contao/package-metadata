@@ -54,8 +54,10 @@ the package is required.
 
 ## Spell checking
 
-Your meta data is automatically checked for spelling issues. You might need to update the `whitelist.txt` in your
-pull request in case the spell check fails but you are sure the word you used is correct.
+Your meta data is automatically checked for spelling issues. You might need to update the whitelists in your
+pull request in case the spell check fails but you are sure the word you used is correct. The whitelists for each language
+are located in the folder `linter/whitelists`. For proper names which shouldn't change between different translations use the
+ whitelist `default.txt`.
 
 ## Supported languages
 

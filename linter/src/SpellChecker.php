@@ -16,18 +16,18 @@ use Symfony\Component\Process\Process;
 class SpellChecker
 {
     /**
-     * @var array
+     * @var string
      */
-    private $whitelist;
+    private $whitelistDir;
 
     /**
      * @var array|null
      */
     private $supportedLanguages;
 
-    public function __construct(string $whitelist)
+    public function __construct(string $whitelistDir)
     {
-        $this->whitelist = array_filter(explode("\n", file_get_contents($whitelist)));
+        $this->whitelistDir = $whitelistDir;
     }
 
     public function spellCheck(string $text, string $language): array
@@ -52,7 +52,7 @@ class SpellChecker
         $errors = explode("\n", trim($output));
         $errors = array_filter($errors);
 
-        return array_diff($errors, $this->whitelist);
+        return $this->filterWhitelistedWords($language, $errors);
     }
 
     private function loadSupportedLanguages()
@@ -66,5 +66,29 @@ class SpellChecker
         $output = $process->getOutput();
 
         $this->supportedLanguages = explode("\n", trim($output));
+    }
+
+    private function filterWhitelistedWords(string $language, array $errors): array
+    {
+        $defaultWhitelist   = $this->loadWhitelist('default');
+        $localizedWhitelist = $this->loadWhitelist($language);
+
+        return array_diff($errors, $defaultWhitelist, $localizedWhitelist);
+    }
+
+    private function loadWhitelist(string $key): array
+    {
+        static $whitelists = [];
+
+        if (isset($whitelists[$key])) {
+            return $whitelists[$key];
+        }
+
+        $whitelistFile = $this->whitelistDir . '/' . $key . '.txt';
+        $whitelists[$key] = file_exists($whitelistFile)
+            ? array_filter(explode("\n", file_get_contents($whitelistFile)))
+            : [];
+
+        return $whitelists[$key];
     }
 }

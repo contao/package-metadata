@@ -47,7 +47,7 @@ class LintCommand extends Command
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
 
-        $this->spellChecker = new SpellChecker(__DIR__.'/../whitelist.txt');
+        $this->spellChecker = new SpellChecker(__DIR__.'/../whitelists');
 
         $finder = new Finder();
         $finder->files()->in(__DIR__.'/../../meta')->depth('== 2')->name('*.{yaml,yml}');
