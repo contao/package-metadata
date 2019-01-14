@@ -1,4 +1,5 @@
 Bootstrap
+Config
 Contao
 ContaoDMS
 ContaoMonitoring
