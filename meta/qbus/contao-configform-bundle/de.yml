@@ -1,0 +1,14 @@
+de:
+    title: Config Form für Contao
+    description: >
+        Mit dieser Erweiterung lassen sich Formulare mithilfe von
+        Konfigurationsdateien statt des Formulargenerators definieren. So können
+        Formulare leichter portiert werden.
+        Die Formulare verhalten sich genauso wie Formulargenerator-Formulare,
+        weil sie vom Contao-Core gerendert, validiert und verarbeitet werden. Es
+        stehen also alle Einstellungsmöglichkeiten (z. B. E-Mail) und Hooks zur
+        Verfügung.
+    keywords:
+        - formulare
+        - konfiguration
+        - dateibasiert
