@@ -1,9 +1,8 @@
 en:
-    title: Bootstrap Responsive YouTube
+    title: Gallery Creator Bundle
     description: >
-        Embed youtube movies into your responsive layout.
+        Frontend and backend picture gallery extension for Contao CMS
     keywords:
-        - bootstrap
-        - youtube
-        - video
-        - responsive
+        - gallery
+        - album
+

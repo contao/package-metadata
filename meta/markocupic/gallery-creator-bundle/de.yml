@@ -1,8 +1,8 @@
 de:
     title: Gallery Creator Bundle
     description: >
-        Galerie Erweiterung für das Contao CMS
+        Frontend und Backend Bildgalerie-Erweiterung für das Contao CMS
     keywords:
         - galerie
         - album
-        - contao
+
