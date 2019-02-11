@@ -4,6 +4,7 @@ Contao
 ContaoDMS
 ContaoMonitoring
 Google
+Inszenium
 Leaflet
 MailChimp
 MetaModel

@@ -1,0 +1,8 @@
+de:
+    title: Monitor Zertifikat
+    description: >
+        Fügt die Prüfung der Zertifikate beim Contao Monitoring hinzu.
+    keywords:
+        - monitoring
+        - zertifikate
+        - cert
