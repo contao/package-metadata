@@ -1,0 +1,8 @@
+de:
+    title: Contao XLS Export
+    description: >
+        Contao-Bundle das eine Code-Bibliothek zur Erzeugung von Excel XLS Dateien anbietet. Es handelt sich dabei um das proprietäre Binärformat, das bis 2007 von allen Excel-Versionen erstellt wurde.
+    keywords:
+        - excel
+        - xls
+        - export

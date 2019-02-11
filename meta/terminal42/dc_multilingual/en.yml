@@ -1,0 +1,11 @@
+en:
+    title: Data Container Multilingual
+    description: >
+        This is a standalone DC driver for Contao Open Source CMS that allows you to easily make your data translatable.
+    keywords:
+        - multilingual
+        - driver
+        - dc
+        - navigation
+        - alias
+        - seo

@@ -1,0 +1,8 @@
+de:
+    title: DOM PDF
+    description: >
+        Mit DOMPDF können Artikel als PDF exportiert werden. DOMPDF mag langsamer sein als TCPDF, bietet aber bessere CSS Unterstützung.
+    keywords:
+        - contao
+        - bundle
+        - pdf

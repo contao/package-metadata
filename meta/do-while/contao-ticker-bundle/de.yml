@@ -1,0 +1,12 @@
+de:
+    title: Laufschrift-Ticker
+    description: >
+        Einbindung von einem Laufschrift-Ticker in eine Webseite; verwendet das jQuery-Framework.
+    keywords:
+        - contao
+        - bundle
+        - ticker
+        - laufschrift
+        - marquee
+        - jquery
+        - telex

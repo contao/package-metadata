@@ -1,0 +1,12 @@
+en:
+    title: Config Form for Contao
+    description: >
+        Use config files instead of the form generator to define forms. This
+        makes forms more easily portable.
+        The forms behave the same way Form Generator forms do because they are
+        rendered, validated and processed by the Contao core. This means all
+        configuration options (e. g. email) and hooks are available.
+    keywords:
+        - forms
+        - configuration
+        - file-based

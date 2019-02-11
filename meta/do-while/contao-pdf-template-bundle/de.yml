@@ -1,0 +1,9 @@
+de:
+    title: PDF-Template
+    description: >
+        Mit pdf-template kann eine gespeicherte PDF-Datei als Layoutvorlage für die PDF-Ausgabe im Artikel (Syndikation) aktiviert werden. Verwendet wird in dieser Erweiterung die Bibliothek TCPDF.
+    keywords:
+        - contao
+        - bundle
+        - pdf
+        - briefpapier

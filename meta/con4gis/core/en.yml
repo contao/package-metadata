@@ -1,0 +1,6 @@
+en:
+    title: con4gis-Core
+    description: >
+        Core bundle with functionality needed for every con4gis application.
+    keywords:
+        - con4gis

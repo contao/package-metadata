@@ -1,12 +1,12 @@
 de:
     title: Besucher Statistiken
     description: >
-        Besuchererweiterung für Contao Open Source CMS. Ermöglicht es Ihnen, die Zugriffe und Besuche Ihrer Website zu zählen.
+        Besuchererweiterung für Contao Open Source CMS. Ermöglicht es Dir, die Zugriffe und Besucher Deiner Webseite zu zählen.
 
         Im Backend gibt es eine Statistikübersicht.
     keywords:
         - contao
         - bundle
-        - visits	
+        - visits
         - hits
         - visitors

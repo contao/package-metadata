@@ -1,0 +1,10 @@
+en:
+    title: Grid16 Bundle
+    description: >
+        Contao pixel and percent grid with 16 columns
+    keywords:
+        - contao
+        - bundle
+        - grid
+        - responsive
+        - css

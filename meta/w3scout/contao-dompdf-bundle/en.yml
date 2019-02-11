@@ -1,0 +1,8 @@
+en:
+    title: DOM PDF
+    description: >
+        Use DOMPDF to export articles as PDF. DOMPDF might be slower than TCPDF, but provides better CSS support.
+    keywords:
+        - contao
+        - bundle
+        - pdf

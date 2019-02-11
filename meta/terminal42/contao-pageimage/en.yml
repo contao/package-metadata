@@ -1,0 +1,10 @@
+en:
+    title: Set an image per page
+    description: >
+        After installing this extension, you can see a new field for each page in the page structure to set an image file. Using the appropriate frontend module allows you to show the image at a specific location in the frontend. If there's not image for the current page, the parent page's image can be shown.
+    keywords:
+        - page structure
+        - page
+        - image
+        - background
+        - frontend

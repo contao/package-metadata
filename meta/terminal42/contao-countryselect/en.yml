@@ -1,0 +1,9 @@
+en:
+    title: Country select menu
+    description: >
+        This is a country select menu for the frontend form generator. Use the placeholder attribute to give the first option a label.
+    keywords:
+        - form generator
+        - form
+        - country
+        - select menu

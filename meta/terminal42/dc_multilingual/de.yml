@@ -1,0 +1,10 @@
+de:
+    title: Data Container Treiber für mehrsprachige Daten
+    description: >
+        Dies ist ein eigenständiger DC-Treiber für das Contao Open Source CMS, mit dem du Daten problemlos übersetzbar machen kannst.
+    keywords:
+        - Mehrsprachigkeit
+        - dc
+        - Navigation
+        - SEO
+        - Alias

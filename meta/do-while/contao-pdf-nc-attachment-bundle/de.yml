@@ -1,0 +1,12 @@
+de:
+    title: PDF-Attachment für Notification-Center
+    description: >
+        Diese Contao-Erweiterung erweitert das Standard-E-Mail-Gateway des Notification-Centers in Contao 4 um die Möglichkeit, mit den SimpleTokens, die an das Notification-Center übertragen werden, eine PDF-Vorlage auszufüllen, zu speichern und der Mail als Anhang mitzugeben.
+        Funktionsfähige DEMO-Version mit Einschränkungen, die Vollversion benötigt eine Lizenz.
+    keywords:
+        - contao
+        - bundle
+        - notification center
+        - anhang
+        - ausfüllen
+        - pdf versenden
