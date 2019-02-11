@@ -17,3 +17,5 @@ Symfony
 TinyJPG
 TinyPNG
 trilobit
+Dalley
+PhotoSwipe
