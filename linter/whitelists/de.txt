@@ -509,3 +509,4 @@ Bedingungsfeldern
 Bedingungsfelder
 Catalog
 Manager
+Slack
