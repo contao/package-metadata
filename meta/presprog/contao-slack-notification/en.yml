@@ -1,0 +1,7 @@
+de:
+    title: Contao Slack Notification
+    description: >
+        Adds a Slack Gateway to Notification Center to send notifications to a Slack team.
+    keywords:
+        - Slack
+        - Benachrichtigung
