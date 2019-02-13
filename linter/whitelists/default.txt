@@ -28,7 +28,6 @@ Backend
 Bing
 Bundle
 Bundles
-Changelanguage
 ChangeLanguage
 Twig
 Tweets
@@ -51,18 +50,15 @@ Frontend
 Framework
 Footer
 theme
-symfony
 php
 pdf
 rss
 jQuery
-javascript
 eCommerce
 eMail
 XING
 XLIFF
 XLS
-Xing
 YouTube
 WYSIWYG
 TCPDF
@@ -85,7 +81,6 @@ OSM
 JPEG
 JPG
 JavaScript
-Javascript
 KML
 GIS
 GPX
@@ -127,7 +122,6 @@ ajax
 amp
 app
 euf
-faq
 frontend
 gis
 google
