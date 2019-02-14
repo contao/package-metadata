@@ -2,7 +2,7 @@ en:
   title: URL Rewrite
   description: >
     This extension provides a new way for Contao to set various URL rewrites via
-    config providers that take entries from a configuration file or from a backend module.
+    config providers that take entries from a configuration file or from a back end module.
   keywords:
     - URL rewriting
     - redirect

@@ -1,8 +1,8 @@
 en:
     title: con4gis-Projects
     description: >
-        The framework brick of the Contao GIS-kit con4gis. Useful for developing frontend modules.
+        The framework brick of the Contao GIS-kit con4gis. Useful for developing front end modules.
     keywords:
         - con4gis
-        - frontend framework
+        - front end framework
         - web applications

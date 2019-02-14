@@ -24,7 +24,6 @@ Auflistungsmodul
 Ausserdem
 Automatisierungsaufgaben
 Backed
-Backend
 Backendmodul
 Basisbibliotheken
 Benachrichtigungstypen
@@ -54,7 +53,6 @@ Calculator
 Card
 Cards
 ChangeLanguage
-Changelanguage
 Checkbox
 Classes
 Collapse
@@ -120,7 +118,6 @@ Formulargenenerator
 Formulargenerator
 Formvalidation
 Framework
-Frontend
 Frontendmodul
 Frontendmodule
 GIS
@@ -158,7 +155,6 @@ Install
 JPEG
 JPG
 JavaScript
-Javascript
 KML
 Kalenderformate
 Kartenanwendung
@@ -355,7 +351,6 @@ Wrapper
 XING
 XLIFF
 XLS
-Xing
 YouTube
 Zielseiten
 adwords
@@ -368,7 +363,6 @@ amphtml
 app
 assets
 ausserdem
-backend
 base
 bla
 bokking
@@ -393,7 +387,6 @@ eMail
 estao
 etc
 euf
-faq
 favicons
 filterbare
 foo
@@ -413,7 +406,6 @@ iconfont
 inkl
 install
 jQuery
-javascript
 kommentierbar
 lightboxes
 listWizard
@@ -456,7 +448,6 @@ stylable
 stylen
 stylesheet
 subpages
-symfony
 system
 template
 templating
