@@ -1,13 +1,13 @@
 en:
     title: Advanced Classes
     description: >
-        The module extends the css classes of contao elements with self-definable sets of css classes. Editors and admins can quickly access pre-defined css classes via select fields.
+        The module extends the CSS classes of contao elements with self-definable sets of CSS classes. Editors and admins can quickly access predefined CSS classes via select fields.
 
         With our configurator (still in development) the sets can be easily adapted to your requirements.
 
-        For Bootstrap and Materialize a pre-defined set for column width, column offset, order (pull/push) and visibility is already included.
+        For Bootstrap and Materialize a predefined set for column width, column offset, order (pull/push) and visibility is already included.
     keywords:
-        - css classes
+        - CSS classes
         - sets
         - bootstrap
         - materialize

@@ -131,3 +131,17 @@ mpdf
 stylesheet
 xliff
 xls
+Softleister
+ImmobilienScout
+LinkedIn
+LiveValidation
+MATE
+UItoTop
+mailto
+TableLookupWizard
+Cron
+Templating
+css
+login
+logout
+HERE

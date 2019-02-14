@@ -1,5 +1,5 @@
 en:
-    title: Contao 4 Socialmedia Bundle
+    title: Contao 4 Social Media Bundle
     description: >
         The Social Media Bundle is basically a wrapper that allows you to bundle different link collections.
         In addition, images can be included in the links. To create some comfort, it is possible to attach parameters via Wizard.
