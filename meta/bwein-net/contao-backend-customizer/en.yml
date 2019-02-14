@@ -1,5 +1,5 @@
 en:
-    title: Backend Customizer
+    title: Back end Customizer
     description: >
         This Bundle allows to set some params via config and generates a custom back end stylesheet before Symfony command assets:install.
         After the stylesheet generation, the back end header will show an other color and an environment highlight.

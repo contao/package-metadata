@@ -3,7 +3,7 @@ de:
     description: >
         Download Statistiken für Contao Open Source CMS. Zählt die Anzahl der Datei Downloads die über das Content Element Download(s) durchgeführt wurden.
 
-        Im Backend gibt es eine Statistikübersicht.
+        Im Back end gibt es eine Statistikübersicht.
     keywords:
         - contao
         - bundle

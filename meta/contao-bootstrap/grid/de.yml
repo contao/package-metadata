@@ -1,7 +1,7 @@
 de:
     title: Bootstrap für Contao Grid
     description: >
-        Diese Erweiterung stellt einen Grid-Editor sowie Inhaltselemente, Formularelemente sowie ein Frontendmodul für
+        Diese Erweiterung stellt einen Grid-Editor sowie Inhaltselemente, Formularelemente sowie ein Front endmodul für
         die Verwendung des Bootstrap Grids zur Verfügung.
     keywords:
         - bootstrap

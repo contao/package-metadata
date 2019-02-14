@@ -3,7 +3,7 @@ de:
     description: >
         Diese Erweiterung erlaubt es Besuchern deiner Website, zwischen verschiedenen Sprachen derselben Seite zu wechseln.
 
-        Contao bietet von Haus aus bereits voll Unterstützung für Mehrsprachigkeit, es können unbegrenzt viele Seiten in verschiedenen Sprachen angelegt werden. ChangeLanguage bietet lediglich ein Frontend Modul, welches dem Besucher eine Auswahl der vorhandenen Sprachen anbietet.
+        Contao bietet von Haus aus bereits voll Unterstützung für Mehrsprachigkeit, es können unbegrenzt viele Seiten in verschiedenen Sprachen angelegt werden. ChangeLanguage bietet lediglich ein Front end Modul, welches dem Besucher eine Auswahl der vorhandenen Sprachen anbietet.
     keywords:
         - Sprachenwechsler
         - Sprachen

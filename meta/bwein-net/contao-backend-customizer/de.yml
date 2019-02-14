@@ -1,8 +1,8 @@
 de:
-    title: Backend Customizer
+    title: Back end Customizer
     description: >
-        Diese Erweiterung ermöglicht das Setzen von Parametern in der Konfiguration und generiert ein individuelles Backend-Stylesheet vor dem Symfony-Befehl assets:install.
-        Nach der Stylesheet-Generierung erscheint der Backend-Header in einer anderen Farbe und es wird ein Umgebungshinweis angezeigt.
+        Diese Erweiterung ermöglicht das Setzen von Parametern in der Konfiguration und generiert ein individuelles Back-end-Stylesheet vor dem Symfony-Befehl assets:install.
+        Nach der Stylesheet-Generierung erscheint der Back-end-Header in einer anderen Farbe und es wird ein Umgebungshinweis angezeigt.
     keywords:
         - contao
         - back end

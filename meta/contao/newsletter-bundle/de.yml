@@ -1,11 +1,11 @@
 de:
     title: Newsletter für Contao
     description: >
-        Dieses Bundle fügt Contao Newsletter-Funktionalität hinzu. Damit können im Backend Newsletter und verschiedene
-        Empfängerlisten verwaltet werden. Das Senden der Newsletter erfolgt ebenfalls direkt aus dem Backend und die
+        Dieses Bundle fügt Contao Newsletter-Funktionalität hinzu. Damit können im Back end Newsletter und verschiedene
+        Empfängerlisten verwaltet werden. Das Senden der Newsletter erfolgt ebenfalls direkt aus dem Back end und die
         Newsletter können dank dem Contao Templating-System sehr einfach formatiert werden.
 
-        An- und Abmelden-Frontendmodule sind natürlich ebenfalls Teil der Funktionalität und Double Opt-In wird
+        An- und Abmelden-Front endmodule sind natürlich ebenfalls Teil der Funktionalität und Double Opt-In wird
         standardmässig unterstützt.
     keywords:
         - newsletter

@@ -3,7 +3,7 @@ de:
     description: >
         Besuchererweiterung für Contao Open Source CMS. Ermöglicht es Dir, die Zugriffe und Besucher Deiner Webseite zu zählen.
 
-        Im Backend gibt es eine Statistikübersicht.
+        Im Back end gibt es eine Statistikübersicht.
     keywords:
         - contao
         - bundle

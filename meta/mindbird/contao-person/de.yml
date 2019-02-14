@@ -1,8 +1,8 @@
 de:
     title: Auflistung von Personen in Archiven gruppiert
     description: >
-        Im Backend können verschiedene Archive angelegt werden in denen man Personen gruppieren kann. Diese können per
-        Frontend-Modul ausgegeben werden.
+        Im Back end können verschiedene Archive angelegt werden in denen man Personen gruppieren kann. Diese können per
+        Front-end-Modul ausgegeben werden.
     keywords:
         - Person
         - Personen

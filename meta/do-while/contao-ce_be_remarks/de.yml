@@ -1,7 +1,7 @@
 de:
-    title: Backend Hinweise
+    title: Back end Hinweise
     description: >
-        Backend Hinweise und Anmerkungen, z.B. für Redakteure im Backend als Content-Element, Backend-Formularfeld oder im CSS-Editor anlegen.
+        Back end Hinweise und Anmerkungen, z.B. für Redakteure im Back end als Content-Element, Back-end-Formularfeld oder im CSS-Editor anlegen.
     keywords:
         - contao
         - bundle

@@ -1,7 +1,7 @@
 de:
     title: Leaflet Geocode Widget
     description: >
-        Diese Erweiterung stellt zwei Backend Widgets zur Geokodierung von Adressen inkl. Umkreis zur Verfügung.
+        Diese Erweiterung stellt zwei Back end Widgets zur Geokodierung von Adressen inkl. Umkreis zur Verfügung.
 
     keywords:
         - leaflet

@@ -1,9 +1,9 @@
 de:
     title: con4gis-Projects
     description: >
-        con4gis-Projects wird zur Erstellung von Frontend-Modulen eingesetzt. Dabei können verschiedene Datensichten definiert werden.
+        con4gis-Projects wird zur Erstellung von Front-end-Modulen eingesetzt. Dabei können verschiedene Datensichten definiert werden.
         Der Aufbau von komplexen Listen und Formularen ist möglich. Außerdem gibt es verschiedene Möglichkeiten zur Einschränkung der Nutzerbasis.
     keywords:
         - con4gis
-        - Frontend Framework
+        - Front end Framework
         - Webanwendungen
