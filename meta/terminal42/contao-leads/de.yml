@@ -5,7 +5,7 @@ de:
 
         Alle Konfigurationen können im Formulargenerator von Contao vorgenommen werden.
 
-        Die Lead-Erweiterung bietet zusätzlich eine Export-Funktion im Back end. Du kannst den Export nach Deinen Wünschen
+        Die Lead-Erweiterung bietet zusätzlich eine Export-Funktion im Backend. Du kannst den Export nach Deinen Wünschen
         anpassen und es stehen Export-Optionen für CSV und Excel zur Verfügung. Du musst lediglich die Erweiterung
         [php_excel] oder das "phpoffice / phpexcel-Paket" für die Excel-Unterstützung installieren.
     keywords:

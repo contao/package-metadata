@@ -2,7 +2,7 @@ de:
     title: con4gis-Tracking
     description: >
         Dieser con4gis Baustein besteht aus mehreren Teilen. Das Contao-Bundle, ein weiteres Modul für Android und eine Android-App (app4gis) sind veröffentlicht und erweitern con4gis-Maps um verschiedene Tracking-Funktionen.
-        Dazu zählen das Aufzeichnen von Strecken, das Hinzufügen von Punkten (POIs) sowie das Live-Tracking. Alle Informationen sind sowohl im Back- als auch im Front end editierbar und können auf einer oder mehreren Karten, dargestellt werden.
+        Dazu zählen das Aufzeichnen von Strecken, das Hinzufügen von Punkten (POIs) sowie das Live-Tracking. Alle Informationen sind sowohl im Back- als auch im Frontend editierbar und können auf einer oder mehreren Karten, dargestellt werden.
         Die Sichtbarkeiten und das Editieren können mit einer präzisen Rechtesteuerung konfiguriert werden. Somit haben Sie die volle Kontrolle über diese sensiblen Daten.
         Zusätzlich gibt es für den Bereich der Telematik weitere Bausteine, die wir nicht kostenfrei anbieten können. Nimm mit uns Kontakt auf, wenn du in deiner Contao-Anwendung professionelle Positionsverfolgung wünschst.
     keywords:

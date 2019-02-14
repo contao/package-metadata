@@ -1,7 +1,7 @@
 de:
-    title: Back end User Online
+    title: Backend User Online
     description: >
-        Zeigt im Back end den Online-Status der Back-end- und Front-end-Benutzer an.
+        Zeigt im Backend den Online-Status der Backend- und Frontend-Benutzer an.
     keywords:
         - contao
         - bundle

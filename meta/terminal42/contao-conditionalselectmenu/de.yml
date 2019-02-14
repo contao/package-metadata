@@ -1,7 +1,7 @@
 de:
     title: Abhängiges Select-Menü
     description: >
-        Dieses Select-Menü ändert dynamisch seine Optionen, abhängig davon was du in seinem übergeordneten Menü auswählst. Dies ist ein neues Front-end- und Back-end-Feld, und unterstützt auch den Formulargenerator.
+        Dieses Select-Menü ändert dynamisch seine Optionen, abhängig davon was du in seinem übergeordneten Menü auswählst. Dies ist ein neues Frontend- und Backend-Feld, und unterstützt auch den Formulargenerator.
         Nützlich immer dann wenn du eine Auswahlmöglichkeit anhand einer anderen Auswahl anzeigen willst.
     keywords:
         - Formulargenerator

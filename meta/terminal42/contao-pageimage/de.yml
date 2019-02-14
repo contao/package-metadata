@@ -1,10 +1,10 @@
 de:
     title: Bild pro Seite festlegen
     description: >
-        Nach der Installation dieser Erweiterung kann in der Seitenstruktur für jede Seite ein Bild gewählt werden. Mit Hilfe des entsprechenden Front-end-Moduls kann dieses Bild dann auf der Website an der gewünschten Stelle angezeigt werden. Falls für eine Seite kein Bild vorhanden ist, kann auf Wunsch das Bild der übergeordneten Seite angezeigt werden.
+        Nach der Installation dieser Erweiterung kann in der Seitenstruktur für jede Seite ein Bild gewählt werden. Mit Hilfe des entsprechenden Frontend-Moduls kann dieses Bild dann auf der Website an der gewünschten Stelle angezeigt werden. Falls für eine Seite kein Bild vorhanden ist, kann auf Wunsch das Bild der übergeordneten Seite angezeigt werden.
     keywords:
         - Seitenstruktur
         - Bild
         - Seite
         - Background
-        - Front end
+        - Frontend

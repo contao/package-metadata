@@ -3,7 +3,7 @@ de:
     description: >
         Banner Bundle ist eine Contao 4 Erweiterung zur Anzeige von Banner Bilder und Texten mit einer einfachen Form der Gewichtung über Prioritäten.
 
-        Im Back end gibt es dazu eine Statistikübersicht.
+        Im Backend gibt es dazu eine Statistikübersicht.
     keywords:
         - contao
         - bundle
