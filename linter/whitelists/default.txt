@@ -24,7 +24,7 @@ PhotoSwipe
 Slack
 Catalog
 Manager
-Backend
+Back end
 Bing
 Bundle
 Bundles
@@ -42,11 +42,11 @@ WhatsApp
 Widget
 Widgets
 Wizard
-backend
+back end
 contao
 estao
 geocoding
-Frontend
+Front end
 Framework
 Footer
 theme
@@ -122,7 +122,7 @@ ajax
 amp
 app
 euf
-frontend
+front end
 gis
 google
 googlemaps

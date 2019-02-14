@@ -24,7 +24,6 @@ Auflistungsmodul
 Ausserdem
 Automatisierungsaufgaben
 Backed
-Backend
 Backendmodul
 Basisbibliotheken
 Benachrichtigungstypen
@@ -119,7 +118,6 @@ Formulargenenerator
 Formulargenerator
 Formvalidation
 Framework
-Frontend
 Frontendmodul
 Frontendmodule
 GIS
@@ -365,7 +363,6 @@ amphtml
 app
 assets
 ausserdem
-backend
 base
 bla
 bokking
