@@ -1,7 +1,7 @@
 en:
     title: Catalog Manager
     description: >
-        Catalog Manager allows you to create own backend modules and organize your data.
+        Catalog Manager allows you to create own back end modules and organize your data.
         More information can be found on the official Catalog Manager pages.
     keywords:
         - contao
@@ -9,5 +9,5 @@ en:
         - radius search
         - filter
         - search
-        - frontend editing
+        - front end editing
         - list

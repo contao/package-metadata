@@ -1,7 +1,7 @@
 en:
     title: Listing of companies grouped by archives
     description: >
-        You can create archives containing companies in the backend and display them by modules in the frontend.
+        You can create archives containing companies in the back end and display them by modules in the front end.
     keywords:
         - company
         - companies

@@ -1,7 +1,7 @@
 en:
     title: Bootstrap For Contao Navbar
     description: >
-        The components provides a frontend module of the Bootstrap navbar component.
+        The components provides a front end module of the Bootstrap navbar component.
     keywords:
         - bootstrap
         - bootstrap 4
