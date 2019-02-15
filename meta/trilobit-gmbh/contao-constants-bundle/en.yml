@@ -1,7 +1,7 @@
 en:
     title: Contao 4 Constants Bundle
     description: >
-        The Constants Bundle adds Constants to the backend of Contao, where you can specify one or more constants with a label and its associated value.
+        The Constants Bundle adds Constants to the back end of Contao, where you can specify one or more constants with a label and its associated value.
         These can then be inserted through an insert-tag throughout your Contao installation.
     keywords:
         - constants

@@ -5,7 +5,7 @@ de:
         Nach der Stylesheet-Generierung erscheint der Backend-Header in einer anderen Farbe und es wird ein Umgebungshinweis angezeigt.
     keywords:
         - contao
-        - backend
+        - back end
         - customizer
         - header
         - environment
