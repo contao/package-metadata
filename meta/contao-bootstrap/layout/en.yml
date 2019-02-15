@@ -1,7 +1,7 @@
 en:
     title: Bootstrap For Contao Layout
     description: >
-        The layout component extends the page layouts of Contao to create css class based page layouts.
+        The layout component extends the page layouts of Contao to create CSS class based page layouts.
 
     keywords:
         - bootstrap
