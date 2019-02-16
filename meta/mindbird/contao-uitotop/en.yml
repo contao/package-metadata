@@ -2,7 +2,7 @@ en:
     title: Jump to top button
     description: >
         The module can be placed at the front end and displays a button to jump to top of the page. You can adjust
-        the content (text, iconfont) of the button at the module settings.
+        the content (text, icon font) of the button at the module settings.
         The jQuery Plugin UItoTop from Matt Varone will be included and jQuery has to be turned on in the layout.
     keywords:
         - top

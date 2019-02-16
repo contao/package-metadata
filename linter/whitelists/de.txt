@@ -22,7 +22,6 @@ Ausserdem
 Automatisierungsaufgaben
 Avatar
 Avatare
-Backed
 Backendmodul
 Basisbibliotheken
 Bedingungsfelder
@@ -129,7 +128,6 @@ Hooks
 Iconfont
 Immobilienlösung
 Immobilienmakler
-Immobilienscout
 Immobiliensoftware
 Inhaltselement
 Inhaltselemente

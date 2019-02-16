@@ -1,7 +1,7 @@
 en:
     title: Contao 4 Serverhint Bundle
     description: >
-        Contao-Backed server-dependent color adjustment (title bar, highlighting active menu item) and text hint next to the Contao logo to better distinguish "local", "staging" and "production".
+        Contao back end server-dependent color adjustment (title bar, highlighting active menu item) and text hint next to the Contao logo to better distinguish "local", "staging" and "production".
     keywords:
-        - Contao-Backed
+        - Contao back end
         - server-dependent
