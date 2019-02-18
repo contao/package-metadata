@@ -1,0 +1,9 @@
+de:
+    title: Logo Modul
+    description: >
+        Fügt ein Logo Modul zu Contao hinzu, um ein Bild auszuwälen und im
+        Layout zu platzieren.
+    keywords:
+        - logo
+        - image
+        - picture

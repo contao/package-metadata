@@ -1,0 +1,9 @@
+en:
+    title: Account mail
+    description: >
+        Sends a user his own access data, if they are changed in the backend.
+    keywords:
+        - email
+        - account
+        - notification
+        - user

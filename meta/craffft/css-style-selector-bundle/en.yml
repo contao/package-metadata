@@ -1,0 +1,10 @@
+en:
+    title: CSS style selector
+    description: >
+        Define CSS classes with a legible name, so that the editors only have
+        to select the name from a selection list and no longer need to remember
+        CSS classes.
+    keywords:
+        - css
+        - style
+        - util

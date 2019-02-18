@@ -1,0 +1,10 @@
+de:
+    title: CSS Style Wähler
+    description: >
+        Definieren Sie CSS Klassen mit einer gut lesbaren Bezeichnung, damit die
+        Redakteure nur noch die Bezeichnung aus einer Auswahlliste wählen und
+        sich keine CSS Klassen mehr merken müssen.
+    keywords:
+        - css
+        - style
+        - util

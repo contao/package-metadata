@@ -1,0 +1,8 @@
+de:
+    title: Serverseitiger Session Speicher
+    description: >
+        Ermöglicht das Speichern von Daten im Server Speicher.
+    keywords:
+        - storage
+        - session
+        - server-side
