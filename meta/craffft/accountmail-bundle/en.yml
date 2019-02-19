@@ -1,7 +1,7 @@
 en:
     title: Account mail
     description: >
-        Sends a user his own access data, if they are changed in the backend.
+        Sends a user his own access data, if they are changed in the back end.
     keywords:
         - email
         - account
