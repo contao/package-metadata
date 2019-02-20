@@ -1,7 +1,7 @@
 de:
     title: Passwort Manager
     description: >
-        Ein Passwort Manager, der die Zu­gangs­da­ten verschlüsselt in der Contao
+        Ein Passwort Manager, der die Zugangsdaten verschlüsselt in der Contao
         Datenbank hinterlegt.
     keywords:
         - password

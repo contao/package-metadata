@@ -37,6 +37,7 @@ Templates
 Templating
 Themes
 Theme
+Token
 Usability
 WhatsApp
 Widget
@@ -72,6 +73,7 @@ PDF
 PDFs
 PNG
 POIs
+OAuth
 OpenStreetMap
 OpenGraph
 OpenLayers
@@ -107,6 +109,7 @@ DOM
 Email
 EuF
 Facebook
+iCal
 InsertTags
 KuteJS
 LTS

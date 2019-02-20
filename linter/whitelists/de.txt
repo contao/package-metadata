@@ -148,6 +148,8 @@ Kompetenzteams
 Konfiguartionsdatei
 Konfigurator
 Kontextmenü
+Kreuztabelle
+Kreuztabellen
 Language
 Layoutvorlage
 Lead
@@ -216,6 +218,7 @@ Projects
 Pull
 Push
 Queue
+QR
 Rechnungs
 Rechtesteuerung
 Rechtsklick
@@ -238,6 +241,7 @@ Seitentyp
 Select
 Serverabhängig
 Serverhint
+Serverseitiger
 Sichtbarkeiten
 Slave
 Slider
@@ -284,6 +288,7 @@ Varone
 Vermietungsabteilung
 Vollbildkarte
 Vorlagedatei
+Währungsfeld
 Webseite
 Webseitenwurzel
 Webservices
@@ -292,7 +297,7 @@ Weiterleitungsseiten
 Wohnungsunternehmen
 Wrapper
 Zielseiten
-Zu­gangs­da­ten
+Zugangsdaten
 ajaxpagenierung
 alone
 amphtml
