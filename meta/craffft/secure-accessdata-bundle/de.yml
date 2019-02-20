@@ -1,8 +1,8 @@
 de:
     title: Passwort Manager
     description: >
-        Secure Accessdata ist ein Passwortmanager, welcher die Zugangsdaten
-        verschlüsselt in der Contao Datenbank hinterlegt.
+        Ein Passwortmanager, der die Zugangsdaten verschlüsselt in der Contao
+        Datenbank hinterlegt.
     keywords:
         - password
         - safe
