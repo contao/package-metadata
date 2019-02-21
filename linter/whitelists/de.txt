@@ -218,7 +218,6 @@ Projects
 Pull
 Push
 Queue
-QR
 Rechnungs
 Rechtesteuerung
 Rechtsklick

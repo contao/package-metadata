@@ -103,6 +103,8 @@ Analytics
 excel
 phpoffice
 phpexcel
+Barcode
+barcode
 Bynder
 DCA
 DOM
@@ -118,6 +120,7 @@ Mapbox
 OGC
 OSRM
 Overpass
+QR
 Stylesheet
 UI
 WMS

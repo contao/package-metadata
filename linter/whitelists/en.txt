@@ -6,7 +6,6 @@ AntiSpam
 Assets
 Assistant
 Avatar
-Barcode
 Bootstrapper
 Calculator
 Card
@@ -102,7 +101,6 @@ Varone
 alone
 amphtml
 assets
-barcode
 base
 bla
 canonical
