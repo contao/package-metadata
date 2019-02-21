@@ -1,0 +1,8 @@
+en:
+    title: Currencies widget
+    description: >
+        Adds a currency widget to Contao
+    keywords:
+        - currency
+        - money
+        - wizard

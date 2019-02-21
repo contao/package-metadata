@@ -1,0 +1,8 @@
+en:
+    title: Server side session storage
+    description: >
+        Allows storing data in server memory.
+    keywords:
+        - storage
+        - session
+        - server-side

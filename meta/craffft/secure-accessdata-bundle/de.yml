@@ -1,0 +1,9 @@
+de:
+    title: Passwort Manager
+    description: >
+        Ein Passwort Manager, der die Zugangsdaten verschlüsselt in der Contao
+        Datenbank hinterlegt.
+    keywords:
+        - password
+        - safe
+        - security

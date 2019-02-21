@@ -21,6 +21,8 @@ Cookiebar
 Cookieconsent
 Core
 Creator
+Crosstab
+Crosstabs
 Custom
 Customizer
 DC

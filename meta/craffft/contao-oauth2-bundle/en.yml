@@ -1,0 +1,8 @@
+en:
+    title: OAuth2
+    description: >
+        Symfony OAuth2 support for Contao
+    keywords:
+        - oauth
+        - authentication
+        - security

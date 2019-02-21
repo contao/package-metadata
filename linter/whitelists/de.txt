@@ -148,6 +148,8 @@ Kompetenzteams
 Konfiguartionsdatei
 Konfigurator
 Kontextmenü
+Kreuztabelle
+Kreuztabellen
 Language
 Layoutvorlage
 Lead
@@ -238,6 +240,7 @@ Seitentyp
 Select
 Serverabhängig
 Serverhint
+Serverseitiger
 Sichtbarkeiten
 Slave
 Slider
@@ -274,6 +277,7 @@ Touch
 Tracking
 Trigger
 TwitterReader
+Übersetzungsfelder
 UItoTop
 Umgebungshinweis
 Umkreissuche
@@ -283,6 +287,7 @@ Varone
 Vermietungsabteilung
 Vollbildkarte
 Vorlagedatei
+Währungsfeld
 Webseite
 Webseitenwurzel
 Webservices
@@ -291,6 +296,7 @@ Weiterleitungsseiten
 Wohnungsunternehmen
 Wrapper
 Zielseiten
+Zugangsdaten
 ajaxpagenierung
 alone
 amphtml

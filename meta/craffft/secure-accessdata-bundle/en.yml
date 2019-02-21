@@ -1,0 +1,9 @@
+en:
+    title: Password manager
+    description: >
+        A password manager that stores the access data encrypted in the Contao
+        database.
+    keywords:
+        - password
+        - safe
+        - security
