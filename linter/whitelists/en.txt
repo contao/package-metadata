@@ -59,7 +59,6 @@ Formvalidation
 formvalidation
 functionalities
 Gallery
-german
 Geo
 geo
 Geocode
