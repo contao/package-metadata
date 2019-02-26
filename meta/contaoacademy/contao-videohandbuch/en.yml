@@ -1,7 +1,11 @@
 en:
     title: video manual for editors
     description: >
+<<<<<<< HEAD
         A german manual for users and editors that is integrated directly into the Contao back end. All important functions explained by video.
+=======
+        A manual for users and editors that is integrated directly into the Contao back end. All important functions explained by video.
+>>>>>>> 6d7cc49b993a1bce04d87d50947d75d72ef0d622
     keywords:
         - video manual
         - videotraining
