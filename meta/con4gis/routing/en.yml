@@ -9,6 +9,8 @@ en:
         - ORS
         - Openrouteservice
         - OSRM
+        - Graphhopper
+        - Valhalla
         - proximity search
         - distances
         - route
