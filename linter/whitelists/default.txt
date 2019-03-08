@@ -55,6 +55,7 @@ Google
 google
 googlemaps
 GPX
+Graphhopper
 iCal
 ImmobilienScout
 InsertTags
@@ -127,6 +128,7 @@ Twig
 Twitter
 UI
 Usability
+Valhalla
 WhatsApp
 Widget
 Widgets
