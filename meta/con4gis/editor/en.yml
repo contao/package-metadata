@@ -1,0 +1,13 @@
+en:
+    title: con4gis-Editor
+    description: >
+        The con4gis Editor bundle is an extension of the con4gis Maps bundle. It enables a front end editing tool, which can be used to draw different geometries onto a map.
+    keywords:
+        - con4gis
+        - maps
+        - Editor
+        - drawing
+        - polygons
+        - circles
+        - geometries
+        - projects
