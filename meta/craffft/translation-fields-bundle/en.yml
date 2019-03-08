@@ -1,0 +1,8 @@
+en:
+    title: Translation fields
+    description: >
+        Adds translation fields to Contao
+    keywords:
+        - translation
+        - i18n
+        - fields

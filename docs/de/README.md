@@ -40,7 +40,7 @@ de:
       ...
 ```
 
-Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "Sie" an.
+Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
 
 ## Öffentliche vs. private/proprietäre Pakete
@@ -50,6 +50,12 @@ nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pake
 Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
 und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
+
+## Rechtschreibprüfung
+
+Die Metadaten werden automatisch auf korrekte Rechtschreibung überprüft. Wenn die Überprüfung fehlschlägt, du dir aber sicher bist, 
+dass das Wort korrekt ist, musst du womöglich die Whitelists aktualisieren. Diese werden im Ordner `linter/whitelists` nach Sprache 
+gepflegt. Eigennamen und andere Begriffe, die in jeder Sprache identisch sind, werden in `default.txt` gepflegt.
 
 ## Unterstützte Sprachen
 

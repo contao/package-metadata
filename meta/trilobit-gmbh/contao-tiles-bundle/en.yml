@@ -1,0 +1,9 @@
+en:
+    title: Contao 4 Tiles Bundle
+    description: >
+        With trilobit_tiles you can automatically generate favicons, tiles and touch icons for different devices from one single image and include it into the source code.
+    keywords:
+        - favicons
+        - tiles
+        - touch icons
+        - source code

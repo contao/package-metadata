@@ -2,7 +2,7 @@ de:
     title: OpenGraph Tags
     description: >
         Fügt Seiten konfigurierbare OpenGraph Metatags hinzu, die auf Unterseiten vererbt werden.
-        Das Metadaten-Tempalte lässt sich anpassen (Twig).
+        Das Metadaten-Template lässt sich anpassen (Twig).
     keywords:
         - opengraph
         - tag

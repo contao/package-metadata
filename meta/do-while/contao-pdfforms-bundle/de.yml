@@ -1,0 +1,12 @@
+de:
+    title: PDF-Formularausgaben
+    description: >
+        Diese Contao-Erweiterung erweitert den Formulargenerator von Contao 4 um die Möglichkeit, mit den im Online-Formular eingegebenen Daten eine PDF-Vorlage auszufüllen, zu speichern und zu versenden.
+        Funktionsfähige DEMO-Version mit Einschränkungen, die Vollversion benötigt eine Lizenz.
+    keywords:
+        - contao
+        - bundle
+        - pdfforms
+        - formular
+        - ausfüllen
+        - pdf versenden

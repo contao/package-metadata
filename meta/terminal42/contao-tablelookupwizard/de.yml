@@ -1,0 +1,9 @@
+de:
+    title: TableLookupWizard-Widget
+    description: >
+        Mit diesem Widget kannst du aus einer Tabelle Datensätze suchen und auswählen. Der Hauptvorteil besteht darin,
+        dass nicht alle Datenbank Datensätze aufgelistet werden müssen. Daher ist es sehr nützlich, wenn du viele
+        Datensätze hast.
+    keywords:
+        - Widget
+        - TableLookupWizard

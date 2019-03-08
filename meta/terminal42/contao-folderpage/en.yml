@@ -1,0 +1,10 @@
+en:
+  title: Folder page
+  description: >
+    This extension provides a new page type for Contao that allows you to group pages into folders.
+    If you have many pages, this tiny bundle can greatly improve the usability.
+  keywords:
+    - page type
+    - tool
+    - management
+    - back end

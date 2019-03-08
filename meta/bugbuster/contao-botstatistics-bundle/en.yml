@@ -1,7 +1,7 @@
 en:
     title: Bot Statistics
     description: >
-        BotStatistics counts the number of bot requests (visits, pages).
+        Bot Statistics counts the number of bot requests (visits, pages).
 
         In the back end there are a statistic overview.
     keywords:

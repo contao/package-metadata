@@ -1,0 +1,9 @@
+en:
+    title: Insert tags to replace content
+    description: >
+        The Custom Insert tags module is a powerful tool to dynamically change your website content. You can add as many Insert tags as you like, order them and apply rules. Limit certain Insert tags to pages, specific dates and/or times of the day, or even define your own custom rules.
+    keywords:
+        - Insert tags
+        - content
+        - back end
+        - front end

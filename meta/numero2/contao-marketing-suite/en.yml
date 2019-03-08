@@ -1,0 +1,10 @@
+en:
+    title: Contao Marketing Suite
+    description: >
+        The package adds marketing functionalities to Contao. The Contao Marketing Suite enables dynamic playout of content to
+        provide visitors with relevant information. Furthermore there is A/B test, SEO support, text creation tools, own tracking
+        for links and forms. In addition, a button generator, a configurable cookie bar (already compliant with EU privacy)
+        and many other marketing functions for professional marketing with Contao.
+    keywords:
+        - contao
+        - marketing

@@ -1,0 +1,9 @@
+en:
+    title: Avatar Extension
+    description: >
+        Adds the avatar functionality to the Contao for the users and members.
+    keywords:
+        - avatar
+        - members
+        - users
+        - profile

@@ -1,0 +1,10 @@
+en:
+    title: Conditional select menu
+    description: >
+        This powerful new widget dynamically presents options depending on the parent select-menu. It is a new back end and front end field, and also supports the form generator.
+    keywords:
+        - form generator
+        - form
+        - select menu
+        - User groups
+        - Conditional

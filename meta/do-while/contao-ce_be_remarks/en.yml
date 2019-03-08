@@ -1,0 +1,10 @@
+en:
+    title: Back end remarks
+    description: >
+        Add back end remarks and notes, e.g. for editors in the back end as content element, back end form field or in the CSS editor.
+    keywords:
+        - contao
+        - bundle
+        - back end
+        - remarks
+        - notes

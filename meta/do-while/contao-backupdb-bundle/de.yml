@@ -1,0 +1,10 @@
+de:
+    title: Datenbanksicherung
+    description: >
+        Sicherung der Contao-Datenbank, automatisches Backup, Erstellung von Website-Templates für das Install Tool.
+    keywords:
+        - contao
+        - bundle
+        - datenbank
+        - backup
+        - webseiten template

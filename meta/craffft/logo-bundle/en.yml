@@ -1,0 +1,9 @@
+en:
+    title: Logo module
+    description: >
+        Adds a logo module to Contao to create a picture and place it in the
+        layout.
+    keywords:
+        - logo
+        - image
+        - picture

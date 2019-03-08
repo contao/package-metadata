@@ -29,6 +29,11 @@ class LintCommand extends Command
      */
     private $io;
 
+    /**
+     * @var SpellChecker
+     */
+    private $spellChecker;
+
     protected function configure()
     {
         $this
@@ -41,6 +46,8 @@ class LintCommand extends Command
     {
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
+
+        $this->spellChecker = new SpellChecker(__DIR__.'/../whitelists');
 
         $finder = new Finder();
         $finder->files()->in(__DIR__.'/../../meta')->depth('== 2')->name('*.{yaml,yml}');
@@ -77,7 +84,7 @@ class LintCommand extends Command
             $requiresHomepage = $this->isPrivatePackage($package);
 
             // Content
-            if (!$this->validateContent($content[$language], $requiresHomepage)) {
+            if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage)) {
                 $this->error($package, $language, 'The YAML file contains invalid data.');
 
                 return 1;
@@ -112,7 +119,7 @@ class LintCommand extends Command
         return $packageCache[$package] = false;
     }
 
-    private function validateContent(array $content, bool $requiresHomepage): bool
+    private function validateContent(string $package, string $language, array $content, bool $requiresHomepage): bool
     {
         $data = json_decode(json_encode($content));
 
@@ -127,6 +134,28 @@ class LintCommand extends Command
         foreach ($validator->getErrors() as $error) {
             $message = $error['message'].(('' !== $error['property']) ? (' ['.$error['property'].']') : '');
             $this->io->error($message);
+        }
+
+        // Spellcheck certain properties
+        foreach (['title', 'description'] as $key) {
+            if (!isset($content[$key])) {
+                continue;
+            }
+
+            $errors = $this->spellChecker->spellCheck($content[$key], $language);
+            if (0 !== \count($errors)) {
+                $this->error(
+                    $package,
+                    $language,
+                    sprintf(
+                        'Property "%s" does not pass the spell checker. Either update the whitelist or fix the spelling :) Errors: %s',
+                        $key,
+                        implode(', ', $errors)
+                    )
+                );
+
+                return false;
+            }
         }
 
         return $validator->isValid();

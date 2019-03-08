@@ -1,0 +1,10 @@
+en:
+    title: Database backup
+    description: >
+        Backup of the Contao database, automatic backup, creation of website template for the install tool.
+    keywords:
+        - contao
+        - bundle
+        - database
+        - backup
+        - website template

@@ -2,6 +2,14 @@ language: php
 
 sudo: false
 
+addons:
+    apt:
+        packages:
+            - aspell
+            - aspell-en
+            - aspell-de
+            - aspell-cs
+
 php:
     - '7.2'
 

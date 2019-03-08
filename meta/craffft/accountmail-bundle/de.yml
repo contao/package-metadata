@@ -1,0 +1,10 @@
+de:
+    title: Account E-Mail
+    description: >
+        Sendet einem Benutzer seine eigenen Zugangsdaten zu, sofern diese im
+        Backend geändert werden.
+    keywords:
+        - email
+        - account
+        - notification
+        - user

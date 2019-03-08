@@ -1,0 +1,10 @@
+de:
+    title: Contao Text Wizard
+    description: >
+        contao-textwizard ist ein Backend Widget, das zum Hinzufügen oder Bearbeiten von einer Liste von Textfeldern verwendet werden kann, wie das Contao listWizard Widget. Zusätzlich zur listWizard-Funktionalität wählt contao-listwizard ein neu erstelltes Feld oder ein dupliziertes Feld aus und es fügt eine Schaltfläche zum Erstellen eines neuen, leeren Textfeldes hinzu.
+    keywords:
+        - text
+        - eingabefeld
+        - wizard
+        - back end
+        - widget

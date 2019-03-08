@@ -1,0 +1,7 @@
+en:
+    title: Persian date class for Contao
+    description: >
+        This extension shows Persian dates in the Contao front end.
+    keywords:
+        - Persian
+        - date
