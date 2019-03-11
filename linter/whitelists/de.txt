@@ -184,6 +184,7 @@ Konfigurator
 Kontextmenü
 Kreuztabelle
 Kreuztabellen
+Klartextwerte
 Language
 Layoutvorlage
 Lead
