@@ -127,6 +127,7 @@ Formulargenerators
 formvalidation
 Frontendmodul
 Frontendmodule
+Frontendformular
 für
 Gallery
 Geo
@@ -183,6 +184,7 @@ Konfigurator
 Kontextmenü
 Kreuztabelle
 Kreuztabellen
+Klartextwerte
 Language
 Layoutvorlage
 Lead

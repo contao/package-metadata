@@ -1,0 +1,8 @@
+en:
+  title: Protected select menu
+  description: >
+    Adds a new form select widget which hides the internal field values in the front end.
+  keywords:
+  - form
+  - field
+  - protect

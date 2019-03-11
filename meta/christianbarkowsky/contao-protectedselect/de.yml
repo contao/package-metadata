@@ -1,0 +1,9 @@
+de:
+  title: Geschütztes Select-Menü
+  description: >
+    Stellt ein Select-Menu für Formulare bereit, deren Klartextwerte nicht im Frontendformular angegeben sind.
+  keywords:
+  - Formular
+  - geschützt
+  - Schutz
+  - Formularfeld
