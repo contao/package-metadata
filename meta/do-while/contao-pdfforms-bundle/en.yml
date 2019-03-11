@@ -1,0 +1,12 @@
+en:
+    title: PDF form output
+    description: >
+        This Contao extension from Softleister expands the form generator and the ability to fill out a PDF template with the data entered in the online form, to store and to mail.
+        Functional DEMO version with restrictions, the full version requires a license.
+    keywords:
+        - contao
+        - bundle
+        - pdfforms
+        - forms
+        - fill out
+        - send pdf

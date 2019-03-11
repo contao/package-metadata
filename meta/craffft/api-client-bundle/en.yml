@@ -1,0 +1,9 @@
+en:
+    title: API Client
+    description: >
+        API Clients with Token Authentication for Contao
+    keywords:
+        - api
+        - client
+        - token
+        - authentication

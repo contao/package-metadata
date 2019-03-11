@@ -3,7 +3,7 @@ de:
     description: >
         Diese Erweiterung stellt eine Sammlung von für Bootstrap 4 angepassten Contao-Templates zur Verfügung.
 
-        Sie umfasst Tempaltes für die Suche, Registrierung, Benutzerdaten, RSS-Modul, Paginierung. Außerdem werden
+        Sie umfasst Templates für die Suche, Registrierung, Benutzerdaten, RSS-Modul, Paginierung. Außerdem werden
         zusätzliche Templates für die Navigation und für Galerien zur Verfügung gestellt.
     keywords:
         - bootstrap

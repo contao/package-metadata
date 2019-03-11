@@ -1,9 +1,9 @@
 en:
     title: EuF-Conversion-Tracking
     description: >
-        Contao Extension to add conversion tracking codes, such as from google adwords or facebook to a specific page.
+        Contao Extension to add conversion tracking codes, such as from Google adwords or Facebook to a specific page.
     keywords:
         - conversion tracking
         - google adwords
-        - facebook pixel
+        - Facebook pixel
         - google analytics

@@ -1,0 +1,8 @@
+en:
+    title: Barcode & QR-Code wizard
+    description: >
+        Adds a barcode and a QR code field to Contao.
+    keywords:
+        - qr-code
+        - barcode
+        - wizard

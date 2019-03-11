@@ -1,7 +1,7 @@
 en:
     title: Bootstrap For Contao Grid
     description: >
-        This extensions add a grid editor, content elements, form widgets and a frontend module for the usage of
+        This extensions add a grid editor, content elements, form widgets and a front end module for the usage of
         the Bootstrap grid.
     keywords:
         - bootstrap

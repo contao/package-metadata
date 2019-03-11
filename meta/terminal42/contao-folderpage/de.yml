@@ -1,0 +1,12 @@
+de:
+  title: Folder page
+  description: >
+    Diese Erweiterung stellt einen neuen Seitentyp für Contao zur Verfügung. Damit kannst du
+     Seiten in Ordner (Folder) gruppieren. Wenn du viele Seiten hast, wird dieses Bundle
+     die Usability deutlich verbessern.
+  keywords:
+    - Seitentyp
+    - Tool
+    - Verwaltung
+    - Backend
+

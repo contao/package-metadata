@@ -1,0 +1,8 @@
+en:
+    title: Crosstabs
+    description: >
+        Crosstab relations for Contao tables
+    keywords:
+        - crosstabs
+        - table
+        - relation

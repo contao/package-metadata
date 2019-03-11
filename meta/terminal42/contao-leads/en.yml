@@ -1,0 +1,21 @@
+en:
+    title: Leads
+    description: >
+        This extension allows you to store and manage form data within Leads. Each Lead consists of a master form and optional slave forms. The master form defines which fields are available. This approach helps you e.g. to implement multilingual forms and store all data in the same Lead.
+
+        All configuration can be done in the form generator from Contao. Additionally you can set a label for the
+        back end module of your Lead and define the listing of the form data using simple tags.
+
+        The leads extension additionally offers an export function for each Lead in the back end. You can configure it as
+        you wish! Export options for CSV and Excel are available. However you need to install either the [php_excel]
+        extension or the phpoffice/phpexcel package for Excel support, otherwise the Excel export option will not be
+        available.
+    keywords:
+        - form
+        - form data
+        - store
+        - Lead
+        - Leads
+        - export
+        - cvs
+        - excel

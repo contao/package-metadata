@@ -1,7 +1,7 @@
 en:
     title: Simple room reservation form
     description: >
-        A simple bokking form based on the contao calendar. You can integrate one form per calendar. Free times can be
+        A simple booking form based on the contao calendar. You can integrate one form per calendar. Free times can be
         booked.
     keywords:
         - booking

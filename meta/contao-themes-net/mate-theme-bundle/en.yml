@@ -1,7 +1,7 @@
 en:
-    title: Mate Theme
+    title: MATE Theme
     description: >
-        MATE is a theme that uses the Materialize frontend framework based on Material Design.
+        MATE is a theme that uses the Materialize front end framework based on Material Design.
 
         The theme is optimized for all devices and browsers. All modules and elements from the contao core are styled. Header, footer, content and the layout can be easily adapted and changed according to your wishes.
 

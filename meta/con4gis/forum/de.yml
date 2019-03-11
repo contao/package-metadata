@@ -1,7 +1,7 @@
 de:
     title: con4gis-Forum
     description: >
-        Mit con4gis-Forum können Sie schnell und einfach beliebig viele Foren in eine Contao-Installation implementieren.
+        Mit con4gis-Forum kannst du schnell und einfach beliebig viele Foren in eine Contao-Installation implementieren.
         Dieser con4gis-Baustein verwendet die weit verbreitete jQuery-UI-Bibliothek und kann daher mit ThemeRoller-CSS Dateien angepasst werden.
         Neben dem Texteditor und einer detaillierten Rechtesteuerung verfügt es über eine Anbindung an con4gis-Maps.
     keywords:
