@@ -1,0 +1,9 @@
+de:
+    title: DownloadMail
+    description: >
+        DownloadMail ist ein Erweiterung für das Open Source CMS Contao. Diese Version benötigt Contao 4, für Contao 3 bitte die erste Version verwenden.
+    keywords:
+        - download
+        - mail
+        - email
+        - mailadresse
