@@ -8,5 +8,5 @@ en:
         - redirect
         - rewrite
         - url
-        - 301
-        - 302
+        - '301'
+        - '302'
