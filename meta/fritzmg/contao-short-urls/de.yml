@@ -1,0 +1,13 @@
+de:
+    title: Contao Short URLs
+    description: >
+        Einfache Erweiterung um "Short URLs" im Contao Backend zu verwalten. Also Weiterleitungen zu Ressourcen hinter langen URLs.
+        Die Extension kann allerdings generell dafür eingesetzt werden, Weiterleitungen im Contao Backend zu verwalten.
+    keywords:
+        - contao
+        - redirect
+        - rewrite
+        - url
+        - '301'
+        - '302'
+        - weiterleitungen
