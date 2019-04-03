@@ -1,0 +1,9 @@
+de:
+    title: Contao News Sync
+    description: >
+        Contao Extension um automatisch Nachrichten Beiträge zwischen verschiedenen Installationen zu synchronisieren (oder nur importieren).
+    keywords:
+        - contao
+        - news
+        - sync
+        - import
