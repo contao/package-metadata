@@ -168,7 +168,6 @@ Inputtype
 Insert
 Install
 install
-js
 Kalenderformate
 Kartenanwendung
 Kartendiensten

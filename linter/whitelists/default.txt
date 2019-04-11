@@ -66,6 +66,7 @@ JavaScript
 JPEG
 JPG
 jQuery
+js
 KML
 KuteJS
 Leaflet
