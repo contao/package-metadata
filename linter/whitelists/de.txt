@@ -286,6 +286,8 @@ Routenplaner
 Routenplanung
 Schaltfläche
 Scheduler
+Scripts
+Scroll
 Search
 Seiteneigenschaften
 Seitenlayout
@@ -367,6 +369,7 @@ Webshop
 Weiterleitungsseiten
 wich
 Wohnungsunternehmen
+WOW
 Wrapper
 Währungsfeld
 yes
