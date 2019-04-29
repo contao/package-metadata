@@ -317,6 +317,7 @@ stylen
 Suchbegriff
 Suchmoduls
 Suchtreffer
+Sync
 Synchronisierung
 Syndikation
 system
