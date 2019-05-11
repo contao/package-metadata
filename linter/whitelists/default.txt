@@ -111,6 +111,7 @@ SimpleTokens
 Slack
 SMS
 Spotify
+Stardate
 Stylesheet
 stylesheet
 Symfony
@@ -124,6 +125,7 @@ Themes
 TinyJPG
 TinyPNG
 Token
+Trek
 trilobit
 Tweets
 Twig
