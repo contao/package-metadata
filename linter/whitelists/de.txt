@@ -38,6 +38,7 @@ Benachrichtigungszentrum
 Benutzerdaten
 Benutzereinstellungen
 Benutzergruppen
+Berechnungsarten
 Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
@@ -317,6 +318,7 @@ standardmässig
 Standardrechte
 Standortermittlung
 Statistikübersicht
+Sternzeit
 stylen
 Suchbegriff
 Suchmoduls
