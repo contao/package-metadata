@@ -1,0 +1,8 @@
+en:
+    title: con4gis-PWA
+    description: >
+        Adds PWA functionality to a contao application.
+    keywords:
+        - con4gis
+        - pwa
+        - progressive web app
