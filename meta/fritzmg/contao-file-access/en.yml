@@ -1,0 +1,9 @@
+en:
+    title: Contao File Access
+    description: >
+        Allows direct file access to protected files for logged in front end users.
+    keywords:
+        - contao
+        - file
+        - access
+        - protected

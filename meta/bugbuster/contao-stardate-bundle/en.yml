@@ -1,0 +1,9 @@
+en:
+    title: Star Trek Stardate
+    description: >
+        Star Trek stardate calculation for Contao Open Source CMS. There are 7 different calculation types.
+
+    keywords:
+        - contao
+        - bundle
+        - stardate

@@ -1,0 +1,12 @@
+en:
+    title: Contao Short URLs
+    description: >
+        Simple extension to provide "Short URLs", i.e. redirects to existing resources which otherwise have a longer URL. 
+        However this extension can be used to manage redirects in the Contao back end in general.
+    keywords:
+        - contao
+        - redirect
+        - rewrite
+        - url
+        - '301'
+        - '302'

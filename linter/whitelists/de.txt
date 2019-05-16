@@ -1,3 +1,4 @@
+Access
 Accordion
 Admins
 Advanced
@@ -37,6 +38,7 @@ Benachrichtigungszentrum
 Benutzerdaten
 Benutzereinstellungen
 Benutzergruppen
+Berechnungsarten
 Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
@@ -107,6 +109,7 @@ Fahrzeugbestand
 Fahrzeuginformationen
 Favicons
 Felderguppen
+File
 filterbare
 Filtereinstellungen
 Filterfunktionalität
@@ -127,6 +130,7 @@ Formulargenerators
 formvalidation
 Frontendmodul
 Frontendmodule
+Frontendformular
 für
 Gallery
 Geo
@@ -183,6 +187,7 @@ Konfigurator
 Kontextmenü
 Kreuztabelle
 Kreuztabellen
+Klartextwerte
 Language
 Layoutvorlage
 Lead
@@ -282,6 +287,8 @@ Routenplaner
 Routenplanung
 Schaltfläche
 Scheduler
+Scripts
+Scroll
 Search
 Seiteneigenschaften
 Seitenlayout
@@ -292,6 +299,7 @@ Select
 Serverabhängig
 Serverhint
 Serverseitiger
+Short
 Sichtbarkeiten
 Slave
 Slider
@@ -310,10 +318,12 @@ standardmässig
 Standardrechte
 Standortermittlung
 Statistikübersicht
+Sternzeit
 stylen
 Suchbegriff
 Suchmoduls
 Suchtreffer
+Sync
 Synchronisierung
 Syndikation
 system
@@ -362,6 +372,7 @@ Webshop
 Weiterleitungsseiten
 wich
 Wohnungsunternehmen
+WOW
 Wrapper
 Währungsfeld
 yes

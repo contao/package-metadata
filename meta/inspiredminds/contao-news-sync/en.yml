@@ -1,0 +1,10 @@
+en:
+    title: Contao News Sync
+    homepage: https://www.inspiredminds.at/contao-news-sync
+    description: >
+        Contao extension to automatically synchronize (or just import) news entries between different installations.
+    keywords:
+        - contao
+        - news
+        - sync
+        - import

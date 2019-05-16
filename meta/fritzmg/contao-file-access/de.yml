@@ -1,0 +1,13 @@
+de:
+    title: Contao File Access
+    description: >
+        Erlaubt den direkten Zugriff zu geschützten Dateien für eingeloggte Frontend Benutzer.
+    keywords:
+        - contao
+        - file
+        - access
+        - protected
+        - dateien
+        - verzeichnis
+        - schutz
+        - zugriff
