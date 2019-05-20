@@ -176,6 +176,7 @@ Kartenanwendung
 Kartendiensten
 Karteneditor
 Kartenlayern
+Kartentechnik
 Keys
 Keywords
 Klassenbasierte
@@ -318,6 +319,7 @@ staging
 standardmässig
 Standardrechte
 Standortermittlung
+Startbildschirm
 Statistikübersicht
 Sternzeit
 stylen
