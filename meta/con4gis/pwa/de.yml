@@ -1,8 +1,8 @@
 de:
     title: con4gis-PWA
     description: >
-        Mit dem Bundle können verschiedene PWA-Funktionen genutzt werden. Beispielsweise können Push-Nachrichten an Abonnementen versendet werden und Offline-Inhalte definiert werden. Außerdem kann die Website auf dem Startbildschirm installiert werden.
-        Die Erweiterung kann unabhängig vor der Kartentechnik verwendet werden.
+        Mit dem Bundle können verschiedene PWA-Funktionen genutzt werden. Beispielsweise können Push-Nachrichten an Abonnenten versendet werden und Offline-Inhalte definiert werden. Außerdem kann die Website auf dem Startbildschirm installiert werden.
+        Die Erweiterung kann unabhängig von der Kartentechnik verwendet werden.
     keywords:
         - con4gis
         - pwa
