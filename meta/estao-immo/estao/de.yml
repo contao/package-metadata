@@ -1,20 +1,66 @@
 de:
-    title: estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
+    title: estao®️ Immobilienlösung für Vermieter und Makler
     description: >
-        Vermarkte Mietwohnungen, Gewerbe und Stellplätze auf deiner Contao Website und ImmobilienScout24. Erstelle vermietungsoptimierte Exposés und Zielseiten für deine Quartiere sowie Zielgruppen. Die Immobilien-Erweiterung estao® präsentiert deine Mieteinheiten optimal – auch auf mobilen Endgeräten. Mit den Import- und Export-Schnittstellen spart deine Vermietungsabteilung wertvolle Zeit.
+        Vermarkten Sie Ihre Immobilien und Mietangebote einfach mit Contao 4. Vermieter- und Makler-Websites waren noch nie so einfach und schön. Die Immobilien-Erweiterung estao®️ präsentiert Ihre Exposés optimal – auch auf mobilen Geräten. Das mitgelieferte responsive Theme macht es möglich. Mehrsprachige Websites sind kein Problem. Testen Sie die Demo auf www.estao.de.
+
+        Import/Export für Vermieter
+        Mietobjekte können über das Backend händisch angelegt werden oder über Schnittstellen (OpenImmo, Wodis, CSV) automatisiert importiert werden. Exportieren können Sie Mietobjekte zu ImmobilienScout24.
+
+        Neu: Import für Makler
+        Importieren Sie Ihre Verkaufsobjekte mittels OpenImmo-Schnittstelle automatisiert in Ihre Website. Händisches Pflegen gehört damit der Vergangenheit an.
+
+        Suchabos
+        Mit Suchabos vermarkten Sie Ihre Objekte noch schneller. Interessenten erhalten verfügbare Angebote automatisiert per E-Mail, sobald diese auf der Website veröffentlicht werden.
+
+        Auf www.estao.de finden Sie Demo, Preise, Referenzen und Infos.
     keywords:
+        - immo
         - immobilien
-        - Immobiliensoftware
-        - ImmobilienScout24
-        - Immobilienmakler
+        - immobiliensoftware
+        - immobilienscout24
+        - immobilienmakler
+        - immobilienverkauf
+        - hausverkauf
+        - makler
+        - vermieter
+        - vermietung
+        - verkauf
+        - verkaufsobjekt
+        - verkaufsangebot
+        - mietangebot
+        - mietobjekt
+        - objekt
+        - einheit
+        - hausverwalter
+        - hausverwaltung
+        - verwalter
+        - verwaltung
+        - wohnungsunternehmen
+        - wohnungsbau
+        - wohnungsbaugenossenschaft
+        - wohnungswirtschaft
+        - wowi
         - open immo
         - openimmo
+        - csv
         - export
         - import
         - expose
-        - Wodis Sigma
-        - Aareon
-        - Contao
+        - wodis sigma
+        - aareon
+        - contao
+        - wohnung
+        - wg
+        - wohngemeinschaft
+        - haus
+        - eigentumswohnung
+        - einfamilienhaus
+        - mehrfamilienhaus
+        - reihenhaus
+        - grundstück
+        - stellplatz
+        - parkplatz
+        - garage
     homepage: https://www.estao.de/
     support:
       email: mail@estao.de
