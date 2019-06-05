@@ -1,0 +1,9 @@
+de:
+    title: Star Trek Sternzeit
+    description: >
+        Star Trek Sternzeit Berechnung für Contao Open Source CMS. Es sind 7 unterschiedlichen Berechnungsarten möglich.
+
+    keywords:
+        - contao
+        - bundle
+        - stardate

@@ -33,6 +33,7 @@ Dalley
 DCA
 DOM
 DOMPDF
+DownloadMail
 eCommerce
 eMail
 Email
@@ -65,6 +66,7 @@ JavaScript
 JPEG
 JPG
 jQuery
+js
 KML
 KuteJS
 Leaflet
@@ -109,6 +111,7 @@ SimpleTokens
 Slack
 SMS
 Spotify
+Stardate
 Stylesheet
 stylesheet
 Symfony
@@ -122,6 +125,7 @@ Themes
 TinyJPG
 TinyPNG
 Token
+Trek
 trilobit
 Tweets
 Twig
