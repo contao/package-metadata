@@ -387,3 +387,5 @@ OpenImmo
 Wodis
 Verkaufsobjekte
 Suchabos
+mobilfähig
+mobilfähige
