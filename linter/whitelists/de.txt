@@ -385,3 +385,8 @@ zeitintensiver
 Zielseiten
 Zugangsdaten
 Übersetzungsfelder
+Mietangebote
+Verkaufsobjekte
+Suchabos
+mobilfähig
+mobilfähige
