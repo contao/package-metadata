@@ -383,8 +383,6 @@ Zielseiten
 Zugangsdaten
 Übersetzungsfelder
 Mietangebote
-OpenImmo
-Wodis
 Verkaufsobjekte
 Suchabos
 mobilfähig

@@ -145,3 +145,5 @@ xliff
 XLS
 xls
 YouTube
+OpenImmo
+Wodis
