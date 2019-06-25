@@ -107,6 +107,7 @@ Events
 Expression
 Fahrzeugbestand
 Fahrzeuginformationen
+Farbschemen
 Favicons
 Felderguppen
 File
@@ -322,6 +323,7 @@ Standortermittlung
 Startbildschirm
 Statistikübersicht
 Sternzeit
+Style
 stylen
 Suchbegriff
 Suchmoduls
