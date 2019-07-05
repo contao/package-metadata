@@ -48,6 +48,7 @@ FAQs
 Feed
 Footer
 Framework
+Fred
 Front end
 front end
 Geocoder
@@ -60,6 +61,7 @@ google
 googlemaps
 GPX
 Graphhopper
+Heusschen
 iCal
 ImmobilienScout
 InsertTags
@@ -79,6 +81,7 @@ Manager
 Mapbox
 MetaModel
 MetaModels
+mmenu
 mPDF
 mpdf
 MultiColumnWizard
