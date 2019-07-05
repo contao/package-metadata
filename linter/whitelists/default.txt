@@ -48,6 +48,7 @@ FAQs
 Feed
 Footer
 Framework
+Fred
 Front end
 front end
 Geocoder
