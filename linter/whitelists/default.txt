@@ -26,6 +26,7 @@ Contao
 contao
 ContaoDMS
 ContaoMonitoring
+Cowegis
 Cron
 CSS
 CSV
@@ -49,6 +50,8 @@ Footer
 Framework
 Front end
 front end
+Geocoder
+geocoder
 geocoding
 GIS
 gis
@@ -94,6 +97,7 @@ pdf
 PDF
 PDFs
 PhotoSwipe
+PHP
 php
 phpexcel
 phpoffice

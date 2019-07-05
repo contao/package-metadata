@@ -141,6 +141,7 @@ Geodaten
 Geodatenbank
 Geoinformationssystemen
 Geokodierung
+Geokodierungsdienste
 gerendert
 gescannten
 gestylt
@@ -185,6 +186,7 @@ Kommentarfunktionalität
 kommentierbar
 Kompetenzteams
 Konfiguartionsdatei
+Konfigurationsoberfläche
 Konfigurator
 Kontextmenü
 Kreuztabelle
