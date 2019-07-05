@@ -121,6 +121,7 @@ Preview
 Privacy
 production
 Projects
+PWA
 Queue
 reimport
 rel

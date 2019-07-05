@@ -84,6 +84,7 @@ mpdf
 MultiColumnWizard
 Nominatim
 OAuth
+ODD
 OGC
 OpenGraph
 OpenLayers
@@ -149,3 +150,5 @@ xliff
 XLS
 xls
 YouTube
+OpenImmo
+Wodis
