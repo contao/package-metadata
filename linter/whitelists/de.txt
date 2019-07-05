@@ -177,6 +177,7 @@ Kartenanwendung
 Kartendiensten
 Karteneditor
 Kartenlayern
+Kartentechnik
 Keys
 Keywords
 Klassenbasierte
@@ -270,6 +271,7 @@ Programmierkenntnisse
 Projects
 Pull
 Push
+PWA
 Queue
 Rechnungs
 Rechtesteuerung
@@ -318,6 +320,7 @@ staging
 standardmässig
 Standardrechte
 Standortermittlung
+Startbildschirm
 Statistikübersicht
 Sternzeit
 Style
