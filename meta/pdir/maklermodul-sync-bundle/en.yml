@@ -1,0 +1,17 @@
+en:
+    title: Broker module sync
+    description: >
+        This bundle makes your broker module installation a full version. A domain license is necessary.
+
+        Find out more at https://www.maklermodul.de/
+    keywords:
+        - real estate
+        - open immo
+        - expose
+        - agent
+        - broker software
+        - broker office
+    homepage: https://www.maklermodul.de/
+    support:
+      email: info@maklermodul.de
+      docs: https://docs.maklermodul.de
