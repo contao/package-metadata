@@ -79,6 +79,7 @@ Manager
 Mapbox
 MetaModel
 MetaModels
+mmenu
 mPDF
 mpdf
 MultiColumnWizard
