@@ -13,3 +13,6 @@ en:
         - trucks
         - camper
         - motorcycle
+    homepage: https://pdir.de/mobilede.html
+    support:
+        docs: https://docs.pdir.de/#/mobilede/index
