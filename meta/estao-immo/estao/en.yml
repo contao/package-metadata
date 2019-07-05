@@ -1,16 +1,63 @@
 en:
-    title: estao® real estate solution for property managers and housing companies
+    title: estao® real estate solution for landlords and estate agents
     description: >
-      Use your Contao website and ImmobilienScout24 to market your rented flats, commercial premises and parking spaces. Create property descriptions and landing pages optimised for your districts and target groups. estao® is the ideal real-estate add-on to showcase your rented units – even on mobile devices. The import and export interfaces help your rental department save their valuable time.
+        Market your real estates and rental offers easily with Contao 4. Landlord and estate agent websites have never been this simple and beautiful. The real-estate add-on estao® is the best tool to present your property descriptions, also on mobile devices. This is possible with the supplied mobile-optimized theme. It even works with multilingual websites. Test the trial version on www.estao.de.
+
+        Import/export for landlords
+        Rental properties can be added by typing the content in the relevant fields on the back-end site or can be imported automatically over interfaces (OpenImmo, Wodis, CSV). You can export your real estates to ImmobilienScout24.
+
+        New: Import for estate agents
+        Import your sales objects by the OpenImmo interface automatically to your website. You do not have to maintain your information manually anymore.
+
+        Search subscriptions
+        With search subscriptions you market your real estates even faster. Prospective buyers receive available offers automatically by email as soon as they have been released on the website.
+
+        You can find a trial version, our prices, references and information on www.estao.de
     keywords:
+        - immo
         - real estate
+        - real estates
         - ImmobilienScout24
+        - real-estate software
+        - estate agent
+        - real-estate sale
+        - home sale
         - agent
+        - landlord
+        - lease
+        - sale
+        - sales object
+        - sales offer
+        - rental offer
+        - rental property
+        - property
+        - unit
+        - property manager
+        - property management
+        - manager
+        - management
+        - housing company
+        - housing construction
+        - housing construction cooperative
+        - housing industry
+        - wowi
         - open immo
         - openimmo
+        - csv
         - export
         - import
+        - property description
+        - flat
+        - flat-sharing community
         - expose
+        - home
+        - freehold flat
+        - single-family home
+        - multi-family home
+        - terraced house
+        - parking space
+        - parking area
+        - garage
         - Wodis Sigma
         - Aareon
         - Contao
