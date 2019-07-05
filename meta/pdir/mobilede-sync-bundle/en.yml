@@ -1,0 +1,18 @@
+en:
+    title: Mobile.de Ads Sync
+    description: >
+        This bundle makes your Mobile.de Ads installation a full version. A domain license is necessary.
+
+        More information https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+    keywords:
+        - car dealer
+        - mobile
+        - ads
+        - cars
+        - automobile
+        - trucks
+        - camper
+        - motorcycle
+    homepage: https://pdir.de/mobilede.html
+    support:
+        docs: https://docs.pdir.de/#/mobilede/index
