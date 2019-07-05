@@ -2,7 +2,7 @@ en:
     title: Cowegis Contao Geocoder
     description: >
         This extension integrates the Geocoder PHP library (http://geocoder-php.org/) into Contao CMS.
-        It's designed for other extensions to use a common geocoder implementation.
+        It provides a configuration interface for the supported geocoding services so that they can be used in projects.
     keywords:
         - geocoder
         - geo location

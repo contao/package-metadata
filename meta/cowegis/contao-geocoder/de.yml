@@ -1,8 +1,9 @@
 de:
     title: Cowegis Contao Geocoder
     description: >
-        Diese Erweiterung integriert die Geocoder PHP Bibliothek (http://geocoder-php.org/) in Contao. Es ist als
-        Basis für andere Erweiterungen konzipiert.
+        Diese Erweiterung integriert die Geocoder PHP Bibliothek (http://geocoder-php.org/) in Contao. Sie bietet eine
+        Konfigurationsoberfläche für die unterstützten Geokodierungsdienste, sodass diese in Projekten genutzt werden
+        können.
     keywords:
         - geocoder
         - geo location
