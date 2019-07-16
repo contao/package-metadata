@@ -1,5 +1,5 @@
 de:
-    title: Contao 4 Socialmedia Bundle
+    title: Contao 4 Formvalidation Bundle
     description: >
         trilobit_formvalidation bietet Ihnen eine Live Validierung von Formularfeldern basierend auf der LiveValidation JavaScript-Bibliothek.
         Die Validierung erfolgt während der Eingabe. CSS Klassen werden verwendet, um den Benutzern sofortiges Feedback zu geben.
