@@ -1,0 +1,10 @@
+en:
+    title: Google Analytics News Sorting
+    homepage: https://www.inspiredminds.at/contao-google-analytics-news-sorting
+    description: >
+        Contao extension which provides the ability to sort a news list based on Google Analytics metrics for each news article. It calculates a "Googel Analytics Metrics Score" for each enabled news archive daily, based on either the page view or average time on page - or both. This is useful if you want to showcase the most popular news entries.
+    keywords:
+        - google
+        - analytics
+        - news
+        - sort
