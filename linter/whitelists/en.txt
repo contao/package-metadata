@@ -166,3 +166,5 @@ visits
 yes
 youtube
 OriginalFileName
+ChangeNewsMore
+ChangeEventsMore
