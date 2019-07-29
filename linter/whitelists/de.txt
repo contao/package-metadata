@@ -401,3 +401,5 @@ Formvalidation
 OriginalFileName
 ChangeNewsMore
 ChangeEventsMore
+Weiterleitungszielen
+Weiterlesen
