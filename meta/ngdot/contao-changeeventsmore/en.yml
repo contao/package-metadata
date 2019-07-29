@@ -1,0 +1,9 @@
+en:
+    title: Contao ChangeEventsMore
+    description: >
+        This extension makes it possible to replace "Read more ..." with an individual text. Works for all forwarding destinations!
+    keywords:
+        - contao
+        - news
+        - events
+        - dates
