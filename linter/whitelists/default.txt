@@ -156,3 +156,5 @@ YouTube
 OpenImmo
 Wodis
 OriginalFileName
+ChangeNewsMore
+ChangeEventsMore
