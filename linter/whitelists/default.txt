@@ -99,6 +99,7 @@ Overpass
 pdf
 PDF
 PDFs
+Pexels
 PhotoSwipe
 PHP
 php
