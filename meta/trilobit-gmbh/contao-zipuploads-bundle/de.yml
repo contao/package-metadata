@@ -1,0 +1,9 @@
+de:
+    title: Contao 4 Zipuploads Bundle
+    description: >
+        Das Zipuploads Bundle behandelt alle Uploads eines Formulares und packt die Dateien in ein einzelnes ZIP.
+    keywords:
+        - Zipuploads
+        - Upload
+        - Formular
+        - ZIP
