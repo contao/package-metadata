@@ -401,5 +401,3 @@ mobilfähige
 Formvalidation
 Weiterleitungszielen
 Weiterlesen
-ZIP
-Zipuploads
