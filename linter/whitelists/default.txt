@@ -142,6 +142,7 @@ Twitter
 UI
 Usability
 Valhalla
+vivenio
 WhatsApp
 Widget
 Widgets
