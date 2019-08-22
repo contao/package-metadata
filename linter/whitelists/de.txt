@@ -342,6 +342,7 @@ TabControl
 Tabellenzeile
 TableLookupWizard
 Tabs
+Teilnehmerregistrierung
 Telematik
 template
 terminal
