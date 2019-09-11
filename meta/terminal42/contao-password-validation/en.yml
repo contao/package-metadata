@@ -1,0 +1,13 @@
+en:
+    title: Password validation
+    description: >
+        This extension validates user and member passwords against your password policy. You can also force members to do a password-change.
+
+        You can require a minimum password length, certain characters or force a password change after a fixed time frame. All configuration takes place via the config.yml, so please make sure to check the README file that you can find in the GitHub repository.
+    keywords:
+        - password
+        - validation
+        - validator
+        - security
+        - password length
+        - password change

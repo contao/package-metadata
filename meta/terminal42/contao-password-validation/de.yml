@@ -1,0 +1,13 @@
+de:
+    title: Passwort-Validierung
+    description: >
+        Diese Erweiterung kann genutzt werden, um eine Passwortrichtlinie durchzusetzen. Zusätzlich kannst du einzelne Mitglieder auffordern, das Passwort zu ändern.
+
+        Du kannst z.B. eine Passwort-Mindestlänge oder Sonderzeichen vorschreiben. Daneben kannst du eine Passwortänderung nach einem gewissen Zeitraum vorschreiben. Die Konfiguration geschieht in der config.yml. Die Anleitung findest du im GitHub-Repository.
+    keywords:
+        - passwort
+        - validierung
+        - validator
+        - sicherheit
+        - passwort länge
+        - passwort ändern
