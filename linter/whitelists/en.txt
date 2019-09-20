@@ -94,6 +94,7 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 mouseover
+Multi
 native
 Navbar
 navbar
