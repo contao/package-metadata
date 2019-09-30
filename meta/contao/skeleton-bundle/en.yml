@@ -1,0 +1,5 @@
+en:
+    title: Skeleton Bundle for Contao
+    description: >
+        This bundle adds rapid development tools and code generators to Contao 4.
+        These features are only useful to developers, so don't use it in production apps!
