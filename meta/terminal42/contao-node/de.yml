@@ -1,0 +1,8 @@
+en:
+    title: Inhalts-Fragmente
+    description: Dieses Paket bietet einen neuen Weg zur Verwaltung von Inhalten, welche über mehrere Seiten verteilt werden können.
+    keywords:
+        - node
+        - inhalt
+        - content
+        - inserttag
