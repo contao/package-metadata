@@ -36,6 +36,7 @@ DOM
 DOMPDF
 DownloadMail
 eCommerce
+Edition
 eMail
 Email
 estao
@@ -78,6 +79,7 @@ KuteJS
 Leaflet
 LTS
 MailChimp
+Managed
 Manager
 Mapbox
 MetaModel
