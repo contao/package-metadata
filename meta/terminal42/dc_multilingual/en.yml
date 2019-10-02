@@ -9,3 +9,4 @@ en:
         - navigation
         - alias
         - seo
+    dependency: true
