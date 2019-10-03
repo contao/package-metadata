@@ -21,8 +21,7 @@ Assistant
 Attachment
 Attributausgaben
 Attributtypen
-Auflistungsfunktionalität
-Auflistungsmodul
+Auflistungsfunktionen
 Ausserdem
 ausserdem
 Automatisierungsaufgaben
