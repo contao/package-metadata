@@ -1,3 +1,6 @@
 en:
-    title: Official Demo Theme for Contao
+    title: Contao Official Demo
     description: This is the official demo theme for Contao.
+    keywords:
+        - demo
+        - theme

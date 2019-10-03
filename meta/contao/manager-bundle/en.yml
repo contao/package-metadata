@@ -1,3 +1,4 @@
 en:
-    title: Contao Managed Edition
-    description: This bundle contains code necessary to run the Contao Managed Edition.
+    title: Contao Open Source CMS
+    description: Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications.
+    dependency: true

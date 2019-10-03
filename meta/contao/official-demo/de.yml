@@ -1,3 +1,7 @@
 de:
-    title: Offizielles Demo-Theme für Contao
+    title: Contao Official Demo
     description: Dies ist die offizielle Demo für Contao.
+    keywords:
+        - demo
+        - theme
+        - beispiel

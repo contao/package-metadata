@@ -4,3 +4,6 @@ en:
         Contao 4.8 removed the support for mobile page layouts for various reasons.
         You can install this bundle to re-gain the functionality, but be aware that any page cache features
         will not work anymore for respective pages.
+    keywords:
+        - mobile
+        - layout
