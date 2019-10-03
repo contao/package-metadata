@@ -21,8 +21,7 @@ Assistant
 Attachment
 Attributausgaben
 Attributtypen
-Auflistungsfunktionalität
-Auflistungsmodul
+Auflistungsfunktionen
 Ausserdem
 ausserdem
 Automatisierungsaufgaben
@@ -407,3 +406,4 @@ mobilfähige
 Formvalidation
 Weiterleitungszielen
 Weiterlesen
+Webanwendungen

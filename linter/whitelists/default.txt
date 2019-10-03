@@ -36,6 +36,7 @@ DOM
 DOMPDF
 DownloadMail
 eCommerce
+Edition
 eMail
 Email
 estao
@@ -78,6 +79,7 @@ KuteJS
 Leaflet
 LTS
 MailChimp
+Managed
 Manager
 Mapbox
 MetaModel
@@ -89,6 +91,7 @@ MultiColumnWizard
 Nominatim
 OAuth
 ODD
+Official
 OGC
 OpenGraph
 OpenLayers
@@ -97,6 +100,7 @@ OSM
 OSRM
 Overpass
 Overpass
+Open
 pdf
 PDF
 PDFs
@@ -121,6 +125,7 @@ Shariff
 SimpleTokens
 Slack
 SMS
+Source
 Spotify
 Stardate
 Stylesheet
@@ -145,6 +150,7 @@ UI
 Usability
 Valhalla
 vivenio
+Web
 WhatsApp
 Widget
 Widgets
