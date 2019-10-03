@@ -44,6 +44,17 @@ en:
 Please use 4 spaces for indentation or nesting.
 For more information on the file format, see [the Transifex documentation][2]
 
+## YAML syntax
+
+The following keywords can be defined in the meta data yaml file:
+
+| | | 
+|-|-| 
+| __title__       | Title of the extension | 
+| __description__ | Long description of the extension that shows up in the Details view | 
+| __keywords__    | List of keywords that will enhance search performance  | 
+| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: false) | 
+
 ## Public vs. private/proprietary packages
 
 The metadata repository feeds the Contao Manager search index and as such allows to search for both, publicly available

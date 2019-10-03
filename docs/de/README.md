@@ -23,7 +23,7 @@ meta/[vendor]/[paket-name]
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
 dieses `[vendor]` verwendet, sofern kein Logo für das explizite Paket angegeben wurde.
 
-## Beispiel einer YAML Sprachdatei
+## Beispiel einer YAML-Sprachdatei
 
 ```
 de:
@@ -42,6 +42,17 @@ de:
 
 Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
+
+## YAML-Syntax
+
+In der YAML-Datei können die folgenden Keywörter definiert werden: 
+
+| | | 
+|-|-| 
+| __title__       | Der Titel der Erweiterung | 
+| __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint | 
+| __keywords__    | Liste von Keywörtern für die Suche | 
+| __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für den Endnutzer gedacht sind (Standaard: false) | 
 
 ## Öffentliche vs. private/proprietäre Pakete
 
