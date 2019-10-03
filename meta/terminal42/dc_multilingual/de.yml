@@ -8,3 +8,4 @@ de:
         - Navigation
         - SEO
         - Alias
+    dependency: true
