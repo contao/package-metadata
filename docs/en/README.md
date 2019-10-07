@@ -53,7 +53,7 @@ The following keywords can be defined in the meta data yaml file:
 | __title__       | Title of the extension | 
 | __description__ | Long description of the extension that shows up in the Details view | 
 | __keywords__    | List of keywords that will enhance search performance  | 
-| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: false) | 
+| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: `false`) | 
 
 ## Public vs. private/proprietary packages
 
