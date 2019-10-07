@@ -11,3 +11,4 @@ en:
         - wizard
         - multicolumnwizard
         - mcw
+    dependency: true

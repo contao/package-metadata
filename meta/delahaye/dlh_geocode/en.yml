@@ -8,3 +8,4 @@ en:
         - geocode
         - coordinates
         - address
+    dependency: true
