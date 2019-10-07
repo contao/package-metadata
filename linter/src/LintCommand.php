@@ -13,6 +13,8 @@ namespace Contao\PackageMetaDataLinter;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
+use JsonSchema\Constraints\Constraint;
+use JsonSchema\Exception\ValidationException;
 use JsonSchema\Validator;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -54,6 +56,18 @@ class LintCommand extends Command
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
 
+        $this->validateMetadata($input->getOption('skip-private-check'));
+        $this->validateComposerJson();
+
+        if (!$this->error) {
+            $this->io->success('All checks successful!');
+        }
+
+        return $this->error ? 1 : 0;
+    }
+
+    private function validateMetadata(bool $skipPrivate)
+    {
         $this->spellChecker = new SpellChecker(__DIR__.'/../whitelists');
 
         $finder = new Finder();
@@ -90,7 +104,7 @@ class LintCommand extends Command
             }
 
             // Validate for private package
-            if ($input->getOption('skip-private-check')) {
+            if ($skipPrivate) {
                 $requiresHomepage = false;
             } else {
                 $requiresHomepage = $this->isPrivatePackage($package);
@@ -104,9 +118,36 @@ class LintCommand extends Command
         }
 
         $this->io->progressFinish();
-        $this->io->success('All checks successful!');
+    }
 
-        return $this->error ? 1 : 0;
+    private function validateComposerJson()
+    {
+        $finder = new Finder();
+        $finder->files()->in(__DIR__.'/../../meta')->depth('== 2')->name('composer.json');
+
+        $this->io->writeln('Validating composer.json files');
+        $this->io->progressStart($finder->count());
+
+        foreach ($finder as $file) {
+            try {
+                $schemaFile = 'file://'.__DIR__.'/../vendor/composer/composer/res/composer-schema.json';
+                $schema = (object) ['$ref' => $schemaFile];
+                $schema->required = [];
+
+                $value = json_decode(file_get_contents($file->getPathname()), false);
+                $validator = new Validator();
+                $validator->validate($value, $schema, Constraint::CHECK_MODE_EXCEPTIONS);
+            } catch (ValidationException $e) {
+                $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
+
+                $this->error = true;
+                $this->io->error(sprintf('Error in composer.json for %s: %s', $package, $e->getMessage()));
+            }
+
+            $this->io->progressAdvance();
+        }
+
+        $this->io->progressFinish();
     }
 
     private function isPrivatePackage(string $package): bool
