@@ -16,6 +16,7 @@ use GuzzleHttp\Exception\RequestException;
 use JsonSchema\Validator;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Finder\Finder;
@@ -39,6 +40,7 @@ class LintCommand extends Command
         $this
             ->setName('app:lint')
             ->setDescription('Lint all the metadata.')
+            ->addOption('skip-private-check', null, InputOption::VALUE_NONE, 'Do not check packagist if a package is private.')
         ;
     }
 
@@ -81,7 +83,11 @@ class LintCommand extends Command
             }
 
             // Validate for private package
-            $requiresHomepage = $this->isPrivatePackage($package);
+            if ($input->getOption('skip-private-check')) {
+                $requiresHomepage = false;
+            } else {
+                $requiresHomepage = $this->isPrivatePackage($package);
+            }
 
             // Content
             if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage)) {
