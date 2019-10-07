@@ -35,6 +35,11 @@ class LintCommand extends Command
      */
     private $spellChecker;
 
+    /**
+     * @var bool
+     */
+    private $error = false;
+
     protected function configure()
     {
         $this
@@ -54,32 +59,34 @@ class LintCommand extends Command
         $finder = new Finder();
         $finder->files()->in(__DIR__.'/../../meta')->depth('== 2')->name('*.{yaml,yml}');
 
+        $this->io->writeln('Validating metadata files');
+        $this->io->progressStart($finder->count());
+
         foreach ($finder as $file) {
             $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
             $language = str_replace(['.yaml', '.yml'], '', $file->getBasename());
 
             $content = file_get_contents($file->getPath().'/'.$file->getFilename());
 
+            $this->io->progressAdvance();
+
             // Line ending
             if (!("\n" === substr($content, -1) && "\n" !== substr($content, -2))) {
-                $this->error($package, $language, 'All files must end by a singe new line.');
-
-                return 1;
+                $this->error($package, $language, 'File must end by a singe new line.');
+                continue;
             }
 
             try {
                 $content = Yaml::parse($content);
             } catch (ParseException $e) {
                 $this->error($package, $language, 'The YAML file is invalid');
-
-                return 1;
+                continue;
             }
 
             // Language
             if (!isset($content[$language])) {
                 $this->error($package, $language, 'The language key in the YAML file does not match the specified language file name.');
-
-                return 1;
+                continue;
             }
 
             // Validate for private package
@@ -92,14 +99,14 @@ class LintCommand extends Command
             // Content
             if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage)) {
                 $this->error($package, $language, 'The YAML file contains invalid data.');
-
-                return 1;
+                continue;
             }
         }
 
+        $this->io->progressFinish();
         $this->io->success('All checks successful!');
 
-        return 0;
+        return $this->error ? 1 : 0;
     }
 
     private function isPrivatePackage(string $package): bool
@@ -169,6 +176,7 @@ class LintCommand extends Command
 
     private function error(string $package, string $language, string $message)
     {
+        $this->error = true;
         $this->io->error(sprintf('[Package: %s; Language: %s]: %s',
             $package,
             $language,
