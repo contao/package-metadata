@@ -1,3 +1,4 @@
 de:
     title: Contao Open Source CMS
     description: Contao ist ein leistungsstarkes Open Source CMS, mit dem du professionelle Webseiten und skalierbare Webanwendungen erstellen kannst.
+    dependency: true
