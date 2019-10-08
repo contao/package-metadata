@@ -1,0 +1,9 @@
+de:
+    title: con4gis-IO-Travel-costs
+    description: >
+        Mit con4gis-IO-Travel-costs kann ein Fahrtkostenrechner eingebunden werden, dabei können Tarife flexibel
+        konfiguriert werden. Benötigt einen con4gis.io-Schlüssel, da es auf con4gis.io-Dienste zugreift.
+    keywords:
+        - con4gis
+        - travel
+        - calculator

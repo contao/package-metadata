@@ -1,0 +1,9 @@
+en:
+    title: con4gis-Firefighter
+    description: >
+        With the Firefighter Bundle firefighter missions can be managed in the Contao backend and displayed in
+        a mission map or list in the frontend.
+    keywords:
+        - con4gis
+        - rescuemap
+        - firefighter
