@@ -38,6 +38,9 @@ en:
         - lorem ipsum
         - keyword2
         ...
+    support:
+        issues: https://github.com/demo/demo/issues
+        docs: https://example.org/demo/docs
 ```
 
 
@@ -54,6 +57,7 @@ The following keywords can be defined in the meta data yaml file:
 | __description__ | Long description of the extension that shows up in the Details view | 
 | __keywords__    | List of keywords that will enhance search performance  | 
 | __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: `false`) | 
+| __support__     | Allows you to provide differing support links for certain languages that originally are part of the `composer.json`. Key-value syntax: [supported keys][8] | 
 
 ## Public vs. private/proprietary packages
 
@@ -90,3 +94,4 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [5]: https://packagist.org
 [6]: https://github.com/svg/svgo
 [7]: https://jakearchibald.github.io/svgomg/
+[8]: https://getcomposer.org/doc/04-schema.md#support

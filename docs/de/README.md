@@ -38,6 +38,9 @@ de:
       - lorem ipsum
       - keyword2
       ...
+    support:
+        issues: https://github.com/demo/demo/issues
+        docs: https://example.org/demo/de/docs
 ```
 
 Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
@@ -53,6 +56,7 @@ In der YAML-Datei können die folgenden Keywörter definiert werden:
 | __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint | 
 | __keywords__    | Liste von Keywörtern für die Suche | 
 | __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für den Endnutzer gedacht sind (Standard: `false`) | 
+| __support__     | Übersetzung bzw. Angabe von sprach-spezifischen Support-Links der `composer.json`. Key-Value-Syntax: [Unterstützte Keys][8] | 
 
 ## Öffentliche vs. private/proprietäre Pakete
 
@@ -88,3 +92,4 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [5]: https://packagist.org
 [6]: https://github.com/svg/svgo
 [7]: https://jakearchibald.github.io/svgomg/
+[8]: https://getcomposer.org/doc/04-schema.md#support
