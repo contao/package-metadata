@@ -18,6 +18,7 @@ meta/[vendor]/[package]
     - ru.yml
     - ...
     - logo.svg (optional)
+    - composer.json (only for private packages and optional. [Details](#public-vs-privateproprietary-packages))
 ```
 
 Hint: The `logo.svg` can also be place directly within `[vendor]`. It is then used as a fallback logo for all packages of
@@ -66,6 +67,10 @@ or private/proprietary packages. You are allowed to submit any package descripti
 package is the fact that it's registered on [packagist.org][5]. For private packages, the Contao Manager does currently
 not provide any automated installation process so providing a homepage link to describe how a user can obtain and install
 the package is required.
+
+The Contao Manager shows meaningful information for all packages, for example, a list of requirements. This information is
+provided by the `composer.json` and thus is only available for public packages. To add this information for private
+packages, you can add a `composer.json` to your metadata.
 
 ## Spell checking
 

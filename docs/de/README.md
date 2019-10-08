@@ -18,6 +18,7 @@ meta/[vendor]/[paket-name]
     - ru.yml
     - ...
     - logo.svg (optional)
+    - composer.json (nur für private Pakete und optional. [Details](#öffentliche-vs-privateproprietäre-pakete))
 ```
 
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
@@ -65,6 +66,11 @@ nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pake
 Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
 und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
+
+Der Contao Manager zeigt für jedes Paket hilfreiche Informationen an, darunter eine Auflistung von Abhängigkeiten des
+Pakets. Diese Informationen werden über die `composer.json` bereitgestellt und sind aufgrund dessen nur für öffentliche
+Pakete verfügbar. Um diese Informationen für private Pakete bereitzustellen, kann den Metadaten eine `composer.json` ergänzt
+werden.
 
 ## Rechtschreibprüfung
 
