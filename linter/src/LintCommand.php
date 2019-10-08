@@ -107,7 +107,7 @@ class LintCommand extends Command
             if ($skipPrivate) {
                 $requiresHomepage = false;
             } else {
-                $requiresHomepage = $this->isPrivatePackage($package);
+                $requiresHomepage = !file_exists($file->getPath().'/composer.json') && $this->isPrivatePackage($package);
             }
 
             // Content
@@ -129,19 +129,24 @@ class LintCommand extends Command
         $this->io->progressStart($finder->count());
 
         foreach ($finder as $file) {
+            $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
+
             try {
                 $schemaFile = 'file://'.__DIR__.'/../vendor/composer/composer/res/composer-schema.json';
                 $schema = (object) ['$ref' => $schemaFile];
-                $schema->required = [];
+                $schema->required = ['name', 'homepage'];
 
                 $value = json_decode(file_get_contents($file->getPathname()), false);
                 $validator = new Validator();
                 $validator->validate($value, $schema, Constraint::CHECK_MODE_EXCEPTIONS);
-            } catch (ValidationException $e) {
-                $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
 
+                if ($value->name !== $package) {
+                    $this->error = true;
+                    $this->io->error(sprintf('[Package: %s] Package name in composer.json does not match', $package));
+                }
+            } catch (ValidationException $e) {
                 $this->error = true;
-                $this->io->error(sprintf('Error in composer.json for %s: %s', $package, $e->getMessage()));
+                $this->io->error(sprintf('[Package: %s] Error in composer.json: %s', $package, $e->getMessage()));
             }
 
             $this->io->progressAdvance();
