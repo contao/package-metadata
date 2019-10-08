@@ -53,7 +53,7 @@ In der YAML-Datei können die folgenden Keywörter definiert werden:
 
 | | | 
 |-|-| 
-| __title__       | Der Titel der Erweiterung | 
+| __title__       | Der Titel der Extension| 
 | __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint | 
 | __keywords__    | Liste von Keywörtern für die Suche | 
 | __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für Anwendende gedacht sind (Standard: `false`) | 
