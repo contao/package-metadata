@@ -3,7 +3,7 @@
 Dieses zentrale Repository stellt Metainformationen für die Pakete innerhalb des [Contao Managers][3] bereit.
 
 Es erlaubt das Übersetzen und Anreichern von Paketinformationen jedes beliebigen [Composer][1] Pakets. Daher können
-auch Pakete die nicht vom Typ `contao-bundle` sind (wie bspw. eine allgemeine PHP Excel Exportbibliothek) übersetzt
+auch Pakete, die nicht vom Typ `contao-bundle` sind (wie bspw. eine allgemeine PHP Excel Exportbibliothek), übersetzt
 werden.
 
 Die Metadaten werden im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden. Es wird 
