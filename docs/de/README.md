@@ -42,6 +42,8 @@ de:
     support:
         issues: https://github.com/demo/demo/issues
         docs: https://example.org/demo/de/docs
+    suggest:
+        vendor/package: Dieses Package ermöglicht XLSX-Export
 ```
 
 Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
@@ -58,6 +60,7 @@ In der YAML-Datei können die folgenden Keywörter definiert werden:
 | __keywords__    | Liste von Keywörtern für die Suche | 
 | __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für Anwendende gedacht sind (Standard: `false`) | 
 | __support__     | Übersetzung bzw. Angabe von sprach-spezifischen Support-Links der `composer.json`. Key-Value-Syntax: [Unterstützte Keys][8] | 
+| __suggest__     | Übersetzung der Texte für empfohlene Pakete (`suggest`-Abschnitt) | 
 
 ## Öffentliche vs. private/proprietäre Pakete
 
