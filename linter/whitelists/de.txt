@@ -114,6 +114,7 @@ filterbare
 Filtereinstellungen
 Filterfunktionalität
 Filterfunktionen
+Firefighter
 Fine
 Folder
 Fonts
@@ -173,6 +174,8 @@ Inputtype
 Insert
 Install
 install
+io
+IOTravelCostsBundle
 Kalenderformate
 Kartenanwendung
 Kartendiensten
@@ -379,6 +382,7 @@ vermietungsoptimierte
 verschiedenener
 Videohandbuch
 visits
+Visualization
 Vollbildkarte
 Vorlagedatei
 Webseite
