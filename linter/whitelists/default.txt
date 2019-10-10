@@ -12,6 +12,7 @@ Barcode
 barcode
 Bing
 Bootstrap
+Bulma
 Bundle
 Bundles
 Bynder
