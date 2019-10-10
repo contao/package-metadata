@@ -37,6 +37,7 @@ DOMPDF
 DownloadMail
 eCommerce
 Edition
+Erdmann
 eMail
 Email
 estao
@@ -50,6 +51,7 @@ Feed
 Footer
 Framework
 Fred
+Freunde
 Front end
 front end
 Geocoder
@@ -76,6 +78,7 @@ jQuery
 js
 KML
 KuteJS
+LASR
 Leaflet
 LTS
 MailChimp
