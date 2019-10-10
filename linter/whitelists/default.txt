@@ -91,6 +91,7 @@ mmenu
 mPDF
 mpdf
 MultiColumnWizard
+NATURE
 Nominatim
 OAuth
 ODD
