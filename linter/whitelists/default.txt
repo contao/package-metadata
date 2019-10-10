@@ -51,6 +51,7 @@ Feed
 Footer
 Framework
 Fred
+Freunde
 Front end
 front end
 Geocoder
