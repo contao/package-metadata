@@ -12,6 +12,7 @@ Barcode
 barcode
 Bing
 Bootstrap
+Bulma
 Bundle
 Bundles
 Bynder
@@ -91,6 +92,7 @@ mmenu
 mPDF
 mpdf
 MultiColumnWizard
+NATURE
 Nominatim
 OAuth
 ODD
