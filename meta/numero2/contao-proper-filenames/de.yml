@@ -1,3 +1,3 @@
 de:
     title: Ordentliche Dateinamen
-    description: Ersetzt Sonderzeichen in Dateinamen bei Dateien welche über die Dateiverwaltung im Backend hochgeladen wurden.
+    description: Ersetzt Sonderzeichen in Dateinamen, welche über die Dateiverwaltung im Contao Backend hochgeladen wurden.
