@@ -1,0 +1,18 @@
+en:
+    title: NATURE Theme
+    description: >
+        The Nature Theme was developed on the basis of the Bulma Framework and support 6 different color schemes and the iOS Dark Mode.
+    keywords:
+        - Theme
+        - Bulma
+        - Fontawesome
+        - Dark Mode
+        - Mobil
+        - responsive
+        - Template
+        - scss
+        - Style
+        - Layout
+    homepage: https://contao-themes.net/theme-detail/nature.html
+    support:
+        docs: https://docs.contao-themes.net/#/nature_theme/index
