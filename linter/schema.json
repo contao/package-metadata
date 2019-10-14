@@ -69,7 +69,11 @@
       }
     },
     "suggest": {
-      "type": "object"
+      "type": "object",
+      "description": "List with suggested packages.",
+      "additionalProperties": {
+        "type": "string"
+      }
     },
     "dependency": {
       "type": "boolean",
