@@ -18,12 +18,13 @@ meta/[vendor]/[paket-name]
     - ru.yml
     - ...
     - logo.svg (optional)
+    - composer.json (nur für private Pakete und optional. [Details](#öffentliche-vs-privateproprietäre-pakete))
 ```
 
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
 dieses `[vendor]` verwendet, sofern kein Logo für das explizite Paket angegeben wurde.
 
-## Beispiel einer YAML Sprachdatei
+## Beispiel einer YAML-Sprachdatei
 
 ```
 de:
@@ -38,10 +39,28 @@ de:
       - lorem ipsum
       - keyword2
       ...
+    support:
+        issues: https://github.com/demo/demo/issues
+        docs: https://example.org/demo/de/docs
+    suggest:
+        vendor/package: Dieses Package ermöglicht XLSX-Export
 ```
 
 Bitte verwendet 4 Leerzeichen zum Einrücken oder Verschachteln und sprecht den Nutzer mit "du" an.
 Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentation][2] an.
+
+## YAML-Syntax
+
+In der YAML-Datei können die folgenden Keywörter definiert werden: 
+
+| | | 
+|-|-| 
+| __title__       | Der Titel der Extension| 
+| __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint | 
+| __keywords__    | Liste von Keywörtern für die Suche | 
+| __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für Anwendende gedacht sind (Standard: `false`) | 
+| __support__     | Übersetzung bzw. Angabe von sprach-spezifischen Support-Links der `composer.json`. Key-Value-Syntax: [Unterstützte Keys][8] | 
+| __suggest__     | Übersetzung der Texte für empfohlene Pakete (`suggest`-Abschnitt) | 
 
 ## Öffentliche vs. private/proprietäre Pakete
 
@@ -50,6 +69,11 @@ nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pake
 Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
 und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
+
+Der Contao Manager zeigt für jedes Paket hilfreiche Informationen an, darunter eine Auflistung von Abhängigkeiten des
+Pakets. Diese Informationen werden über die `composer.json` bereitgestellt und sind aufgrund dessen nur für öffentliche
+Pakete verfügbar. Um diese Informationen für private Pakete bereitzustellen, kann den Metadaten eine `composer.json` ergänzt
+werden.
 
 ## Rechtschreibprüfung
 
@@ -77,3 +101,4 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [5]: https://packagist.org
 [6]: https://github.com/svg/svgo
 [7]: https://jakearchibald.github.io/svgomg/
+[8]: https://getcomposer.org/doc/04-schema.md#support
