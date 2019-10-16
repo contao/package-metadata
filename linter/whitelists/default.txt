@@ -13,6 +13,7 @@ barcode
 Bing
 Bootstrap
 Bulma
+bundle
 Bundle
 Bundles
 Bynder
@@ -86,7 +87,9 @@ MailChimp
 Managed
 Manager
 Mapbox
+metamodel
 MetaModel
+metamodels
 MetaModels
 mmenu
 mPDF
@@ -132,6 +135,8 @@ Slack
 SMS
 Source
 Spotify
+start
+Start
 Stardate
 Stylesheet
 stylesheet

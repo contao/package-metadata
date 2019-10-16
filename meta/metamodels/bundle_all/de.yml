@@ -1,0 +1,11 @@
+de:
+    title: MetaModels Bundle-All
+    description: >
+        Das Bundle-All installiert die Pakete wie im Start-Bundle (metamodels/bundle_start) sowie die 
+        Pakete für die Mehrsprachigkeit.
+        
+        Mehr zur Installation und die Arbeit mit MetaModels in unserem Handbuch unter https://metamodels.readthedocs.io
+    keywords:
+        - metamodels
+        - bundle_all
+        - bundle all
