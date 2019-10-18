@@ -26,6 +26,7 @@ Constants
 Container
 Content
 content
+Contentbox
 ContentElement
 Conversion
 conversion
@@ -151,6 +152,7 @@ system
 Tab
 TabControl
 TableLookupWizard
+Teaserbox
 template
 templating
 terminal
