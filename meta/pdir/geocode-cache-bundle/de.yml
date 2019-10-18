@@ -1,0 +1,9 @@
+de:
+    title: Geocode Cache Bundle
+    description: >
+        Die Erweiterung fügt eine neue Route api/geocode zu Contao hinzu und ermittelt die Latitude und Longitude Angaben einer Adresse. Als Dienst wird der OpenCage Geocoder verwendet. 2000 Anfrage pro Tag sind frei - siehe https://opencagedata.com/pricing. Alle Anfragen werden in einer Datenbanktabelle gespeichert.
+    keywords:
+        - Geocode
+        - Cache
+        - Adresse
+        - OpenCage
