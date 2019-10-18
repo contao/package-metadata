@@ -1,9 +1,8 @@
 de:
     title: Social Feed
     description: >
-        Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzwerken an. Unterstützt werden derzeit Facebook und Google Plus.
+        Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzwerken an. Unterstützt wird derzeit Facebook.
     keywords:
         - soziale Netzwerke
         - Facebook
-        - Google Plus
         - Feed

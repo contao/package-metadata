@@ -101,6 +101,7 @@ OAuth
 ODD
 Official
 OGC
+OpenCage
 OpenGraph
 OpenLayers
 OpenStreetMap
