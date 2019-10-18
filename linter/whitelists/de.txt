@@ -13,6 +13,7 @@ amphtml
 Anfahrtskarten
 Animations
 AntiSpam
+Api
 Artikeleigenschaften
 Artikelvererbung
 Assets
@@ -171,6 +172,7 @@ Iconfont
 Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
+Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
@@ -282,6 +284,7 @@ Plugins
 Positionsverfolgung
 Posts
 pre
+Preistabelle
 Preview
 Privacy
 production
@@ -346,6 +349,7 @@ Statistikübersicht
 Sternzeit
 Style
 stylen
+Styling
 Suchbegriff
 Suchmoduls
 Suchtreffer
