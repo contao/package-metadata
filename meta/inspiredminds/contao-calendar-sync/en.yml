@@ -1,0 +1,11 @@
+en:
+    title: Contao Calendar Sync
+    homepage: https://www.inspiredminds.at/contao-calendar-sync
+    description: >
+        This extension allows you to synchronise calendar entries over multiple Contao instances. The synchronisation can be done both one-way and two-way. This can also be used just for a one-time import. Otherwise you can also choose to periodically execute the synchronisation.
+    keywords:
+        - calendar
+        - events
+        - sync
+        - import
+        - synchronisation
