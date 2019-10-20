@@ -55,6 +55,7 @@ Buchungsformular
 Buttongenerator
 bzw
 Calculator
+Calendar
 canonical
 Card
 Cards
