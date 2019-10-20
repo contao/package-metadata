@@ -268,8 +268,10 @@ Opt
 OR
 Overlay
 page
+Page
 pagenierung
 pages
+Pages
 paginierbaren
 paginiert
 Paginierung
