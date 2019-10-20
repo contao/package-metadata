@@ -1,0 +1,12 @@
+en:
+    title: Contao News Facebook Sync
+    homepage: https://www.inspiredminds.at/contao-news-facebook
+    description: >
+        This extension allows to automatically import Facebook page posts as news entries. It also enables you to automatically post news entires on a Facebook page. This allows you to keep a Facebook page in sync with a news archive.
+    keywords:
+        - news
+        - sync
+        - facebook
+        - synchronise
+        - page
+        - posts
