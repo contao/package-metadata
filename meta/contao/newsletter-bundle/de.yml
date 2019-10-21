@@ -1,7 +1,7 @@
 de:
-    title: Newsletter für Contao
+    title: Contao Newsletter
     description: >
-        Dieses Bundle fügt Contao Newsletter-Funktionalität hinzu. Damit können im Backend Newsletter und verschiedene
+        Erweitert Contao um Newsletter-Funktionalität. Damit können im Backend Newsletter und verschiedene
         Empfängerlisten verwaltet werden. Das Senden der Newsletter erfolgt ebenfalls direkt aus dem Backend und die
         Newsletter können dank dem Contao Templating-System sehr einfach formatiert werden.
 

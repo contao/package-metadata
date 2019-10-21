@@ -1,0 +1,9 @@
+en:
+    title: con4gis-IO-Travel-costs
+    description: >
+        The IOTravelCostsBundle implements a calculator for travel costs, based on customizable tariffs.
+        Requires a valid con4gis.io API-Key since it uses these services.
+    keywords:
+        - con4gis
+        - travel
+        - calculator

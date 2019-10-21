@@ -1,0 +1,12 @@
+de:
+    title: Contao Calendar Sync
+    homepage: https://www.inspiredminds.at/contao-calendar-sync
+    description: >
+        Mit dieser Extension können Kalender Einträge automatisch zwischen verschiedenen Contao Installationen synchronisiert oder importiert werden. Der Import bzw. die Synchronisierung kann einmalig erfolgen oder periodisch und dabei entweder in nur eine Richtung oder in beide Richtungen.
+    keywords:
+        - calendar
+        - sync
+        - import
+        - kalender
+        - synchronisation
+        - synchronisieren

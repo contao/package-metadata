@@ -1,0 +1,26 @@
+de:
+    title: ODD Theme
+    description: >
+        ODD ist ein Contao Theme, welches für kreative Webseiten auf Basis von Bootstrap entwickelt wurde.
+
+        Das Theme ist für alle Endgeräte und gängigen Browser optimiert und bringt Ihnen standardmäßig allerhand nützliche Elemente für Ihre Website, wie z.B. Content-Slider, Preis-Boxen und natürlich auch alle Module und Elemente des Contao-Core im kreativen ODD-Style und in drei verschiedenen Farbschemen mit.
+
+        Header, Footer, Slider, Farben sowie Layout und natürlich sämtliche Inhalte können zudem ganz einfach an Ihre Anforderungen angepasst werden.
+
+        ZU „SCHRÄG“? Die schrägen ODD Elemente können Sie auf Wunsch auch gerade konfigurieren ;)
+
+        Das ODD Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (ohne Copyright Hinweis) erhältlich.
+    keywords:
+        - Theme
+        - Bootstrap
+        - Fontawesome
+        - Headroom
+        - Mobil
+        - optimiert
+        - Template
+        - scss
+        - Style
+        - Layout
+    homepage: https://contao-themes.net/theme-detail/odd.html
+    support:
+        docs: https://docs.contao-themes.net/

@@ -1,0 +1,8 @@
+en:
+    title: Multi-Page Forms
+    description: >
+        This bundle adds multi-page forms to Contao. Every single page can be managed in the back end and can be filled
+        with form fields. A big advantage is the exclusion of individual form pages via specially definable conditions.
+    keywords:
+        - form
+        - multipage

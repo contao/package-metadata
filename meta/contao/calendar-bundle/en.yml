@@ -1,10 +1,11 @@
 en:
-    title: Calendar for Contao
+    title: Contao Calendar
     description: >
-        This bundle adds calendar functionality to Contao. You can use it to manage upcoming and past events.
+        Adds calendar functionality to Contao. You can use it to manage upcoming and past events.
 
         It provides front end modules to display calendars in different formats and also supports recurring events.
     keywords:
         - calendar
+        - events
         - agenda
         - date
