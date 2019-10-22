@@ -31,7 +31,7 @@ en:
         metamodels/attribute_langcode: Attribute country code
         metamodels/attribute_levensthein: Attribute text search by Levenshtein
         metamodels/attribute_longtext: Attribute longtext
-        metamodels/attribute_numeric: Attribute nummeric
+        metamodels/attribute_numeric: Attribute numeric
         metamodels/attribute_rating: Attribute rating
         metamodels/attribute_select: Attribute single selection [select]
         metamodels/attribute_tabletext: Attribute table text
