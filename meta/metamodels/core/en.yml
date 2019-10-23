@@ -1,9 +1,58 @@
 en:
     title: MetaModels core
     description: >
-        MetaModels are data models you can configure in the Contao Back end. Every MetaModel consists of various attributes of certain data types (attribute types are available as extensions and get registered upon installation).
-        To present the data on the screen (i.e. list and detail view), you define render settings for the MetaModel which define how the various attribute output shall look like (image sizes, use lightboxes, etc.).
-        Filtering data in list views needs configuration of filter settings. Filter settings are a very complex topic, as they can be nested (AND/OR conditions i.e.) and be of various nature.
+        With the extension it is possible to enter a large number of structured data and to display
+        them on the website according to various criteria such as list and detail view, filters,
+        sorting, pagination, multilingual and many more. All this can be configured in the Contao
+        back end without programming.
+                
+        The possibilities of this data content range from product catalogues, events, meal plans,
+        address or employee lists, houses, rental objects to picture galleries or multilingual
+        text/image content - and all this seamlessly integrated into Contao without programming. 
+        
+        More about installation and working with MetaModels in our manual at
+        https://metamodels.readthedocs.io/en/latest/
     keywords:
         - metamodels
         - core
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/
+    suggest:
+        metamodels/bundle_start: Attributes and filters for the start - see manual!
+        metamodels/bundle_all: Attributes and filters for the start incl. multilingualism - see manual!
+        metamodels/attribute_alias: Attribute alias
+        metamodels/attribute_checkbox: Attribute checkbox
+        metamodels/attribute_color: Attribute Color
+        metamodels/attribute_combinedvalues: Attribute combined values
+        metamodels/attribute_country: Attribute country
+        metamodels/attribute_decimal: Attribute decimal
+        metamodels/attribute_file: Attribute file
+        metamodels/attribute_geodistance: Attribute geodistance for perimetersearch
+        metamodels/attribute_langcode: Attribute country code
+        metamodels/attribute_levensthein: Attribute text search by Levenshtein
+        metamodels/attribute_longtext: Attribute longtext
+        metamodels/attribute_numeric: Attribute numeric
+        metamodels/attribute_rating: Attribute rating
+        metamodels/attribute_select: Attribute single selection [select]
+        metamodels/attribute_tabletext: Attribute table text
+        metamodels/attribute_tags: Attribute multiple selection [tags]
+        metamodels/attribute_text: Attribute text
+        metamodels/attribute_url: Attribute URL
+        metamodels/attribute_timestamp: Attribute date/time
+        metamodels/attribute_translatedalias: Attribute translated alias
+        metamodels/attribute_translatedcheckbox: Attribute translated checkbox
+        metamodels/attribute_translatedcombinedvalues: Attribute translated combined values
+        metamodels/attribute_translatedfile: Attribute translated file
+        metamodels/attribute_translatedlongtext: Attribute translated long text
+        metamodels/attribute_translatedtabletext: Attribute translated table text 
+        metamodels/attribute_translatedtext: Attribute translated text
+        metamodels/attribute_translatedurl: Attribute translated URL
+        metamodels/filter_checkbox: Filter checkbox
+        metamodels/filter_fromto: Filter from/to
+        metamodels/filter_perimetersearch: Filter perimetersearch
+        metamodels/filter_range: Filter range
+        metamodels/filter_register: Filter register [A-Z]
+        metamodels/filter_select: Filter single selection
+        metamodels/filter_tags: Filter multiple selection
+        metamodels/filter_text: Filter text search
+        metamodels/contao-frontend-editing: Module Front-End-Editing

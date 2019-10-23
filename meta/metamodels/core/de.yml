@@ -1,9 +1,59 @@
 de:
     title: MetaModels Core
     description: >
-        Mit MetaModels kannst du Datenmodelle im Contao Backend ohne Programmierung konfigurieren. Jedes MetaModel besteht aus verschiedenen Attributen bestimmter Datentypen (Attributtypen sind als Erweiterungen verfügbar und werden bei der Installation registriert). Verschiedene Datenmodelle können mit Relationen (1:1, 1:n, m:n) in Verbindung gebracht werden.
-        Um die Daten auf dem Bildschirm darzustellen (z.B. Listen- oder Detailansicht), definiere Rendereinstellungen für das MetaModel, die festlegen, wie die verschiedenen Attributausgaben aussehen sollen (Bildgrößen, Verwendung von Leuchtkästen, etc.).
-        Die Filterung von Daten in Listenansichten erfordert die Konfiguration der Filtereinstellungen. Filtereinstellungen sind ein sehr komplexes Thema, da sie verschachtelt (UND/OR-Bedingungen) und unterschiedlicher Typen (Select, Checkbox, Textfeld usw.) sein können.
+        Mit der Erweiterung ist es möglich, eine Vielzahl von strukturierten Daten einzugeben und
+        diese auf der Webseite nach verschiedenen Kriterien wie Listen- und Detailansicht,
+        Filterungen, Sortierungen, Paginierungen, Mehrsprachig u.v.a.m. wieder auszugeben. Das
+        alles kann man im Contao Backend ohne Programmierung konfigurieren.
+        
+        Die Möglichkeiten dieser Dateninhalte erstrecken sich von Produktkatalogen,
+        Veranstaltungen/Events, Speisenpläne, Adress- oder Mitarbeiterlisten, Häuser, Mietobjekte
+        bis zu Bildergalerien oder mehrsprachigen Text/Bild-Inhalten - und all das nahtlos in
+        Contao ohne Programmierung eingebunden. 
+
+        Mehr zur Installation und die Arbeit mit MetaModels in unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/
     keywords:
         - metamodels
         - core
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/
+    suggest:
+        metamodels/bundle_start: Attribute und Filter für den Start - siehe Handbuch!
+        metamodels/bundle_all: Attribute und Filter für den Start inkl. Mehrsprachigkeit - siehe Handbuch!
+        metamodels/attribute_alias: Attribut Alias
+        metamodels/attribute_checkbox: Attribut Checkbox
+        metamodels/attribute_color: Attribut Color
+        metamodels/attribute_combinedvalues: Attribut kombinierte Werte
+        metamodels/attribute_country: Attribut Land
+        metamodels/attribute_decimal: Attribut Dezimal
+        metamodels/attribute_file: Attribut Datei
+        metamodels/attribute_geodistance: Attribut Geo-Entfernung Umkreissuche
+        metamodels/attribute_langcode: Attribut Ländercode
+        metamodels/attribute_levensthein: Attribut Textsuche nach Levenshtein
+        metamodels/attribute_longtext: Attribut Langtext
+        metamodels/attribute_numeric: Attribut Numerisch
+        metamodels/attribute_rating: Attribut Rating
+        metamodels/attribute_select: Attribut Einzelauswahl [select]
+        metamodels/attribute_tabletext: Attribut Tabellentext
+        metamodels/attribute_tags: Attribut Mehrfachauswahl [tags]
+        metamodels/attribute_text: Attribut Text
+        metamodels/attribute_url: Attribut URL
+        metamodels/attribute_timestamp: Attribut Datum/Zeit
+        metamodels/attribute_translatedalias: Attribut übersetzter Alias
+        metamodels/attribute_translatedcheckbox: Attribut übersetzte Checkbox
+        metamodels/attribute_translatedcombinedvalues: Attribut übersetzte kombinierte Werte
+        metamodels/attribute_translatedfile: Attribut übersetzte Datei
+        metamodels/attribute_translatedlongtext: Attribut übersetzter Langtext
+        metamodels/attribute_translatedtabletext: Attribut übersetzter Tabellentext 
+        metamodels/attribute_translatedtext: Attribut übersetzter Text
+        metamodels/attribute_translatedurl: Attribut übersetzte URL
+        metamodels/filter_checkbox: Filter Checkbox
+        metamodels/filter_fromto: Filter Von/Bis
+        metamodels/filter_perimetersearch: Filter Umkreissuche
+        metamodels/filter_range: Filter Bereich
+        metamodels/filter_register: Filter Register [A-Z]
+        metamodels/filter_select: Filter Einfachauswahl
+        metamodels/filter_tags: Filter Mehrfachauswahl
+        metamodels/filter_text: Filter Textsuche
+        metamodels/contao-frontend-editing: Modul Front-End-Editing
