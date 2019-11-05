@@ -34,6 +34,7 @@ CSS
 CSV
 Dalley
 DCA
+DMS
 DOM
 DOMPDF
 DownloadMail
@@ -152,6 +153,7 @@ Theme
 theme
 Themes
 TinyJPG
+TinyMCE
 TinyPNG
 Token
 Trek
