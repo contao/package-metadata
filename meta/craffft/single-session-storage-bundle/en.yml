@@ -6,3 +6,4 @@ en:
         - storage
         - session
         - server-side
+    dependency: true

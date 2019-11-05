@@ -7,3 +7,4 @@ en:
         - client
         - token
         - authentication
+    dependency: true
