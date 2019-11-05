@@ -1,10 +1,10 @@
 en:
-    title: Tiny MCE Bundle classic
-    description: >
-        Installs the TinyMCE plugin loader and the missing default plugins known from TinyMCE 3 (anchor, colorpicker, emoticons, textcolor).
-    keywords:
-        - tinymce
-        - tiny editor
-        - tinymce bundle
-        - tinymce classic
-        - tinymce4"
+  title: TinyMCE Bundle classic
+  description: >
+    Installs the TinyMCE plugin loader and the missing default plugins known from TinyMCE 3 (anchor, colorpicker, emoticons, textcolor).
+  keywords:
+  - tinymce
+  - tiny editor
+  - tinymce bundle
+  - tinymce classic
+  - tinymce4"
