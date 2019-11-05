@@ -152,6 +152,7 @@ Theme
 theme
 Themes
 TinyJPG
+TinyMCE
 TinyPNG
 Token
 Trek
