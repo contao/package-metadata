@@ -1,7 +1,7 @@
 en:
-    title: Contao Monitoring Bundle Client all
-    description: >
-        Installs the Contao Monitoring Client and all available sensors.
-    keywords:
-        - monitoring
-        - client
+  title: ContaoMonitoring Bundle Client all
+  description: >
+    Installs the Contao Monitoring Client and all available sensors.
+  keywords:
+  - monitoring
+  - client
