@@ -1,6 +1,6 @@
 en:
-    title: ContaoMonitoring Bundle all
-    description: >
-        Installs the Contao Monitoring system and all available additional components.
-    keywords:
-        - monitoring
+  title: ContaoMonitoring Bundle all
+  description: >
+    Installs the Contao Monitoring system and all available additional components.
+  keywords:
+  - monitoring
