@@ -1,0 +1,9 @@
+en:
+    title: Contao DMS Bundle all
+    description: >
+        Installs the Contao DMS and all available additional components.
+    keywords:
+        - dms
+        - document
+        - management
+        - files
