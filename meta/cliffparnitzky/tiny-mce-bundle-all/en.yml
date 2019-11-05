@@ -1,10 +1,10 @@
 en:
-    title: Tiny MCE Bundle all
-    description: >
-        Installs the TinyMCE plugin loader and all available plugins.
-    keywords:
-        - tinymce
-        - tiny editor
-        - tinymce bundle
-        - tinymce all
-        - tinymce4"
+  title: Tiny MCE Bundle all
+  description: >
+    Installs the TinyMCE plugin loader and all available plugins.
+  keywords:
+  - tinymce
+  - tiny editor
+  - tinymce bundle
+  - tinymce all
+  - tinymce4"
