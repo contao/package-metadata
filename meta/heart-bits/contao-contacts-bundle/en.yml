@@ -1,7 +1,7 @@
 en:
     title: Contact management
     description: >
-        Allows the maintenance of companies, departments and contacts for output in the frontend.
+        Allows the maintenance of companies, departments and contacts for output in the front end.
         Ideal for creating a list of employees or similar.
     keywords:
         - contacts

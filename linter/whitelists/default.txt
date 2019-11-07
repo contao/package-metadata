@@ -11,6 +11,7 @@ back end
 Barcode
 barcode
 Bing
+bits
 Bootstrap
 Bulma
 bundle
@@ -51,7 +52,9 @@ excel
 Facebook
 FAQs
 Feed
+Flex
 Footer
+Foundation
 Framework
 Fred
 Freunde
@@ -68,6 +71,7 @@ google
 googlemaps
 GPX
 Graphhopper
+heart
 Heusschen
 iCal
 ImmobilienScout

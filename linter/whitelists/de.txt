@@ -16,6 +16,7 @@ Animations
 AntiSpam
 Api
 Artikeleigenschaften
+Artikelgrundeinstellungen
 Artikelvererbung
 Assets
 assets
@@ -43,6 +44,8 @@ Berechnungsarten
 Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
+Bilder
+bilder
 Bildergalerie
 Bildergalerien
 Bildgrößen
@@ -168,6 +171,9 @@ HeaderFooterCode
 Helper
 HERE
 Hilfsklasse
+Hintergrundfarbe
+Hintergrundfarben
+Hintergründe
 History
 hochgeladen
 Hook
