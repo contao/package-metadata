@@ -1,0 +1,10 @@
+en:
+    title: Frontend-Grid
+    description: >
+        A Foundation Flex Grid based frontend grid for backend maintenance.
+        Foundation stylesheets can be integrated as needed or not.
+    keywords:
+        - rows
+        - columns
+        - grid
+        - foundation

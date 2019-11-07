@@ -1,0 +1,10 @@
+de:
+    title: Artikel-Hintergründe
+    description: >
+        Hintergrundfarben und -bilder für Artikel in Contao.
+        Die Hintergünde der Artikel lassen sich innerhalb der Artikelgrundeinstellungen schnell mit Farben und/oder Bildern füllen. Außerdem lassen sich Polygone im den Artikel einblenden, die das Umsetzen von besonderen Layouts erleichtern sollen.
+    keywords:
+        - artikel
+        - hintergrund
+        - bild
+        - farbe
