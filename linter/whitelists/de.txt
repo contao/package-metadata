@@ -49,6 +49,7 @@ Bildergalerie
 Bildergalerien
 Bildgrößen
 Bildslider
+bits
 bla
 Body
 Bootstrapper
@@ -167,6 +168,7 @@ Hardwarebeschleunigung
 Hauptsprache
 Head
 HeaderFooterCode
+heart
 Helper
 HERE
 Hilfsklasse
