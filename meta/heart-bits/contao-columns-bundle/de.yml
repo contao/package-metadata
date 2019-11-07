@@ -1,5 +1,5 @@
 de:
-    title: Front end-Grid
+    title: Frontend-Grid
     description: >
         Ein Foundation Flex Grid basiertes Frontend-Grid zur Pflege im Backend.
         Die Stylesheet von Foundation können je nach Bedarf integriert werden oder nicht.
