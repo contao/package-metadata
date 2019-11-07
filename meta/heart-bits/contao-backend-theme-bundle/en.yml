@@ -5,3 +5,4 @@ en:
     keywords:
         - back end
         - theme
+    dependency: true
