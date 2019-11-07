@@ -39,6 +39,7 @@ Benachrichtigungszentrum
 Benutzerdaten
 Benutzereinstellungen
 Benutzergruppen
+Benutzernamen
 Berechnungsarten
 Besuchererweiterung
 Bewertungssystem
@@ -80,6 +81,8 @@ Cookiebar
 Cookieconsent
 Core
 costs
+checkbox
+Checkout
 Crawlers
 Creator
 cron
@@ -194,6 +197,7 @@ Kartendiensten
 Karteneditor
 Kartenlayern
 Kartentechnik
+Kassenbereich
 Keys
 Keywords
 Klassenbasierte

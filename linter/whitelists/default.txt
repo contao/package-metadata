@@ -1,5 +1,6 @@
 adwords
 ajax
+Ajax
 amp
 Analytics
 Android
@@ -70,6 +71,7 @@ GPX
 Graphhopper
 Heusschen
 iCal
+iFrame
 ImmobilienScout
 InsertTags
 Inszenium
@@ -80,6 +82,7 @@ JPEG
 JPG
 jQuery
 js
+Klarna
 KML
 KuteJS
 LASR
@@ -128,6 +131,7 @@ Podcasts
 POIs
 QR
 README
+Reload
 RockSolid
 rss
 RSS
@@ -139,6 +143,7 @@ Slack
 SMS
 Source
 Spotify
+sql
 start
 Start
 Stardate
@@ -163,6 +168,7 @@ Twig
 Twitter
 UI
 Usability
+var
 Valhalla
 vivenio
 Web

@@ -1,0 +1,10 @@
+en:
+    title: Klarna Checkout v3 for Isotope eCommerce
+    description: >
+        This extensions provides an entire new checkout for Isotope eCommerce. It integrates the Klarna checkout iFrame into your shop.
+
+        The Klarna checkout will use the configuration of your Isotope shop. In addition, the extension provides two new front end modules. You can find the documentation on GitHub.
+    keywords:
+        - isotope
+        - klarna
+        - checkout

@@ -1,0 +1,8 @@
+en:
+    title: Backup manager
+    description: >
+        This extensions provides two commands that backup and restore the Contao database.
+
+        Please find usage instructions within the README on GitHub. You can find the database dumps within the folder var/sql.
+    keywords:
+        - backup

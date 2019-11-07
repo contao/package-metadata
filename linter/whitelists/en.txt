@@ -17,6 +17,7 @@ Calculator
 canonical
 Card
 center
+checkbox
 Classes
 Columns
 con
