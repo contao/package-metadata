@@ -16,7 +16,6 @@ Animations
 AntiSpam
 Api
 Artikeleigenschaften
-Artikelgrundeinstellungen
 Artikelvererbung
 Assets
 assets
@@ -44,7 +43,6 @@ Berechnungsarten
 Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
-Bilder
 Bildergalerie
 Bildergalerien
 Bildgrößen
