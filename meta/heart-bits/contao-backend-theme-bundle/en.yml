@@ -1,8 +1,2 @@
 en:
-    title: heart-bits back end theme
-    description: >
-        back end theme with some adjustments for the corporate design of heart-bits
-    keywords:
-        - back end
-        - theme
     dependency: true
