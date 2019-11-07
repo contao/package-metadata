@@ -51,7 +51,9 @@ excel
 Facebook
 FAQs
 Feed
+Flex
 Footer
+Foundation
 Framework
 Fred
 Freunde
