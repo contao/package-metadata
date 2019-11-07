@@ -45,7 +45,6 @@ Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
 Bilder
-bilder
 Bildergalerie
 Bildergalerien
 Bildgrößen

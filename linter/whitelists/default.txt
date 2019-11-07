@@ -11,7 +11,6 @@ back end
 Barcode
 barcode
 Bing
-bits
 Bootstrap
 Bulma
 bundle
@@ -71,7 +70,6 @@ google
 googlemaps
 GPX
 Graphhopper
-heart
 Heusschen
 iCal
 ImmobilienScout
