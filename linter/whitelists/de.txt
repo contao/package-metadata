@@ -334,6 +334,7 @@ Startbildschirm
 Statistikübersicht
 Sternzeit
 Style
+StyleManager
 stylen
 Suchbegriff
 Suchmoduls
