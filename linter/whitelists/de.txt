@@ -193,6 +193,7 @@ Kontextmenü
 Kreuztabelle
 Kreuztabellen
 Klartextwerte
+Klassensammlung
 Language
 Layoutvorlage
 Lead
@@ -333,6 +334,8 @@ Standortermittlung
 Startbildschirm
 Statistikübersicht
 Sternzeit
+Stilanpassungen
+Stilgruppen
 Style
 StyleManager
 stylen
