@@ -1,0 +1,10 @@
+en:
+    title: Component StyleManager
+    description: >
+        With this extension you can create your own style groups (CSS class collection) and make them available to the
+        user for pages, articles or specific content elements. This allows the user to make predefined style adjustments
+        to the layout or individual components.
+    keywords:
+        - css
+        - theme
+        - styles
