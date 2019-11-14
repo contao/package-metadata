@@ -213,6 +213,7 @@ Kontextmenü
 Kreuztabelle
 Kreuztabellen
 Klartextwerte
+Klassensammlung
 Language
 Latitude
 Layoutvorlage
@@ -363,7 +364,10 @@ Standortermittlung
 Startbildschirm
 Statistikübersicht
 Sternzeit
+Stilanpassungen
+Stilgruppen
 Style
+StyleManager
 stylen
 Styling
 Suchbegriff

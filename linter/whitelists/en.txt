@@ -148,6 +148,7 @@ splitter
 staging
 stardate
 stylable
+StyleManager
 subpages
 system
 Tab
