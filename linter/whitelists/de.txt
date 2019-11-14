@@ -12,6 +12,7 @@ AMPHTML
 Amphtml
 amphtml
 Anfahrtskarten
+Animated
 Animations
 AntiSpam
 Api
@@ -395,6 +396,7 @@ ThemeRoller
 Ticker
 Tiles
 tiles
+Timeline
 Titelleiste
 tmp
 Touch
