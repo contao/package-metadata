@@ -1,0 +1,10 @@
+en:
+    title: Animated Timeline
+    description: >
+        The Animated Timeline Bundle allows you to render content in a horizontal or vertical timeline.
+    keywords:
+        - jQuery
+        - timeline
+        - roadmap
+    support:
+        docs: https://docs.pdir.de/#/animated-timeline/index
