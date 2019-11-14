@@ -10,7 +10,8 @@
         "symfony/yaml": "^4.1",
         "justinrainbow/json-schema": "^5.2",
         "guzzlehttp/guzzle": "^6.3",
-        "symfony/process": "^4.2"
+        "symfony/process": "^4.2",
+        "composer/composer": "^1.9"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.13"

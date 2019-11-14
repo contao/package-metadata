@@ -1,0 +1,8 @@
+en:
+    title: Content Nodes
+    description: This bundle provides a new way for Contao to manage content elements that are common for multiple pages.
+    keywords:
+        - node
+        - content
+        - picker
+        - inserttag

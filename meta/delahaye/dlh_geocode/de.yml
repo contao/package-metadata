@@ -8,3 +8,4 @@ de:
         - Adresse
         - Koordinaten
         - Google Maps
+    dependency: true

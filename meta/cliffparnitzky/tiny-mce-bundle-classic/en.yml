@@ -1,0 +1,10 @@
+en:
+  title: TinyMCE Bundle classic
+  description: >
+    Installs the TinyMCE plugin loader and the missing default plugins known from TinyMCE 3.
+  keywords:
+  - tinymce
+  - tiny editor
+  - tinymce bundle
+  - tinymce classic
+  - tinymce4

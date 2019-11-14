@@ -9,6 +9,8 @@ addons:
             - aspell-en
             - aspell-de
             - aspell-cs
+            - aspell-es
+            - aspell-fr
 
 php:
     - '7.2'

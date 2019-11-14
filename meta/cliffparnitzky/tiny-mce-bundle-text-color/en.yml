@@ -1,0 +1,10 @@
+en:
+  title: TinyMCE Bundle text color
+  description: >
+    Installs the TinyMCE plugin loader, the text color plugin and needed additional plugins.
+  keywords:
+  - tinymce
+  - tiny editor
+  - tinymce bundle
+  - tinymce textcolor
+  - tinymce4
