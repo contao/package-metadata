@@ -12,6 +12,7 @@ AMPHTML
 Amphtml
 amphtml
 Anfahrtskarten
+Animated
 Animations
 AntiSpam
 Api
@@ -434,6 +435,7 @@ yes
 youtube
 zeitintensiven
 zeitintensiver
+Zeitstrahl
 Zielseiten
 Zugangsdaten
 Übersetzungsfelder

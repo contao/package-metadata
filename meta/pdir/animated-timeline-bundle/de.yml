@@ -1,0 +1,9 @@
+de:
+    title: Animated Timeline
+    description: >
+        Mit dem Animated Timeline Bundle kannst du Inhalte in einem horizontalen oder vertikalen Zeitstrahl darstellen.
+    keywords:
+        - jQuery
+        - Zeitstrahl
+    support:
+        docs: https://docs.pdir.de/#/animated-timeline/index
