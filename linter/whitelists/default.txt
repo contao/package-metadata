@@ -64,6 +64,7 @@ geocoding
 GIS
 gis
 GitHub
+Go
 Google
 google
 googlemaps
@@ -101,6 +102,7 @@ mPDF
 mpdf
 MultiColumnWizard
 NATURE
+Newsletter2Go
 Nominatim
 OAuth
 ODD
