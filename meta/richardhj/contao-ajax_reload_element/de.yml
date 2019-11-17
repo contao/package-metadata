@@ -1,0 +1,11 @@
+de:
+    title: Ajax Reload Element
+    description: >
+        Diese Erweiterung bietet die Möglichkeit, ein bestimmtes Frontend-Modul oder Inhaltselement über einen Ajax-Aufruf zu laden.
+
+        Nach der Installation kannst du jedes Element, das über Ajax geladen werden darf, markieren. Danach kannst du diese Elemente über den bereitgestellten Ajax-Endpunkt laden.
+
+        Diese Erweiterung kommt mit einem jQuery-Template, um jedes Contao-Formular automatisch in ein Ajax-Formular zu verwandeln.
+
+    keywords:
+        - ajax

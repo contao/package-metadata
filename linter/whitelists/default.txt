@@ -1,5 +1,6 @@
 adwords
 ajax
+Ajax
 amp
 Analytics
 Android
@@ -65,6 +66,7 @@ geocoding
 GIS
 gis
 GitHub
+Go
 Google
 google
 googlemaps
@@ -72,6 +74,7 @@ GPX
 Graphhopper
 Heusschen
 iCal
+iFrame
 ImmobilienScout
 InsertTags
 Instagram
@@ -83,6 +86,7 @@ JPEG
 JPG
 jQuery
 js
+Klarna
 KML
 KuteJS
 LASR
@@ -101,6 +105,7 @@ mPDF
 mpdf
 MultiColumnWizard
 NATURE
+Newsletter2Go
 Nominatim
 OAuth
 ODD
@@ -131,6 +136,7 @@ Podcasts
 POIs
 QR
 README
+Reload
 RockSolid
 rss
 RSS
@@ -142,6 +148,7 @@ Slack
 SMS
 Source
 Spotify
+sql
 start
 Start
 Stardate
@@ -167,6 +174,7 @@ Twig
 Twitter
 UI
 Usability
+var
 Valhalla
 vivenio
 Web

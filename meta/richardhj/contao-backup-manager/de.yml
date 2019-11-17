@@ -1,0 +1,8 @@
+de:
+    title: Backup-Manager
+    description: >
+        Diese Erweiterung bietet zwei Befehle zur Sicherung und Wiederherstellung der Contao-Datenbank.
+
+        Details zum Aufruf entnehme bitte der README auf GitHub. Die Backups werden im Ordner var/sql gespeichert.
+    keywords:
+        - backup
