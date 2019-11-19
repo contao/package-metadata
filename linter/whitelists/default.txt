@@ -61,6 +61,7 @@ Fred
 Freunde
 Front end
 front end
+gap
 Geocoder
 geocoder
 geocoding
@@ -73,6 +74,7 @@ google
 googlemaps
 GPX
 Graphhopper
+grid
 Heusschen
 iCal
 iFrame
