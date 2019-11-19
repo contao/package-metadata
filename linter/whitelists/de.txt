@@ -328,6 +328,7 @@ Responsive
 responsiven
 Rewrite
 Rewriting
+Rocksolid
 Root
 Routenplaner
 Routenplanung
@@ -357,6 +358,7 @@ Sortierungsfunktionen
 Sorting
 Source
 Spaltenbreite
+Spaltenset
 Spam
 Speisenpläne
 Spiders

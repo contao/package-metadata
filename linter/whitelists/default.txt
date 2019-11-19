@@ -21,6 +21,7 @@ Bynder
 Catalog
 ChangeLanguage
 Checkbox
+Clickpress
 CMS
 Community
 Composer
@@ -60,6 +61,7 @@ Fred
 Freunde
 Front end
 front end
+gap
 Geocoder
 geocoder
 geocoding
@@ -72,6 +74,7 @@ google
 googlemaps
 GPX
 Graphhopper
+grid
 Heusschen
 iCal
 iFrame
@@ -138,6 +141,8 @@ QR
 README
 Reload
 RockSolid
+Rocksolid                                                    
+rocksolid
 rss
 RSS
 SEO

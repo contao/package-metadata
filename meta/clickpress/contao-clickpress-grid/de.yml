@@ -1,0 +1,20 @@
+de:
+    title: Clickpress Grid
+    description: >
+        Spaltenset / Grid System basierend auf Grid CSS. Dadurch wird weniger HTML generiert und mittels grid-gap können einfacher die Abstände eingestellt werden.
+        Stellenweise wurde der Code mit freundlicher Genehmigung von Rocksolid Columns übernommen.
+    keywords:
+        - contao
+        - contao-grid
+        - contao-bundle
+        - spaltenset
+        - subcolumns
+        - grid
+        - gridcss
+        - columns
+        - columnset
+        - spaltensets
+        - contao-columns
+    support:
+        issues: https://github.com/clickpress/contao-clickpress-grid/issues
+        docs: https://github.com/clickpress/contao-clickpress-grid
