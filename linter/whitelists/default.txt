@@ -21,6 +21,7 @@ Bynder
 Catalog
 ChangeLanguage
 Checkbox
+Clickpress
 CMS
 Community
 Composer
