@@ -13,7 +13,7 @@ en:
         - grid
         - gridcss
         - columns
-        - comlumnset
+        - columnset
         - contao-columns
     support:
         issues: https://github.com/clickpress/contao-clickpress-grid/issues
