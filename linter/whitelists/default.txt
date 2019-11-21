@@ -138,7 +138,6 @@ Pixabay
 PNG
 Podcasts
 POIs
-Protocol
 QR
 README
 Reload

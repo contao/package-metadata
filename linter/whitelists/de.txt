@@ -311,6 +311,7 @@ production
 Produktkatalogen
 Programmierkenntnisse
 Projects
+Protokoll
 Pull
 Push
 PWA
