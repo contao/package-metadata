@@ -130,7 +130,6 @@ Preview
 Privacy
 production
 Projects
-Protocol
 PWA
 Queue
 reimport
