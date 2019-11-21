@@ -116,6 +116,7 @@ Official
 OGC
 OpenCage
 OpenGraph
+OpenGraph-Protocol
 OpenLayers
 OpenStreetMap
 OSM
@@ -137,6 +138,7 @@ Pixabay
 PNG
 Podcasts
 POIs
+Protocol
 QR
 README
 Reload
