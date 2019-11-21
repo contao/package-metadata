@@ -1,6 +1,6 @@
 en:
   title: OpenGraph-Protocol
-  description: This extension for Contao provides options to define information about the OpenGraph-Protocol.
+  description: This extension for Contao provides options to define information about the OpenGraph protocol.
   keywords:
     - opengraph
     - meta
