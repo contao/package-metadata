@@ -116,6 +116,7 @@ Official
 OGC
 OpenCage
 OpenGraph
+OpenGraph-Protocol
 OpenLayers
 OpenStreetMap
 OSM
