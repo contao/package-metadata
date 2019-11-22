@@ -296,6 +296,8 @@ Paginierungen
 Panel
 Panelen
 Panels
+Parallax
+parallax
 Passwortrichtlinie
 Passwortänderung
 Picker
