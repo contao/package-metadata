@@ -120,6 +120,7 @@ pagenierung
 pages
 paginable
 Panel
+parallax
 params
 Picker
 playout
