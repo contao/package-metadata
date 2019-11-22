@@ -124,6 +124,8 @@ OSRM
 Overpass
 Overpass
 Open
+Parallax
+parallax
 pdf
 PDF
 PDFs
