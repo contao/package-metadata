@@ -101,6 +101,7 @@ Dateninhalte
 Datensichten
 DC
 de
+description
 Detailansicht
 Detection
 dlh
