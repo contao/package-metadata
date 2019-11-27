@@ -186,6 +186,7 @@ Iconfont
 Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
+Inhaltsboxen
 Inhaltscontainer
 Inhaltselement
 Inhaltselemente
