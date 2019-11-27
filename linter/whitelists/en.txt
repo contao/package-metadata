@@ -29,6 +29,8 @@ Container
 Content
 content
 Contentbox
+Contentboxes
+contentboxes
 ContentElement
 Conversion
 conversion
