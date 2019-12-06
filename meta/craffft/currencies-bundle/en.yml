@@ -6,3 +6,4 @@ en:
         - currency
         - money
         - wizard
+    dependency: true

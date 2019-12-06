@@ -1,0 +1,11 @@
+en:
+    title: Ajax Reload Element
+    description: >
+        Ajax Reload Element gives you the possibility to fetch a particular front end module or content element via an Ajax request.
+
+        After installation, you can specify any element that is allowed to fetch via Ajax with a checkbox. As a result, you are to fetch this element using the provided Ajax endpoint.
+
+        This extension comes with a jQuery template to automatically transform any Contao form to an Ajax form.
+
+    keywords:
+        - ajax

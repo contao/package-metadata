@@ -6,3 +6,4 @@ en:
         - qr-code
         - barcode
         - wizard
+    dependency: true

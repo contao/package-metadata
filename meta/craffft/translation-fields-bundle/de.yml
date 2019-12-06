@@ -6,3 +6,4 @@ de:
         - translation
         - i18n
         - fields
+    dependency: true

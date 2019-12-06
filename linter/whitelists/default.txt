@@ -1,5 +1,6 @@
 adwords
 ajax
+Ajax
 amp
 Analytics
 Android
@@ -20,6 +21,7 @@ Bynder
 Catalog
 ChangeLanguage
 Checkbox
+Clickpress
 CMS
 Community
 Composer
@@ -34,6 +36,7 @@ CSS
 CSV
 Dalley
 DCA
+DMS
 DOM
 DOMPDF
 DownloadMail
@@ -50,27 +53,34 @@ excel
 Facebook
 FAQs
 Feed
+Flex
 Footer
+Foundation
 Framework
 Fred
 Freunde
 Front end
 front end
+gap
 Geocoder
 geocoder
 geocoding
 GIS
 gis
 GitHub
+Go
 Google
 google
 googlemaps
 GPX
 Graphhopper
+grid
 Heusschen
 iCal
+iFrame
 ImmobilienScout
 InsertTags
+Instagram
 Inszenium
 IT
 iTunes
@@ -79,6 +89,7 @@ JPEG
 JPG
 jQuery
 js
+Klarna
 KML
 KuteJS
 LASR
@@ -97,6 +108,7 @@ mPDF
 mpdf
 MultiColumnWizard
 NATURE
+Newsletter2Go
 Nominatim
 OAuth
 ODD
@@ -104,6 +116,7 @@ Official
 OGC
 OpenCage
 OpenGraph
+OpenGraph-Protocol
 OpenLayers
 OpenStreetMap
 OSM
@@ -127,7 +140,10 @@ Podcasts
 POIs
 QR
 README
+Reload
 RockSolid
+Rocksolid                                                    
+rocksolid
 rss
 RSS
 SEO
@@ -138,6 +154,7 @@ Slack
 SMS
 Source
 Spotify
+sql
 start
 Start
 Stardate
@@ -151,7 +168,9 @@ Templating
 Theme
 theme
 Themes
+Timeline
 TinyJPG
+TinyMCE
 TinyPNG
 Token
 Trek
@@ -161,6 +180,7 @@ Twig
 Twitter
 UI
 Usability
+var
 Valhalla
 vivenio
 Web

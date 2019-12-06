@@ -6,3 +6,4 @@ en:
         - crosstabs
         - table
         - relation
+    dependency: true

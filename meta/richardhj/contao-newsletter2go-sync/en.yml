@@ -1,0 +1,9 @@
+en:
+    title: Newsletter2Go synchronization
+    description: >
+        This extension allows to synchronize Contao members with Newsletter2Go.
+
+        After the installation, please 1) configure a Newsletter2Go user, 2) assign this user to any back end user or in the system settings, 3) activate synchronization for any member group.
+    keywords:
+        - Newsletter2Go
+        - newsletter

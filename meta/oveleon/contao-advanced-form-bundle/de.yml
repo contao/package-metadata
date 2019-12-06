@@ -1,7 +1,7 @@
 de:
     title: Mehrseitige Formulare
     description: >
-        Dieses Bundle fügt Contao Mehrseitige Formulare hinzu. Dabei kann jede einzelne Seite im Backend verwaltet
+        Dieses Bundle fügt Contao mehrseitige Formulare hinzu. Dabei kann jede einzelne Seite im Backend verwaltet
         und mit Formularfeldern bestückt werden. Ein großer Vorteil bietet das Ausschließen einzelner Formularseiten
         über eigens definierbare Bedingungen.
     keywords:
