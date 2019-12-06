@@ -1,17 +1,15 @@
 en:
-    title: Plenta Jobs - die Jobbörse-Software
+    title: Plenta Jobs - the job board software
     description: >
-        Running a job board inside Contao has never been easier.
+        Running a job board inside Contao has never been easier. Discover more at https://jobboerse-software.de
     keywords:
-        - Jobbörse
-        - Stellenbörse
-        - Stellenportal
-        - Jobportal
-        - Firmenprofile
-        - Jobs
+        - job
+        - jobsite
+        - jobboard
+        - jobportal
         - Hr4you
-        - Import
-        - Export
+        - import
+        - export
         - Landwehr
         - Persy
         - Stellenanzeigen.de
