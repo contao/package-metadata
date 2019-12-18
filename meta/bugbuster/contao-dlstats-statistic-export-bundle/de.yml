@@ -1,0 +1,11 @@
+de:
+    title: Download Statistiken, Export Plugin
+    description: >
+        Erweitert die Download Statistiken um die Export Möglichkeit. Export ist möglich als CSV und XLSX.
+    keywords:
+        - contao
+        - bundle
+        - download
+        - statistics
+        - dlstats
+        - export

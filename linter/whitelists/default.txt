@@ -195,6 +195,7 @@ XLIFF
 xliff
 XLS
 xls
+XLSX
 yml
 YouTube
 OpenImmo
