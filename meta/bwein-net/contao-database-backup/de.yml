@@ -1,7 +1,7 @@
 de:
     title: Datenbank-Backup
     description: >
-        Diese Erweiterung bietet ein Konsolen-Kommando um einfach Backups von der Contao-Datenbank zu erstellen.
+        Diese Erweiterung bietet ein Konsolen-Kommando, um einfach Backups von der Contao-Datenbank zu erstellen.
         Das Backup kann im Backend heruntergeladen werden und Backups können manuell durch Backend-Benutzer erstellt werden.
         Automatische Backups werden durch den täglichen Contao-Cron angestoßen.
     keywords:
