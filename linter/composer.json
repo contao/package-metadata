@@ -3,7 +3,7 @@
     "description": "A linter for the package meta data",
     "type": "project",
     "require": {
-        "php": "^7.2",
+        "php": "^7.4",
         "ext-json": "*",
         "symfony/console": "^4.1",
         "symfony/finder": "^4.1",
@@ -14,7 +14,7 @@
         "composer/composer": "^1.9"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.13"
+        "friendsofphp/php-cs-fixer": "^2.16"
     },
     "license": "MIT",
     "authors": [
