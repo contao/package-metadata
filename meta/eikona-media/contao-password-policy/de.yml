@@ -1,0 +1,20 @@
+de:
+    title: Kennwortrichtlinien
+    description: >
+        Mit dieser Erweiterung können die Kennwortrichtlinieneinstellungen über das Backend bearbeitet werden.
+        Es können die Richtlinienregeln für Mitglieder, Benutzer oder beide aktiviert werden.
+    keywords:
+        - contao
+        - back end
+        - password
+        - policy
+        - custom
+        - security
+        - rules
+        - user
+        - member
+        - passwort
+        - kennwort
+        - regeln
+        - benutzer
+        - mitglieder
