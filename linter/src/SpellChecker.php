@@ -70,7 +70,7 @@ class SpellChecker
 
     private function filterWhitelistedWords(string $language, array $errors): array
     {
-        $defaultWhitelist   = $this->loadWhitelist('default');
+        $defaultWhitelist = $this->loadWhitelist('default');
         $localizedWhitelist = $this->loadWhitelist($language);
 
         return array_diff($errors, $defaultWhitelist, $localizedWhitelist);
@@ -84,7 +84,7 @@ class SpellChecker
             return $whitelists[$key];
         }
 
-        $whitelistFile = $this->whitelistDir . '/' . $key . '.txt';
+        $whitelistFile = $this->whitelistDir.'/'.$key.'.txt';
         $whitelists[$key] = file_exists($whitelistFile)
             ? array_filter(explode("\n", file_get_contents($whitelistFile)))
             : [];
