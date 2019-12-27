@@ -74,6 +74,7 @@ google
 googlemaps
 GPX
 Graphhopper
+Host
 grid
 Heusschen
 iCal
@@ -182,6 +183,7 @@ UI
 Usability
 var
 Valhalla
+virtualization
 vivenio
 Web
 WhatsApp

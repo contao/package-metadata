@@ -206,6 +206,8 @@ Karteneditor
 Kartenlayern
 Kartentechnik
 Kassenbereich
+Kennwortrichtlinien
+Kennwortrichtlinieneinstellungen
 Keys
 Keywords
 Klassenbasierte
@@ -332,6 +334,7 @@ Responsive
 responsiven
 Rewrite
 Rewriting
+Richtlinienregeln
 Rocksolid
 Root
 Routenplaner
@@ -453,6 +456,7 @@ Zugangsdaten
 Mietangebote
 Verkaufsobjekte
 Suchabos
+Systemlast
 mobilfähig
 mobilfähige
 Formvalidation
