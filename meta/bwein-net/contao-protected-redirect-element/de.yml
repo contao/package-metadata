@@ -1,0 +1,19 @@
+de:
+    title: Protected Redirect Element
+    description: >
+        Diese Erweiterung bietet ein geschütztes Inhaltselement inkl. Weiterleitung.
+        Eine Ziel-URL (Webseite, Datei, interne Seite etc.) kann durch ein Passwort geschützt werden.
+        Nach erfolgreicher Eingabe des Kennworts wird man zum angegebenen Ziel weitergeleitet.
+    keywords:
+        - contao
+        - protected
+        - redirect
+        - element
+        - password
+        - content
+        - download
+        - geschützt
+        - weiterleitung
+        - passwort
+        - kennwort
+        - inhaltselement
