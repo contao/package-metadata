@@ -1,0 +1,15 @@
+en:
+    title: System Information
+    description: >
+        This bundle allows you to view different basic facts about the environment your Contao instance is running in,
+        like information about PHP, database, operating system, host, hardware, virtualization and system load (including a live system load graph).
+    keywords:
+        - contao
+        - back end
+        - environment
+        - system
+        - information
+        - info
+        - host
+        - hardware
+        - load
