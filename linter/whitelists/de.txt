@@ -298,6 +298,7 @@ Panel
 Panelen
 Panels
 Parallax
+Password-Policy
 Passwortrichtlinie
 Passwortänderung
 Picker
@@ -387,6 +388,7 @@ Sync
 Synchronisierung
 Syndikation
 system
+System-Information
 Tab
 TabControl
 Tabellenzeile

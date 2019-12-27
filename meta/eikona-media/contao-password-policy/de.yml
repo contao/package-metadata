@@ -1,5 +1,5 @@
 de:
-    title: Password Policy
+    title: Password-Policy
     description: >
         Mit dieser Erweiterung können die Kennwortrichtlinieneinstellungen über das Backend bearbeitet werden.
         Es können die Richtlinienregeln für Mitglieder, Benutzer oder beide aktiviert werden.
