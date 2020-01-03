@@ -1,0 +1,14 @@
+en:
+    title: Protected Redirect Element
+    description: >
+        This Bundle provides an protected redirect element.
+        A destination URL (website, file, page etc.) can be password protected.
+        After successfully entering the password, you will be redirected to the specified destination.
+    keywords:
+        - contao
+        - protected
+        - redirect
+        - element
+        - password
+        - content
+        - download
