@@ -1,5 +1,5 @@
 de:
-    title: Protected Redirect Element
+    title: Geschütztes Weiterleitungselement
     description: >
         Diese Erweiterung bietet ein geschütztes Inhaltselement inkl. Weiterleitung.
         Eine Ziel-URL (Webseite, Datei, interne Seite etc.) kann durch ein Passwort geschützt werden.

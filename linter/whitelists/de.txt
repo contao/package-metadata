@@ -160,6 +160,7 @@ Geokodierung
 Geokodierungsdienste
 gerendert
 gescannten
+Geschütztes
 gestylt
 gestylten
 Get
@@ -208,6 +209,7 @@ Kartentechnik
 Kassenbereich
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
+Kennworts
 Keys
 Keywords
 Klassenbasierte
@@ -461,6 +463,7 @@ mobilfähig
 mobilfähige
 Formvalidation
 Weiterleitungszielen
+Weiterleitungselement
 Weiterlesen
 Webanwendungen
 Plenta
