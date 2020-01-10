@@ -1,9 +1,10 @@
 de:
     title: Komponenten StyleManager
     description: >
-        Mit dieser Erweiterung können eigene Stilgruppen (CSS-Klassensammlung) erstellt und dem Benutzer für
-        Seiten, Artikel oder spezifische Inhaltselemente bereitgestellt werden. Dadurch können vordefinierte
-        Stilanpassungen am Layout oder einzelnen Komponenten durch den Benutzer vorgenommen werden.
+        Mit dieser Erweiterung kannst Du auf einfache Weise eigene CSS-Klassen in Gruppen und Kategorien verwalten,
+        welche in Layouts, Seiten, Artikeln, Modulen, News, Events, Formularfeldern und Inhaltselementen eingesetzt werden
+        können. Erstellte Kategorien und deren Gruppen können bei Bedarf an das Template übergeben und von diesem
+        entgegengenommen werden, was viele Möglichkeiten eröffnet, wofür diese Erweiterung genutzt werden kann.
     keywords:
         - css
         - theme
