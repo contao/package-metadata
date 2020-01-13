@@ -182,3 +182,7 @@ visits
 yes
 youtube
 Plenta
+Sineos
+SINEOS
+Extended
+Filemanager

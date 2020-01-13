@@ -1,0 +1,14 @@
+en:
+    title: SINEOS Extended Filemanager
+    description: >
+        Shows in the file manager on which page files (pictures, graphics etc.) are used in your installation. So you can clean up the backend and delete unneeded files.
+
+        Currently, the Extended Filemanager is available in two versions. A free version and a professional version that offers an extended feature set. The professional version can be purchased here: https://shop.sineos.de. After the purchase you will receive a key by e-mail, which you can use to upgrade the free version to the professional version.
+
+        As websites get bigger and more extensive over time, editors will at some point have some confusion about whether or not to delete images, graphics and other things, or where on the website, for example, images are used everywhere. This is exactly where the SINEOS Extended Filemanager comes in and brings clarity for editors and admins.
+        The Extended Filemanager extends the Contao file management with a new icon next to each file (e.g. images in .svg, .png, .jpg format). Clicking on the icon will show you where this file is used everywhere on the page. The whole thing works with any file type.
+        This works across Contao and across pages for every page in Contao, as long as the image is not hard-coded via templates. The extended file manager searches the complete database behind the installation. The prerequisite is that the file has been created by the file manager. We therefore recommend using a synchronous Contao file manager
+    keywords:
+        - contao
+        - file
+        - usage
