@@ -207,3 +207,7 @@ ChangeNewsMore
 ChangeEventsMore
 ZIP
 Zipuploads
+Sineos,
+SINEOS,
+Extended,
+Filemanager
