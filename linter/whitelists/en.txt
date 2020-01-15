@@ -182,11 +182,3 @@ visits
 yes
 youtube
 Plenta
-Sineos
-SINEOS
-Extended
-Filemanager
-backend
-svg
-png
-jpg

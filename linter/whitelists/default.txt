@@ -207,3 +207,8 @@ ChangeNewsMore
 ChangeEventsMore
 ZIP
 Zipuploads
+Sineos
+SINEOS
+svg
+png
+jpg
