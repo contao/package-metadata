@@ -88,6 +88,7 @@ iTunes
 JavaScript
 JPEG
 JPG
+jpg
 jQuery
 js
 Klarna
@@ -137,6 +138,7 @@ phpoffice
 Pinterest
 Pixabay
 PNG
+png
 Podcasts
 POIs
 QR
@@ -151,6 +153,8 @@ SEO
 SERP
 Shariff
 SimpleTokens
+Sineos
+SINEOS
 Slack
 SMS
 Source
@@ -161,6 +165,7 @@ Start
 Stardate
 Stylesheet
 stylesheet
+svg
 Symfony
 TCPDF
 Template
