@@ -58,7 +58,9 @@ EasyThemes
 Editing
 etc
 Expression
+Extended
 favicons
+Filemanager
 Fine
 Folder
 foo
@@ -127,6 +129,7 @@ Panel
 params
 Picker
 playout
+Plenta
 Plugin
 pre
 prebuilt
@@ -181,6 +184,3 @@ versioned
 visits
 yes
 youtube
-Plenta
-Extended
-Filemanager
