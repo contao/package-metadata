@@ -1,5 +1,5 @@
 de:
     title: Contao Core
     description: >
-        System-Bibliotheken für den Betrieb von Contao.
+        Liefert die Kernfunktionalität von Contao.
     dependency: true
