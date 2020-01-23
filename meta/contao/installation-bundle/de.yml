@@ -1,5 +1,5 @@
 de:
-    title: Contao Install-Tool
+    title: Contao Installtool
     description: >
         Liefert die Grundlagen für die Installation von Contao und die Verwaltung der Datenbank.
     dependency: true

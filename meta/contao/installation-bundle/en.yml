@@ -1,5 +1,5 @@
 en:
-    title: Contao Install-Tool
+    title: Contao Install Tool
     description: >
         Provides the necessary tools to setup Contao and update the database.
     dependency: true
