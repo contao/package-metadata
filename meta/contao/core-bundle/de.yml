@@ -1,5 +1,5 @@
-en:
+de:
     title: Contao Core
     description: >
-        Provides the core functionality of Contao.
+        Liefert die Kernfunktionalität von Contao.
     dependency: true

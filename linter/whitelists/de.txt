@@ -217,6 +217,7 @@ Kassenbereich
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
 Kennworts
+Kernfunktionalität
 Key
 Keys
 Keywords
