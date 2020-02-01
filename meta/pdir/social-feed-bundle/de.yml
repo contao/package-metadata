@@ -1,9 +1,10 @@
 de:
     title: Social Feed
     description: >
-        Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzwerken an. Unterstützt wird derzeit Facebook und Instagram.
+        Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzwerken an. Unterstützt wird derzeit Facebook, Instagram und Twitter. Die Posts werden direkt in die Datenbank geschrieben, als News angelegt und können anschließend mit dem Modultyp Nachrichtenliste auf der Webseite angezeigt werden. 
     keywords:
         - soziale Netzwerke
         - Facebook
         - Feed
         - Instagram
+        - Twitter
