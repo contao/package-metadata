@@ -158,6 +158,7 @@ SINEOS
 Slack
 SMS
 Source
+Spectre
 Spotify
 sql
 start
