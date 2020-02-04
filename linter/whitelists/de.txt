@@ -83,6 +83,7 @@ conversion
 Cookiebar
 Cookieconsent
 Core
+Cores
 costs
 checkbox
 Checkout
@@ -93,6 +94,7 @@ css
 Custom
 Customizer
 Data
+Dark
 Dateiauswahl
 Dateibaum
 Dateityp
@@ -222,6 +224,7 @@ Key
 Keys
 Keywords
 Klassenbasierte
+klimafreundlichste
 Kommentarfunktionalität
 kommentierbar
 Kompetenzteams
@@ -282,10 +285,12 @@ Mitgliedergruppen
 mobilfähig
 mobilfähige
 Moduleinstellungen
+Modultyp
 Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+Nachrichtenliste
 native
 Navbar
 navbar
@@ -296,6 +301,7 @@ Notification
 notification
 Nu
 Nutzerbasis
+Nutzerfreundlichkeit
 Objektliste
 Open
 Opt
@@ -417,6 +423,7 @@ Tabellenzeile
 TableLookupWizard
 Tabs
 Teaserbox
+Teaserboxen
 Teilnehmerregistrierung
 Telematik
 template
