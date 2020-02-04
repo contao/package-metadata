@@ -282,10 +282,12 @@ Mitgliedergruppen
 mobilfähig
 mobilfähige
 Moduleinstellungen
+Modultyp
 Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+Nachrichtenliste
 native
 Navbar
 navbar
