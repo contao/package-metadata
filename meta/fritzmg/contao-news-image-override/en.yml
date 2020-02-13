@@ -1,5 +1,5 @@
 en:
-    title: Contao News Image Override
+    title: News Image Override
     description: >
         Allows the image settings of each news entry in Contao to override the image settings of the news module.
 
