@@ -1,0 +1,9 @@
+en:
+    title: Open Graph Tags
+    description: Adds the ability to add Open Graph metadata to pages, news, Isotope products and StoreLocator entries.
+    keywords:
+        - contao
+        - opengraph
+        - facebook
+        - isotope
+        - storelocator
