@@ -1,0 +1,5 @@
+de:
+    title: Contao 3
+    description: >
+        Veraltetes Paket für Contao 3.
+    dependency: true

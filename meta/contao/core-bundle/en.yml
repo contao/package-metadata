@@ -1,5 +1,5 @@
 en:
-    title: Contao Core
+    title: Contao 4 Core
     description: >
         Provides the core functionality of Contao.
     dependency: true
