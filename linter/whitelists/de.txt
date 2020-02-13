@@ -48,6 +48,7 @@ Bilddatenbank
 Bildergalerie
 Bildergalerien
 Bildgrößen
+Bildgrößeneinstellung
 Bildslider
 bits
 bla
@@ -126,6 +127,7 @@ Extended
 Fahrzeugbestand
 Fahrzeuginformationen
 Fahrtkostenrechner
+Fallback
 Farbschemen
 Favicons
 Felderguppen
@@ -290,7 +292,9 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+Nachrichtenbeitrags
 Nachrichtenliste
+Nachrichtenmoduls
 native
 Navbar
 navbar
@@ -423,6 +427,7 @@ TabControl
 Tabellenzeile
 TableLookupWizard
 Tabs
+Teaser
 Teaserbox
 Teaserboxen
 Teilnehmerregistrierung
