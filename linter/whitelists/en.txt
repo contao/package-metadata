@@ -57,6 +57,7 @@ Documents
 EasyThemes
 Editing
 etc
+eventlist
 Expression
 Extended
 favicons
