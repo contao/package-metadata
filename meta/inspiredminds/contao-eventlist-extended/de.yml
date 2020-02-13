@@ -1,0 +1,10 @@
+de:
+    title: Contao Eventlist Extended
+    description: >
+        Erweitert die Eventliste des contao/calendar-bundle mit zusätzlichen Funktionen.
+
+        Weiterleitungsseite überschreiben:
+        Es kann eine Weiterleitungsseite angegeben werden, die die Weiterleitungsseite, die im Kalender definiert ist, überschreibt. Diese Funktion kann nützlich sein, wenn man eine Eventliste des selben Kalenders auf mehreren Domains oder mehreren Sprachen anzeigen lassen möchte.
+
+        Canonical Tag:
+        Die Erweiterung fügt außerdem automatisch einen Canonical Tag auf der Eventleser Seite ein, wenn sich die aktuelle Seite von der im Kalender eingestellten Weiterleitungsseite unterscheidet.

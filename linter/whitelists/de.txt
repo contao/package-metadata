@@ -61,8 +61,10 @@ Buchungsformular
 Buttongenerator
 bzw
 Calculator
+calendar
 Calendar
 canonical
+Canonical
 Card
 Cards
 center
@@ -121,6 +123,8 @@ Engine
 Erstellungswerkzeuge
 etc
 Event
+Eventleser
+Eventliste
 Events
 Expression
 Extended
@@ -477,6 +481,7 @@ Webservices
 Webshop
 Weiterlesen
 Weiterleitungselement
+Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
 wich
