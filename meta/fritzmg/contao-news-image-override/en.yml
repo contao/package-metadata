@@ -1,0 +1,6 @@
+en:
+    title: Contao News Image Override
+    description: >
+        Allows the image settings of each news entry in Contao to override the image settings of the news module.
+
+        Usually Contao overrides the teaser image size of the news entry with the image size of the news module, if defined. This extension reverses this logic, i.e. whenever an image size is defined in the news entry, that image size will be used when teaser image is rendered.
