@@ -145,7 +145,7 @@ QR
 README
 Reload
 RockSolid
-Rocksolid                                                    
+Rocksolid
 rocksolid
 rss
 RSS
@@ -164,6 +164,7 @@ sql
 start
 Start
 Stardate
+StoreLocator
 Stylesheet
 stylesheet
 svg
