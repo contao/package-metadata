@@ -1,0 +1,10 @@
+de:
+    title: Token-Login
+    description: >
+        Diese Erweiterung bietet ein alternatives Anmeldeformular, für das die Mitglieder kein Passwort benötigen.
+
+        Das Anmeldeformular fragt nur nach dem Benutzernamen (oder der E-Mail-Adresse). Die Benutzer*in sendet das Formular ab und erhält eine Benachrichtigung, z. B. E-Mail. Die Benutzer*in wird eingeloggt, sobald der Login-Link in der E-Mail aufgerufen wird. Der Login-Link meldet die Benutzer*in sofort an.
+    keywords:
+        - token
+        - login
+        - anmeldung

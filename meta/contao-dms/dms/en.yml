@@ -1,5 +1,5 @@
 en:
-    title: ContaoDMS Core
+    title: Contao DMS Core
     description: >
         Provides a document management system for the Contao CMS. It offers the possibility to store versioned files in an unlimited category structure.
     keywords:

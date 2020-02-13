@@ -1,0 +1,12 @@
+en:
+    title: MetaModels Start-Bundle
+    description: >
+        To get started with MetaModels, the bundle metamodels/bundle_start is recommended - it
+        installs the core as well as the most important attributes and filters without e.g. the
+        packages for multilingualism.
+        
+        More about the installation and working with MetaModels in our manual at https://metamodels.readthedocs.io
+    keywords:
+        - metamodels
+        - bundle_start
+        - start bundle

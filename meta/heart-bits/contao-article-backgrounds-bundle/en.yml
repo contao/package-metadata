@@ -1,0 +1,10 @@
+en:
+    title: Article backgrounds
+    description: >
+        Background colors and images for articles in Contao.
+        Backgrounds of articles can easily be filled with colors and or images. In addition, polygons can be displayed in the article, which should simplify the implementation of special layouts.
+    keywords:
+        - article
+        - background
+        - image
+        - color

@@ -1,0 +1,5 @@
+de:
+    title: Contao Core
+    description: >
+        Liefert die Kernfunktionalität von Contao.
+    dependency: true

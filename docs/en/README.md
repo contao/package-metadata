@@ -18,6 +18,7 @@ meta/[vendor]/[package]
     - ru.yml
     - ...
     - logo.svg (optional)
+    - composer.json (only for private packages and optional. [Details](#public-vs-privateproprietary-packages))
 ```
 
 Hint: The `logo.svg` can also be place directly within `[vendor]`. It is then used as a fallback logo for all packages of
@@ -38,11 +39,29 @@ en:
         - lorem ipsum
         - keyword2
         ...
+    support:
+        issues: https://github.com/demo/demo/issues
+        docs: https://example.org/demo/
+    suggest:
+        vendor/package: This package allows you to export XLSX files
 ```
 
 
 Please use 4 spaces for indentation or nesting.
 For more information on the file format, see [the Transifex documentation][2]
+
+## YAML syntax
+
+The following keywords can be defined in the meta data yaml file:
+
+| | | 
+|-|-| 
+| __title__       | Title of the extension | 
+| __description__ | Long description of the extension that shows up in the Details view | 
+| __keywords__    | List of keywords that will enhance search performance  | 
+| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: `false`) | 
+| __support__     | Allows you to provide differing support links for certain languages that originally are part of the `composer.json`. Key-value syntax: [supported keys][8] | 
+| __suggest__     | Provide translation of the texts within the `suggest` section | 
 
 ## Public vs. private/proprietary packages
 
@@ -51,6 +70,10 @@ or private/proprietary packages. You are allowed to submit any package descripti
 package is the fact that it's registered on [packagist.org][5]. For private packages, the Contao Manager does currently
 not provide any automated installation process so providing a homepage link to describe how a user can obtain and install
 the package is required.
+
+The Contao Manager shows meaningful information for all packages, for example, a list of requirements. This information is
+provided by the `composer.json` and thus is only available for public packages. To add this information for private
+packages, you can add a `composer.json` to your metadata.
 
 ## Spell checking
 
@@ -79,3 +102,4 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 [5]: https://packagist.org
 [6]: https://github.com/svg/svgo
 [7]: https://jakearchibald.github.io/svgomg/
+[8]: https://getcomposer.org/doc/04-schema.md#support

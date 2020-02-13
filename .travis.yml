@@ -13,7 +13,7 @@ addons:
             - aspell-fr
 
 php:
-    - '7.2'
+    - '7.4'
 
 before_script:
     - cd $TRAVIS_BUILD_DIR/linter
