@@ -1,5 +1,5 @@
 de:
-    title: Contao File Access
+    title: File Access
     description: >
         Erlaubt den direkten Zugriff zu geschützten Dateien für eingeloggte Frontend Benutzer.
     keywords:
