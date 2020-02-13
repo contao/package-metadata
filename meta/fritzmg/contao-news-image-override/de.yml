@@ -1,0 +1,6 @@
+de:
+    title: Contao News Image Override
+    description: >
+        Ermöglicht die Bildgrößeneinstellung des Nachrichtenbeitrags die Bildgrößeneinstellung des Nachrichtenmoduls zu überschreiben.
+
+        Normalerweise benutzt Contao immer die Bildgrößeneinstellung des Nachrichtenmoduls, wenn definiert, und nur die Bildgrößeneinstellung des Nachrichtenbeitrags als Fallback. Mit dieser Extension wird die Logik umgedreht, also es wird die Bildgrößeneinstellung des Nachrichtenbeitrags verwendet, wenn das Teaser-Bild der Nachricht ausgegeben wird.
