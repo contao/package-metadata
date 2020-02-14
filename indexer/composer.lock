@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49670a25ff0935f3e374918ec3ef9e4c",
+    "content-hash": "ef4bc84a10a1433062a79ad958d59941",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -1683,6 +1683,43 @@
                 "performance"
             ],
             "time": "2019-11-06T16:40:04+00:00"
+        },
+        {
+            "name": "contao/php-cs-fixer",
+            "version": "2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/contao/php-cs-fixer.git",
+                "reference": "2dc174e418d6e98efb7da94dbe25e4c73e91d4bb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/contao/php-cs-fixer/zipball/2dc174e418d6e98efb7da94dbe25e4c73e91d4bb",
+                "reference": "2dc174e418d6e98efb7da94dbe25e4c73e91d4bb",
+                "shasum": ""
+            },
+            "require": {
+                "friendsofphp/php-cs-fixer": "^2.14",
+                "php": "^7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Contao\\PhpCsFixer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Leo Feyer",
+                    "homepage": "https://github.com/leofeyer"
+                }
+            ],
+            "description": "PHP-CS-Fixer configurations for Contao",
+            "time": "2019-12-18T13:34:27+00:00"
         },
         {
             "name": "doctrine/annotations",

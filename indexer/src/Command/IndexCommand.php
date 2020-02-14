@@ -95,7 +95,7 @@ class IndexCommand extends Command
     /**
      * {@inheritdoc}
      */
-    protected function configure()
+    protected function configure(): void
     {
         parent::configure();
 
@@ -106,7 +106,8 @@ class IndexCommand extends Command
             ->addOption('with-stats', null, InputOption::VALUE_NONE, 'Also update statistics (should run less often / generates more API calls).')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Do not index any data. Very useful together with -vvv.')
             ->addOption('no-cache', null, InputOption::VALUE_NONE, 'Do not consider local cache (forces an index update).')
-            ->addOption('clear-index', null, InputOption::VALUE_NONE, 'Clears algolia indexes completely (full re-index).');
+            ->addOption('clear-index', null, InputOption::VALUE_NONE, 'Clears algolia indexes completely (full re-index).')
+        ;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -157,6 +158,7 @@ class IndexCommand extends Command
             // Check if object still exists in collected packages
             $objectID = $item['objectID'];
             $name = substr($objectID, 0, -3);
+
             if (!isset($this->packages[$name])) {
                 $packagesToDeleteFromIndex[] = $objectID;
             }

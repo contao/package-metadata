@@ -67,7 +67,7 @@ class MetaDataRepository
 
     public function getLogoForPackage(Package $package): ?string
     {
-        list($vendor, $name) = explode('/', $package->getName(), 2);
+        [$vendor, $name] = explode('/', $package->getName(), 2);
         $image = sprintf('%s/%s/logo.svg', $vendor, $name);
 
         if (!$this->fs->exists($this->getMetaDataDir().'/'.$image)) {
