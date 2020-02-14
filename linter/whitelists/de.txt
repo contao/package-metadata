@@ -57,7 +57,7 @@ Bootstrapper
 Bots
 Bspw
 bspw
-Büchernavigation
+Buchnavigation
 Buchungsformular
 Buttongenerator
 bzw
