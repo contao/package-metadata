@@ -1,0 +1,6 @@
+de:
+    title: Sibling Navigation
+    description: >
+        Stellt eine "Büchernavigation" zur Verfügung, mit der man zwischen Nachrichten und Events vor und zurück wechseln kann. Außerdem ist es möglich an das Ende und den Anfang zu springen.
+
+        Die Nachrichtenbeiträge, zwischen den man wechseln kann, können außerdem anhand einer Kategorie (aus der codefog/contao-news_categories Erweiterung) gefiltert werden.
