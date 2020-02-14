@@ -1,0 +1,49 @@
+name: Index Contao Package Metadata
+
+on:
+    push:
+#        branches:
+#            - master
+#        paths:
+#            - 'meta/*'
+#    schedule:
+#        - cron: '*/30 * * * *'
+
+jobs:
+    index:
+        runs-on: ubuntu-latest
+#        if: github.event_name != 'schedule'
+        steps:
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v1
+              with:
+                  php-version: 7.3
+                  extensions: json
+                  tools: prestissimo
+                  coverage: none
+
+            - name: Checkout
+              uses: actions/checkout@@v2
+
+            - uses: actions/cache@v1
+              with:
+                  path: vendor/
+                  key: ${{ runner.os }}-composer-vendor
+                  restore-keys: |
+                      ${{ runner.os }}-composer-vendor
+
+            - uses: actions/cache@v1
+              id: cache-files
+              with:
+                  path: cache/
+                  key: ${{ runner.os }}-cache-files
+
+            - name: Install the dependencies
+              run: composer install --no-interaction --no-suggest
+
+            - name: Run Indexer
+              run: indexer/index
+              env:
+                  ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+                  ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+                  ALGOLIA_INDEX: v3_test

@@ -6,8 +6,6 @@
     "keywords": ["contao", "manager", "composer", "packages", "algolia", "search"],
     "require": {
         "php": "^7.3",
-        "ext-ctype": "*",
-        "ext-iconv": "*",
         "ext-json": "*",
         "algolia/algoliasearch-client-php": "^1.27",
         "symfony/cache": "^5.0",
