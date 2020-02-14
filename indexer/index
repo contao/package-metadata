@@ -23,7 +23,7 @@ $output = new ConsoleOutput();
 
 $store = new Store(__DIR__.'/cache/http');
 $httpClient = HttpClient::create();
-$httpClient = new CachingHttpClient($httpClient, $store, ['trace_level' => 'full']);
+$httpClient = new CachingHttpClient($httpClient, $store, [/*'trace_level' => 'full'*/]);
 
 $packagist = new Packagist($output, $httpClient);
 $metadataRepository = new MetaDataRepository(dirname(__DIR__).'/meta');
