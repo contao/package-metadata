@@ -2,6 +2,7 @@
     "name": "contao/package-metadata-linter",
     "description": "A linter for the package meta data",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^7.4",
         "ext-json": "*",
@@ -16,7 +17,6 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.16"
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "Yanick Witschi",
