@@ -1,0 +1,26 @@
+{
+    "name": "contao/package-metadata-indexer",
+    "description": "An indexer for the package meta data",
+    "type": "project",
+    "license": "MIT",
+    "keywords": ["contao", "manager", "composer", "packages", "algolia", "search"],
+    "require": {
+        "php": "^7.3",
+        "ext-json": "*",
+        "algolia/algoliasearch-client-php": "^1.27",
+        "symfony/cache": "^5.0",
+        "symfony/console": "^5.0",
+        "symfony/finder": "^5.0",
+        "symfony/http-client": "^5.0",
+        "symfony/http-kernel": "^5.0",
+        "symfony/yaml": "^5.0"
+    },
+    "require-dev": {
+        "contao/php-cs-fixer": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Contao\\PackageMetaDataIndexer\\": "src/"
+        }
+    }
+}
