@@ -1,0 +1,46 @@
+name: Update package index on changes
+
+on:
+    push:
+        branches:
+            - master
+        paths:
+            - 'meta/*'
+
+jobs:
+    index:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v1
+              with:
+                  php-version: 7.3
+                  extensions: json
+                  tools: prestissimo
+
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  fetch-depth: 2
+
+            - name: Cache Composer Vendor
+              uses: actions/cache@v1
+              with:
+                  path: indexer/vendor/
+                  key: ${{ runner.os }}-indexer-vendor-${{ hashFiles('indexer/composer.lock') }}
+                  restore-keys: ${{ runner.os }}-indexer-vendor-
+
+            - name: Install the dependencies
+              run: cd indexer && composer install --no-interaction --no-suggest
+
+            - name: extract-packages
+              run: |
+                  echo "::set-env name=packages::$(git diff --name-only HEAD~..HEAD -- | grep meta/ | sed -E 's/meta\/([^\/]+\/[^\/]+)\/[^\/]+$/\1/' | uniq | tr '\n' ' ')"
+
+            - name: Update Index
+              if: env.packages
+              run: indexer/index ${{ env.packages }}
+              env:
+                  ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+                  ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+                  ALGOLIA_INDEX: v3_packages
