@@ -1,13 +1,13 @@
 name: Update Package Metadata Index
 
-on:
+#on:
 #    push:
 #        branches:
 #            - master
 #        paths:
 #            - 'meta/*'
-    schedule:
-        - cron: '*/30 * * * *'
+#    schedule:
+#        - cron: '*/30 * * * *'
 
 jobs:
     index:
