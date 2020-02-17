@@ -132,8 +132,9 @@ class IndexCommand extends Command
         }
 
         $cache = [];
+
         if (!$ignoreCache && file_exists($this->cacheFile)) {
-            $cache = require($this->cacheFile);
+            $cache = require $this->cacheFile;
 
             if (!\is_array($cache)) {
                 $cache = [];
@@ -158,7 +159,7 @@ class IndexCommand extends Command
     {
         $packagesToDeleteFromIndex = [];
 
-        /** @noinspection PhpUndefinedMethodInspection */
+        /* @noinspection PhpUndefinedMethodInspection */
         foreach ($this->index->browse('', ['attributesToRetrieve' => ['objectID']]) as $item) {
             // Check if object still exists in collected packages
             $objectID = $item['objectID'];
@@ -168,7 +169,6 @@ class IndexCommand extends Command
                 $packagesToDeleteFromIndex[] = $objectID;
             }
         }
-
 
         $total = \count($packagesToDeleteFromIndex);
 
@@ -279,11 +279,11 @@ class IndexCommand extends Command
             return;
         }
 
-        /** @noinspection PhpUnhandledExceptionInspection */
+        /* @noinspection PhpUnhandledExceptionInspection */
         $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
 
         if ($clearIndex) {
-            /** @noinspection PhpUnhandledExceptionInspection */
+            /* @noinspection PhpUnhandledExceptionInspection */
             $this->index->clearIndex();
         }
     }
