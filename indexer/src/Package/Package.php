@@ -381,29 +381,14 @@ class Package
         });
     }
 
-    public function getHash(bool $includeStatistics = false): string
+    public function getHash(array $languages, bool $includeStatistics = true): string
     {
-        $info = [
-            $this->getName(),
-            $this->getDescription(),
-            $this->getKeywords(),
-            $this->getHomepage(),
-            $this->getSupport(),
-            $this->getVersions(),
-            $this->getLicense(),
-            $this->isSupported(),
-            $this->isDependency(),
-            $this->getAbandoned(),
-            $this->isPrivate(),
-            $this->getLogo(),
-            $this->getMeta(),
-        ];
+        $data = $this->getForAlgolia($languages);
 
-        if ($includeStatistics) {
-            $info[] = $this->getFavers();
-            $info[] = $this->getDownloads();
+        if (!$includeStatistics) {
+            unset($data['favers'], $data['downloads']);
         }
 
-        return sha1(json_encode($info));
+        return sha1(json_encode($data));
     }
 }
