@@ -5,7 +5,7 @@ on:
         branches:
             - master
         paths:
-            - 'meta/*'
+            - 'meta/**'
 
 jobs:
     index:
