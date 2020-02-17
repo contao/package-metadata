@@ -1,5 +1,3 @@
 en:
-    title: Contao 3
-    description: >
-        Legacy package of Contao 3 (end of life).
+    title: Contao 3 (legacy)
     dependency: true
