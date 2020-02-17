@@ -3,7 +3,7 @@ name: Validate the metadata syntax
 on:
     pull_request:
         paths:
-            - 'meta/*'
+            - 'meta/**'
     schedule:
         - cron: '0 12 1 * *'
 
