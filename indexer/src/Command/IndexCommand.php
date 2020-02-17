@@ -93,7 +93,7 @@ class IndexCommand extends Command
         $this
             ->setName('package-index')
             ->setDescription('Indexes package metadata')
-            ->addArgument('package', InputArgument::OPTIONAL, 'Restrict indexing to a given package name.')
+            ->addArgument('packages', InputArgument::OPTIONAL|InputArgument::IS_ARRAY, 'The packages to index (optional).')
             ->addOption('with-stats', null, InputOption::VALUE_NONE, 'Also update statistics (should run less often / generates more API calls).')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Do not index any data. Very useful together with -vvv.')
             ->addOption('clear-index', null, InputOption::VALUE_NONE, 'Clears algolia indexes completely (full re-index).')
@@ -102,7 +102,6 @@ class IndexCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $package = $input->getArgument('package');
         $dryRun = (bool) $input->getOption('dry-run');
         $clearIndex = (bool) $input->getOption('clear-index');
         $updateStats = (bool) $input->getOption('with-stats');
@@ -112,9 +111,10 @@ class IndexCommand extends Command
 
         $this->initIndex($clearIndex);
 
-        if (null !== $package) {
-            $packageNames = [$package];
-        } else {
+        $updateAll = false;
+        $packageNames = $input->getArgument('packages');
+        if (empty($packageNames)) {
+            $updateAll = true;
             $packageNames = array_unique(array_merge(
                 $this->packagist->getPackageNames('contao-bundle'),
                 $this->packagist->getPackageNames('contao-module'),
@@ -124,14 +124,14 @@ class IndexCommand extends Command
 
         $this->collectPackages($packageNames);
 
-        if (null === $package) {
+        if ($updateAll) {
             $this->collectAdditionalPackages();
         }
 
         $this->indexPackages($dryRun, $updateStats);
 
         // If the index was not cleared completely, delete old/removed packages
-        if (!$clearIndex && null === $package) {
+        if (!$clearIndex && $updateAll) {
             $this->deleteRemovedPackages($dryRun);
         }
 
