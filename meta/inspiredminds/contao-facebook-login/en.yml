@@ -1,0 +1,6 @@
+en:
+    title: Facebook Login
+    description: >
+        Provides a Facebook Login module. It works and behaves the same way as the regular login module of Contao and also offers the same settings, plus the ability to define the member groups newly registered users will belong to and the ability to decide what personal data should be stored from Facebook.
+    keywords:
+        - register
