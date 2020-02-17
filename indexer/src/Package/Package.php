@@ -380,15 +380,4 @@ class Package
             return null !== $v;
         });
     }
-
-    public function getHash(array $languages, bool $includeStatistics = true): string
-    {
-        $data = $this->getForAlgolia($languages);
-
-        if (!$includeStatistics) {
-            unset($data['favers'], $data['downloads']);
-        }
-
-        return sha1(json_encode($data));
-    }
 }

@@ -64,22 +64,21 @@ class IndexCommand extends Command
     private $metaDataRepository;
 
     /**
-     * @var string
-     */
-    private $cacheFile;
-
-    /**
      * @var OutputInterface
      */
     private $output;
 
-    public function __construct(Packagist $packagist, Factory $packageFactory, Client $client, MetaDataRepository $metaDataRepository, string $cacheFile)
+    /**
+     * @var array
+     */
+    private $indexData;
+
+    public function __construct(Packagist $packagist, Factory $packageFactory, Client $client, MetaDataRepository $metaDataRepository)
     {
         $this->packagist = $packagist;
         $this->client = $client;
         $this->packageFactory = $packageFactory;
         $this->metaDataRepository = $metaDataRepository;
-        $this->cacheFile = $cacheFile;
 
         parent::__construct();
     }
@@ -97,7 +96,6 @@ class IndexCommand extends Command
             ->addArgument('package', InputArgument::OPTIONAL, 'Restrict indexing to a given package name.')
             ->addOption('with-stats', null, InputOption::VALUE_NONE, 'Also update statistics (should run less often / generates more API calls).')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Do not index any data. Very useful together with -vvv.')
-            ->addOption('no-cache', null, InputOption::VALUE_NONE, 'Do not consider local cache (forces an index update).')
             ->addOption('clear-index', null, InputOption::VALUE_NONE, 'Clears algolia indexes completely (full re-index).')
         ;
     }
@@ -106,14 +104,13 @@ class IndexCommand extends Command
     {
         $package = $input->getArgument('package');
         $dryRun = (bool) $input->getOption('dry-run');
-        $ignoreCache = (bool) $input->getOption('no-cache');
         $clearIndex = (bool) $input->getOption('clear-index');
         $updateStats = (bool) $input->getOption('with-stats');
 
         $this->output = $output;
         $this->packages = [];
 
-        $this->createIndex($clearIndex);
+        $this->initIndex($clearIndex);
 
         if (null !== $package) {
             $packageNames = [$package];
@@ -131,25 +128,11 @@ class IndexCommand extends Command
             $this->collectAdditionalPackages();
         }
 
-        $cache = [];
-
-        if (!$ignoreCache && file_exists($this->cacheFile)) {
-            $cache = require $this->cacheFile;
-
-            if (!\is_array($cache)) {
-                $cache = [];
-            }
-        }
-
-        $this->indexPackages($dryRun, $cache, $updateStats);
+        $this->indexPackages($dryRun, $updateStats);
 
         // If the index was not cleared completely, delete old/removed packages
         if (!$clearIndex && null === $package) {
             $this->deleteRemovedPackages($dryRun);
-        }
-
-        if (!$ignoreCache) {
-            file_put_contents($this->cacheFile, '<?php return '.var_export($cache, true).';');
         }
 
         return 0;
@@ -159,14 +142,9 @@ class IndexCommand extends Command
     {
         $packagesToDeleteFromIndex = [];
 
-        /* @noinspection PhpUndefinedMethodInspection */
-        foreach ($this->index->browse('', ['attributesToRetrieve' => ['objectID']]) as $item) {
-            // Check if object still exists in collected packages
-            $objectID = $item['objectID'];
-            $name = substr($objectID, 0, -3);
-
-            if (!isset($this->packages[$name])) {
-                $packagesToDeleteFromIndex[] = $objectID;
+        foreach ($this->indexData as $item) {
+            if (!isset($this->packages[$item['name']])) {
+                $packagesToDeleteFromIndex[] = $item['objectID'];
             }
         }
 
@@ -191,12 +169,12 @@ class IndexCommand extends Command
             $package = $this->packageFactory->create($packageName);
 
             if (null === $package || !$package->isSupported()) {
-                $this->output->writeln($packageName.' is not supported.', OutputInterface::VERBOSITY_DEBUG);
+                $this->output->writeln($packageName.' found, but is not supported.', OutputInterface::VERBOSITY_DEBUG);
                 continue;
             }
 
             $this->packages[$packageName] = $package;
-            $this->output->writeln($packageName.' added', OutputInterface::VERBOSITY_DEBUG);
+            $this->output->writeln($packageName.' found', OutputInterface::VERBOSITY_DEBUG);
         }
     }
 
@@ -212,7 +190,7 @@ class IndexCommand extends Command
         }
     }
 
-    private function indexPackages(bool $dryRun, array &$cache, bool $updateStats): void
+    private function indexPackages(bool $dryRun, bool $updateStats): void
     {
         $objectIDs = [];
 
@@ -231,32 +209,17 @@ class IndexCommand extends Command
                     }
 
                     $data = $package->getForAlgolia($languages);
-                    $hash = $package->getHash($languages, $updateStats);
 
-                    if (isset($cache[$data['objectID']])) {
+                    if ($this->isIndexed($data, $updateStats)) {
                         $this->output->writeln(
-                            sprintf('Cache HIT for object %s', $data['objectID']),
+                            sprintf('ObjectID %s is already up-to-date', $data['objectID']),
                             OutputInterface::VERBOSITY_DEBUG
                         );
-
-                        if ($cache[$data['objectID']] === $hash) {
-                            continue;
-                        }
-
-                        $this->output->writeln(
-                            sprintf('Hash MISMATCH: old: %s / new: %s', $cache[$data['objectID']], $hash),
-                            OutputInterface::VERBOSITY_DEBUG
-                        );
+                        continue;
                     }
 
-                    $cache[$data['objectID']] = $hash;
                     $objects[] = $data;
                     $objectIDs[] = $data['objectID'];
-
-                    $this->output->writeln(
-                        sprintf('Cache MISS for object %s', $data['objectID']),
-                        OutputInterface::VERBOSITY_DEBUG
-                    );
                 }
             }
 
@@ -273,18 +236,90 @@ class IndexCommand extends Command
         }
     }
 
-    private function createIndex(bool $clearIndex): void
+    private function initIndex(bool $clearIndex): void
     {
-        if (null !== $this->index) {
-            return;
-        }
-
         /* @noinspection PhpUnhandledExceptionInspection */
         $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
+        $this->indexData = [];
 
         if ($clearIndex) {
             /* @noinspection PhpUnhandledExceptionInspection */
             $this->index->clearIndex();
+            return;
         }
+
+        $cursor = null;
+        do {
+            $data = $this->index->browseFrom(null, null, $cursor);
+            $cursor = $data['cursor'] ?? null;
+            foreach ($data['hits'] as $item) {
+                $this->indexData[$item['objectID']] = $item;
+            }
+        } while ($cursor);
+    }
+
+    private function isIndexed(array $data, bool $includeStatistics): bool
+    {
+        if (!isset($this->indexData[$data['objectID']])) {
+            $this->output->writeln(
+                sprintf('ObjectID %s does not exist in index', $data['objectID']),
+                OutputInterface::VERBOSITY_DEBUG
+            );
+            return false;
+        }
+
+        $existing = $this->indexData[$data['objectID']];
+
+        if (!$includeStatistics) {
+            unset($data['favers'], $data['downloads']);
+            unset($existing['favers'], $existing['downloads']);
+        }
+
+        foreach ($data as $k => $v) {
+            if (!isset($existing[$k])) {
+                $this->output->writeln(
+                    sprintf(
+                        'Data for %s not equal. Field %s is not in index.',
+                        $data['objectID'],
+                        $k,
+                    ),
+                    OutputInterface::VERBOSITY_DEBUG
+                );
+
+                return false;
+            }
+
+            if ($existing[$k] !== $v) {
+                $this->output->writeln(
+                    sprintf(
+                        'Data for %s not equal. Field %s is not up to date (existing: %s / new: %s).',
+                        $data['objectID'],
+                        $k,
+                        json_encode($existing[$k]),
+                        json_encode($data[$k])
+                    ),
+                    OutputInterface::VERBOSITY_DEBUG
+                );
+
+                return false;
+            }
+
+            unset($existing[$k]);
+        }
+
+        if (0 !== \count($existing)) {
+            $this->output->writeln(
+                sprintf(
+                    'Data for %s not equal. Existing has key(s): %s',
+                    $data['objectID'],
+                    implode(', ', array_keys($existing))
+                ),
+                OutputInterface::VERBOSITY_DEBUG
+            );
+
+            return false;
+        }
+
+        return true;
     }
 }
