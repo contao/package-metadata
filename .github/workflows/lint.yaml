@@ -4,6 +4,8 @@ on:
     pull_request:
         paths:
             - 'meta/*'
+    schedule:
+        - cron: '0 12 1 * *'
 
 jobs:
     lint:
@@ -35,6 +37,5 @@ jobs:
               run: |
                   echo "::set-env name=metafiles::$(git diff --name-only origin/master HEAD -- | grep meta/ | uniq | tr '\n' ' ')"
 
-            - name: Lint changed files
-              if: env.metafiles
+            - name: Lint files
               run: linter/lint ${{ env.metafiles }}
