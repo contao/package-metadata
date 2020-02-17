@@ -39,7 +39,7 @@ jobs:
 
             - name: Update Index
               if: env.packages
-              run: indexer/index ${{ env.packages }}
+              run: indexer/index ${{ env.packages }} -v --with-stats
               env:
                   ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
                   ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
