@@ -8,7 +8,6 @@ use Contao\PackageMetaDataIndexer\Command\IndexCommand;
 use Contao\PackageMetaDataIndexer\MetaDataRepository;
 use Contao\PackageMetaDataIndexer\Package\Factory;
 use Contao\PackageMetaDataIndexer\Packagist;
-use Symfony\Component\Cache\Adapter\FilesystemAdapter;
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Output\ConsoleOutput;
 use Symfony\Component\HttpClient\CachingHttpClient;
@@ -29,9 +28,7 @@ $packagist = new Packagist($output, $httpClient);
 $metadataRepository = new MetaDataRepository(dirname(__DIR__).'/meta');
 $packageFactory = new Factory($metadataRepository, $packagist);
 $algoliaClient = new Client($_SERVER['ALGOLIA_APP_ID'], $_SERVER['ALGOLIA_API_KEY']);
-$cache = new FilesystemAdapter('', 0, __DIR__.'/cache/packages');
-
-$command = new IndexCommand($packagist, $packageFactory, $algoliaClient, $cache, $metadataRepository);
+$command = new IndexCommand($packagist, $packageFactory, $algoliaClient, $metadataRepository, __DIR__.'/cache/packages.php');
 
 $application = new Application();
 $application->add($command);

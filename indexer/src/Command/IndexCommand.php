@@ -18,13 +18,11 @@ use Contao\PackageMetaDataIndexer\MetaDataRepository;
 use Contao\PackageMetaDataIndexer\Package\Factory;
 use Contao\PackageMetaDataIndexer\Package\Package;
 use Contao\PackageMetaDataIndexer\Packagist;
-use Psr\Cache\CacheItemPoolInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Console\Style\SymfonyStyle;
 
 class IndexCommand extends Command
 {
@@ -34,7 +32,6 @@ class IndexCommand extends Command
      * @see https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
      */
     public const LANGUAGES = ['en', 'de', 'br', 'cs', 'es', 'fa', 'fr', 'it', 'ja', 'lv', 'nl', 'pl', 'pt', 'ru', 'sr', 'zh'];
-    private const CACHE_PREFIX = 'package-indexer';
 
     /**
      * @var Packagist
@@ -57,11 +54,6 @@ class IndexCommand extends Command
     private $packages = [];
 
     /**
-     * @var CacheItemPoolInterface
-     */
-    private $cacheItemPool;
-
-    /**
      * @var Factory
      */
     private $packageFactory;
@@ -72,22 +64,22 @@ class IndexCommand extends Command
     private $metaDataRepository;
 
     /**
+     * @var string
+     */
+    private $cacheFile;
+
+    /**
      * @var OutputInterface
      */
     private $output;
 
-    /**
-     * @var SymfonyStyle
-     */
-    private $io;
-
-    public function __construct(Packagist $packagist, Factory $packageFactory, Client $client, CacheItemPoolInterface $cacheItemPool, MetaDataRepository $metaDataRepository)
+    public function __construct(Packagist $packagist, Factory $packageFactory, Client $client, MetaDataRepository $metaDataRepository, string $cacheFile)
     {
         $this->packagist = $packagist;
         $this->client = $client;
-        $this->cacheItemPool = $cacheItemPool;
         $this->packageFactory = $packageFactory;
         $this->metaDataRepository = $metaDataRepository;
+        $this->cacheFile = $cacheFile;
 
         parent::__construct();
     }
@@ -118,7 +110,6 @@ class IndexCommand extends Command
         $clearIndex = (bool) $input->getOption('clear-index');
         $updateStats = (bool) $input->getOption('with-stats');
 
-        $this->io = new SymfonyStyle($input, $output);
         $this->output = $output;
         $this->packages = [];
 
@@ -140,11 +131,25 @@ class IndexCommand extends Command
             $this->collectAdditionalPackages();
         }
 
-        $this->indexPackages($dryRun, $ignoreCache, $updateStats);
+        $cache = [];
+
+        if (!$ignoreCache && file_exists($this->cacheFile)) {
+            $cache = require $this->cacheFile;
+
+            if (!\is_array($cache)) {
+                $cache = [];
+            }
+        }
+
+        $this->indexPackages($dryRun, $cache, $updateStats);
 
         // If the index was not cleared completely, delete old/removed packages
         if (!$clearIndex && null === $package) {
             $this->deleteRemovedPackages($dryRun);
+        }
+
+        if (!$ignoreCache) {
+            file_put_contents($this->cacheFile, '<?php return '.var_export($cache, true).';');
         }
 
         return 0;
@@ -154,6 +159,7 @@ class IndexCommand extends Command
     {
         $packagesToDeleteFromIndex = [];
 
+        /* @noinspection PhpUndefinedMethodInspection */
         foreach ($this->index->browse('', ['attributesToRetrieve' => ['objectID']]) as $item) {
             // Check if object still exists in collected packages
             $objectID = $item['objectID'];
@@ -164,18 +170,19 @@ class IndexCommand extends Command
             }
         }
 
-        if (0 === \count($packagesToDeleteFromIndex)) {
+        $total = \count($packagesToDeleteFromIndex);
+
+        $this->output->writeln($total.' objects to delete from index', OutputInterface::VERBOSITY_VERBOSE);
+
+        if ($total > 0) {
+            $this->output->writeln(' - '.implode("\n - ", $packagesToDeleteFromIndex), OutputInterface::VERBOSITY_VERBOSE);
+        }
+
+        if ($dryRun || 0 === $total) {
             return;
         }
 
-        if (!$dryRun) {
-            $this->index->deleteObjects($packagesToDeleteFromIndex);
-        } else {
-            $this->output->writeln(
-                sprintf('Objects to delete from index: %s', json_encode($packagesToDeleteFromIndex)),
-                OutputInterface::VERBOSITY_DEBUG
-            );
-        }
+        $this->index->deleteObjects($packagesToDeleteFromIndex);
     }
 
     private function collectPackages(array $packageNames): void
@@ -189,7 +196,7 @@ class IndexCommand extends Command
             }
 
             $this->packages[$packageName] = $package;
-            $this->output->writeln('Added '.$packageName, OutputInterface::VERBOSITY_DEBUG);
+            $this->output->writeln($packageName.' added', OutputInterface::VERBOSITY_DEBUG);
         }
     }
 
@@ -205,41 +212,11 @@ class IndexCommand extends Command
         }
     }
 
-    private function indexPackages(bool $dryRun, bool $ignoreCache, bool $updateStats): void
+    private function indexPackages(bool $dryRun, array &$cache, bool $updateStats): void
     {
-        if (0 === \count($this->packages)) {
-            return;
-        }
+        $objectIDs = [];
 
-        $packages = [];
-
-        // Ignore the ones that do not need any update
-        foreach ($this->packages as $packageName => $package) {
-            $hash = self::CACHE_PREFIX.'-'.$package->getHash($updateStats);
-
-            $cacheItem = $this->cacheItemPool->getItem($hash);
-
-            if (!$ignoreCache) {
-                if (!$cacheItem->isHit()) {
-                    $hitMsg = 'miss';
-                    $cacheItem->set(true);
-                    $this->cacheItemPool->saveDeferred($cacheItem);
-                    $packages[] = $package;
-                } else {
-                    $hitMsg = 'hit';
-                }
-            } else {
-                $packages[] = $package;
-                $hitMsg = 'ignored';
-            }
-
-            $this->output->writeln(
-                sprintf('Cache entry for package "%s" was %s (hash: %s)', $packageName, $hitMsg, $hash),
-                OutputInterface::VERBOSITY_DEBUG
-            );
-        }
-
-        foreach (array_chunk($packages, 100) as $chunk) {
+        foreach (array_chunk($this->packages, 100) as $chunk) {
             $objects = [];
 
             /** @var Package $package */
@@ -253,23 +230,47 @@ class IndexCommand extends Command
                         $languages = array_merge(['en'], array_diff(self::LANGUAGES, $languageKeys));
                     }
 
-                    $objects[] = $package->getForAlgolia($languages);
+                    $data = $package->getForAlgolia($languages);
+                    $hash = $package->getHash($languages, $updateStats);
+
+                    if (isset($cache[$data['objectID']])) {
+                        $this->output->writeln(
+                            sprintf('Cache HIT for object %s', $data['objectID']),
+                            OutputInterface::VERBOSITY_DEBUG
+                        );
+
+                        if ($cache[$data['objectID']] === $hash) {
+                            continue;
+                        }
+
+                        $this->output->writeln(
+                            sprintf('Hash MISMATCH: old: %s / new: %s', $cache[$data['objectID']], $hash),
+                            OutputInterface::VERBOSITY_DEBUG
+                        );
+                    }
+
+                    $cache[$data['objectID']] = $hash;
+                    $objects[] = $data;
+                    $objectIDs[] = $data['objectID'];
+
+                    $this->output->writeln(
+                        sprintf('Cache MISS for object %s', $data['objectID']),
+                        OutputInterface::VERBOSITY_DEBUG
+                    );
                 }
             }
 
             if (!$dryRun) {
                 $this->index->saveObjects($objects);
-            } else {
-                $this->output->writeln(
-                    sprintf('Objects to index: %s', json_encode($objects)),
-                    OutputInterface::VERBOSITY_DEBUG
-                );
             }
         }
 
-        $this->output->writeln(sprintf('Updated "%s" package(s).', \count($packages)), OutputInterface::VERBOSITY_DEBUG);
+        $total = \count($objectIDs);
+        $this->output->writeln($total.' objects to index', OutputInterface::VERBOSITY_VERBOSE);
 
-        $this->cacheItemPool->commit();
+        if ($total > 0) {
+            $this->output->writeln(' - '.implode("\n - ", $objectIDs), OutputInterface::VERBOSITY_VERBOSE);
+        }
     }
 
     private function createIndex(bool $clearIndex): void
@@ -278,9 +279,11 @@ class IndexCommand extends Command
             return;
         }
 
+        /* @noinspection PhpUnhandledExceptionInspection */
         $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
 
         if ($clearIndex) {
+            /* @noinspection PhpUnhandledExceptionInspection */
             $this->index->clearIndex();
         }
     }

@@ -1,13 +1,8 @@
-name: Update Package Metadata Index
+name: Update package index every 30 minutes
 
-#on:
-#    push:
-#        branches:
-#            - master
-#        paths:
-#            - 'meta/*'
-#    schedule:
-#        - cron: '*/30 * * * *'
+on:
+    schedule:
+        - cron: '*/30 * * * *'
 
 jobs:
     index:
@@ -23,16 +18,19 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v2
 
-            - uses: actions/cache@v1
+            - name: Cache Composer Vendor
+              uses: actions/cache@v1
               with:
                   path: indexer/vendor/
-                  key: ${{ runner.os }}-composer-vendor
+                  key: ${{ runner.os }}-indexer-vendor-${{ hashFiles('indexer/composer.lock') }}
+                  restore-keys: ${{ runner.os }}-indexer-vendor-
 
-            - uses: actions/cache@v1
-              id: cache-files
+            - name: Cache Packages
+              uses: actions/cache@v1
               with:
-                  path: indexer/cache/
-                  key: ${{ runner.os }}-cache-files
+                  path: indexer/cache
+                  key: ${{ runner.os }}-indexer-cache-${{ github.sha }}
+                  restore-keys: ${{ runner.os }}-indexer-cache-
 
             - name: Install the dependencies
               run: cd indexer && composer install --no-interaction --no-suggest
@@ -43,7 +41,7 @@ jobs:
                   echo "::set-env name=with_stats::$(expr ${{ github.run_number }} % 24)"
 
             - name: Update Index
-              run: indexer/index ${{ env.with_stats == 0 && '--with-stats' || '' }}
+              run: indexer/index -v ${{ env.with_stats == 0 && '--with-stats' || '' }}
               env:
                   ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
                   ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
