@@ -25,13 +25,6 @@ jobs:
                   key: ${{ runner.os }}-indexer-vendor-${{ hashFiles('indexer/composer.lock') }}
                   restore-keys: ${{ runner.os }}-indexer-vendor-
 
-            - name: Cache Packages
-              uses: actions/cache@v1
-              with:
-                  path: indexer/cache
-                  key: ${{ runner.os }}-indexer-cache-${{ github.sha }}
-                  restore-keys: ${{ runner.os }}-indexer-cache-
-
             - name: Install the dependencies
               run: cd indexer && composer install --no-interaction --no-suggest
 
