@@ -1,0 +1,6 @@
+en:
+    title: News Related
+    description: >
+        Simple extension for setting related news directly.
+
+        This is different from creating relations via categories or tags, since you have to define the related news for each individual article yourself. Note that the direction of relation goes only one way - so if you want article A to be related to article B, but also vice versa, you have to assign the relation in article B as well.
