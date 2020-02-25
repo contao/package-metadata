@@ -113,6 +113,7 @@ mPDF
 mpdf
 MultiColumnWizard
 NATURE
+Netzhirsch
 Newsletter2Go
 Nominatim
 OAuth
