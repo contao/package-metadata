@@ -1,0 +1,13 @@
+de:
+    title: Netzhirsch Cookie Opt In Bundle
+    homepage: https://www.netzhirsch.de
+    description: >
+        Mit dem Cookie Opt In Bundle von Netzhirsch lässt sich schnell und einfach eine Cookiebar nach neusten Datenschutzrichtlinien anlegen.
+    keywords:
+        - Netzhirsch
+        - Cookie
+        - Cookiebar
+        - Optin
+    support:
+        issues: https://github.com/Netzhirsch/CookieOptInBundle/issues
+        docs: https://github.com/Netzhirsch/CookieOptInBundle
