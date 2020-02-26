@@ -1,0 +1,9 @@
+en:
+    title: con4gis-Data
+    description: >
+        The Data module allows you to bring a small, individual and maintainable data model into the Contao back end in just a few steps.
+        Data can be edited in the back end or in a provided front end module.
+    keywords:
+        - con4gis
+        - custom data
+        - maps

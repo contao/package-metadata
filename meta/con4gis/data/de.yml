@@ -1,0 +1,9 @@
+de:
+    title: con4gis-Data
+    description: >
+        Der Data Baustein ermöglicht es, mit wenigen Schritten ein kleines, individuelles und pflegbares Datenmodell ins Contao Back end zu bringen.
+        Daten können im Back end oder auch in einem mitgelieferten Frontendmodul gepflegt werden.
+    keywords:
+        - con4gis
+        - eigene Daten
+        - Karten
