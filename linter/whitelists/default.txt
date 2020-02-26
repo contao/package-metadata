@@ -115,6 +115,7 @@ MultiColumnWizard
 NATURE
 Netzhirsch
 Newsletter2Go
+Newslist
 Nominatim
 OAuth
 ODD

@@ -250,6 +250,7 @@ Latitude
 Layoutvorlage
 Lead
 Leads
+Leserseite
 Leuchtkästen
 Libraries
 Lieblingsinhalte
@@ -299,9 +300,13 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+Nachrichtenarchiv
+Nachrichtenarchivs
 Nachrichtenbeiträge
 Nachrichtenbeitrags
+Nachrichtenleser
 Nachrichtenliste
+Nachrichtenlisten
 Nachrichtenmoduls
 native
 Navbar
