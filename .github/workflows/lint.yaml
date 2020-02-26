@@ -1,0 +1,41 @@
+name: Validate the metadata syntax
+
+on:
+    pull_request:
+        paths:
+            - 'meta/**'
+    schedule:
+        - cron: '0 12 1 * *'
+
+jobs:
+    lint:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Set up Aspell
+              run: sudo apt-get install aspell aspell-en aspell-de aspell-cs aspell-es aspell-fr
+
+            - name: Set up PHP
+              uses: shivammathur/setup-php@v1
+              with:
+                  php-version: 7.4
+                  extensions: json
+                  tools: prestissimo
+
+            - uses: actions/checkout@v2
+            - run: git fetch --prune --unshallow
+
+            - name: Cache Composer vendor
+              uses: actions/cache@v1
+              with:
+                  path: linter/vendor/
+                  key: ${{ runner.os }}-linter-vendor
+
+            - name: Install Composer dependencies
+              run: cd linter && composer install --no-interaction --no-suggest
+
+            - name: Find changed files
+              run: |
+                  echo "::set-env name=metafiles::$(git diff --name-only origin/master -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | uniq | tr '\n' ' ')"
+
+            - name: Lint files
+              run: linter/lint ${{ env.metafiles }}

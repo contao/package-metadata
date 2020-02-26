@@ -1,0 +1,12 @@
+de:
+    title: MetaModels Start-Bundle
+    description: >
+        Für den Einstieg in MetaModels ist das Bunde metamodels/bundle_start zu empfehlen - hiermit 
+        werden der Core sowie die wichtigsten Attribute und Filter ohne z.B. die Pakete für die 
+        Mehrsprachigkeit installiert.
+        
+        Mehr zur Installation und die Arbeit mit MetaModels in unserem Handbuch unter https://metamodels.readthedocs.io
+    keywords:
+        - metamodels
+        - bundle_start
+        - start bundle

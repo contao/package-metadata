@@ -1,0 +1,9 @@
+en:
+    title: Token login
+    description: >
+        This extensions provides an alternative login form, where your members don't need a password.
+
+        The login form just asks for the user name (or email address). The user submits the form and receives an notification, i.e. email. The user gets logged in when they hit the login link within the email. The login link immediately logs in the user.
+    keywords:
+        - token
+        - login

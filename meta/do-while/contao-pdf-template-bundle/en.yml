@@ -1,5 +1,5 @@
 en:
-    title: mPDF template
+    title: PDF template
     description: >
         With the pdf-template extension, you can style the PDF output in the article (syndication) with a PDF template file. Uses the TCPDF library.
     keywords:

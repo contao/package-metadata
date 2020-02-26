@@ -7,9 +7,13 @@ require __DIR__.'/vendor/autoload.php';
 use Symfony\Component\Console\Application;
 use Contao\PackageMetaDataLinter\LintCommand;
 
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
+
 $lintCommand = new LintCommand();
 
 $application = new Application();
 $application->add($lintCommand);
-$application->setDefaultCommand($lintCommand->getName());
+$application->setDefaultCommand($lintCommand->getName(), true);
 $application->run();

@@ -6,3 +6,4 @@ de:
         - oauth
         - authentication
         - security
+    dependency: true

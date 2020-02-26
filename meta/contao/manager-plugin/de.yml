@@ -1,0 +1,5 @@
+de:
+    title: Contao Manager Plugin
+    description: >
+        Liefert die Schnittstellen zur Integration von Erweiterungen in die Contao Managed Edition.
+    dependency: true

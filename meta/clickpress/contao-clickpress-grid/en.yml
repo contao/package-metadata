@@ -1,0 +1,21 @@
+en:
+    title: Clickpress Grid
+    description: >
+        Contao Clickpress Grid uses CSS Grid and so less HTML is needed and the gap is much easier to maintain via grid-gap.
+        Enable the prebuilt CSS Grid in your Contao page layout or generate your own CSS.
+
+        Big thanks to rocksolid_columns for the code base.
+    keywords:
+        - contao
+        - contao-grid
+        - contao-bundle
+        - subcolumns
+        - grid
+        - gridcss
+        - columns
+        - columnset
+        - contao-columns
+    support:
+        issues: https://github.com/clickpress/contao-clickpress-grid/issues
+        docs: https://github.com/clickpress/contao-clickpress-grid
+

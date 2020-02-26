@@ -68,6 +68,13 @@
         }
       }
     },
+    "suggest": {
+      "type": "object",
+      "description": "List with suggested packages.",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
     "dependency": {
       "type": "boolean",
       "description": "If this package is a dependency. The package is only installable if it's a suggestion of an installed package."

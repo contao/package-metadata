@@ -1,0 +1,6 @@
+en:
+    title: Sibling Navigation
+    description: >
+        Provides a first/previous/next/last navigation for news & events.
+
+        The siblings can also additionally be filtered by a news category (from codefog/contao-news_categories).

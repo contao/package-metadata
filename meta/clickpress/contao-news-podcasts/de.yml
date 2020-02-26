@@ -1,0 +1,15 @@
+de:
+    title: News Podcasts
+    description: >
+        Füge Podcast-Dateien zu den News hinzu und lass Contao das passende iTunes-RSS generieren
+    keywords:
+        - podcast
+        - news
+        - news-podcasts
+        - itunes
+        - rss
+        - podcasts
+        - news-podcast
+    support:
+        issues: https://github.com/clickpress/contao-news-podcasts/issues
+        docs: https://github.com/clickpress/contao-news-podcasts

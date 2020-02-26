@@ -1,5 +1,5 @@
 en:
-    title: Contao Isotope PDF Templates
+    title: Isotope PDF Templates
     description: >
         Adds a new document type in Contao Isotope where you can define a PDF template and also automatically append a PDF to your document.
     keywords:

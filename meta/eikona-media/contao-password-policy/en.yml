@@ -1,0 +1,15 @@
+en:
+    title: Password Policy
+    description: >
+        This bundle allows you to edit your password policy settings via back end.
+        You can enable the policy rules for either members, users or both.
+    keywords:
+        - contao
+        - back end
+        - password
+        - policy
+        - custom
+        - security
+        - rules
+        - user
+        - member

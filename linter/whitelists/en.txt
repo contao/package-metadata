@@ -5,10 +5,12 @@ alone
 AMPHTML
 amphtml
 AntiSpam
+Api
 Assets
 assets
 Assistant
 Avatar
+automator
 base
 bla
 Bootstrapper
@@ -16,6 +18,7 @@ Calculator
 canonical
 Card
 center
+checkbox
 Classes
 Columns
 con
@@ -26,6 +29,9 @@ Constants
 Container
 Content
 content
+Contentbox
+Contentboxes
+contentboxes
 ContentElement
 Conversion
 conversion
@@ -35,6 +41,7 @@ Cookieconsent
 Core
 Creator
 cron
+cronjob
 Crosstab
 Crosstabs
 css
@@ -50,8 +57,11 @@ Documents
 EasyThemes
 Editing
 etc
+eventlist
 Expression
+Extended
 favicons
+Filemanager
 Fine
 Folder
 foo
@@ -120,8 +130,10 @@ Panel
 params
 Picker
 playout
+Plenta
 Plugin
 pre
+prebuilt
 Preview
 Privacy
 production
@@ -146,11 +158,13 @@ splitter
 staging
 stardate
 stylable
+StyleManager
 subpages
 system
 Tab
 TabControl
 TableLookupWizard
+Teaserbox
 template
 templating
 terminal

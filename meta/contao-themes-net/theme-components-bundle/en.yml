@@ -1,0 +1,7 @@
+en:
+    title: Theme Components Bundle
+    description: >
+        A collection of elements without styling for our Contao Themes. Contained Elements: Contentbox, Teaserbox, Price Table, Feature Element, Slider Element, Content Wrapper.
+    keywords:
+        - Theme
+        - Template
