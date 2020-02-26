@@ -114,6 +114,7 @@ mpdf
 MultiColumnWizard
 NATURE
 Newsletter2Go
+Newslist
 Nominatim
 OAuth
 ODD
