@@ -1,0 +1,8 @@
+de:
+    title: Newslist Extended
+    description: >
+        Fügt ein paar Features zum Frontend Nachrichtenlisten Modul hinzu.
+
+        Weiterleitungsseite überschreiben: Dies erlaubt die Weiterleitungsseite des Newsarchivs für dieses Modul zu überschreiben. Das kann in Situationen nützlich sein, wo ein Nachrichtenarchiv in mehreren Domains oder Sprachen angezeigt werden soll. Dies fügt auch automatisch einen Canonical Meta-Tag ein, wenn die aktuelle Leserseite nicht die im Nachrichtenarchiv konfigurierte Weiterleitungsseite ist.
+
+        Nachrichtenleser Modul: Dies erlaubt die Definition eines Nachrichtenleser Moduls, genau wie im Nachrichtenarchiv Modul. Das definierte Nachrichtenleser Modul wird benutzt, wenn die Weiterleitungsseite eines Nachrichtenarchivs (oder des Nachrichtenlisten Moduls) auf die selbe Seite zeigt, wie die Seite wo das Nachrichtenliste Modul eingefügt ist.
