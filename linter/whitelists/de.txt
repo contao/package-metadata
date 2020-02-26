@@ -30,6 +30,7 @@ ausserdem
 Automatisierungsaufgaben
 Avatar
 Avatare
+Backend
 Backendmodul
 base
 Basisbibliotheken
@@ -337,6 +338,7 @@ Parallax
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
+pflegbares
 Picker
 Plenta
 Plugin
