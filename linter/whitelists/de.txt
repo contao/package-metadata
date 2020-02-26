@@ -204,12 +204,14 @@ Iconfont
 Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
+Include
 Inhaltsboxen
 Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
 inkl
+inkludiert
 Inputtype
 Insert
 Install
