@@ -1,0 +1,4 @@
+en:
+    title: Include Info
+    description: >
+        This extension will show you in the back end, were a content element, form or front end module has been included. It also keeps track of includes via insert tags.

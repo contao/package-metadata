@@ -1,0 +1,4 @@
+de:
+    title: Include Info
+    description: >
+        Diese Erweiterung zeigt im Backend an, wo ein Inhaltselement, Formular oder Frontend Modul überall inkludiert wurde. Dabei werden auch die entsprechenden Insert Tags berücksichtigt.
