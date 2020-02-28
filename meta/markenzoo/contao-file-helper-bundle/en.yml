@@ -1,0 +1,10 @@
+en:
+    title: Contao File Helper Bundle
+    description: This bundle extends the file manager to show where files are included and to edit these elements with one click.
+    keywords:
+        - pictures
+        - files
+    support:
+        email: kaestner@markenzoo.de
+        issues: https://github.com/markenzoo/contao-file-helper-bundle/issues
+        source: https://github.com/markenzoo/contao-file-helper-bundle
