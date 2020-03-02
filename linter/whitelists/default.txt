@@ -116,6 +116,7 @@ NATURE
 Netzhirsch
 Newsletter2Go
 Newslist
+Newsticker
 Nominatim
 OAuth
 ODD
