@@ -117,6 +117,7 @@ Netzhirsch
 Newsletter2Go
 Newslist
 Newsticker
+newsticker
 Nominatim
 OAuth
 ODD
