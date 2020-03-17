@@ -10,4 +10,5 @@ de:
         - Optin
     support:
         issues: https://github.com/Netzhirsch/CookieOptInBundle/issues
-        docs: https://github.com/Netzhirsch/CookieOptInBundle
+        source: https://github.com/Netzhirsch/CookieOptInBundle/releases
+        docs: https://www.netzhirsch.de/contao-cookie-opt-in-bundle.html
