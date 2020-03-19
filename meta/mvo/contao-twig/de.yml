@@ -1,0 +1,8 @@
+de:
+    title: Twig für Contao
+    description: >
+        Diese Erweiterung ermöglicht den Einsatz von Twig-Templates an der
+        Stelle von Contao-PHP-Templates.
+    keywords:
+        - contao
+        - twig
