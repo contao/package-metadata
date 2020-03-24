@@ -1,8 +1,8 @@
 en:
     title: Netzhirsch Cookie Opt In Bundle
-    homepage: https://www.netzhirsch.de
+    homepage: https://www.netzhirsch.de/contao-cookie-opt-in-bundle.html
     description: >
-        With the cookie opt-in bundle from Netzhirsch, a cookie bar can be quickly and easily created according to the latest data protection guidelines.
+        Cookie bar for Contao CMS. Cookies are only set after you have given your consent. Consent is recorded and can be withdrawn by the visitor. Individual cookies and or entire groups can be accepted or rejected.
     keywords:
         - Netzhirsch
         - Cookie
@@ -10,4 +10,5 @@ en:
         - Optin
     support:
         issues: https://github.com/Netzhirsch/CookieOptInBundle/issues
-        docs: https://github.com/Netzhirsch/CookieOptInBundle
+        source: https://github.com/Netzhirsch/CookieOptInBundle/releases
+        docs: https://www.netzhirsch.de/contao-cookie-opt-in-bundle.html
