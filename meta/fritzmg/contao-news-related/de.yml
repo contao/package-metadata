@@ -1,0 +1,6 @@
+de:
+    title: News Related
+    description: >
+        Einfache Erweiterung um Nachrichten direkt mit anderen Nachrichten verknüpfen zu können.
+
+        Dies unterscheidet sich von der Herstellung der Verbindung zwischen Nachrichten über Kategorien oder Tags, da die Verknüpfung bei jeder einzelnen Nachricht manuell erfolgen muss. Außerdem funktioniert die Verknüpfung nicht automatisch in beide Richtungen: wenn Artikel A zu Artikel B verwandt sein soll, aber auch umgekehrt, dann muss diese Relation auch in Artikel B selbst gesetzt werden.

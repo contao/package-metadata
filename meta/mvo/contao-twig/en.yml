@@ -1,0 +1,8 @@
+en:
+    title: Twig for Contao
+    description: >
+        This extension allows using Twig templates instead of the native PHP
+        templates.
+    keywords:
+        - contao
+        - twig

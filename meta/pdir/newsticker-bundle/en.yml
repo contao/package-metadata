@@ -1,0 +1,12 @@
+en:
+    title: Newsticker
+    description: >
+        With the newsticker bundle you can scroll up or down a certain number of elements in a list. The elements can
+        simply be created as content elements.
+    keywords:
+        - jQuery
+        - news
+        - announcements
+        - blog
+    support:
+        docs: https://docs.pdir.de/#/newsticker/index

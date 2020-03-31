@@ -23,6 +23,7 @@ ChangeLanguage
 Checkbox
 Clickpress
 CMS
+codefog
 Community
 Composer
 Config
@@ -48,6 +49,7 @@ Email
 estao
 EuF
 euf
+Eventlist
 Excel
 excel
 Facebook
@@ -74,6 +76,7 @@ google
 googlemaps
 GPX
 Graphhopper
+Host
 grid
 Heusschen
 iCal
@@ -87,6 +90,7 @@ iTunes
 JavaScript
 JPEG
 JPG
+jpg
 jQuery
 js
 Klarna
@@ -94,6 +98,7 @@ KML
 KuteJS
 LASR
 Leaflet
+Login
 LTS
 MailChimp
 Managed
@@ -108,7 +113,11 @@ mPDF
 mpdf
 MultiColumnWizard
 NATURE
+Netzhirsch
 Newsletter2Go
+Newslist
+Newsticker
+newsticker
 Nominatim
 OAuth
 ODD
@@ -136,13 +145,14 @@ phpoffice
 Pinterest
 Pixabay
 PNG
+png
 Podcasts
 POIs
 QR
 README
 Reload
 RockSolid
-Rocksolid                                                    
+Rocksolid
 rocksolid
 rss
 RSS
@@ -150,16 +160,21 @@ SEO
 SERP
 Shariff
 SimpleTokens
+Sineos
+SINEOS
 Slack
 SMS
 Source
+Spectre
 Spotify
 sql
 start
 Start
 Stardate
+StoreLocator
 Stylesheet
 stylesheet
+svg
 Symfony
 TCPDF
 Template
@@ -182,6 +197,7 @@ UI
 Usability
 var
 Valhalla
+virtualization
 vivenio
 Web
 WhatsApp
@@ -195,6 +211,7 @@ XLIFF
 xliff
 XLS
 xls
+XLSX
 yml
 YouTube
 OpenImmo

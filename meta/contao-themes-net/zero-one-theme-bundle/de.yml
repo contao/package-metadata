@@ -1,0 +1,29 @@
+de:
+    title: 0.1 Theme
+    description: >
+        0.1 ist das klimafreundlichste Contao Theme aller Zeiten, welches auf Basis von Contao 4.x und dem leichtgewichtigen CSS-Framework Spectre zur Erstellung energieeffizienter Webseiten entwickelt wurde.
+
+        Es setzt auf viele verschiedene Praktiken und Technologien, die den Energieverbrauch einer Website erheblich optimieren und deren Einsatz gleichzeitig auch in SEO Optimierung, Performance Verbesserung und Erhöhung der Nutzerfreundlichkeit resultiert.
+
+        Das Theme ist für alle Endgeräte und gängigen Browser optimiert und liefert die wichtigsten Module und Elemente des Contao-Cores sowie einige nützliche Zusatz-Elemente, wie z. B. Teaserboxen, Tabs, ein Zitat- und ein Parallax-Element mit.
+        Natürlich verfügt auch dieses Theme wieder über einen Dark Mode, der Akku spart und Augen schont.
+
+        Das 0.1 Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (ohne Copyright Hinweis) erhältlich.
+    keywords:
+        - Theme
+        - Spectre
+        - SEO
+        - Mobil
+        - optimiert
+        - Template
+        - scss
+        - Style
+        - Layout
+        - Lightroom
+        - Klimafreundlich
+        - Pagespeed
+    homepage: https://contao-themes.net/theme-detail/zeroone.html
+    support:
+        docs: https://docs.contao-themes.net/#/zeroone_theme/index
+        forum: https://community.contao.org
+        donation: https://contao-themes.net/sponsoring.html

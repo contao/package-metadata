@@ -1,0 +1,15 @@
+de:
+    title: System-Information
+    description: >
+        Mit dieser Erweiterung können im Backend verschiedene grundlegende Fakten zur Umgebung, in der die aktuelle Contao-Instanz läuft, angezeigt werden.
+        Enthalten sind: Informationen zu PHP, Datenbank, Betriebssystem, Host, Hardware, Virtualisierung und Systemlast (einschließlich eines Live-Diagramms zur Systemlast).
+    keywords:
+        - contao
+        - back end
+        - environment
+        - system
+        - information
+        - info
+        - host
+        - hardware
+        - load

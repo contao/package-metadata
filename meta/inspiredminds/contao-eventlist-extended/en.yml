@@ -1,0 +1,10 @@
+en:
+    title: Eventlist Extended
+    description: >
+        This extends the eventlist of the contao/calendar-bundle with some features.
+
+        Override redirect page:
+        This enables you to define a redirect page other than the one defined in the calendar of the event. This can be useful in situations where you have just one calendar, but you want to display events of that calendar over multiple domains or languages.
+
+        Canonical tag:
+        The extension also automatically adds a canonical tag on the event reader page, if the current page is not the one defined in the calendar.

@@ -1,0 +1,14 @@
+de:
+    title: Netzhirsch Cookie Opt In Bundle
+    homepage: https://www.netzhirsch.de/contao-cookie-opt-in-bundle.html
+    description: >
+        Cookie Bar für Contao CMS. Cookies werden erst nach einer Einwilligung gesetzt. Einwilligungen werden aufgezeichnet und können vom Besucher widerrufen werden. Einzelne Cookies und oder ganze Gruppen können angenommen bzw. abgelehnt werden.
+    keywords:
+        - Netzhirsch
+        - Cookie
+        - Cookiebar
+        - Optin
+    support:
+        issues: https://github.com/Netzhirsch/CookieOptInBundle/issues
+        source: https://github.com/Netzhirsch/CookieOptInBundle/releases
+        docs: https://www.netzhirsch.de/contao-cookie-opt-in-bundle.html

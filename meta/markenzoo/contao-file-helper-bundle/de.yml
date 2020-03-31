@@ -1,0 +1,10 @@
+de:
+    title: Contao File Helper Bundle
+    description: Diese Erweiterung erlaubt es in der Dateiverwaltung anzeigen zu lassen, wo Dateien eingebunden sind und diese Elemente mit einem Klick zu bearbeiten.
+    keywords:
+        - Bilder
+        - Dateiverwaltung
+    support:
+        email: kaestner@markenzoo.de
+        issues: https://github.com/markenzoo/contao-file-helper-bundle/issues
+        source: https://github.com/markenzoo/contao-file-helper-bundle

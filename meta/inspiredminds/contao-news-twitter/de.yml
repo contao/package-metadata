@@ -1,0 +1,14 @@
+de:
+    title: News Twitter Sync
+    homepage: https://www.inspiredminds.at/contao-news-twitter
+    description: >
+        Diese Extension ermöglicht das Importieren von Tweets in Nachrichten Archiven, als auch das automatische Veröffentlichen von Nachrichten Beiträgen als Tweets. Dadurch kann man ein Nachrichten Archiv mit einem Twitter Profil synchron halten.
+    keywords:
+        - news
+        - sync
+        - twitter
+        - synchronisieren
+        - synchronisation
+        - posten
+        - posts
+        - tweet

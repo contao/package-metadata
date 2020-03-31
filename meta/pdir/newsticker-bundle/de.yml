@@ -1,0 +1,13 @@
+de:
+    title: Newsticker
+    description: >
+        Mit dem Newsticker Bundle können Sie eine bestimmte Anzahl an Elementen in einer Liste nach oben oder unten
+        automatisch scrollen lassen. Die Elemente können einfach als Content Elemente angelegt werden.
+    keywords:
+        - jQuery
+        - news
+        - neuigkeiten
+        - ankündigungen
+        - blog
+    support:
+        docs: https://docs.pdir.de/#/newsticker/index

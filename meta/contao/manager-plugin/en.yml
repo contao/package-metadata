@@ -1,0 +1,5 @@
+en:
+    title: Contao Manager Plugin
+    description: >
+        Provides the necessary tools for third-party developers to integrate with the Contao Managed Edition.
+    dependency: true

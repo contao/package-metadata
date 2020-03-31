@@ -1,0 +1,41 @@
+name: Update package index every 30 minutes
+
+on:
+    schedule:
+        - cron: '*/30 * * * *'
+
+jobs:
+    index:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v1
+              with:
+                  php-version: 7.3
+                  extensions: json
+                  tools: prestissimo
+
+            - name: Checkout
+              uses: actions/checkout@v2
+
+            - name: Cache Composer Vendor
+              uses: actions/cache@v1
+              with:
+                  path: indexer/vendor/
+                  key: ${{ runner.os }}-indexer-vendor-${{ hashFiles('indexer/composer.lock') }}
+                  restore-keys: ${{ runner.os }}-indexer-vendor-
+
+            - name: Install the dependencies
+              run: cd indexer && composer install --no-interaction --no-suggest
+
+            # Update statistics twice a day (24 * 30 mins = 12h)
+            - name: with-stats
+              run: |
+                  echo "::set-env name=with_stats::$(expr ${{ github.run_number }} % 24)"
+
+            - name: Update Index
+              run: indexer/index -v ${{ env.with_stats == 0 && '--with-stats' || '' }}
+              env:
+                  ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+                  ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+                  ALGOLIA_INDEX: v3_packages
