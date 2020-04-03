@@ -166,6 +166,7 @@ TabControl
 TableLookupWizard
 Teaserbox
 template
+Templatehint
 templating
 terminal
 textwizard

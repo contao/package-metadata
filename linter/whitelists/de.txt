@@ -454,6 +454,7 @@ Teaserboxen
 Teilnehmerregistrierung
 Telematik
 template
+Templatehint
 terminal
 Textfeld
 Textfeldern
