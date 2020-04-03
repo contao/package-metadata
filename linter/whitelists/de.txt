@@ -163,6 +163,7 @@ Formulargenerators
 Formularseiten
 formvalidation
 Formvalidation
+Frontend
 Frontendmodul
 Frontendmodule
 Frontendformular
@@ -207,6 +208,7 @@ Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
 Include
+Infos
 Inhaltsboxen
 Inhaltscontainer
 Inhaltselement
@@ -454,6 +456,7 @@ Teaserboxen
 Teilnehmerregistrierung
 Telematik
 template
+Templatehint
 terminal
 Textfeld
 Textfeldern

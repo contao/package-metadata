@@ -1,0 +1,8 @@
+de:
+    title: Templatehint
+    description: >
+        Eine Templatehint Erweiterung für Contao 4, welche Informationen über die geladenen Templates im Frontend oder Backend anzeigt.
+    keywords:
+        - contao
+        - bundle
+        - templatehint

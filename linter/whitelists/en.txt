@@ -78,6 +78,7 @@ Groups
 Head
 HeaderFooterCode
 History
+infos
 Insert
 Install
 install
@@ -166,6 +167,7 @@ TabControl
 TableLookupWizard
 Teaserbox
 template
+Templatehint
 templating
 terminal
 textwizard
