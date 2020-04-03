@@ -1,7 +1,7 @@
 en:
     title: Templatehint
     description: >
-        A Templatehint extension for Contao 4 which displays infos over loaded templates in frontend/or backend
+        A Templatehint extension for Contao 4 which displays infos about loaded templates in the front end or back end.
     keywords:
         - contao
         - bundle
