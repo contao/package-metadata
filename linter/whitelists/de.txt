@@ -163,6 +163,7 @@ Formulargenerators
 Formularseiten
 formvalidation
 Formvalidation
+Frontend
 Frontendmodul
 Frontendmodule
 Frontendformular
@@ -207,6 +208,7 @@ Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
 Include
+Infos
 Inhaltsboxen
 Inhaltscontainer
 Inhaltselement
