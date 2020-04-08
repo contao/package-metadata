@@ -3,7 +3,7 @@ de:
     description: >
         Der Contao ThemeManager liefert ein Grundgerüst für den Aufbau beliebiger Themes. Dabei werden verschiedene
         Werkzeuge mitgeliefert, welche bspw. für die Kompilierung von SCSS / CSS Dateien oder die Bearbeitung dessen
-        SCSS-Variabeln direkt über das Backend ermöglichen. Das Framework lässt sich dabei komplett von anderen
+        SCSS-Variablen direkt über das Backend ermöglichen. Das Framework lässt sich dabei komplett von anderen
         Erweiterungen ergänzen. In der Core Erweiterung werden bereits einige Grundstile wie bspw. die Farbgebung,
         Texteigenschaften oder ein Grid-System mitgeliefert, wobei dieses ohne Weiteres auch durch ein anderes ersetzt
         werden kann.

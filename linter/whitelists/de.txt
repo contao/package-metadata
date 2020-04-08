@@ -186,6 +186,8 @@ gestylten
 Get
 Grid
 Grids
+Grundgerüst
+Grundstile
 Groups
 hard
 Hardwarebeschleunigung
@@ -393,6 +395,7 @@ Schaltfläche
 Scheduler
 Scripts
 Scroll
+SCSS
 Search
 Seitenaufrufe
 Seiteneigenschaften
@@ -463,6 +466,7 @@ Textfeld
 Textfeldern
 Textfeldes
 textwizard
+Texteigenschaften
 ThemeRoller
 ThemeManager
 Ticker
