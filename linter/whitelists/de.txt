@@ -112,6 +112,7 @@ Dateninhalte
 Datenschutzrichtlinien
 Datensichten
 DC
+DCA's
 de
 Detailansicht
 Detection
@@ -463,6 +464,7 @@ Textfeldern
 Textfeldes
 textwizard
 ThemeRoller
+ThemeManager
 Ticker
 Tiles
 tiles

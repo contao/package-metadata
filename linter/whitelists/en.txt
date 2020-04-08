@@ -50,6 +50,7 @@ customizable
 Customizer
 Data
 DC
+DCA's
 de
 Detection
 dlh
@@ -178,6 +179,7 @@ tmp
 Tracking
 tracking
 Trigger
+ThemeManager
 TwitterReader
 UItoTop
 Uploader
