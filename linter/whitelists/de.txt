@@ -30,7 +30,6 @@ ausserdem
 Automatisierungsaufgaben
 Avatar
 Avatare
-Backend
 Backendmodul
 base
 Basisbibliotheken
@@ -468,7 +467,6 @@ Textfeldes
 textwizard
 Texteigenschaften
 ThemeRoller
-ThemeManager
 Ticker
 Tiles
 tiles

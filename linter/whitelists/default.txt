@@ -181,6 +181,7 @@ Template
 Templates
 Templating
 Theme
+ThemeManager
 theme
 Themes
 Timeline
