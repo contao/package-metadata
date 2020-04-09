@@ -185,6 +185,8 @@ gestylten
 Get
 Grid
 Grids
+Grundgerüst
+Grundstile
 Groups
 hard
 Hardwarebeschleunigung
@@ -462,6 +464,7 @@ Textfeld
 Textfeldern
 Textfeldes
 textwizard
+Texteigenschaften
 ThemeRoller
 Ticker
 Tiles

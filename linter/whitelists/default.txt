@@ -37,6 +37,7 @@ CSS
 CSV
 Dalley
 DCA
+DCA's
 DMS
 DOM
 DOMPDF
@@ -156,6 +157,7 @@ Rocksolid
 rocksolid
 rss
 RSS
+SCSS
 SEO
 SERP
 Shariff
@@ -181,6 +183,7 @@ Template
 Templates
 Templating
 Theme
+ThemeManager
 theme
 Themes
 Timeline
