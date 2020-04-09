@@ -50,7 +50,6 @@ customizable
 Customizer
 Data
 DC
-DCA's
 de
 Detection
 dlh
@@ -148,7 +147,6 @@ Responsive
 Rewrite
 scalable
 Scheduler
-SCSS
 Search
 Serverhint
 Slider

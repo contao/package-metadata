@@ -30,6 +30,7 @@ ausserdem
 Automatisierungsaufgaben
 Avatar
 Avatare
+Backend
 Backendmodul
 base
 Basisbibliotheken
@@ -111,7 +112,6 @@ Dateninhalte
 Datenschutzrichtlinien
 Datensichten
 DC
-DCA's
 de
 Detailansicht
 Detection
@@ -394,7 +394,6 @@ Schaltfläche
 Scheduler
 Scripts
 Scroll
-SCSS
 Search
 Seitenaufrufe
 Seiteneigenschaften
