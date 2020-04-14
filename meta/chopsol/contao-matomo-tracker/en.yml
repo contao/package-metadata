@@ -1,5 +1,5 @@
 en:
-  title: Visitortracking with Matomo
+  title: Visitor tracking with Matomo
   description: >
     Tracking of all website visitors directly from Contao via the Matomo API without JavaScript.
   keywords:
