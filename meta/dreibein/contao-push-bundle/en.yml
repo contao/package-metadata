@@ -1,0 +1,9 @@
+en:
+    title: Contao Push Bundle
+    description: >
+        Send push notifications over the Contao back end.
+    keywords:
+        - push
+        - notification
+        - service worker
+        

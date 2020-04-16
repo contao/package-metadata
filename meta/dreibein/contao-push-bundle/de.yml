@@ -1,0 +1,8 @@
+de:
+    title: Contao Push Bundle
+    description: >
+        Mit dieser Erweiterung können Push Benachrichtigungen über das Contao Backend versendet werden.
+    keywords:
+        - push
+        - notification
+        - service worker

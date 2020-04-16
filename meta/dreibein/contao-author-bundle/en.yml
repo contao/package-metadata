@@ -1,0 +1,11 @@
+en:
+    title: Contao Author Bundle
+    description: >
+        Extends Contao to display additional information for an author (news, events, FAQ). 
+        
+        You can show a picture, custom links, the e-mail address and a custom description.
+    keywords:
+        - news
+        - faq
+        - calendar
+        - events
