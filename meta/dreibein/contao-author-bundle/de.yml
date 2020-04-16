@@ -1,0 +1,13 @@
+de:
+    title: Contao Autor Bundle
+    description: >
+        Diese Erweiterung erlaubt, zusätzliche Infos für den Autor eines Beitrags (News, Events, FAQ) auf einer Leserseite anzuzeigen. 
+        
+        Man kann ein Bild, eigene Links, die E-Mail Adresse, und eine eigene Beschreibung pro Benutzer hinterlegen.
+    keywords:
+        - autor
+        - author
+        - news
+        - faq
+        - calendar
+        - events
