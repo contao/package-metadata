@@ -36,6 +36,7 @@ base
 Basisbibliotheken
 Bedingungsfelder
 Bedingungsfeldern
+Been
 Benachrichtigungstypen
 Benachrichtigungszentrum
 Benutzerdaten
@@ -191,6 +192,7 @@ Groups
 hard
 Hardwarebeschleunigung
 Hauptsprache
+Have
 Head
 HeaderFooterCode
 heart
@@ -370,6 +372,7 @@ Protocol
 Pull
 Push
 PWA
+Pwned
 Queue
 Rechnungs
 Rechtesteuerung

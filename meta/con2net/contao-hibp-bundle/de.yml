@@ -1,0 +1,12 @@
+de:
+    title: HIBP "Have I Been Pwned" - Überprüfung der E-Mail-Adresse
+    description: >
+        Diese Erweiterung erlaubt die Überprüfung einer E-Mail-Adresse gegen die Datenbanken von "Have I Been Pwned" (https://haveibeenpwned.com)
+        Es wird API Version 3 verwendet und erfordert einen (kostenpflichtigen) API Key, den man auf der o.a. Webseite erhalten kann.
+    keywords:
+        - contao
+        - check
+        - password
+        - hibp
+        - kennwort
+        - überprüfung
