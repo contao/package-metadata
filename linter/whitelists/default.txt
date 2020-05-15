@@ -209,6 +209,7 @@ Widget
 Widgets
 Wizard
 WMS
+WordPress
 WYSIWYG
 XING
 XLIFF
