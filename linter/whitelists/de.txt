@@ -458,9 +458,9 @@ Tabellenzeile
 TableLookupWizard
 Tabs
 Teaser
+Teaserbild
 Teaserbox
 Teaserboxen
-Teaserbild
 Teilnehmerregistrierung
 Telematik
 template
