@@ -115,6 +115,7 @@ Datensichten
 DC
 de
 Detailansicht
+Detailinhalt
 Detection
 dlh
 Documents
@@ -312,6 +313,7 @@ MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
 Nachrichtenarchiv
 Nachrichtenarchivs
+Nachrichtenartikel
 Nachrichtenbeiträge
 Nachrichtenbeitrags
 Nachrichtenleser
@@ -456,6 +458,7 @@ Tabellenzeile
 TableLookupWizard
 Tabs
 Teaser
+Teaserbild
 Teaserbox
 Teaserboxen
 Teilnehmerregistrierung

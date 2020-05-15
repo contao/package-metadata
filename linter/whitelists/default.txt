@@ -95,6 +95,7 @@ JPG
 jpg
 jQuery
 js
+JSON
 Klarna
 KML
 KuteJS
@@ -209,6 +210,7 @@ Widget
 Widgets
 Wizard
 WMS
+WordPress
 WYSIWYG
 XING
 XLIFF

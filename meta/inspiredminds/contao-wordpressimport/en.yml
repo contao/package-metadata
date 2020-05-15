@@ -1,0 +1,4 @@
+en:
+    title: WordPress Import
+    description: >
+        This extension allows you to import WordPress posts as Contao news articles via the WordPress JSON API. It imports the teaser image and detail content, including all images. It also allows you to optionally import authors and comments of each post. You can also import the posts' categories when using the codefog/contao-news_categories extension.
