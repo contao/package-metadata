@@ -95,6 +95,7 @@ JPG
 jpg
 jQuery
 js
+JSON
 Klarna
 KML
 KuteJS

@@ -115,6 +115,7 @@ Datensichten
 DC
 de
 Detailansicht
+Detailinhalt
 Detection
 dlh
 Documents
@@ -312,6 +313,7 @@ MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
 Nachrichtenarchiv
 Nachrichtenarchivs
+Nachrichtenartikel
 Nachrichtenbeiträge
 Nachrichtenbeitrags
 Nachrichtenleser
@@ -458,6 +460,7 @@ Tabs
 Teaser
 Teaserbox
 Teaserboxen
+Teaserbild
 Teilnehmerregistrierung
 Telematik
 template
