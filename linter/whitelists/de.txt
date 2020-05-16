@@ -384,6 +384,7 @@ reimport
 reimportieren
 rel
 Related
+Remember
 Rendereinstellungen
 Repository
 Responsive
@@ -429,6 +430,7 @@ Speisenpläne
 Spiders
 splitter
 Sprachenwechsler
+Sprachparameter
 staging
 standardmässig
 Standardrechte

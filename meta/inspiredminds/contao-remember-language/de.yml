@@ -1,0 +1,4 @@
+de:
+    title: Remember Language
+    description: >
+        Mit dieser Extension können Besucher automatisch auf eine zuvor gespeicherte Sprache weitergeleitet werden. Dies ist dann sinnvoll, wenn eine Contao Installation mit mehreren Sprachen, aber nur einer Domain benutzt wird. Die Sprache wird als Cookie gespeichert, wenn der Besucher der Website eine Sprache auswählt. Die Weiterleitung wird ausgeführt, wenn der Besucher die Domain ohne Sprachparameter aufruft.
