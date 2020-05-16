@@ -1,0 +1,4 @@
+en:
+    title: Remember Language
+    description: >
+        This extension is useful for multi-language setups, that only use one domain and have the language parameter in the URL. With this extension, the language chosen by the visitor is automatically saved as a cookie. The visitor will be redirected to that language automatically, when requesting the domain without the language parameter.
