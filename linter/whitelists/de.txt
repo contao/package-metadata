@@ -430,6 +430,7 @@ Speisenpläne
 Spiders
 splitter
 Sprachenwechsler
+Sprachparameter
 staging
 standardmässig
 Standardrechte
