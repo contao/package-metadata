@@ -7,6 +7,8 @@ Android
 API
 App
 app
+Areas
+Austrian
 Back end
 back end
 Barcode
