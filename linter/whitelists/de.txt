@@ -38,6 +38,7 @@ Benutzereinstellungen
 Benutzergruppen
 Benutzernamen
 Berechnungsarten
+Besonders
 Besuchererweiterung
 Bewertungssystem
 Bilddatenbank
@@ -229,6 +230,7 @@ Listenansicht
 Listenansichten
 Listenform
 LiveValidation
+Lizenzhinweis
 Lizenzhinweise
 Logout
 Longitude
@@ -370,6 +372,7 @@ Statistikübersicht
 Sternzeit
 Stilanpassungen
 Stilgruppen
+Stockfotos
 Style
 StyleManager
 Styling
