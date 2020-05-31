@@ -1,0 +1,20 @@
+de:
+    title: Copyright for images
+    description: >
+        With this Contao bundle you can easily add a license notice to all images and display them in a module.
+
+        This is especially useful if you use stock photos from different vendors and need to display the license notices.
+    keywords:
+        - copyright
+        - stock
+        - stockphotos
+        - istock
+        - fotolia
+        - license
+        - licence
+        - picture
+        - image
+    support:
+        email: code@tasturberuf.de
+        issues: https://github.com/Tastaturberuf/contao-image-copyright-bundle/issues
+        source: https://github.com/Tastaturberuf/contao-image-copyright-bundle/
