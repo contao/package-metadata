@@ -275,6 +275,8 @@ Listenform
 listWizard
 listwizard
 LiveValidation
+Lizenzhinweis
+Lizenzhinweisen
 login
 Logout
 Longitude
