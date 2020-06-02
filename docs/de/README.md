@@ -18,7 +18,7 @@ meta/[vendor]/[paket-name]
     - ru.yml
     - ...
     - logo.svg (optional)
-    - composer.json (nur für private Pakete und optional. Siehe Abschnitt "Öffentliche vs. private/proprietäre Pakete")
+    - composer.json (nur für private Pakete und optional. [Details](#öffentliche-vs-privateproprietäre-pakete))
 ```
 
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
