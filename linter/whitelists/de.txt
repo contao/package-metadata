@@ -229,7 +229,9 @@ Listenansicht
 Listenansichten
 Listenform
 LiveValidation
+Lizenzhinweis
 Lizenzhinweise
+Lizenzhinweisen
 Logout
 Longitude
 Länderauswahl
@@ -370,6 +372,7 @@ Statistikübersicht
 Sternzeit
 Stilanpassungen
 Stilgruppen
+Stockfotos
 Style
 StyleManager
 Styling
