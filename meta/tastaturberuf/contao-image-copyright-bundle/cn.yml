@@ -1,0 +1,19 @@
+cn:
+    title: 图像的许可通知
+    description: >
+        通过这个Contao捆绑包，你可以轻松地在所有的图片上添加许可通知，并在模块中显示。
+
+        如果您使用来自不同供应商的库存照片，并且需要显示许可通知，这一点特别有用。
+    keywords:
+        - 版权
+        - 股票
+        - 库存照片
+        - 证券交易所
+        - 光叶
+        - 许可证
+        - 图片
+        - 版权
+    support:
+        email: code@tasturberuf.de
+        issues: https://github.com/Tastaturberuf/contao-image-copyright-bundle/issues
+        source: https://github.com/Tastaturberuf/contao-image-copyright-bundle/
