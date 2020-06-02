@@ -229,6 +229,7 @@ Listenansicht
 Listenansichten
 Listenform
 LiveValidation
+Lizenzhinweise
 Logout
 Longitude
 Länderauswahl
