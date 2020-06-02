@@ -276,6 +276,7 @@ listWizard
 listwizard
 LiveValidation
 Lizenzhinweis
+Lizenzhinweise
 Lizenzhinweisen
 login
 Logout
