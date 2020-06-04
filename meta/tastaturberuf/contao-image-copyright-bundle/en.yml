@@ -1,7 +1,7 @@
 en:
     title: Copyright for images
     description: >
-        With this Contao bundle you can easily add a license notice to all images and display them in a module.
+        With this Contao bundle, you can easily add a license notice for each image and display it in a module.
 
         This is especially useful if you use stock photos from different vendors and need to display the license notices.
     keywords:
