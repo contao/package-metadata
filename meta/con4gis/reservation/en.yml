@@ -1,0 +1,17 @@
+en:
+    title: con4gis Reservation
+    description: >
+        The module is already in use for table and room reservations. Any objects that can be reserved can be defined in the Contao backend.
+        Due to the Corona crisis and the acute demand (e.g. in the gastronomy) we decided to publish this component as well.
+    keywords:
+        - con4gis
+        - Reservation
+        - Reservations
+        - reserve
+        - Rooms
+        - Table
+        - Tables
+        - House
+        - Building
+        - Real estate
+        - Gastronomy
