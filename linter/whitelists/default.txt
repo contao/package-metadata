@@ -126,6 +126,7 @@ Newslist
 Newsticker
 newsticker
 Nominatim
+nuLiga
 OAuth
 ODD
 Official
