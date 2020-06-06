@@ -240,7 +240,6 @@ Newsletter
 Notification
 notification
 Nu
-nuLiga
 Nutzerbasis
 Objektliste
 Open
