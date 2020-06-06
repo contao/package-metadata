@@ -102,7 +102,6 @@ nestable
 Newsletter
 Notification
 notification
-nuLiga
 Open
 Opt
 optimised
