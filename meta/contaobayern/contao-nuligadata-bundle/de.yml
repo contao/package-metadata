@@ -1,5 +1,5 @@
 de:
-    title: Daten aus der nuLiga-API
+    title: Daten aus der nuliga-API
     description: >
         Dieses Bundle holt über die API die Spieldaten von nuLiga eines dort gelisteten Vereins ab und importiert sie in den Contao Calendar und weitere Elemente. Zugangsdaten für die API sind nicht enthalten.
     keywords:
