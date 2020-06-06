@@ -1,0 +1,4 @@
+de:
+    title: IP Login
+    description: >
+        Mit dieser Extension können Mitglieder im Frontend anhand deren IP angemeldet werden. Dabei stellt man eine Reihe an IPs oder Subnets in der Konfiguration zur Verfügung. Pro Mitglied kann die Anmeldung via IP dann individuell aktiviert und eingestellt werden.

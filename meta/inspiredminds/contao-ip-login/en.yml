@@ -1,0 +1,4 @@
+en:
+    title: IP Login
+    description: >
+        This extension allows you to automatically login front end members by their IP. This login can be enabled for each member individually. A set of IPs or subnets can be defined in the configuration of the extension which are then available for selection for each member.
