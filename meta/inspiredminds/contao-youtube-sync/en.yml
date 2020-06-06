@@ -1,4 +1,4 @@
 en:
     title: YouTube Sync
     description: >
-        This extension provides the possibility to import YouTube videos from a YouTube playlist as news articles. Title, description and the video ID will be saved in the record of the news article. This can also be used to synchronise all YouTube videos from a channel by using the "Uploads" playlist.
+        This extension provides the possibility to import YouTube videos from a YouTube playlist as news articles. Title, description, thumbnail and the video ID will be saved in the record of the news article. This can also be used to synchronise all YouTube videos from a channel by using the "Uploads" playlist.

@@ -1,4 +1,4 @@
 de:
     title: YouTube Sync
     description: >
-        Mit dieser Extension können YouTube Videos aus einer YouTube Playlist als Nachrichten importiert werden. Dabei wird Titel, Beschreibung und die Video ID in der Nachricht gespeichert. Über die "Uploads" Playlist eines Kanals kann somit auch der gesamte Kanal synchronisiert werden.
+        Mit dieser Extension können YouTube Videos aus einer YouTube Playlist als Nachrichten importiert werden. Dabei wird Titel, Beschreibung, Vorschaubild und die Video ID in der Nachricht gespeichert. Über die "Uploads" Playlist eines Kanals kann somit auch der gesamte Kanal synchronisiert werden.
