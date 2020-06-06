@@ -80,6 +80,7 @@ mPDF
 mpdf
 MultiColumnWizard
 Nominatim
+nuLiga
 OAuth
 OGC
 OpenGraph
