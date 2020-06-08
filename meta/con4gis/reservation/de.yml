@@ -2,7 +2,7 @@ de:
     title: con4gis-Reservation
     description: >
         Der Baustein ist für Tisch- und Raumreservierungen bereits im Einsatz. Beliebige reservierbare Objekte können im Contao Backend definiert werden.
-        Aufgrund der Corona Krise und dem akuten Bedarf (z.B. in der Gastronomie) haben wir uns dazu entschlossen auch diese Komponente zu veröffentlichen.
+        Aufgrund der Corona Krise und dem akuten Bedarf (z. B. in der Gastronomie) haben wir uns dazu entschlossen, auch diese Komponente zu veröffentlichen.
     keywords:
         - con4gis
         - Reservierung
