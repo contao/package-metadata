@@ -1,7 +1,7 @@
 de:
     title: WOW.js
     description: >
-        Ermöglicht Scroll Animationen für Inhaltselemente auf Basis des WOW.js Scripts.
+        Ermöglicht Scroll Animationen für Inhaltselemente und Formularfelder auf Basis des WOW.js Scripts.
     keywords:
         - contao
         - wow
