@@ -257,6 +257,7 @@ Kreuztabelle
 Kreuztabellen
 Klartextwerte
 Klassensammlung
+Landingpages
 Language
 Latitude
 Layoutvorlage
@@ -503,6 +504,7 @@ uvm
 Validierung
 Varone
 Verkaufsobjekte
+verkaufsstarker
 Vermietungsabteilung
 vermietungsoptimierte
 verschiedenener
