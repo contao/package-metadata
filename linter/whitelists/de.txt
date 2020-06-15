@@ -1,5 +1,6 @@
 Access
 Accordion
+Active Directory
 Admins
 Adress
 Advanced
@@ -91,6 +92,7 @@ Cookiebar
 Cookieconsent
 Core
 Cores
+Corona
 costs
 checkbox
 Checkout
@@ -261,6 +263,7 @@ Landingpages
 Language
 Latitude
 Layoutvorlage
+LDAP
 Lead
 Leads
 Leserseite
@@ -381,6 +384,8 @@ Push
 PWA
 Pwned
 Queue
+Raumreservierung
+Raumreservierungen
 Rechnungs
 Rechtesteuerung
 Rechtsklick
@@ -392,6 +397,7 @@ Related
 Remember
 Rendereinstellungen
 Repository
+reservierbare
 Responsive
 responsiven
 Rewrite
