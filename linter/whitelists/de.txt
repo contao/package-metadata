@@ -1,6 +1,6 @@
 Access
 Accordion
-Active Directory
+Active
 Admins
 Adress
 Advanced
@@ -119,6 +119,7 @@ de
 Detailansicht
 Detailinhalt
 Detection
+Directory
 dlh
 Documents
 Drittanbieter
