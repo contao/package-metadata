@@ -1,0 +1,18 @@
+de:
+    title: Contao Consent
+    description: >
+        Mit unserer Erweiterung für die Einverständniserklärungen kannst du einfach und rechtssicher die benötigten Einverständnisse Deiner Benutzer:innen einholen. Wir liefern Dir anwaltlich geprüfte Mustertexte in Deutsch und Englisch für Google Webfonts, Google Analytics, Matomo, YouTube, Vimeo und Google Maps (weitere Dienste und Sprachen folgen). Des weiteren kannst du auch eigene Tools und Scripte einbinden, um eine Einwilligung einzuholen. Durch unsere frei verfügbare Contao Consent Bridge können auch andere Erweiterungen eigene Einwilligungseinstellungen mitliefern und an Contao Consent übergeben.
+
+        Die Website mit umfangreichen Informationen befindet sich aktuell noch im Aufbau. Schreibt uns gern eine E-Mail an info@hofff.com und wir vereinbaren einen Termin für eine Bildschirmpräsentation.
+    keywords:
+        - consent
+        - cookie
+        - agreement
+        - banner
+        - gdpr
+        - ePrivacy
+        - einwilligung
+        - dsgvo
+    homepage: https://www.hofff.com/
+    support:
+        email: info@hofff.com
