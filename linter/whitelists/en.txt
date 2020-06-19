@@ -25,6 +25,7 @@ con
 config
 configurator
 Connect
+Consent
 Constants
 Container
 Content
