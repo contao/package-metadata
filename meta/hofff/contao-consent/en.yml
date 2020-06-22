@@ -1,7 +1,7 @@
 en:
     title: Contao Consent
     description: >
-        With our extension for the declarations of consent you can easily and legally secure obtain the required agreements of your users. We provide you lawyer-tested sample texts in German and English for Google Webfonts, Google Analytics, Matomo, YouTube, Vimeo and Google Maps (further services and languages will follow). Furthermore, you can also integrate your own tools and scripts to obtain consent. With our freely available Contao Consent Bridge, other extensions can also provide their own consent settings and pass them to Contao Consent.
+        With our extension for the declarations of consent you can easily obtain the required agreements of your users in a legally compliant way. We provide lawyer-tested sample texts in German and English for Google Webfonts, Google Analytics, Matomo, YouTube, Vimeo and Google Maps (further services and languages will follow). Furthermore, you can also integrate your own tools and scripts to obtain consent. With our freely available Contao Consent Bridge, other extensions can also provide their own consent settings and pass them to Contao Consent.
 
         The website with extensive information is currently under construction. Please send us an e-mail to info@hofff.com and we will arrange an appointment for a screen presentation.
     keywords:
