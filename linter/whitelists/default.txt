@@ -113,6 +113,7 @@ MailChimp
 Managed
 Manager
 Mapbox
+Matomo
 metamodel
 MetaModel
 metamodels
@@ -210,9 +211,11 @@ UI
 Usability
 var
 Valhalla
+Vimeo
 virtualization
 vivenio
 Web
+Webfonts
 WhatsApp
 Widget
 Widgets

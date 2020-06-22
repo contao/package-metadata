@@ -300,7 +300,6 @@ Master
 MATE
 Mate
 Materialize
-Matomo
 Mega
 Mehrsprachigkeit
 Menu
@@ -517,14 +516,12 @@ Vermietungsabteilung
 vermietungsoptimierte
 verschiedenener
 Videohandbuch
-Vimeo
 visits
 Visualization
 Vollbildkarte
 Vorlagedatei
 Vorschaubild
 Webanwendungen
-Webfonts
 Webseite
 Webseitenwurzel
 Webservices

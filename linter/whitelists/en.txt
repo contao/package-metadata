@@ -101,7 +101,6 @@ Maps
 MATE
 Mate
 Materialize
-Matomo
 Mega
 Menu
 Merger
@@ -187,8 +186,6 @@ Uploader
 uploader
 Varone
 versioned
-Vimeo
 visits
-Webfonts
 yes
 youtube
