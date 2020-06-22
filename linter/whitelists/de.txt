@@ -544,3 +544,4 @@ Zeitstrahl
 Zielseiten
 Zugangsdaten
 Encryption
+Verschlüsselungsklasse
