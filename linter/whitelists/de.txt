@@ -543,3 +543,5 @@ zeitintensiver
 Zeitstrahl
 Zielseiten
 Zugangsdaten
+Encryption
+Verschlüsselungsklasse
