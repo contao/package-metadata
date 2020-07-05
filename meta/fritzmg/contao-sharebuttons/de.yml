@@ -1,0 +1,4 @@
+de:
+    title: Share Buttons
+    description: >
+        Stellt "Teilen"-Links inklusive Icon-Stile als Inhaltselement und Modul zur Verfügung. Auch die Integrierung in Nachrichten wird unterstützt. Die unterstützten Sozialen Netwzerke bzw. Möglichkeiten sind: Facebook, Twitter, LinkedIn, Xing, E-Mail, tumblr, Pinterest, Reddit, WhatsApp, Drucken, PDF. Allerdings unterstützt nicht jeder Icon-Stil jedes Teilungsmöglichkeit.
