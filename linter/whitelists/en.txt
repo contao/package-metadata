@@ -173,6 +173,7 @@ Templatehint
 templating
 terminal
 textwizard
+theming
 Ticker
 Tiles
 tiles

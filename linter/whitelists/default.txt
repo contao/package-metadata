@@ -162,6 +162,7 @@ POIs
 QR
 React
 README
+Reddit
 Reload
 RockSolid
 Rocksolid
@@ -204,6 +205,7 @@ TinyPNG
 Token
 Trek
 trilobit
+tumblr
 Tweets
 Twig
 Twitter
