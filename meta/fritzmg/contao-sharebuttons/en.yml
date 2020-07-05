@@ -1,4 +1,4 @@
 en:
     title: Share Buttons
     description: >
-        Provides share buttons with optional theming as a content element or module. It also supports integration for news. The supported sharing possibilites are: Facebook, Twitter, LinkedIn, Xing, E-Mail, tumblr, Pinterest, Reddit, WhatsApp, Drucken, PDF. Note that not all of the provided icon themes support all of these possibilites.
+        Provides share buttons with optional theming as a content element or module. It also supports integration for news. The supported sharing possibilities are: Facebook, Twitter, LinkedIn, XING, e-mail, tumblr, Pinterest, Reddit, WhatsApp, print, PDF. Note that not all of the provided icon themes support all of these possibilities.
