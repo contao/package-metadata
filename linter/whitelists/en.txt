@@ -86,7 +86,6 @@ io
 IO
 IOTravelCostsBundle
 Language
-LDAP
 Lead
 Leads
 Libraries

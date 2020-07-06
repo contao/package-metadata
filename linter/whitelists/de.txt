@@ -92,7 +92,6 @@ Cookiebar
 Cookieconsent
 Core
 Cores
-Corona
 costs
 checkbox
 Checkout
@@ -264,7 +263,6 @@ Landingpages
 Language
 Latitude
 Layoutvorlage
-LDAP
 Lead
 Leads
 Leserseite
