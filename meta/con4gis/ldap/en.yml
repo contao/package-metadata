@@ -1,0 +1,13 @@
+en:
+    title: con4gis-LDAP
+    description: >
+        The LDAP module enables LDAP or Active Directory authentication via the Contao front and back end.
+    keywords:
+        - con4gis
+        - ldap
+        - active directory
+        - authentification
+        - sign in
+        - login
+        - member
+        - user

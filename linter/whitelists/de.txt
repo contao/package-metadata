@@ -1,5 +1,6 @@
 Access
 Accordion
+Active
 Admins
 Adress
 Advanced
@@ -121,6 +122,7 @@ de
 Detailansicht
 Detailinhalt
 Detection
+Directory
 dlh
 Documents
 Drittanbieter
@@ -387,6 +389,8 @@ Push
 PWA
 Pwned
 Queue
+Raumreservierung
+Raumreservierungen
 Rechnungs
 Rechtesteuerung
 Rechtsklick
@@ -398,6 +402,7 @@ Related
 Remember
 Rendereinstellungen
 Repository
+reservierbare
 Responsive
 responsiven
 Rewrite
