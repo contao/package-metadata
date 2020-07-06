@@ -1,0 +1,12 @@
+de:
+  title: Contao KlickTipp Gateway
+  homepage: https://www.fenepedia.de/contao-klicktipp-gateway
+  description: >
+     Anbindung an KlickTipp über ein zusätzliches Gateway für das Notification Center.
+  keywords:
+    - KlickTipp
+    - Klick-Tipp
+  support:
+    issues: https://github.com/fenepedia/contao-klicktipp-gateway/issues
+    source: https://github.com/fenepedia/contao-klicktipp-gateway/releases
+    docs: https://www.fenepedia.de/contao-klicktipp-gateway
