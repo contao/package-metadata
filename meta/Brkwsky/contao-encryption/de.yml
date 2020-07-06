@@ -1,0 +1,17 @@
+de:
+  title: Contao Encryption (Ersetzt Contao\Encryption)
+  description: >
+    Ein Service für die veraltete Contao-Verschlüsselungsklasse (Contao\Encryption).
+  keywords:
+    - Verschlüsselung
+    - verschlüsseln
+    - Encryption
+    - dca
+    - callback
+    - blowfish
+    - service
+  homepage: https://brkwsky.de
+  support:
+    email: hallo@brkwsky.de
+    issues: https://github.com/Brkwsky/contao-encryption/issues
+    source: https://github.com/Brkwsky/contao-encryption

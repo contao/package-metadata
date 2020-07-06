@@ -25,6 +25,7 @@ con
 config
 configurator
 Connect
+Consent
 Constants
 Container
 Content
@@ -172,6 +173,7 @@ Templatehint
 templating
 terminal
 textwizard
+theming
 Ticker
 Tiles
 tiles
