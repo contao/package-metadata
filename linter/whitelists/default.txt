@@ -103,6 +103,7 @@ jQuery
 js
 JSON
 Klarna
+KlickTipp
 KML
 KuteJS
 LASR
