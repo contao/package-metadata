@@ -112,7 +112,7 @@ class LintCommand extends Command
     private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate)
     {
         if (null === $this->spellChecker) {
-            $this->spellChecker = new SpellChecker(__DIR__.'/../whitelists');
+            $this->spellChecker = new SpellChecker(__DIR__.'/../allowlists');
         }
 
         $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
@@ -255,7 +255,7 @@ class LintCommand extends Command
                     $package,
                     $language,
                     sprintf(
-                        'Property "%s" does not pass the spell checker. Either update the whitelist or fix the spelling :) Errors: %s',
+                        'Property "%s" does not pass the spell checker. Either update the allow list or fix the spelling :) Errors: %s',
                         $key,
                         implode(', ', $errors)
                     )

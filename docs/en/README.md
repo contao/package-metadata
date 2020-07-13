@@ -77,10 +77,10 @@ packages, you can add a `composer.json` to your metadata.
 
 ## Spell checking
 
-Your meta data is automatically checked for spelling issues. You might need to update the whitelists in your
-pull request in case the spell check fails but you are sure the word you used is correct. The whitelists for each language
-are located in the folder `linter/whitelists`. For proper names and other terms that shouldn't change between different
-translations, use the whitelist `default.txt`.
+Your meta data is automatically checked for spelling issues. You might need to update the allow lists in your
+pull request in case the spell check fails but you are sure the word you used is correct. The allow lists for each language
+are located in the folder `linter/allowlists`. For proper names and other terms that shouldn't change between different
+translations, use the general `default.txt` allow list.
 
 ## Supported languages
 
