@@ -35,7 +35,7 @@ jobs:
 
             - name: Find changed files
               run: |
-                  echo "::set-env name=metafiles::$(git diff --name-only origin/master -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | uniq | tr '\n' ' ')"
+                  echo "::set-env name=metafiles::$(git diff --name-only origin/main -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | uniq | tr '\n' ' ')"
 
             - name: Lint files
               run: linter/lint ${{ env.metafiles }}
