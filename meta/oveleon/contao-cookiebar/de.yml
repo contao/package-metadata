@@ -1,0 +1,10 @@
+de:
+    title: Contao Cookiebar
+    description: >
+        Diese Cookie Bar erlaubt dem Besucher, Cookie- und Datenschutzeinstellungen für die Website zu definieren. Dabei
+        können sowohl gesamte Gruppen als auch einzelne Cookies an-/abgewählt werden. Die Cookiebar ist kostenlos und
+        legt einen besonderen Fokus auf die Erweiterbarkeit sowie eine flexible Integration weiterer Dienste.
+    keywords:
+        - optin
+        - cookie
+        - consent
