@@ -61,6 +61,8 @@ class Packagist
         }
 
         try {
+            // Package names are lowercase in the result set
+            $name = strtolower($name);
             $packagesData = $this->getJson('https://packagist.org/packages/'.$name.'.json');
 
             if (!isset($packagesData['package'])) {
