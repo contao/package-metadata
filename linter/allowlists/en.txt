@@ -61,6 +61,7 @@ etc
 eventlist
 Expression
 Extended
+extensibility
 favicons
 Filemanager
 Fine
