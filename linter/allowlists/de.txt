@@ -130,6 +130,7 @@ EasyThemes
 Editing
 Einstellungsmöglichkeiten
 Einverständniserklärungen
+Einwilligungsdaten
 Einwilligungseinstellungen
 Empfängerlisten
 Endgeräte
@@ -201,6 +202,7 @@ Grundstile
 Groups
 hard
 Hardwarebeschleunigung
+Hauptkonfigurationen
 Hauptsprache
 Have
 Head
@@ -323,6 +325,7 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+Multidomain
 Nachrichtenarchiv
 Nachrichtenarchivs
 Nachrichtenartikel
@@ -530,6 +533,7 @@ Vorschaubild
 Webanwendungen
 Webseite
 Webseitenwurzel
+Websitebesucher
 Webservices
 Webshop
 Weiterlesen
