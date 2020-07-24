@@ -103,10 +103,21 @@ class LintCommand extends Command
         $this->io->progressStart($finder->count());
 
         foreach ($finder as $file) {
+            $this->validatePackageName($file);
             $this->validateMetadataFile($file, $skipPrivate);
         }
 
         $this->io->progressFinish();
+    }
+
+    private function validatePackageName(\SplFileInfo $file)
+    {
+        $package = basename(\dirname($file->getPath())) . '/' . basename($file->getPath());
+        $language = str_replace(['.yaml', '.yml'], '', $file->getBasename());
+
+        if ($file->getRelativePath() !== mb_strtolower($file->getRelativePath())) {
+            $this->error($package, $language, 'The package name has to be all lowercase.');
+        }
     }
 
     private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate)
