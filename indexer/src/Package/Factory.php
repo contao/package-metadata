@@ -41,6 +41,8 @@ class Factory
 
     public function create(string $name): Package
     {
+        // Package names are case-insensitive and returned lowercase from Packagist
+        $name = strtolower($name);
         $cacheKey = 'basic-'.$name;
 
         if (isset($this->cache[$cacheKey])) {
