@@ -65,6 +65,7 @@ class LintCommand extends Command
             return $this->error ? 1 : 0;
         }
 
+        $this->validatePackageNames();
         $this->validateMetadata($input->getOption('skip-private-check'));
         $this->validateComposerJson();
 
@@ -103,21 +104,10 @@ class LintCommand extends Command
         $this->io->progressStart($finder->count());
 
         foreach ($finder as $file) {
-            $this->validatePackageName($file);
             $this->validateMetadataFile($file, $skipPrivate);
         }
 
         $this->io->progressFinish();
-    }
-
-    private function validatePackageName(\SplFileInfo $file)
-    {
-        $package = basename(\dirname($file->getPath())) . '/' . basename($file->getPath());
-        $language = str_replace(['.yaml', '.yml'], '', $file->getBasename());
-
-        if ($file->getRelativePath() !== mb_strtolower($file->getRelativePath())) {
-            $this->error($package, $language, 'The package name has to be all lowercase.');
-        }
     }
 
     private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate)
@@ -180,6 +170,27 @@ class LintCommand extends Command
 
         foreach ($finder as $file) {
             $this->validateComposerFile($file);
+        }
+
+        $this->io->progressFinish();
+    }
+
+    private function validatePackageNames()
+    {
+        $finder = new Finder();
+        $finder->directories()->in(__DIR__.'/../../meta');
+
+        $this->io->writeln('Validating package names');
+        $this->io->progressStart($finder->count());
+
+        foreach ($finder as $file) {
+            $package = $file->getRelativePathname();
+            if ($package !== mb_strtolower($package)) {
+                $this->error = true;
+                $this->io->error(
+                    sprintf('[Package: %s]: The package name has to be all lowercase', $package)
+                );
+            }
         }
 
         $this->io->progressFinish();
