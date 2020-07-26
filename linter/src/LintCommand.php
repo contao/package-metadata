@@ -59,13 +59,14 @@ class LintCommand extends Command
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
 
+        $this->validatePackageNames();
+
         if ($files = $input->getArgument('files')) {
             $this->validateFiles($files, $input->getOption('skip-private-check'));
 
             return $this->error ? 1 : 0;
         }
 
-        $this->validatePackageNames();
         $this->validateMetadata($input->getOption('skip-private-check'));
         $this->validateComposerJson();
 
