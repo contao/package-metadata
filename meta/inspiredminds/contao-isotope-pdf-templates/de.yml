@@ -1,7 +1,7 @@
 de:
     title: Isotope PDF Templates
     description: >
-        Fügt einen neuen Dokument Typ in Contao Isotope hinzu womit man eine PDF Vorlage auswählen kann. Außerdem kann ein PDF automatisch an das Dokument angefügt werden.
+        Fügt einen neuen Dokument Typ in Contao Isotope hinzu womit man eine PDF Vorlage auswählen kann. Außerdem kann ein PDF automatisch an das Dokument angefügt werden. Es besteht auch die Möglichkeit eigene Schriftarten einzubinden, die dann im PDF verwendet werden können. Diese Extension nutzt mPDF für diese Features.
     keywords:
         - contao
         - isotope
