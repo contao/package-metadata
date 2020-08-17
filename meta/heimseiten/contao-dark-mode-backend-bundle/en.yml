@@ -1,0 +1,8 @@
+en:
+    title: Dark Mode
+    description: >
+        Activates a dark mode in the backend. Can be deactivated via moon symbol in the header. If you like it, please consider giving a star on GitHub. Suggestions for improvement are also welcome via GitHub.
+    keywords:
+        - backend
+        - theme
+        - layout
