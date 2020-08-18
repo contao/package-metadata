@@ -1,3 +1,4 @@
+Academy
 Access
 Accordion
 Active
@@ -210,6 +211,7 @@ Have
 Head
 HeaderFooterCode
 heart
+Helpdesk
 Helper
 HERE
 Hilfsklasse

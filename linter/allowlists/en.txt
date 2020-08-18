@@ -79,6 +79,7 @@ Grid
 Groups
 Head
 HeaderFooterCode
+helpdesk
 History
 infos
 Insert
