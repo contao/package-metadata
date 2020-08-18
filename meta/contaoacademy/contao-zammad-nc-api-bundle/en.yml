@@ -1,5 +1,5 @@
 en:
-    title: zammad connector
+    title: Zammad Connector
     description: >
         API connection to the Zammad helpdesk system via a gateway for the notification center.
     keywords:

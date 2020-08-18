@@ -28,6 +28,7 @@ CMS
 codefog
 Community
 Composer
+Connector
 Config
 Contao
 contao
@@ -241,6 +242,7 @@ Wodis
 OriginalFileName
 ChangeNewsMore
 ChangeEventsMore
+Zammad
 ZIP
 Zipuploads
 HIBP
