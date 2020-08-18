@@ -5,3 +5,7 @@ en:
     keywords:
         - video manual
         - videotraining
+    homepage: https://contao-academy.de/videohandbuch
+    support:
+        issues: https://github.com/contaoacademy/contao-videohandbuch/issues
+        source: https://github.com/contaoacademy/contao-videohandbuch

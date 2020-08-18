@@ -1,0 +1,13 @@
+de:
+    title: Zammad Connector
+    description: >
+        API Anbindung zum Helpdesk System Zammad über ein Gateway für das Notification Center.
+    keywords:
+        - zammad
+        - helpdesk
+        - notification center
+        - api
+    support:
+        issues: https://github.com/contaoacademy/contao-zammad-nc-api-bundle/issues
+        source: https://github.com/contaoacademy/contao-zammad-nc-api-bundle
+        docs: https://github.com/contaoacademy/contao-zammad-nc-api-bundle/blob/master/README.md
