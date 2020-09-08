@@ -1,0 +1,4 @@
+en:
+    title: Store UUID
+    description: >
+        Implements a storeFormData and a updatePersonalData hook to automatically convert file paths to UUIDs for uploaded files within the form generator or the module "personal data".
