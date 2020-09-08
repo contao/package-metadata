@@ -189,6 +189,7 @@ sql
 start
 Start
 Stardate
+storeFormData
 StoreLocator
 Stylesheet
 stylesheet
@@ -214,8 +215,10 @@ Tweets
 Twig
 Twitter
 UI
+updatePersonalData
 Usability
 UUID
+UUIDs
 var
 Valhalla
 Vimeo

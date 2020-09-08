@@ -1,4 +1,4 @@
 de:
     title: Store UUID
     description: >
-        Diese Erweiterung implementiert einen storeFormData und einen updatePersonalData Hook um bei im Formulargenerator oder im Modul "Persönliche Daten" hinaufgeladenen Dateien automatisch dessen UUID zu speichern.
+        Diese Erweiterung implementiert einen storeFormData und einen updatePersonalData Hook um bei im Formulargenerator oder im Modul "Persönliche Daten" hinauf geladenen Dateien automatisch dessen UUID zu speichern.
