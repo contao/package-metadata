@@ -59,11 +59,13 @@ Eventlist
 Excel
 excel
 Facebook
+facebook pixel
 facebook wall
 FAQs
 Feed
 Flex
 Footer
+FOSSGIS
 Foundation
 Framework
 Fred
@@ -83,6 +85,8 @@ google
 googlemaps
 GPX
 Graphhopper
+Hofff
+hofff
 Host
 grid
 Heusschen
@@ -111,6 +115,7 @@ LASR
 LDAP
 LastLogin
 Leaflet
+leaflet maps
 Login
 LTS
 MailChimp
@@ -128,6 +133,8 @@ mpdf
 MultiColumnWizard
 NATURE
 Netzhirsch
+Netzmacht
+netzmacht
 Newsletter2Go
 Newslist
 Newsticker
@@ -195,6 +202,7 @@ Stylesheet
 stylesheet
 svg
 Symfony
+tawk to
 TCPDF
 Template
 Templates
@@ -214,6 +222,7 @@ tumblr
 Tweets
 Twig
 Twitter
+Typekit
 UI
 updatePersonalData
 Usability
