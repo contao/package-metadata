@@ -60,7 +60,6 @@ Excel
 excel
 Facebook
 facebook
-facebook pixel
 facebook wall
 FAQs
 Feed
