@@ -59,6 +59,7 @@ Eventlist
 Excel
 excel
 Facebook
+facebook
 facebook pixel
 facebook wall
 FAQs
@@ -115,6 +116,7 @@ LASR
 LDAP
 LastLogin
 Leaflet
+leaflet
 leaflet maps
 Login
 LTS
@@ -122,6 +124,7 @@ MailChimp
 Managed
 Manager
 Mapbox
+maps
 Matomo
 metamodel
 MetaModel
@@ -166,6 +169,7 @@ phpexcel
 phpoffice
 Pinterest
 Pixabay
+pixel
 PNG
 png
 Podcasts
@@ -202,6 +206,7 @@ Stylesheet
 stylesheet
 svg
 Symfony
+tawk
 tawk to
 TCPDF
 Template
@@ -215,6 +220,7 @@ Timeline
 TinyJPG
 TinyMCE
 TinyPNG
+to
 Token
 Trek
 trilobit
