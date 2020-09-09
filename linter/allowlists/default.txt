@@ -117,7 +117,6 @@ LDAP
 LastLogin
 Leaflet
 leaflet
-leaflet maps
 Login
 LTS
 MailChimp
