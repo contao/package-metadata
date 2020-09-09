@@ -110,6 +110,7 @@ jpg
 jQuery
 js
 JSON
+JWT
 Klarna
 KlickTipp
 KML
@@ -185,6 +186,7 @@ Rocksolid
 rocksolid
 rss
 RSS
+REST
 SCSS
 SEO
 SERP
