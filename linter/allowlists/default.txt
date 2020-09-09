@@ -74,6 +74,8 @@ gap
 Geocoder
 geocoder
 geocoding
+getLaw
+getlaw
 GIS
 gis
 GitHub
