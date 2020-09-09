@@ -1,0 +1,21 @@
+en:
+    title: getLaw-Contao-API
+    description: >
+        With this extension you can integrate the legal texts of the Legal-Tech platform www.getLaw.de automatically into your website and your store.
+        
+        The extension automatically retrieves the legal texts from www.getLaw.de every 24 hours. If desired, you can deactivate the automatic retrieval by placing a check mark. A manual retrieval of the legal texts from www.getLaw.de is possible at any time using the button in the list of content elements.
+        
+        The following legal texts are currently available for websites and stores: Imprint, privacy policy, general terms and conditions and revocation policy.
+    keywords:
+        - imprint
+        - privacy policy
+        - general terms and conditions
+        - revocation policy
+        - api
+        - consent
+        - cookie
+        - lawyer
+        - legal texts
+    support:
+        issues: https://github.com/getLaw/getlaw-contao-api/issues
+        docs: https://www.getlaw.de/api-contao/
