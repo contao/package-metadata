@@ -1,9 +1,9 @@
 en:
     title: Alpdesk-Core for Contao
     description: >
-        Json based REST Endpoint with JWT Authentication - Extendable by plugins
+        JSON based REST Endpoint with JWT Authentication - Extendable by plugins
     keywords:
         - JWT
-        - Json
+        - JSON
         - REST Endpoint
         - Alpdesk
