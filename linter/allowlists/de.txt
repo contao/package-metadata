@@ -118,6 +118,7 @@ Datenbanksicherung
 Datenbanktabelle
 Dateninhalte
 Datenschutzeinstellungen
+Datenschutzerklärung
 Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
@@ -405,6 +406,7 @@ Raumreservierungen
 Rechnungs
 Rechtesteuerung
 Rechtsklick
+Rechtstexte
 Registerkarte
 reimport
 reimportieren
@@ -495,6 +497,7 @@ Teaser
 Teaserbild
 Teaserbox
 Teaserboxen
+Tech
 Teilnehmerregistrierung
 Telematik
 template
@@ -551,6 +554,7 @@ Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
 wich
+Widerrufsbelehrung
 Wohnungsunternehmen
 WOW
 Wrapper
