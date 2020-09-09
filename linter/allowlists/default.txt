@@ -207,7 +207,6 @@ stylesheet
 svg
 Symfony
 tawk
-tawk to
 TCPDF
 Template
 Templates
