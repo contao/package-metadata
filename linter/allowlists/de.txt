@@ -119,6 +119,7 @@ Datenbanktabelle
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
 DC
@@ -130,6 +131,8 @@ Directory
 dlh
 Documents
 Drittanbieter
+Dritterweiterungen
+Drittstaatentransfer
 EasyThemes
 Editing
 Einstellungsmöglichkeiten
@@ -139,6 +142,7 @@ Einwilligungseinstellungen
 Empfängerlisten
 Endgeräte
 Endgeräten
+endgeräteübergreifenden
 Engine
 Erstellungswerkzeuge
 etc
