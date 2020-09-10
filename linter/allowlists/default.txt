@@ -1,6 +1,7 @@
 adwords
 ajax
 Ajax
+Alpdesk
 amp
 Analytics
 Android
@@ -109,6 +110,7 @@ jpg
 jQuery
 js
 JSON
+JWT
 Klarna
 KlickTipp
 KML
@@ -179,6 +181,7 @@ React
 README
 Reddit
 Reload
+REST
 RockSolid
 Rocksolid
 rocksolid
