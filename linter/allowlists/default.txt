@@ -1,6 +1,7 @@
 adwords
 ajax
 Ajax
+Alpdesk
 amp
 Analytics
 Android
@@ -9,7 +10,6 @@ App
 app
 Areas
 Austrian
-Alpdesk
 Back end
 back end
 Barcode
@@ -181,12 +181,12 @@ React
 README
 Reddit
 Reload
+REST
 RockSolid
 Rocksolid
 rocksolid
 rss
 RSS
-REST
 SCSS
 SEO
 SERP
