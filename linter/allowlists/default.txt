@@ -66,6 +66,8 @@ facebook
 facebook wall
 FAQs
 Feed
+fieldset
+Fieldset
 Flex
 Footer
 FOSSGIS
@@ -216,6 +218,7 @@ TCPDF
 Template
 Templates
 Templating
+textarea
 Theme
 ThemeManager
 theme

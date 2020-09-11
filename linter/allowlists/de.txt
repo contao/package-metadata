@@ -133,6 +133,7 @@ Documents
 Drittanbieter
 Dritterweiterungen
 Drittstaatentransfer
+Duplication
 EasyThemes
 Editing
 Einstellungsmöglichkeiten
@@ -159,6 +160,7 @@ Fallback
 Farbschemen
 Favicons
 Felderguppen
+Fields
 File
 Filemanager
 filterbare
@@ -241,6 +243,7 @@ Inhaltselemente
 Inhaltselementen
 inkl
 inkludiert
+Input
 Inputtype
 Insert
 Install
@@ -271,6 +274,7 @@ Kompetenzteams
 Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
+Kontaktdaten
 Kontextmenü
 Kreuztabelle
 Kreuztabellen
@@ -314,6 +318,7 @@ MATE
 Mate
 Materialize
 Mega
+Mehrfachauswahl
 Mehrsprachigkeit
 Menu
 Merger
@@ -401,6 +406,7 @@ Push
 PWA
 Pwned
 Queue
+Range
 Raumreservierung
 Raumreservierungen
 Rechnungs
@@ -439,6 +445,7 @@ Seitenstruktur
 Seitentyp
 seitenübergreifend
 Select
+Selects
 Serverabhängig
 Serverhint
 Serverseitiger
@@ -503,6 +510,7 @@ Telematik
 template
 Templatehint
 terminal
+Textarea
 Textfeld
 Textfeldern
 Textfeldes
