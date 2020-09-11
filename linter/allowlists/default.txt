@@ -1,6 +1,7 @@
 adwords
 ajax
 Ajax
+Allgäu
 Alpdesk
 amp
 Analytics
@@ -241,6 +242,7 @@ Valhalla
 Vimeo
 virtualization
 vivenio
+Walsercard
 Web
 Webfonts
 WhatsApp
