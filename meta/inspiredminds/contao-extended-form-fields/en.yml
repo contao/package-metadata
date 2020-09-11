@@ -1,0 +1,16 @@
+en:
+    title: Extended Form Fields
+    description: >
+        This extension provides more options for form fields of the form generator:
+
+        - Adds a minimum options and maximum options setting to checkbox and multiple select fields.
+
+        - Allows you to define a custom error message in the form field's options.
+
+        - Adds the ability to provide a custom input field in the front end for radio button form fields.
+
+        - Allows you to define a list of not allowed words for text and textarea fields.
+
+        - Allows you to define a list of specifically allowed words for text fields.
+
+        - Adds a range form field (not necessary for Contao 4.9+).
