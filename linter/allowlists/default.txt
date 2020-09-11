@@ -1,4 +1,5 @@
 adwords
+Allgäu
 ajax
 Ajax
 Alpdesk
@@ -259,6 +260,7 @@ XLSX
 yml
 YouTube
 OpenImmo
+Walsercard
 Wodis
 OriginalFileName
 ChangeNewsMore
