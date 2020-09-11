@@ -133,6 +133,7 @@ Documents
 Drittanbieter
 Dritterweiterungen
 Drittstaatentransfer
+Duplication
 EasyThemes
 Editing
 Einstellungsmöglichkeiten
@@ -159,6 +160,8 @@ Fallback
 Farbschemen
 Favicons
 Felderguppen
+Fields
+Fieldset
 File
 Filemanager
 filterbare
