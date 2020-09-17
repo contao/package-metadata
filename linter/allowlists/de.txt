@@ -78,6 +78,7 @@ Card
 Cards
 categories
 center
+Circle
 Classes
 Collapse
 Columns
