@@ -127,6 +127,7 @@ DC
 de
 Detailansicht
 Detailinhalt
+Detailseiten
 Detection
 Directory
 dlh
@@ -347,6 +348,7 @@ Nachrichtenartikel
 Nachrichtenbeiträge
 Nachrichtenbeitrags
 Nachrichtenleser
+Nachrichtenlesers
 Nachrichtenliste
 Nachrichtenlisten
 Nachrichtenmoduls
