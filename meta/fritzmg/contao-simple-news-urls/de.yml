@@ -1,0 +1,4 @@
+de:
+    title: Simple News URLs
+    description: >
+        Diese Erweiterung erlaubt es kurze URLs zu den Detailseiten von Nachrichten zu verwenden, ohne den Pfad zur Seite des Nachrichtenlesers. Also bspw. https://example.com/my-news-alias statt https://example.com/news/detail/my-news-alias
