@@ -1,7 +1,7 @@
 en:
     title: GeoIP Content Visibility
     description: >
-        This Contao extension allows you to show or hide different elements (e.g. content, modules, artilces, pages)
+        This Contao extension allows you to show or hide different elements (e.g. content, modules, articles, pages)
         based on a visitors country. Show a content element to swiss residents only, or hide a page from US residents.
 
         Detecting the country requires a MaxMind GeoIP2 database, either free or commercial license (depending on
