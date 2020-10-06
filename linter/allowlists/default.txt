@@ -124,6 +124,8 @@ LDAP
 LastLogin
 Leaflet
 leaflet
+Lightbox
+Lightcase
 Login
 LTS
 MailChimp
