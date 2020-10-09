@@ -81,6 +81,7 @@ gap
 Geocoder
 geocoder
 geocoding
+GeoIP
 getLaw
 getlaw
 GIS
@@ -134,6 +135,7 @@ Manager
 Mapbox
 maps
 Matomo
+MaxMind
 metamodel
 MetaModel
 metamodels
