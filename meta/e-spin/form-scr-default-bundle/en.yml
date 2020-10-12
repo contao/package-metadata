@@ -1,0 +1,13 @@
+en:
+    title: Default values for select/checkbox/radio button (SCR) in a form.
+    description: >
+        With the extension, standard selections for the form elements selectbox,
+        checkbox and radio button can be predefined dynamically.
+    keywords:
+        - contao
+        - formular
+        - select
+        - checkbox
+        - radiobutton
+        - default
+        - e-spin
