@@ -37,6 +37,7 @@ Backend
 Backendmodul
 base
 Basisbibliotheken
+Baumstruktur
 Bedingungsfelder
 Bedingungsfeldern
 Been
@@ -132,6 +133,7 @@ Detection
 Directory
 dlh
 Documents
+Down
 Drittanbieter
 Dritterweiterungen
 Drittstaatentransfer
@@ -275,6 +277,7 @@ Klassenbasierte
 klimafreundlichste
 Kommentarfunktionalität
 kommentierbar
+Kopfbereich
 Kompetenzteams
 Konfiguartionsdatei
 Konfigurationsoberfläche
@@ -450,9 +453,11 @@ Scripts
 Scroll
 Search
 Seitenaufrufe
+Seitenbaum
 Seiteneigenschaften
 Seitenlayout
 Seitenlayouts
+Seiteninformation
 Seitenstruktur
 Seitentyp
 seitenübergreifend
@@ -500,6 +505,7 @@ stylen
 Styling
 Subnetze
 Suchabos
+Suchbar
 Suchbegriff
 Suchmoduls
 Suchtreffer

@@ -1,0 +1,13 @@
+en:
+    title: Additional page information in page tree
+    description: >
+        With the extension you can display more information about the page in the tree structure of the page view.
+        Which information is displayed is selected via a pull-down in the header area.
+
+        The information includes e.g. the page ID, alias, title, description, CSS, searchable, layout etc.
+    keywords:
+        - contao
+        - page
+        - info
+        - hint
+        - e-spin
