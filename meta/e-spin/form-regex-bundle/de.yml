@@ -1,0 +1,17 @@
+de:
+    title: Regex-Prüfung in einem Formular
+    description: >
+        Mit der Erweiterung steht ein neues Textfeld im Formulargenerator zur Verfügung, bei dem eine individuelle
+        Eingabeprüfung per Regular Expression (Regex) erfolgt und im Fehlerfall eine entsprechende Meldung
+        ausgegeben wird.
+
+        Zusätzlich kann über eine Checkbox das Pattern auch als HTML5-Attribut für eine Prüfung im Browser ausgegeben werden.
+    keywords:
+        - contao
+        - formular
+        - prüfung
+        - check
+        - regular expression
+        - regex
+        - regexp
+        - e-spin
