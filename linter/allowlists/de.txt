@@ -138,6 +138,7 @@ Drittstaatentransfer
 Duplication
 EasyThemes
 Editing
+Eingabeprüfung
 Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
@@ -386,6 +387,7 @@ Parallax
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
+Pattern
 pflegbares
 Picker
 Playlist
@@ -416,7 +418,9 @@ Rechnungs
 Rechtesteuerung
 Rechtsklick
 Rechtstexte
+Regex
 Registerkarte
+Regular
 reimport
 reimportieren
 rel
