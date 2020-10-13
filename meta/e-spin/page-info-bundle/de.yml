@@ -1,0 +1,15 @@
+de:
+    title: Zusätzliche Seiteninformation im Seitenbaum
+    description: >
+        Mit der Erweiterung kann man in der Baumstruktur der Seitenansicht weitere Informationen zur Seite anzeigen.
+        Welche Informationen eingeblendet werden, wird über ein Pull-Down im Kopfbereich ausgewählt.
+
+        Zu den Informationen gehören z.B. die Seiten-ID, Alias, Titel, Beschreibung, CSS, Suchbar, Layout usw.
+
+        Bei dem Layout kann wahlweise das verwendete Layout eingeblendet werden oder nur bei denjenigen Seiten, wo
+        ein Layout definiert ist.
+    keywords:
+        - contao
+        - seite
+        - info
+        - e-spin
