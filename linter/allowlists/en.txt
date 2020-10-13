@@ -151,7 +151,9 @@ Responsive
 Rewrite
 scalable
 Scheduler
+SCR
 Search
+selectbox
 Serverhint
 Slider
 Social

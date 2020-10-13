@@ -413,6 +413,8 @@ Push
 PWA
 Pwned
 Queue
+Radioboxen
+Radiobutton
 Range
 Raumreservierung
 Raumreservierungen
@@ -442,6 +444,7 @@ Routenplaner
 Routenplanung
 Schaltfläche
 Scheduler
+SCR
 Scripte
 Scripts
 Scroll
@@ -454,6 +457,7 @@ Seitenstruktur
 Seitentyp
 seitenübergreifend
 Select
+Selectbox
 Selects
 Serverabhängig
 Serverhint
@@ -479,6 +483,7 @@ splitter
 Sprachenwechsler
 Sprachparameter
 staging
+Standardauswahlen
 standardmässig
 Standardrechte
 Standortermittlung
