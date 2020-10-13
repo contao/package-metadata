@@ -162,6 +162,7 @@ Fahrtkostenrechner
 Fallback
 Farbschemen
 Favicons
+FE
 Felderguppen
 Fields
 File
@@ -186,6 +187,7 @@ Formulargenenerator
 Formulargenerator
 Formulargenerators
 Formularseiten
+Formularwidget
 formvalidation
 Formvalidation
 Frontend

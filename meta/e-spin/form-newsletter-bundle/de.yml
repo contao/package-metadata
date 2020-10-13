@@ -1,0 +1,13 @@
+de:
+    title: Newsletter-Anmeldung in einem Formular
+    description: >
+        Mit dieser Erweiterung können Sie eine Newsletter-Anmeldung zu einem Formular im Contao CMS hinzufügen.
+
+        Es steht ein neues Formularwidget zur Verfügung, welches die Einstellungsmöglichkeiten wie das FE-Modul
+        zur Verfügung stellt wie z.B. die Auswahl der Abonnements oder ob die Bestätigung über eine separate E-Mail
+        erfolgen soll. Die Erweiterung unterstützt das "Notification Center" mit der Übergabe der notwendigen Token.
+    keywords:
+        - contao
+        - formular
+        - newsletter
+        - e-spin
