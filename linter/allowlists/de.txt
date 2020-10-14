@@ -60,6 +60,7 @@ Bildschirmpräsentation
 Bildslider
 bits
 bla
+Blätterkataloge
 Body
 Bootstrapper
 Bots
@@ -176,6 +177,8 @@ Filterfunktionen
 Firefighter
 Fine
 Flipbert
+Flipbook
+Flipbooks
 Folder
 Fonts
 foo
