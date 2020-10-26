@@ -217,6 +217,7 @@ Stylesheet
 stylesheet
 svg
 Symfony
+SysCara
 tawk
 TCPDF
 Template

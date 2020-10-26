@@ -1,19 +1,30 @@
 de:
-    title: Mobile.de Inserate
+    title: Fahrzeugmanager (ehemals Mobile.de Inserate)
     description: >
-        Eine Erweiterung mit Filtern und Funktionen um den mobile.de Fahrzeugbestand auf der eigenen Website anzuzeigen.
-        Alle Inserate werden direkt aus der mobile.de* API ausgelesen und in der Erweiterung übersichtlich dargestellt. Umfangreiche Filter- & Sortierungsfunktionen runden die Listenansicht ab. Die Detailansicht enthält alle Fahrzeuginformationen und einen schlanken Produkt-Slider. Auf Wunsch können auch zusätzliche Funktionen integriert werden. Frag uns an.
+        Eine Erweiterung mit Filtern und Funktionen um deinen Fahrzeugbestand auf der eigenen Website anzuzeigen.
+        Alle Fahrzeuge können im Backend direkt verwaltet werden. Umfangreiche Filter- & Sortierungsfunktionen runden die Listenansicht ab. Die Detailansicht enthält alle Fahrzeuginformationen und einen schlanken Produkt-Slider. Auf Wunsch können auch zusätzliche Funktionen integriert werden. Frag uns an.
+
 
         Ihre Vorteile
 
         - Listenansicht mit umfangreichen Filter- und Sortierungsfunktionen
+
         - Detailansicht mit Contao Bildslider
+
         - Empfohlenes Objekt
-        - Automatischer Abgleich der Fahrzeuge über mobile.de* API
+
         - Templates und Design können auf gewohnte "Contao Art" angepasst werden
+
         - garantierte Unterstützung der letzten bzw. aktuellen Contao LTS Version
 
-        Mehr Informationen https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+
+      Optional verfügbar
+
+        - Automatischer Abgleich der Fahrzeuge über mobile.de Plattform via API
+
+        - Automatischer Abgleich der Fahrzeuge aus SysCara Platform per XML Import
+
+        Mehr Informationen findest du auf der Projektwebseite.
     keywords:
         - mobile
         - Fahrzeuge
@@ -26,4 +37,4 @@ de:
         - Wohnmobile
     homepage: https://pdir.de/mobilede.html
     support:
-        docs: https://docs.pdir.de/#/mobilede/index
+        docs: https://pdir.de/docs/de/contao/extensions/mobilede/
