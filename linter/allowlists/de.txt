@@ -161,6 +161,7 @@ Expression
 Extended
 Fahrzeugbestand
 Fahrzeuginformationen
+Fahrzeugmanager
 Fahrtkostenrechner
 Fallback
 Farbschemen

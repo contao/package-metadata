@@ -1,7 +1,7 @@
 en:
     title: SysCara Import for the vehicle manager
     description: >
-      This bundle imports your managed vehicles from the SysCara platform. Quick and easy automatic import. A domain license is required.
+        This bundle imports your managed vehicles from the SysCara platform. Quick and easy automatic import. A domain license is required.
 
         More information can be found on the project website.
     keywords:
