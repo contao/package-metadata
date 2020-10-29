@@ -1,12 +1,12 @@
 en:
-    title: Mobile.de Import for the vehicle manager
+    title: SysCara Import for the vehicle manager
     description: >
-        This bundle (fka Mobile.de Ads Sync) imports your managed vehicles from the mobile.de platform. Quick and easy to import them automatically. A domain license is required.
+        This bundle imports your managed vehicles from the SysCara platform. Quick and easy automatic import. A domain license is required.
 
         More information can be found on the project website.
     keywords:
         - car dealer
-        - mobile
+        - SysCara
         - ads
         - cars
         - automobile

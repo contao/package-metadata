@@ -1,21 +1,19 @@
 de:
-    title: Mobile.de Import für den Fahrzeugmanager
+    title: SysCara Import für den Fahrzeugmanager
     description: >
-        Dieses Bundle (ehemals Mobile.de Inserate Sync) importiert deine verwalteten Fahrzeuge aus der mobile.de Plattform. Schnell und einfach die automatisch importieren. Eine Domain Lizenz ist notwendig.
+        Dieses Bundle importiert deine verwalteten Fahrzeuge aus der SysCara Plattform. Schnell und einfach automatisch importieren. Eine Domain Lizenz ist notwendig.
 
         Mehr Informationen findest du auf der Projektwebseite.
     keywords:
-        - mobile
+        - SysCara
         - Fahrzeuge
         - Inserate
-        - API
+        - Xml
         - Import
         - Autohändler
         - LKW
         - Motorräder
         - Wohnmobile
-        - Auto
-        - Automobile
     homepage: https://pdir.de/mobilede.html
     support:
         docs: https://pdir.de/docs/de/contao/extensions/mobilede/
