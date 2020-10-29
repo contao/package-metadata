@@ -1,10 +1,9 @@
 de:
-  title: Datei-Verweise anzeigen
+  title: Push Bundle Adapter für News4ward
   description: >
-    Zeigt in der Dateiverwaltung ein Icon, welches anzeigt, ob die Datei irgendwo verknüpft ist und zeigt nach einem Klick darauf die konkreten Referenzen.
+    Bindet die Funktionen des Push Bundle an die Beiträge von News4ward an.
   keywords:
-    - Dateiverwaltung
-    - Verweise
-    - Verwendung
-    - Verlinkung
+    - Push
+    - News
+    - Blog
   homepage: https://github.com/marcel-mathias-nolte
