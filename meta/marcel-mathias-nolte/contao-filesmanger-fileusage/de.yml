@@ -1,7 +1,7 @@
 de:
   title: Datei-Verweise anzeigen
   description: >
-    Zeigt in der Dateiverwaltung ein Icon, welches anzeigt, ob die Datei irgendwo verknüpft ist und zeigt nach einem Klick darauf die konkreten Verwendungsstellen.
+    Zeigt in der Dateiverwaltung ein Icon, welches anzeigt, ob die Datei irgendwo verknüpft ist und zeigt nach einem Klick darauf die konkreten Verwendungs-Stellen.
   keywords:
     - Dateiverwaltung
     - Verweise
