@@ -1,9 +1,9 @@
 en:
-  title: Show file references
+  title: Push Bundle adapter for News4ward
   description: >
-    Displays an icon, which shows whether an file is used anywhere or not and shows details on where it is used if you click on it.
+    Adapter to provide Push Bundle functionality for the News4ward bundle.
   keywords:
-    - filemanager
-    - links
-    - usage
+    - push
+    - news
+    - blog
   homepage: https://github.com/marcel-mathias-nolte
