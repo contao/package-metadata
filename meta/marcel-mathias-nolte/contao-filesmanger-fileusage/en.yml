@@ -1,9 +1,9 @@
 en:
-    title: Dateiverweise anzeigen
-    description: >
-        Displays an icon, which shows whether an file is used anywhere or not and shows details on where it is used if you click on it.
-    keywords:
-        - filemanager
-        - links
-        - usage
-    homepage: https://github.com/marcel-mathias-nolte
+  title: Show file references
+  description: >
+    Displays an icon, which shows whether an file is used anywhere or not and shows details on where it is used if you click on it.
+  keywords:
+    - filemanager
+    - links
+    - usage
+  homepage: https://github.com/marcel-mathias-nolte
