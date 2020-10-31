@@ -602,3 +602,5 @@ Zielseiten
 Zugangsdaten
 Encryption
 Verschlüsselungsklasse
+Vollbildmodus
+Vollbild

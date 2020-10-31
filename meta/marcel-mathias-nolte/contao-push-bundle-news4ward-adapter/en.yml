@@ -1,0 +1,9 @@
+en:
+  title: Push Bundle adapter for News4ward
+  description: >
+    Adapter to provide Push Bundle functionality for the News4ward bundle.
+  keywords:
+    - push
+    - news
+    - blog
+  homepage: https://github.com/marcel-mathias-nolte
