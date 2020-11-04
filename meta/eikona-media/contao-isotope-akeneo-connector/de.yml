@@ -1,0 +1,37 @@
+de:
+    title: Akeneo Konnektor
+    description: >
+        Verbinde dein Contao CMS mit der PIM-Software von Akeneo und importiere Produkte, Attribute, Kategorien aus Akeneo auf deine Website, Landingpages oder jede andere webbasierte Produktpräsentation.
+        Der Akeneo-Contao-Konnektor verknüpft die Isotope eCommerce Erweiterung für Contao via Schnittstelle mit dem Product Information Management System von Akeneo.
+
+        Die folgenden Daten können direkt aus Akeneo in Contao CMS importiert werden:
+            - Produkte
+            - Kategorien
+            - Attribute
+            - Bilder
+            - Produktfamilien
+            - Cross-Selling-Artikel
+
+        Der Import wird automatisch ausgeführt und synchronisiert Änderungen in Akeneo mit Contao entsprechend der konfigurierten Synchronisierungszeit.
+        Für weitere Informationen zu Preisen oder einer Vorführung des Konnektors kontaktiere uns einfach per Mail.
+
+    keywords:
+        - connector
+        - shop
+        - e commerce
+        - akeneo
+        - contao cms
+        - product information management
+        - isotope
+        - e commerce for contao
+        - website
+        - products
+        - pim to shop
+        - contao
+        - pim
+        - import
+        - export
+
+    homepage: https://www.eikona-media.de/de/#contact
+    support:
+        email: hello@eikona-media.de
