@@ -16,9 +16,11 @@
   "authors": [
     {
       "name": "EIKONA Media",
+      "email": "hello@eikona-media.de",
       "homepage": "https://eikona-media.de/"
     }
   ],
+  "homepage": "https://www.eikona-media.de/",
   "require": {
     "php": ">=7.0",
     "contao/core-bundle": "^4.4",

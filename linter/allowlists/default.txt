@@ -2,6 +2,7 @@ adwords
 Allgäu
 ajax
 Ajax
+Akeneo
 Alpdesk
 amp
 Analytics
@@ -41,6 +42,7 @@ CONVERT
 Corona
 Cowegis
 Cron
+Cross
 CSS
 CSV
 Dalley
@@ -177,6 +179,7 @@ PHP
 php
 phpexcel
 phpoffice
+PIM
 Pinterest
 Pixabay
 pixel
@@ -197,6 +200,7 @@ rss
 RSS
 SCSS
 SEO
+Selling
 SERP
 Shariff
 SimpleTokens
