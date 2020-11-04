@@ -1,0 +1,9 @@
+de:
+    title: Usercentrics Consent
+    description: >
+        Diese Erweiterung unterstützt die Integration von https://usercentrics.com/. Außerdem wird zum Blockieren eines iFrame via Usercentrics ein Inhaltselement zur Verfügung gestellt.
+    keywords:
+        - contao
+        - cookie
+        - consent
+        - usercentrics
