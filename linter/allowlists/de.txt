@@ -287,6 +287,8 @@ Kompetenzteams
 Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
+Konnektor
+Konnektors
 Kontaktdaten
 Kontextmenü
 Kreuztabelle
@@ -412,6 +414,7 @@ Preview
 Privacy
 production
 Produktkatalogen
+Produktpräsentation
 Professional
 Programmierkenntnisse
 Projektwebseite
@@ -517,6 +520,7 @@ Suchmoduls
 Suchtreffer
 Sync
 Synchronisierung
+Synchronisierungszeit
 Syndikation
 system
 Systemlast

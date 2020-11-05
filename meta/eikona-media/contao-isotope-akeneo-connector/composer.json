@@ -1,0 +1,50 @@
+{
+  "name": "eikona-media/contao-isotope-akeneo-connector",
+  "description": "Akeneo Connector for Contao Open Source CMS",
+  "keywords": [
+    "contao",
+    "isotope",
+    "shop",
+    "akeneo",
+    "pim",
+    "connector",
+    "products",
+    "import"
+  ],
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "EIKONA Media",
+      "email": "hello@eikona-media.de",
+      "homepage": "https://eikona-media.de/"
+    }
+  ],
+  "homepage": "https://www.eikona-media.de/",
+  "require": {
+    "php": ">=7.0",
+    "contao/core-bundle": "^4.4",
+    "isotope/isotope-core": "^2.5.9",
+    "akeneo/api-php-client": "^3.0",
+    "php-http/guzzle6-adapter": "^1.1",
+    "cocur/slugify": "^3.1"
+  },
+  "require-dev": {
+    "contao/manager-plugin": "^2.0",
+    "friendsofphp/php-cs-fixer": "^2.12"
+  },
+  "conflict": {
+    "contao/manager-plugin": "<2.0 || >=3.0"
+  },
+  "suggest": {
+    "terminal42/contao-folderpage": "Allows folders for page tree, which can be defined as akeneo root category"
+  },
+  "autoload": {
+    "psr-4": {
+      "EikonaMedia\\Contao\\AkeneoConnector\\": "src/"
+    }
+  },
+  "extra": {
+    "contao-manager-plugin": "EikonaMedia\\Contao\\AkeneoConnector\\ContaoManager\\Plugin"
+  }
+}
