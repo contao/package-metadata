@@ -409,6 +409,7 @@ Plugins
 Positionsverfolgung
 Posts
 pre
+Preisdetails
 Preistabelle
 Preview
 Privacy
