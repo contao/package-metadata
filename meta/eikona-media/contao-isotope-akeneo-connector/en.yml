@@ -1,0 +1,37 @@
+en:
+    title: Akeneo Connector
+    description: >
+        Connect your Contao CMS to the PIM software of Akeneo and import products, attributes, categories from Akeneo to your website, landing pages or any other web based product presentation.
+        The Contao-Akeneo-Connector connects the Isotope eCommerce extension for Contao via API with the Product Information Management System of Akeneo.
+
+        Out of the box, the following data can be imported from Akeneo to Contao CMS:
+            - Products
+            - Categories
+            - Attributes
+            - Images
+            - Product families
+            - Cross-Selling-Articles
+
+        The import is executed automatically and synchronizes changes in Akeneo with Contao according to the configured sync time.
+        For more information on prices or a demonstration of the connector, simply contact us by mail.
+
+    keywords:
+        - connector
+        - shop
+        - e commerce
+        - akeneo
+        - contao cms
+        - product information management
+        - isotope
+        - e commerce for contao
+        - website
+        - products
+        - pim to shop
+        - contao
+        - pim
+        - import
+        - export
+
+    homepage: https://www.eikona-media.de/en/#contact
+    support:
+        email: hello@eikona-media.de

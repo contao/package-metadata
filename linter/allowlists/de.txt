@@ -287,6 +287,8 @@ Kompetenzteams
 Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
+Konnektor
+Konnektors
 Kontaktdaten
 Kontextmenü
 Kreuztabelle
@@ -407,11 +409,13 @@ Plugins
 Positionsverfolgung
 Posts
 pre
+Preisdetails
 Preistabelle
 Preview
 Privacy
 production
 Produktkatalogen
+Produktpräsentation
 Professional
 Programmierkenntnisse
 Projektwebseite
@@ -517,6 +521,7 @@ Suchmoduls
 Suchtreffer
 Sync
 Synchronisierung
+Synchronisierungszeit
 Syndikation
 system
 Systemlast
