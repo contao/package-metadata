@@ -240,6 +240,7 @@ to
 Token
 Trek
 trilobit
+Trusted Shops
 tumblr
 Tweets
 Twig
