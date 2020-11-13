@@ -53,6 +53,7 @@ DOM
 DOMPDF
 DownloadMail
 eCommerce
+Einzelhandelsgeschäfte
 Edition
 Erdmann
 eMail
@@ -75,6 +76,7 @@ Footer
 FOSSGIS
 Foundation
 Framework
+Franchise
 Fred
 Freunde
 Front end
@@ -104,6 +106,7 @@ iCal
 ID
 iFrame
 ImmobilienScout
+Immobilienunternehmen
 InsertTags
 Instagram
 Inszenium
@@ -203,6 +206,7 @@ SEO
 Selling
 SERP
 Shariff
+Shops
 SimpleTokens
 Sineos
 SINEOS
@@ -240,6 +244,7 @@ to
 Token
 Trek
 trilobit
+Trusted
 tumblr
 Tweets
 Twig
