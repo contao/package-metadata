@@ -203,6 +203,7 @@ SEO
 Selling
 SERP
 Shariff
+Shops
 SimpleTokens
 Sineos
 SINEOS
@@ -240,7 +241,7 @@ to
 Token
 Trek
 trilobit
-Trusted Shops
+Trusted
 tumblr
 Tweets
 Twig
