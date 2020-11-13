@@ -1,0 +1,26 @@
+de:
+    title: Business-Reviews
+    description: >
+        Einfache Anzeige von Bewertungen von mehreren Plattformen wie Google, Facebook und Trustedshops auf Ihrer Contao-Website mit einem leistungsstarken und intuitiven Inhaltselement.
+        Ideal for restaurants, retail stores, franchisees, real estate companies, hotels and guest houses, and almost any business with a website and reviews from different platforms.
+    keywords:
+        - local business
+        - product
+        - recipe
+        - review
+        - event
+        - microformats
+        - contao
+        - schema.org
+        - website
+        - automobile
+        - restaurant
+        - retail store
+        - franchise
+        - real estate
+        - hotels
+        - hospitality
+    homepage: https://pdir.de/contao-business-reviews/
+    support:
+        email: support@pdir.de
+        docs: https://pdir.de/docs/de/contao/extensions/business-reviews/
