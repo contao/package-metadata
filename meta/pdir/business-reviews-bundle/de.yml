@@ -4,22 +4,22 @@ de:
         Einfache Anzeige von Bewertungen von mehreren Plattformen wie Google, Facebook und Trusted Shops auf Ihrer Contao-Website mit einem leistungsstarken und intuitiven Inhaltselement.
         Ideal für Restaurants, Einzelhandelsgeschäfte, Franchise-Nehmer, Immobilienunternehmen, Hotels und Gästehäuser und fast jedes Unternehmen mit einer Website und Bewertungen von unterschiedlichen Plattformen.
     keywords:
-        - local business
-        - product
-        - recipe
-        - review
-        - event
-        - microformats
-        - contao
+        - Lokales Geschäft
+        - Produkt
+        - Rezept
+        - Bewertung
+        - Veranstaltung
+        - Mikroformate
+        - Contao
         - schema.org
-        - website
-        - automobile
-        - restaurant
-        - retail store
-        - franchise
-        - real estate
-        - hotels
-        - hospitality
+        - Website
+        - Automobil
+        - Restaurant
+        - Einzelhandel
+        - Franchise
+        - Immobilienverwaltung
+        - Hotels
+        - Pensionen
     homepage: https://pdir.de/contao-business-reviews/
     support:
         email: support@pdir.de
