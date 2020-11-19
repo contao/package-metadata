@@ -35,7 +35,7 @@ jobs:
 
             - name: extract-packages
               run: |
-                  echo "::set-env name=packages::$(git diff --name-only HEAD~..HEAD -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | sed -E 's/meta\/([^\/]+\/[^\/]+)\/[^\/]+$/\1/' | uniq | tr '\n' ' ')"
+                  echo "packages=$(git diff --name-only HEAD~..HEAD -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | sed -E 's/meta\/([^\/]+\/[^\/]+)\/[^\/]+$/\1/' | uniq | tr '\n' ' ')" >> $GITHUB_ENV
 
             - name: Update Index
               if: env.packages

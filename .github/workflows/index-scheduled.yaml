@@ -31,7 +31,7 @@ jobs:
             # Update statistics twice a day (24 * 30 mins = 12h)
             - name: with-stats
               run: |
-                  echo "::set-env name=with_stats::$(expr ${{ github.run_number }} % 24)"
+                  echo "with_stats=$(expr ${{ github.run_number }} % 24)" >> $GITHUB_ENV
 
             - name: Update Index
               run: indexer/index -v ${{ env.with_stats == 0 && '--with-stats' || '' }}
