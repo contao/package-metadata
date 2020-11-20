@@ -38,4 +38,4 @@ jobs:
                   echo "metafiles=$(git diff --name-only origin/main -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | uniq | tr '\n' ' ')" >> $GITHUB_ENV
 
             - name: Lint files
-              run: linter/lint ${{ steps.find-colors.outputs.metafiles }}
+              run: linter/lint ${{ env.metafiles }}
