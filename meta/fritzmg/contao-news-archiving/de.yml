@@ -1,0 +1,4 @@
+de:
+    title: Contao News Archiving
+    description: >
+        Diese Extension erlaubt es Nachrichtenbeiträge automatisch nach einer gewissen Zeit in ein anderes Nachrichtenarchiv zu verschieben. Nachrichten können auch automatisch anhand deren "Anzeigen bis" Zeit automatisch verschoben werden.
