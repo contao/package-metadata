@@ -83,7 +83,7 @@ gepflegt. Eigennamen und andere Begriffe, die in jeder Sprache identisch sind, w
 
 ## Unterstützte Sprachen
 
-Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
+Siehe https://github.com/contao/contao-manager/blob/1.3/src/i18n/locales.js
 
 ## Wie kannst Du beitragen
 
