@@ -1,3 +1,6 @@
+* @aschempp @Toflar
+
+/meta/
 /meta/bastibuck/ @bastibuck
 /meta/bohnmedia/ @bohnmedia
 /meta/brkwsky/ @christianbarkowsky
@@ -7,8 +10,8 @@
 /meta/cliffparnitzky/ @cliffparnitzky
 /meta/codefog/ @qzminski
 /meta/con4gis/ @coastforge-mei
-/meta/contao/ @leofeyer @Toflar @aschempp @ausi
-/meta/contao-components/ @leofeyer @Toflar @aschempp @ausi
+/meta/contao/ @contao/reviewers
+/meta/contao-components/ @contao/reviewers
 /meta/contao-themes-net/ @MDevster
 /meta/contao-dd/ @MDevster
 /meta/contao-monitoring/ @cliffparnitzky
