@@ -84,7 +84,7 @@ translations, use the general `default.txt` allow list.
 
 ## Supported languages
 
-See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
+See https://github.com/contao/contao-manager/blob/1.3/src/i18n/locales.js
 
 ## How to contribute
 
@@ -93,6 +93,12 @@ See https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 3. Make pull request
 4. Your pull request is checked automatically.
 5. As soon as all checks are green, a member of the review team can approve and merge your Pull Request.
+
+## Code Owners
+
+If you are the owner of a package namespace, make sure to add your GitHub username to the CODEOWNERS file.
+This way you will be notified of any changes to that folder, so you can check if someone tries to modify
+your namespace.
 
 
 [1]: https://getcomposer.org
