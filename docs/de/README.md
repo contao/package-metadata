@@ -93,6 +93,12 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 4. Dein Pull Request wird automatisch überprüft.
 5. Sobald alle Checks grün sind, kann ein Mitglied des Review-Teams deinen Pull Request freigeben.
 
+## Code Owners
+
+Wenn du Inhaber eines _Namespaces_ bist, also zuständig für einen Ordner der Package-Metadata, kannst du deinen GitHub
+Benutzer in der Datei CODEOWNERS entsprechend eintragen. Du wirst dann automatisch über alle Änderungen an diesem
+Ordner informiert und kannst diese freigeben oder ablehnen.
+
 
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
