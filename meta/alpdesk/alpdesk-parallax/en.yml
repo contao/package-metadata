@@ -1,7 +1,10 @@
 en:
-    title: Parallax for Contao
+    title: Parallax and animations for Contao
     description: >
-        Parallax for Contao
+        Enables parallax and scroll animations for articles and content elements
     keywords:
         - Parallax
         - Alpdesk
+        - animation
+        - animations
+        - scroll
