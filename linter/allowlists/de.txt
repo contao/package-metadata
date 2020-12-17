@@ -31,6 +31,7 @@ Attributtypen
 Auflistungsfunktionen
 Ausserdem
 ausserdem
+Autocomplete
 Automatisierungsaufgaben
 Avatar
 Avatare
@@ -151,8 +152,10 @@ Empfängerlisten
 Endgeräte
 Endgeräten
 endgeräteübergreifenden
+Energieskala
 Engine
 Erstellungswerkzeuge
+EstateManager
 etc
 Event
 Eventleser
@@ -208,6 +211,7 @@ Geo
 geo
 Geocode
 Geodaten
+Geodata
 Geodatenbank
 Geoinformationssystemen
 Geokodierung
@@ -338,6 +342,7 @@ Mehrfachauswahl
 Mehrsprachigkeit
 Menu
 Merger
+Merkzettel
 Meta
 Metadaten
 Metatags
@@ -593,6 +598,7 @@ Weiterleitungselement
 Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
+WIB
 wich
 Widerrufsbelehrung
 Wohnungsunternehmen
