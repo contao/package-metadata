@@ -10,6 +10,7 @@ Assets
 assets
 Assistant
 Autocomplete
+autocompletion
 Avatar
 automator
 backend
@@ -63,6 +64,8 @@ EstateManager
 etc
 eventlist
 Exposé
+exposé
+exposés
 Expression
 Extended
 extensibility
@@ -87,6 +90,7 @@ Head
 HeaderFooterCode
 helpdesk
 History
+Immobilienbörse
 infos
 Insert
 Install
@@ -200,6 +204,8 @@ Varone
 versioned
 visits
 Watchlist
+watchlist
+Westdeutsche
 WIB
 yes
 youtube
