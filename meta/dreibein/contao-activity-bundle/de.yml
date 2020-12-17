@@ -1,7 +1,7 @@
 de:
     title: Contao Zeiterfassung Bundle
     description: >
-        Dieses Bundle erfasst die Dauer der Arbeiten aller Benutzer im Backend von Contao. Diese werden addiert und im Dasboard ausgegeben.
+        Dieses Bundle erfasst die Dauer der Arbeiten aller Benutzer im Backend von Contao. Diese werden addiert und im Dashboard ausgegeben.
         
         So erhält man eine schnelle Übersicht, welche Nutzer wie lange aktiv sind.
     keywords:
