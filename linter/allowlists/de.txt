@@ -31,7 +31,6 @@ Attributtypen
 Auflistungsfunktionen
 Ausserdem
 ausserdem
-Autocomplete
 Automatisierungsaufgaben
 Autovervollständigung
 Avatar
@@ -159,7 +158,6 @@ Energieausweis
 Energieskala
 Engine
 Erstellungswerkzeuge
-EstateManager
 etc
 Event
 Eventleser
@@ -253,7 +251,6 @@ hochgeladen
 Hook
 Hooks
 Iconfont
-Immobilienbörse
 Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
@@ -606,7 +603,6 @@ Weiterleitungselement
 Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
-WIB
 wich
 Widerrufsbelehrung
 Wohnparks
