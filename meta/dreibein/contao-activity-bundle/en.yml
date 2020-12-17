@@ -1,5 +1,5 @@
 en:
-    title: Contao Timetracking Bundle
+    title: Contao Time Tracking Bundle
     description: >
         This bundle tracks the active times of all users in the backend of Contao. They get summed up and displayed in the dashboard.
         This allows you to get an overview over which user was active for how long.
