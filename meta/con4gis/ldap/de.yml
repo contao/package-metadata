@@ -1,0 +1,13 @@
+de:
+    title: con4gis-LDAP
+    description: >
+        Mit dem LDAP-Baustein ist eine LDAP bzw. Active Directory Authentifizierung über das Contao Front- und Backend möglich.
+    keywords:
+        - con4gis
+        - ldap
+        - active directory
+        - Authentifizierung
+        - Anmeldung
+        - Login
+        - Mitglieder
+        - Benutzer

@@ -1,0 +1,13 @@
+en:
+    title: HIBP "Have I Been Pwned" - Check E-Mail-Address
+    description: >
+        This extension allows you to check an e-mail address against the databases of "Have I Been Pwned" (https://haveibeenpwned.com)
+        It uses API version 3 and requires an API key (which is subject to a fee), which can be obtained from the above mentioned website.
+    keywords:
+        - contao
+        - check
+        - password
+        - hibp
+        - verify
+        - data
+        - breach

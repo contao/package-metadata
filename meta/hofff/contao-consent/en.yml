@@ -1,0 +1,64 @@
+en:
+    title: Contao Consent
+    description: >
+        NEW in version 1.2:
+
+        - Extension of the formulation of the Google Analytics description for cross-device processing
+
+        - Inclusion of Google Fonts directly in the consent settings
+
+        - new sample texts for consent of Adobe Fonts for websites (Typekit) and OpenStreetMap (FOSSGIS e.V. and OpenStreetMap Foundation)
+
+        - new JavaScript events
+
+        - Provision of a sample text for the privacy notice for Google Tag Manager
+
+        - Add consent for third country transfer for all services outside the EU
+
+        - Provision of a template for internal documentation
+
+        - Display of a hint when the Consent Banner is displayed again if the consents are changed
+
+        - Integration of third-party extensions based on the Consent Bridge (hofff/contao-tawk-to, hofff/contao-facebook-pixel, RockSolid Custom Elements and netzmacht/contao-leaflet-maps)
+
+
+        With our extension for the declarations of consent you can easily obtain the required agreements of your users in a legally compliant way. We provide lawyer-tested sample texts in German and English for Adobe Fonts for Websites (Typekit), Google Analytics, Google Maps, Google Fonts, Matomo, OpenStreetMap (FOSSGIS e.V. and OpenStreetMap Foundation), Vimeo and YouTube (further services and languages will follow). Furthermore, you can also integrate your own tools and scripts to obtain consent. With our freely available Contao Consent Bridge, other extensions can also provide their own consent settings and pass them to Contao Consent. Currently the following extensions are supported:
+
+        - hofff/contao-tawk-to
+
+        - hofff/contao-facebook-pixel
+
+        - RockSolid Custom Elements
+
+        - netzmacht/contao-leaflet-maps
+
+
+        The consent data is stored in the local storage of the website visitors and no data is passed on to third parties. The setup of existing services is just as simple and flexible as adding individual services and scripts. Furthermore we support the Google and the Matomo Tag Manager. In addition you have the possibility to create different main configurations to support multilingual or multidomain installations. For the optimal integration into a website the design can be completely individualized.
+
+
+        You can find more information on our website.
+    keywords:
+        - consent
+        - consentbanner
+        - cookie
+        - cookiebar
+        - cookiebanner
+        - agreement
+        - banner
+        - gdpr
+        - ePrivacy
+        - einwilligung
+        - dsgvo
+        - adobe fonts
+        - typekit
+        - google analytics
+        - google maps
+        - google fonts
+        - webfonts
+        - matomo
+        - openstreetmap
+        - vimeo
+        - youtube
+    homepage: https://www.contao.solutions/
+    support:
+        email: more@contao.solutions

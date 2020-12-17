@@ -1,0 +1,14 @@
+de:
+    title: Contao Expo Push Notification Bundle
+    description: Diese Erweiterung erlaubt es eigene Push-Benachrichtigungen für Expo (React Native) in Contao 4 zu versenden.
+    keywords:
+        - React Native
+        - Expo
+        - App
+        - Android
+        - iOS
+        - Push-Benachrichtigungen
+    support:
+        email: kaestner@markenzoo.de
+        issues: https://github.com/markenzoo/contao-expo-push-notification-bundle/issues
+        source: https://github.com/markenzoo/contao-expo-push-notification-bundle

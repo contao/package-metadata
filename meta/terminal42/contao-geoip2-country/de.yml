@@ -1,0 +1,10 @@
+de:
+    title: Inhalte für Länder (GeoIP)
+    description: >
+        Mit dieser Erweiterung können verschiedene Inhalte (Elemente, Module, Artikel, Seite) für Besucher
+        aus gewissen Ländern ein- oder ausgeblendet werden. Zeige z.B. ein Inhaltselement nur für Schweizer an,
+        oder blende eine Seite für US-Amerikaner:innen aus.
+
+        Das Land eines Besuchers wird mit Hilfe der MaxMind GeoIP2 Datenbank erkannt. Dazu wird je nach
+        Nutzung eine kostenlose oder kostenpflichtige Lizenz benötigt. Lesen Sie die README-Datei für
+        Hilfe zur Konfiguration.

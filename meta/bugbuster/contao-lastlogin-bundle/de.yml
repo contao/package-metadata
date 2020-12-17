@@ -1,0 +1,8 @@
+de:
+    title: LastLogin
+    description: >
+        Anzeige des letzten Logins und der online / offline Mitglieder über Insert-Tags.
+    keywords:
+        - contao
+        - bundle
+        - login

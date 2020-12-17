@@ -1,19 +1,29 @@
 en:
-    title: Mobile.de Ads
+    title: Vehicle manager (formerly Mobile.de ads)
     description: >
         An extension with filters and functions around the mobile.de vehicle stock on your own website.
-        All ads will be read directly from the mobile.de * API and will clearly presented in extension. Extensive filter & sort functions complete the List view. The detailed view contains all vehicle information and a lean one Product Slider. On request, additional functions can be integrated. Ask us.
+        All vehicles can be managed directly in the back end. Extensive filter & sort functions complete the List view. The detailed view contains all vehicle information and a lean one Product Slider. On request, additional functions can be integrated. Ask us.
+
 
         Your advantages
 
         - List view with extensive filtering and sorting functions
+
         - Detail view with Contao picture slider
+
         - Recommended object
-        - Automatic comparison of vehicles via mobile.de * API
+
         - Templates and design can be adapted to the usual "Contao Art"
+
         - Guaranteed support of the latest or current version of Contao LTS
 
-        More information https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+        Optionally available
+
+        - Automatic import of vehicles via mobile.de platform via API
+
+        - Automatic import of vehicles from SysCara platform via XML import
+
+        More information can be found on the project website.
     keywords:
         - car dealer
         - mobile
@@ -25,4 +35,4 @@ en:
         - motorcycle
     homepage: https://pdir.de/mobilede.html
     support:
-        docs: https://docs.pdir.de/#/mobilede/index
+        docs: https://pdir.de/docs/de/contao/extensions/mobilede/

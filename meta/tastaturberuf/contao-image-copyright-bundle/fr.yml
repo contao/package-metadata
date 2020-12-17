@@ -1,0 +1,18 @@
+fr:
+    title: Avis de licence pour les images
+    description: >
+        Avec cette offre groupée Contao, vous pouvez facilement ajouter une notice de licence pour chaque image et l'afficher dans un module.
+
+        Cela est particulièrement utile si vous utilisez des photos de stock de différents fournisseurs et que vous devez afficher les avis de licence.
+    keywords:
+        - copyright
+        - stock
+        - photos d'archives
+        - istock
+        - fotolia
+        - licence
+        - photos
+    support:
+        email: code@tastaturberuf.de
+        issues: https://github.com/Tastaturberuf/contao-image-copyright-bundle/issues
+        source: https://github.com/Tastaturberuf/contao-image-copyright-bundle/

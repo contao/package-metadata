@@ -1,0 +1,4 @@
+en:
+    title: Simple News URLs
+    description: >
+        This extension allows you to use shorter URLs for the detail pages of news articles, without the path of the news reader page. For example https://example.com/my-news-alias instead of https://example.com/news/detail/my-news-alias

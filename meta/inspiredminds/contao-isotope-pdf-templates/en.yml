@@ -1,7 +1,7 @@
 en:
     title: Isotope PDF Templates
     description: >
-        Adds a new document type in Contao Isotope where you can define a PDF template and also automatically append a PDF to your document.
+        Adds a new document type in Contao Isotope where you can define a PDF template and also automatically append a PDF to your document. It also allows you to use custom fonts within your PDFs. This extension utilises mPDF for these features.
     keywords:
         - contao
         - isotope

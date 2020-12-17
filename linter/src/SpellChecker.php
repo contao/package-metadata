@@ -18,16 +18,16 @@ class SpellChecker
     /**
      * @var string
      */
-    private $whitelistDir;
+    private $allowListDir;
 
     /**
      * @var array|null
      */
     private $supportedLanguages;
 
-    public function __construct(string $whitelistDir)
+    public function __construct(string $allowListDir)
     {
-        $this->whitelistDir = $whitelistDir;
+        $this->allowListDir = $allowListDir;
     }
 
     public function spellCheck(string $text, string $language): array
@@ -52,7 +52,7 @@ class SpellChecker
         $errors = explode("\n", trim($output));
         $errors = array_filter($errors);
 
-        return $this->filterWhitelistedWords($language, $errors);
+        return $this->filterAllowedWords($language, $errors);
     }
 
     private function loadSupportedLanguages()
@@ -68,27 +68,27 @@ class SpellChecker
         $this->supportedLanguages = explode("\n", trim($output));
     }
 
-    private function filterWhitelistedWords(string $language, array $errors): array
+    private function filterAllowedWords(string $language, array $errors): array
     {
-        $defaultWhitelist = $this->loadWhitelist('default');
-        $localizedWhitelist = $this->loadWhitelist($language);
+        $defaultAllowList = $this->loadAllowList('default');
+        $localizedAllowList = $this->loadAllowList($language);
 
-        return array_diff($errors, $defaultWhitelist, $localizedWhitelist);
+        return array_diff($errors, $defaultAllowList, $localizedAllowList);
     }
 
-    private function loadWhitelist(string $key): array
+    private function loadAllowList(string $key): array
     {
-        static $whitelists = [];
+        static $allowLists = [];
 
-        if (isset($whitelists[$key])) {
-            return $whitelists[$key];
+        if (isset($allowLists[$key])) {
+            return $allowLists[$key];
         }
 
-        $whitelistFile = $this->whitelistDir.'/'.$key.'.txt';
-        $whitelists[$key] = file_exists($whitelistFile)
-            ? array_filter(explode("\n", file_get_contents($whitelistFile)))
+        $allowListFile = $this->allowListDir.'/'.$key.'.txt';
+        $allowLists[$key] = file_exists($allowListFile)
+            ? array_filter(explode("\n", file_get_contents($allowListFile)))
             : [];
 
-        return $whitelists[$key];
+        return $allowLists[$key];
     }
 }

@@ -1,0 +1,33 @@
+en:
+    title: 0.1 Theme + Isotope
+    description: >
+        The 0.1 Isotope Bundle comes with a completely configured Isotope shop including demo data and templates, which
+        can be used in combination with the 0.1 theme.
+
+        We rely on the extensive official Isotope eCommerce Demo as a basis. All elements are styled for the 0.1 theme.
+        If you want to support Isotope eCommerce, you can join the Isotope Circle as a member or actively help with
+        the development.
+
+        The features in detail: + Completely configured Isotope shop with demo data + Prefabricated and already styled
+        templates for list and detail view, filter, shopping cart and the checkout process + Adjustment to the different
+        color schemes + Dark Mode + All functions of the 0.1 theme
+    keywords:
+        - Theme
+        - Spectre
+        - SEO
+        - Mobil
+        - optimized
+        - Template
+        - scss
+        - Style
+        - Layout
+        - Lightroom
+        - Pagespeed
+        - Isotope
+        - Shop
+        - Demo
+    homepage: https://contao-themes.net/theme-detail/zeroone-isotope.html
+    support:
+      docs: https://pdir.de/docs/de/contao/themes/zeroone/installation/isotope-bundle/
+      forum: https://community.contao.org
+      donation: https://contao-themes.net/sponsoring.html

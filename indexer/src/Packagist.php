@@ -21,9 +21,9 @@ class Packagist
     private const PLATFORM_PACKAGE_REGEX = '{^(?:php(?:-64bit|-ipv6|-zts|-debug)?|hhvm|(?:ext|lib)-[^/ ]+)$}i';
 
     /**
-     * Blacklisted packages that should not be found.
+     * Excluded packages that should not be found.
      */
-    private const BLACKLIST = ['contao/installation-bundle', 'contao/module-devtools', 'contao/module-repository', 'contao/contao'];
+    private const EXCLUDE_LIST = ['contao/installation-bundle', 'contao/module-devtools', 'contao/module-repository', 'contao/contao'];
 
     /**
      * @var OutputInterface
@@ -51,7 +51,7 @@ class Packagist
             return [];
         }
 
-        return array_diff($data['packageNames'], self::BLACKLIST);
+        return array_diff($data['packageNames'], self::EXCLUDE_LIST);
     }
 
     public function getPackageData(string $name): ?array

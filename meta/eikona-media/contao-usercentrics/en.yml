@@ -1,0 +1,9 @@
+en:
+    title: Usercentrics Consent
+    description: >
+        This Bundle provides an integration of https://usercentrics.com/. It also enables the blocking of a iFrame via Usercentrics using a content element.
+    keywords:
+        - contao
+        - cookie
+        - consent
+        - usercentrics

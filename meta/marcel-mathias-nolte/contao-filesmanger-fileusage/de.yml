@@ -1,0 +1,10 @@
+de:
+  title: Datei-Verweise anzeigen
+  description: >
+    Zeigt in der Dateiverwaltung ein Icon, welches anzeigt, ob die Datei irgendwo verknüpft ist und zeigt nach einem Klick darauf die konkreten Referenzen.
+  keywords:
+    - Dateiverwaltung
+    - Verweise
+    - Verwendung
+    - Verlinkung
+  homepage: https://github.com/marcel-mathias-nolte

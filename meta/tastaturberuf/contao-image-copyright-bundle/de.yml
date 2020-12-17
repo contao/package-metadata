@@ -1,0 +1,19 @@
+de:
+    title: Lizenzhinweise für Bilder
+    description: >
+        Mit diesem Contao-Bundle kannst du auf einfache Weise einen Lizenzhinweis für jedes Bild hinzufügen und diese dann in einem Modul anzeigen lassen.
+
+        Besonders hilfreich, wenn du Stockfotos von diversen Anbietern verwendest und die Lizenzhinweise anzeigen musst.
+    keywords:
+        - copyright
+        - stock
+        - stockfotos
+        - istock
+        - fotolia
+        - lizenz
+        - bilder
+        - urheberrecht
+    support:
+        email: code@tastaturberuf.de
+        issues: https://github.com/Tastaturberuf/contao-image-copyright-bundle/issues
+        source: https://github.com/Tastaturberuf/contao-image-copyright-bundle/

@@ -59,6 +59,8 @@ class LintCommand extends Command
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
 
+        $this->validatePackageNames();
+
         if ($files = $input->getArgument('files')) {
             $this->validateFiles($files, $input->getOption('skip-private-check'));
 
@@ -112,7 +114,7 @@ class LintCommand extends Command
     private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate)
     {
         if (null === $this->spellChecker) {
-            $this->spellChecker = new SpellChecker(__DIR__.'/../whitelists');
+            $this->spellChecker = new SpellChecker(__DIR__.'/../allowlists');
         }
 
         $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
@@ -169,6 +171,27 @@ class LintCommand extends Command
 
         foreach ($finder as $file) {
             $this->validateComposerFile($file);
+        }
+
+        $this->io->progressFinish();
+    }
+
+    private function validatePackageNames()
+    {
+        $finder = new Finder();
+        $finder->directories()->in(__DIR__.'/../../meta');
+
+        $this->io->writeln('Validating package names');
+        $this->io->progressStart($finder->count());
+
+        foreach ($finder as $file) {
+            $package = $file->getRelativePathname();
+            if ($package !== mb_strtolower($package)) {
+                $this->error = true;
+                $this->io->error(
+                    sprintf('[Package: %s]: The package name has to be all lowercase', $package)
+                );
+            }
         }
 
         $this->io->progressFinish();
@@ -255,7 +278,7 @@ class LintCommand extends Command
                     $package,
                     $language,
                     sprintf(
-                        'Property "%s" does not pass the spell checker. Either update the whitelist or fix the spelling :) Errors: %s',
+                        'Property "%s" does not pass the spell checker. Either update the allow list or fix the spelling :) Errors: %s',
                         $key,
                         implode(', ', $errors)
                     )
