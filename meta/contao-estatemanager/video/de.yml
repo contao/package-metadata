@@ -1,0 +1,11 @@
+de:
+    title: Contao EstateManager Video
+    description: >
+        Die Video-Erweiterung für den Contao EstateManager ermöglicht die Einbindung und Darstellung von Videos aus
+        verschiedenen Quellen wie YouTube oder Vimeo.
+    keywords:
+        - immobilien
+        - video
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/
