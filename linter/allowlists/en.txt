@@ -9,6 +9,7 @@ Api
 Assets
 assets
 Assistant
+autocompletion
 Avatar
 automator
 backend
@@ -60,6 +61,7 @@ EasyThemes
 Editing
 etc
 eventlist
+exposés
 Expression
 Extended
 extensibility
@@ -76,6 +78,7 @@ Gallery
 Geo
 geo
 Geocode
+Geodata
 Get
 Grid
 Groups
@@ -195,5 +198,7 @@ uploader
 Varone
 versioned
 visits
+Watchlist
+watchlist
 yes
 youtube

@@ -32,6 +32,7 @@ Auflistungsfunktionen
 Ausserdem
 ausserdem
 Automatisierungsaufgaben
+Autovervollständigung
 Avatar
 Avatare
 Backend
@@ -126,10 +127,12 @@ Datenschutzerklärung
 Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
+Datenvervollständigung
 DC
 de
 Detailansicht
 Detailinhalt
+Detailseite
 Detailseiten
 Detection
 Directory
@@ -151,6 +154,8 @@ Empfängerlisten
 Endgeräte
 Endgeräten
 endgeräteübergreifenden
+Energieausweis
+Energieskala
 Engine
 Erstellungswerkzeuge
 etc
@@ -208,8 +213,10 @@ Geo
 geo
 Geocode
 Geodaten
+Geodata
 Geodatenbank
 Geoinformationssystemen
+Geoinformationen
 Geokodierung
 Geokodierungsdienste
 gerendert
@@ -338,6 +345,7 @@ Mehrfachauswahl
 Mehrsprachigkeit
 Menu
 Merger
+Merkzettel
 Meta
 Metadaten
 Metatags
@@ -371,6 +379,7 @@ Navbar
 navbar
 Navigationselementes
 Navigationsmenü
+Neubauprojekten
 news
 Newsletter
 Notification
@@ -427,6 +436,7 @@ Push
 PWA
 Pwned
 Queue
+quelloffene
 Radioboxen
 Radiobutton
 Range
@@ -595,6 +605,7 @@ Weiterleitungsseiten
 Weiterleitungszielen
 wich
 Widerrufsbelehrung
+Wohnparks
 Wohnungsunternehmen
 WOW
 Wrapper
