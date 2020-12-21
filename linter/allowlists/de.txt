@@ -233,6 +233,7 @@ Grundstile
 Groups
 hard
 Hardwarebeschleunigung
+Hauptarchivs
 Hauptkonfigurationen
 Hauptsprache
 Have
