@@ -8,6 +8,7 @@ Advanced
 ajaxpagenierung
 AjaxPagination
 Akkordions
+Aliases
 Alliance
 alone
 AMPHTML
@@ -574,6 +575,7 @@ UItoTop
 Übersetzungsfelder
 Umgebungshinweis
 Umkreissuche
+Unified
 upgraden
 Uploader
 Uploads

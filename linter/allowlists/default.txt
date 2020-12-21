@@ -26,6 +26,7 @@ Bundle
 Bundles
 Bynder
 Catalog
+changelanguage
 ChangeLanguage
 Checkbox
 Clickpress
