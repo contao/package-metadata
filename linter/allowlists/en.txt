@@ -198,6 +198,7 @@ uploader
 Varone
 versioned
 visits
+Visually
 Watchlist
 watchlist
 yes
