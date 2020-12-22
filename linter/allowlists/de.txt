@@ -8,6 +8,7 @@ Advanced
 ajaxpagenierung
 AjaxPagination
 Akkordions
+Aliases
 Alliance
 alone
 AMPHTML
@@ -232,6 +233,7 @@ Grundstile
 Groups
 hard
 Hardwarebeschleunigung
+Hauptarchivs
 Hauptkonfigurationen
 Hauptsprache
 Have
@@ -574,6 +576,7 @@ UItoTop
 Übersetzungsfelder
 Umgebungshinweis
 Umkreissuche
+Unified
 upgraden
 Uploader
 Uploads
