@@ -1,0 +1,17 @@
+en:
+    title: BFV Elements
+    description: >
+        This Bundle provides content elements for the widgets of Bayerischer Fussball Verband (https://www.bfv.de/).
+        Blocking of cookies from the widgets is supported via the extension "Contao Cookiebar".
+    keywords:
+        - contao
+        - bfv
+        - bayern
+        - bayerischer
+        - fussball
+        - verband
+        - widget
+        - liga
+        - mannschaft
+        - element
+        - content

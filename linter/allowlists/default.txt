@@ -18,6 +18,8 @@ Back end
 back end
 Barcode
 barcode
+Bayerischer
+BFV
 Bing
 Bootstrap
 Bulma
@@ -85,6 +87,7 @@ Fred
 Freunde
 Front end
 front end
+Fussball
 gap
 Geocoder
 geocoder
@@ -287,6 +290,7 @@ XLSX
 yml
 YouTube
 OpenImmo
+Verband
 Walsercard
 Wodis
 OriginalFileName
