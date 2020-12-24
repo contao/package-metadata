@@ -3,12 +3,15 @@ de:
     description: >
         Diese Erweiterung bietet Inhaltselemente für die Bayerischer Fußball Verband Widgets (https://www.bfv.de/).
         Das Blockieren von Cookies aus den Widgets wird über die Erweiterung "Contao Cookiebar" unterstützt.
+        Über die zugehörigen BFV-Einstellungen kann man im Backend Verein-ID, Mannschaft-ID, Staffel-ID und Layout-Optionen hinterlegen.
+        Mit Inhaltselementen kann man dann die BFV Widgets platzieren, statt den Code unter https://bfv.de/ generieren zu müssen und die HTML Tags zu erlauben.
     keywords:
         - contao
         - bfv
         - bayern
         - bayerischer
         - fußball
+        - fussball
         - verband
         - widget
         - liga

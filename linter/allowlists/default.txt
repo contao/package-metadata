@@ -87,6 +87,7 @@ Fred
 Freunde
 Front end
 front end
+Fußball
 gap
 Geocoder
 geocoder
