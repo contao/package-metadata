@@ -18,6 +18,8 @@ Back end
 back end
 Barcode
 barcode
+Bayerischer
+BFV
 Bing
 Bootstrap
 Bulma
@@ -287,6 +289,7 @@ XLSX
 yml
 YouTube
 OpenImmo
+Verband
 Walsercard
 Wodis
 OriginalFileName
