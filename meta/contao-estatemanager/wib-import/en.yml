@@ -1,0 +1,14 @@
+en:
+    title: Contao EstateManager WIB-Import
+    description: >
+        The WIB import extension for the Contao EstateManager provides a new interface for importing real estate through
+        the API of "Westdeutsche Immobilienbörse e.V.".
+    keywords:
+        - realestate
+        - estate
+        - wib
+        - import
+        - interface
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

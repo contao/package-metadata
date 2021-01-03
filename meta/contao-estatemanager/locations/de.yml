@@ -1,0 +1,13 @@
+de:
+    title: Contao EstateManager Standorte
+    description: >
+        Die Standorte-Erweiterung für den Contao EstateManager ergänzt weitere Module zur Darstellung verschiedener
+        Standorte, Abteilungen und dessen Mitarbeiter.
+    keywords:
+        - immobilien
+        - standort
+        - abteilung
+        - mitarbeiter
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

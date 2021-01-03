@@ -1,0 +1,8 @@
+en:
+  title: File visibility toggle icon
+  description: >
+    Provides a toggle icon to hide files and basic content elements which are aware of this.
+  keywords:
+    - access protection
+    - filemanager
+  homepage: https://github.com/marcel-mathias-nolte

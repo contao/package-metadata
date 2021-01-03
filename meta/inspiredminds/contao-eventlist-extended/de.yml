@@ -8,3 +8,6 @@ de:
 
         Canonical Tag:
         Die Erweiterung fügt außerdem automatisch einen Canonical Tag auf der Eventleser Seite ein, wenn sich die aktuelle Seite von der im Kalender eingestellten Weiterleitungsseite unterscheidet.
+
+        Elemente überspringen:
+        Genau wie in Nachrichtenlisten kann eingestellt werden, dass die angegebene Anzahl an Events übersprungen werden sollen.

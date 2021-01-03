@@ -1,0 +1,9 @@
+en:
+    title: A/B-Testing
+    description: >
+        Evenly distribute visitors to different variants of your website. This way you can perform A/B-tests.
+    keywords:
+        - A/B Testing
+        - Marketing
+        - Analytics
+        - Matomo

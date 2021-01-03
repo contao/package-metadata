@@ -1,0 +1,13 @@
+de:
+    title: Standardwerte für Select/Checkbox/Radioboxen (SCR) in einem Formular.
+    description: >
+        Mit der Erweiterung können Standardauswahlen für die Formularelemente
+        Selectbox, Checkbox und Radiobutton dynamisch vorgegeben werden.
+    keywords:
+        - contao
+        - formular
+        - select
+        - checkbox
+        - radiobutton
+        - standard
+        - e-spin
