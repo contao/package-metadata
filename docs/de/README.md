@@ -83,7 +83,7 @@ gepflegt. Eigennamen und andere Begriffe, die in jeder Sprache identisch sind, w
 
 ## Unterstützte Sprachen
 
-Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
+Siehe https://github.com/contao/contao-manager/blob/1.3/src/i18n/locales.js
 
 ## Wie kannst Du beitragen
 
@@ -92,6 +92,12 @@ Siehe https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
 3. Erstelle einen Pull Request
 4. Dein Pull Request wird automatisch überprüft.
 5. Sobald alle Checks grün sind, kann ein Mitglied des Review-Teams deinen Pull Request freigeben.
+
+## Code Owners
+
+Wenn du Inhaber eines _Namespaces_ bist, also zuständig für einen Ordner der Package-Metadata, kannst du deinen GitHub
+Benutzer in der Datei CODEOWNERS entsprechend eintragen. Du wirst dann automatisch über alle Änderungen an diesem
+Ordner informiert und kannst diese freigeben oder ablehnen.
 
 
 [1]: https://getcomposer.org

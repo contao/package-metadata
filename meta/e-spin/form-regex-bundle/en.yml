@@ -1,0 +1,16 @@
+en:
+    title: regex validation in one form
+    description: >
+        With the extension, a new text field is available in the form generator, where a Individual
+        input check via Regular Expression (Regex) and a message is displayed in the event of an error.
+
+        In addition, a checkbox can be used to output the pattern as an HTML5 attribute for a browser check.
+    keywords:
+        - contao
+        - formular
+        - validate
+        - check
+        - regular expression
+        - regex
+        - regexp
+        - e-spin

@@ -1,0 +1,4 @@
+de:
+    title: Fieldset Duplication
+    description: >
+        Diese Erweiterung ermöglicht es einem Besucher in einem Formular des Formulargenerators dynamisch zusätzliche Felder hinzufügen zu lassen. Wenn beispielsweise die Kontaktdaten einer unbekannten Anzahl an Personen abgefragt werden sollen, können diese in ein Fieldset verpackt und im Frontend dann vom Besucher dupliziert werden.

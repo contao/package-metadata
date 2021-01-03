@@ -1,0 +1,15 @@
+de:
+    title: Contao EstateManager Core
+    description: >
+        Der Contao EstateManager ist eine kostenlose und quelloffene Immobilien-Erweiterung für das CMS Contao. Die
+        Core-Erweiterung bietet bereits alle Komponenten einer vollwertigen Immobilien-Homepage. Dabei stehen bereits
+        viele Erweiterungen für den Contao EstateManager zur Verfügung, mit denen sich neue Funktionen ganz einfach
+        hinzufügen lassen. Besuche unsere Projektwebseite, um mehr zu erfahren.
+    keywords:
+        - immobilien
+        - makler
+        - immobiliensoftware
+        - vermarktung
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

@@ -1,9 +1,9 @@
 en:
-    title: Mobile.de Ads Sync
+    title: Mobile.de Import for the vehicle manager
     description: >
-        This bundle makes your Mobile.de Ads installation a full version. A domain license is necessary.
+        This bundle (fka Mobile.de Ads Sync) imports your managed vehicles from the mobile.de platform. Quick and easy to import them automatically. A domain license is required.
 
-        More information https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+        More information can be found on the project website.
     keywords:
         - car dealer
         - mobile
@@ -15,4 +15,4 @@ en:
         - motorcycle
     homepage: https://pdir.de/mobilede.html
     support:
-        docs: https://docs.pdir.de/#/mobilede/index
+        docs: https://pdir.de/docs/de/contao/extensions/mobilede/

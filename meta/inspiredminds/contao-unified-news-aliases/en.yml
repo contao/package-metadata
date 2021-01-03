@@ -1,0 +1,8 @@
+en:
+    title: Unified News Aliases
+    description: >
+        This extensions allows you to use the same news alias for news articles translated into different languages.
+
+        Usually each and every news article must have a unique alias. However there are use cases where you might want to use the same alias for translated news articles. This extension allows you to always use the alias of the main news archive in the front end (using the ChangeLanguage extension). This feature can be enabled per news archive.
+    keywords:
+        - duplicate

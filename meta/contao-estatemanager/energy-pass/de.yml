@@ -1,0 +1,12 @@
+de:
+    title: Contao EstateManager Energieskala
+    description: >
+        Die Energieskala-Erweiterung für den Contao EstateManager ergänzt eine animierte Skala, welche unterhalb
+        der Energieausweis-Informationen ausgegeben werden kann.
+    keywords:
+        - immobilien
+        - energieausweis
+        - skala
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

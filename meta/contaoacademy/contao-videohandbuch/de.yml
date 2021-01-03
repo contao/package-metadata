@@ -1,10 +1,16 @@
 de:
-    title: Videohandbuch für Anwender
+    title: Videohandbuch für Redakteure
     description: >
-        Ein Handbuch für Anwender und Redakteure, dass direkt ins Backend von Contao integriert wird. Alle wichtigen Funktionen per Video erklärt.
+        Handbuch für Redakteure direkt ins Backend von Contao integriert. Alle wichtigen Funktionen werden Schritt für Schritt per Video erklärt.
+        10 Videos können zum Test angesehen werden. Zur Freischaltung aller Inhalte muss eine Lizenz bei der Contao Academy bestellt werden.
     keywords:
         - video handbuch
         - video training
         - handbuch
         - anwender handbuch
         - anwender schulung
+        - schulung redakteure
+    homepage: https://contao-academy.de/videohandbuch
+    support:
+        issues: https://github.com/contaoacademy/contao-videohandbuch/issues
+        source: https://github.com/contaoacademy/contao-videohandbuch

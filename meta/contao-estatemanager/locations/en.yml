@@ -1,0 +1,14 @@
+en:
+    title: Contao EstateManager Locations
+    description: >
+        The location extension for Contao EstateManager complements other modules for displaying various locations,
+        departments and their employees.
+    keywords:
+        - realestate
+        - estate
+        - location
+        - departments
+        - employees
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

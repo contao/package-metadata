@@ -8,3 +8,6 @@ en:
 
         Canonical tag:
         The extension also automatically adds a canonical tag on the event reader page, if the current page is not the one defined in the calendar.
+
+        Skip items:
+        Just as in news lists you can define that the defined amount of events should be skipped.

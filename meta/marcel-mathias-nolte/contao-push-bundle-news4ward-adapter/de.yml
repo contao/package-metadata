@@ -1,0 +1,9 @@
+de:
+  title: Push Bundle Adapter für News4ward
+  description: >
+    Bindet die Funktionen des Push Bundle an die Beiträge von News4ward an.
+  keywords:
+    - Push
+    - News
+    - Blog
+  homepage: https://github.com/marcel-mathias-nolte
