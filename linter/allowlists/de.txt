@@ -159,6 +159,7 @@ endgeräteübergreifenden
 Energieausweis
 Energieskala
 Engine
+Ersteinrichtung
 Erstellungswerkzeuge
 etc
 Event
@@ -230,6 +231,7 @@ Get
 Grid
 Grids
 Grundgerüst
+Grundkonfiguration
 Grundstile
 Groups
 hard
