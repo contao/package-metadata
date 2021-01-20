@@ -1,0 +1,9 @@
+de:
+    title: Unified Event Aliases
+    description: >
+        Diese Extension erlaubt es im Frontend den selben Alias für Event verschiedener Sprachen zu verwenden.
+
+        Normalerweise muss jede Nachricht ihren eigenen, eindeutigen Alias haben. Allerdings gibt es Fälle wo man den selben Alias für den selben Event in verschiedenen Sprachen haben möchte. Die Extension erlaubt es im Frontend immer den Event-Alias des Hauptkalenders zu verwenden (wird über die ChangeLanguage Extension festgelegt). Dieses Feature kann pro Kalender aktiviert werden.
+    keywords:
+        - duplizieren
+        - Duplikat
