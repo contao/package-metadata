@@ -3,6 +3,6 @@ en:
     description: >
         This extensions allows you to use the same event alias for event articles translated into different languages.
 
-        Usually each and every event article must have a unique alias. However there are use cases where you might want to use the same alias for translated event articles. This extension allows you to always use the alias of the main calendar in the front end (using the ChangeLanguage extension). This feature can be enabled per calendar.
+        Usually each and every event must have a unique alias. However there are use cases where you might want to use the same alias for translated events. This extension allows you to always use the alias of the main calendar in the front end (using the ChangeLanguage extension). This feature can be enabled per calendar.
     keywords:
         - duplicate
