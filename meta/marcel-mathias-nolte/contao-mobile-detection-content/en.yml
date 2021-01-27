@@ -1,0 +1,9 @@
+en:
+  title: Mobile device detection
+  description: >
+    Enables detection of mobile device classes using the user agent string and provides toggle buttons to enable or disable items on mobile or desktop view.
+    Adds an css class to the body element.
+  keywords:
+    - mobile device
+    - content filter
+  homepage: https://github.com/marcel-mathias-nolte
