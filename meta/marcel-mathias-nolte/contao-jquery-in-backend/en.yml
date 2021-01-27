@@ -1,0 +1,8 @@
+en:
+  title: load jQuery at the Backend
+  description: >
+    Loads jQuery at the Contao Backend
+  keywords:
+    - jQuery
+    - Backend
+  homepage: https://github.com/marcel-mathias-nolte
