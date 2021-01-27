@@ -474,6 +474,7 @@ Root
 Routenplaner
 Routenplanung
 Schaltfläche
+Schaltflächen
 Scheduler
 SCR
 Scripte
