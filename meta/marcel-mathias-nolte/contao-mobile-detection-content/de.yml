@@ -1,7 +1,7 @@
 de:
   title: Mobilgeräte-Erkennung
   description: >
-    Erkennt Mobilgeräte-Klassen anhand des Useragent und bietet Toggle-Buttons um Inhalte in der Desktop- oder Mobil-Ansicht zu aktivieren bzw. deaktivieren. Füg dem Body
+    Erkennt Mobilgeräte-Klassen anhand des Useragent und bietet Schaltflächen um Inhalte in der Desktop- oder Mobil-Ansicht zu aktivieren bzw. deaktivieren. Füg dem Body
     eine entsprechende CSS-Klasse hinzu.
   keywords:
     - Mobilgeräte
