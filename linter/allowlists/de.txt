@@ -360,6 +360,8 @@ Mindestlänge
 Mitarbeiterlisten
 Mitgliedergruppe
 Mitgliedergruppen
+Mobilgerät
+Mobilgeräte
 mobilfähig
 mobilfähige
 Moduleinstellungen
