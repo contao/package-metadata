@@ -1,7 +1,7 @@
 en:
-  title: load jQuery at the Backend
+  title: load jQuery at the backend
   description: >
-    Loads jQuery at the Contao Backend
+    Loads jQuery at the Contao backend
   keywords:
     - jQuery
     - Backend
