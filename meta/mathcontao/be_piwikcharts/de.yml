@@ -1,5 +1,5 @@
 de:
-    title: Backend Matomo Charts (be_piwikcharts)
+    title: Matomo Charts im Backend
     description: >
         Webseitenstatistiken aus einer Matomo-Installation im Contao-Backend unter "System": "Statistiken Besucher" anzeigen.
         
