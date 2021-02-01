@@ -603,7 +603,7 @@ Webanwendungen
 Webseite
 Webseitenwurzel
 Webseitenbesucher
-Webesitenstatistiken
+Webseitenstatistiken
 Websitebesucher
 Webservices
 Webshop
