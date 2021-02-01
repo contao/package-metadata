@@ -191,6 +191,7 @@ phpexcel
 phpoffice
 PIM
 Pinterest
+Piwik
 Pixabay
 pixel
 PNG
