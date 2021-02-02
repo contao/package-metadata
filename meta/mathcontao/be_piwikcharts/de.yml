@@ -1,7 +1,9 @@
 de:
     title: Matomo Charts im Backend
     description: >
-        Webseitenstatistiken aus einer Matomo-Installation im Contao-Backend unter "System": "Statistiken Besucher" anzeigen.
+        Webseitenstatistiken aus einer Matomo-Installation im Contao-Backend unter "System": "Statistiken Besucher" anzeigen. So ist eine schnelle Übersicht über die Webseitenbesucher direkt im Backend vorhanden, ohne dass ein weiterer Login in Matomo notwendig ist.
+        
+        Die notwendigen Parameter (URL, AuthCode, SiteID) werden unter "System": "Einstellungen" eingegeben. Mehr dazu siehe Wiki.
         
         Nicht im Lieferumfang enthalten:
         Eine Matomo(früher: Piwik)-Installation (wird vorausgesetzt) 
