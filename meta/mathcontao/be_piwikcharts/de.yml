@@ -1,0 +1,21 @@
+de:
+    title: Matomo Charts im Backend
+    description: >
+        Webseitenstatistiken aus einer Matomo-Installation im Contao-Backend unter "System": "Statistiken Besucher" anzeigen. So ist eine schnelle Übersicht über die Webseitenbesucher direkt im Backend vorhanden, ohne dass ein weiterer Login in Matomo notwendig ist.
+        
+        Die notwendigen Parameter (URL, AuthCode, SiteID) werden unter "System": "Einstellungen" eingegeben. Mehr dazu siehe Wiki.
+        
+        Nicht im Lieferumfang enthalten:
+        Eine Matomo(früher: Piwik)-Installation (wird vorausgesetzt) 
+        Der Tracking-Code (muss separat gesetzt werden)
+    keywords:
+        - matomo
+        - piwik
+        - backend
+        - besucher
+        - statistik
+    support:
+        forum: https://community.contao.org/de/showthread.php?34266-be_piwikcharts-Besucherstatistiken-aus-Piwik-im-Backend-anzeigen/page3&p=537748&viewfull=1#post537748
+        issues: https://github.com/mathContao/be_piwikcharts/issues
+        source: https://github.com/mathContao/be_piwikcharts
+        wiki: https://github.com/mathContao/be_piwikcharts/wiki
