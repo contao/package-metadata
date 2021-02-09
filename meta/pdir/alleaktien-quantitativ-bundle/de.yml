@@ -1,0 +1,23 @@
+de:
+    title: AlleAktien Quantitativ
+    description: >
+        Diese Erweiterung ermöglicht dir, Diagramme mit Aktienkursen o.ä. auf deinen Webseiten anzuzeigen. Das Einbetten der Grafiken erfolgt durch InsertTags. Die Diagramme und Grafiken werden mittels Iframe in die Webseite eingebunden und von _**AlleAktien Quantitativ**_ generiert. Das Copyright der Grafiken und Inhalte liegt bei [AlleAktien Quantitativ](https://www.alleaktien.de/quantitativ).
+    keywords:
+        - Aktien
+        - Aktienkurse
+        - AlleAktien Quantitativ
+        - Ausschüttungsquote
+        - Chart
+        - Diagramm
+        - Dividende
+        - Dividendenrendite
+        - EBIT
+        - Gewinn
+        - InsertTags
+        - Kurs-Gewinn-Verhältnis (KGV)
+        - Kurs-Umsatz-Verhältnis (KUV)
+        - Marge
+        - Quantitativ
+        - Umsatz
+    support:
+        docs: https://pdir.de/docs/de/contao/extensions/alleaktien-quantitativ/
