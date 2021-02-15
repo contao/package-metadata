@@ -1,7 +1,7 @@
 en:
-    title: TinySlider
+    title: Tiny Slider
     description: >
-        Replaces the standard Contao slider with the TinySlider and adds features like fade, ken-burns effect etc..
+        Replaces the standard Contao slider with the Tiny Slider and adds features like fade, ken-burns effect etc..
     keywords:
         - slider
         - fader
