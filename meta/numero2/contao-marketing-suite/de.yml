@@ -1,10 +1,15 @@
 de:
-    title: Contao Marketing Suite
+    title: Contao Marketing Suite inkl. Cookiebar
     description: >
-        Das Paket fügt Contao Marketing Funktionalitäten hinzu. Die Contao Marketing Suite ermöglicht dynamisches Ausspielen von Inhalten,
-        um Besucher mit relevanten Informationen zu versorgen. Weiterhin gibt es A/B Test, SEO Unterstützung, Text Erstellungswerkzeuge,
-        eigenes Tracking für Links und Formulare. Dazu einen Buttongenerator, eine konfigurierbare Cookie Bar (bereits jetzt EU-Privacy konform)
-        und viele weitere Marketing-Funktionen für professionelles Marketing mit Contao.
+        Das Paket fügt Contao Marketing Funktionalitäten, sowie eine Cookiebar
+        mit Cookie-Consent-Dialog hinzu. Die Contao Marketing Suite ermöglicht
+        dynamisches Ausspielen von Inhalten, um Besucher mit relevanten
+        Informationen zu versorgen. Weiterhin gibt es A/B Test, SEO
+        Unterstützung, Text Erstellungswerkzeuge, eigenes Tracking für Links
+        und Formulare. Dazu einen Buttongenerator, eine konfigurierbare
+        Cookiebar (bereits jetzt EU-Privacy konform) und viele weitere
+        Marketing-Funktionen für professionelles Marketing mit Contao.
     keywords:
         - contao
         - marketing
+        - cookies
