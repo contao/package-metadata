@@ -1,0 +1,19 @@
+de:
+    title: SysCara Import für den Fahrzeugmanager
+    description: >
+        Dieses Bundle importiert deine verwalteten Fahrzeuge aus der SysCara Plattform. Schnell und einfach automatisch importieren. Eine Domain Lizenz ist notwendig.
+
+        Mehr Informationen findest du auf der Projektwebseite.
+    keywords:
+        - SysCara
+        - Fahrzeuge
+        - Inserate
+        - Xml
+        - Import
+        - Autohändler
+        - LKW
+        - Motorräder
+        - Wohnmobile
+    homepage: https://pdir.de/mobilede.html
+    support:
+        docs: https://pdir.de/docs/de/contao/extensions/mobilede/

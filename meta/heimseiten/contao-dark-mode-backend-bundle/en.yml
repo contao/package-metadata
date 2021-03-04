@@ -1,7 +1,7 @@
 en:
     title: Dark Mode
     description: >
-        Activates a dark mode in Contao. Can be deactivated via moon symbol in the header. If you like it, please consider giving a star on GitHub. Suggestions for improvement are also welcome via GitHub.
+        Dark mode of the backend can be activated via moon symbol in header. If you like it, please consider giving a star on GitHub. Suggestions for improvement are also welcome via GitHub.
     keywords:
         - backend
         - theme

@@ -1,0 +1,14 @@
+en:
+    title: Newsletter subscription in one form
+    description: >
+        With this extension you can add a newsletter subscription to a form in the Contao CMS.
+
+        A new form widget is available, which allows the setting options such as the FE module
+        such as the selection of subscriptions or whether the confirmation should be sent by a
+        separate e-mail. The extension supports the "Notification Center" with the transfer
+        of the necessary tokens.
+    keywords:
+        - contao
+        - form
+        - newsletter
+        - e-spin

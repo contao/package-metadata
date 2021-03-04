@@ -1,9 +1,20 @@
+/.github @aschempp @Toflar
+/docs @aschempp @Toflar
+/indexer @aschempp @Toflar
+/linter @aschempp @Toflar
+
+/meta/
+/meta/bastibuck/ @bastibuck
+/meta/bohnmedia/ @bohnmedia
+/meta/brkwsky/ @christianbarkowsky
 /meta/bugbuster/ @BugBuster1701
 /meta/bwein-net/ @rabauss
+/meta/christianbarkowsky/ @christianbarkowsky
+/meta/cliffparnitzky/ @cliffparnitzky
 /meta/codefog/ @qzminski
 /meta/con4gis/ @coastforge-mei
-/meta/contao/ @leofeyer @Toflar @aschempp @ausi
-/meta/contao-components/ @leofeyer @Toflar @aschempp @ausi
+/meta/contao/ @contao/reviewers
+/meta/contao-components/ @contao/reviewers
 /meta/contao-themes-net/ @MDevster
 /meta/contao-dd/ @MDevster
 /meta/contao-monitoring/ @cliffparnitzky
@@ -11,12 +22,22 @@
 /meta/do-while/ @do-while
 /meta/erdmannfreunde/ @denniserdmann @richardhj
 /meta/eikona-media/ @rabauss @devtty80
+/meta/esit/ @eS-IT
+/meta/estao-immo/ @christianbarkowsky
+/meta/friends-of-contao/ @frontendschlampe
 /meta/fritzmg/ @fritzmg
 /meta/inspiredminds/ @fritzmg
 /meta/isotope/ @aschempp @Toflar @netzarbeiter
 /meta/madeyourday/ @ausi
 /meta/markenzoo/ @felix-kaestner
-/meta/pdir/ @MDevster
+/meta/myparcelcom/ @derkurier100
+/meta/netzmacht/ @dmolineus
 /meta/oneup/ @bytehead @sheeep
+/meta/pdir/ @MDevster
+/meta/syncgw/ @syncgw
 /meta/terminal42/ @aschempp @Toflar @qzminski @richardhj
+/meta/trilobit-gmbh/ @trilobit-gmbh
 /meta/wangaz/ @7FyOh
+/meta/oveleon/ @doishub @eki89
+/meta/contao-thememanager/ @doishub @eki89
+/meta/contao-estatemanager/ @doishub @eki89

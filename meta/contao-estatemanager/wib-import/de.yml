@@ -1,0 +1,13 @@
+de:
+    title: Contao EstateManager WIB-Import
+    description: >
+        Die WIB-Import-Erweiterung für den Contao EstateManager bietet eine neue Schnittstelle für den Import von
+        Immobilien über die API der "Westdeutschen Immobilienbörse e.V.".
+    keywords:
+        - immobilien
+        - wib
+        - import
+        - schnittstelle
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

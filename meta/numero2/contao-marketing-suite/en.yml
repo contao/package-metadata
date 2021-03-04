@@ -1,5 +1,5 @@
 en:
-    title: Contao Marketing Suite
+    title: Contao Marketing Suite incl. cookie consent
     description: >
         The package adds marketing functionalities to Contao. The Contao Marketing Suite enables dynamic playout of content to
         provide visitors with relevant information. Furthermore there is A/B test, SEO support, text creation tools, own tracking
@@ -8,3 +8,4 @@ en:
     keywords:
         - contao
         - marketing
+        - cookies

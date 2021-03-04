@@ -1,9 +1,9 @@
 de:
-    title: Mobile.de Inserate Sync
+    title: Mobile.de Import für den Fahrzeugmanager
     description: >
-        Dieses Bundle macht deine Mobile.de Inserate Installation zur Vollversion. Eine Domain Lizenz ist notwendig.
+        Dieses Bundle (ehemals Mobile.de Inserate Sync) importiert deine verwalteten Fahrzeuge aus der mobile.de Plattform. Schnell und einfach die automatisch importieren. Eine Domain Lizenz ist notwendig.
 
-        Mehr Informationen https://pdir.de/mobile-de-integration-fuer-contao-cms.html
+        Mehr Informationen findest du auf der Projektwebseite.
     keywords:
         - mobile
         - Fahrzeuge
@@ -14,6 +14,8 @@ de:
         - LKW
         - Motorräder
         - Wohnmobile
+        - Auto
+        - Automobile
     homepage: https://pdir.de/mobilede.html
     support:
-        docs: https://docs.pdir.de/#/mobilede/index
+        docs: https://pdir.de/docs/de/contao/extensions/mobilede/

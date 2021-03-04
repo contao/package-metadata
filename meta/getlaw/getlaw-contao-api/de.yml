@@ -1,0 +1,24 @@
+de:
+    title: getLaw-Contao-API
+    description: >
+        Mit dieser Erweiterung kannst Du die Rechtstexte der Legal-Tech-Plattform www.getLaw.de automatisiert in Deine Website und Deinen Shop einbinden.
+        
+        Die Erweiterung ruft die Rechtstexte automatisch alle 24 Stunden von www.getLaw.de ab. Falls gewünscht, kannst Du den automatischen Abruf durch Setzen eines Häkchens deaktivieren. Ein manueller Abruf der Rechtstexte von www.getLaw.de ist jederzeit über den Button in der Liste der Inhaltselemente möglich.
+        
+        Zur Verfügung stehen derzeit folgende Rechtstexte für Websites und Shops: Impressum, Datenschutzerklärung, allgemeine Geschäftsbedingungen und Widerrufsbelehrung.
+    keywords:
+        - impressum
+        - datenschutzerklärung
+        - allgemeine geschäftsbedingungen
+        - AGB
+        - widerrufsbelehrung
+        - api
+        - schnittstelle
+        - consent
+        - cookie
+        - anwalt
+        - rechtstexte
+        - rechtsanwalt
+    support:
+        issues: https://github.com/getLaw/getlaw-contao-api/issues
+        docs: https://www.getlaw.de/api-contao/

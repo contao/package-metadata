@@ -1,0 +1,16 @@
+de:
+    title: Extended Form Fields
+    description: >
+        Diese Erweiterung stellt zusätzliche Funktionen für die Formularfelder des Formulargenerators zur Verfügung:
+
+        - "Minimum" & "Maximum" Einstellung für Checkbox und Selects mit Mehrfachauswahl.
+
+        - Erlaubt die Definition einer eigenen Fehlermeldung pro Formularfeld.
+
+        - Erlaubt das Hinzufügen eines Input-Felds für Radio-Button-Felder, wo Besucher eigene Daten eingeben können.
+
+        - Erlaubt die Definition von nicht erlaubten Wörtern für Text und Textarea Felder.
+
+        - Erlaubt die Definition von explizit erlaubten Wörtern für Text Felder.
+
+        - Fügt ein "Range" Formularfeld hinzu (wird ab Contao 4.9 nicht mehr benötigt).
