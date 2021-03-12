@@ -14,6 +14,7 @@ alone
 AMPHTML
 Amphtml
 amphtml
+Anbieterseiten
 Anfahrtskarten
 Animated
 Animations
@@ -53,6 +54,7 @@ Benutzergruppen
 Benutzernamen
 Berechnungsarten
 Besuchererweiterung
+Betreiberseiten
 Bewertungssystem
 Bilddatenbank
 Bildergalerie
@@ -85,7 +87,9 @@ categories
 center
 Circle
 Classes
+Click
 Collapse
+Collect
 Columns
 Components
 con
@@ -237,6 +241,7 @@ Groups
 hard
 Hardwarebeschleunigung
 Hauptarchivs
+Hauptbaustein
 Hauptkonfigurationen
 Hauptsprache
 Have
@@ -362,6 +367,7 @@ Mitgliedergruppe
 Mitgliedergruppen
 mobilfähig
 mobilfähige
+Model
 Moduleinstellungen
 Modultyp
 Monitoring
@@ -472,6 +478,7 @@ Root
 Routenplaner
 Routenplanung
 Schaltfläche
+Schaufensterlisten
 Scheduler
 SCR
 Scripte

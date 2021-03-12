@@ -1,0 +1,12 @@
+en:
+  title: con4gis-Framework
+  description: >
+    Framework for Contao front end modules: Representation of lists and forms with React components.
+  keywords:
+    - con4gis
+    - framework
+    - front end
+    - module development
+    - forms
+    - lists
+    - react
