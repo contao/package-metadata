@@ -500,7 +500,7 @@ Sibling
 Sichtbarkeiten
 Slave
 Slider
-Sliders 
+Sliders
 Slides
 Social
 Socialmedia
