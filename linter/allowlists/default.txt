@@ -234,6 +234,7 @@ StoreLocator
 Stylesheet
 stylesheet
 svg
+Swiper
 Symfony
 SysCara
 tawk
