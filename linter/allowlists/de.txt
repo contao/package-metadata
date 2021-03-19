@@ -152,6 +152,7 @@ Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
+Elternelement
 Empfängerlisten
 Endgeräte
 Endgeräten
@@ -499,6 +500,8 @@ Sibling
 Sichtbarkeiten
 Slave
 Slider
+Sliders 
+Slides
 Social
 Socialmedia
 sogenannte

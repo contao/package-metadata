@@ -126,6 +126,7 @@ navbar
 navigations
 nestable
 Newsletter
+newslist
 Notification
 notification
 Open
