@@ -4,6 +4,7 @@ Accordion
 Active
 Admins
 Adress
+Adresses
 Advanced
 ajaxpagenierung
 AjaxPagination
@@ -145,6 +146,7 @@ Dritterweiterungen
 Drittstaatentransfer
 Duplication
 EasyThemes
+Edit
 Editing
 Eingabeprüfung
 Einrichtungsassistent
