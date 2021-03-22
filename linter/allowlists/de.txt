@@ -4,6 +4,7 @@ Accordion
 Active
 Admins
 Adress
+Addresses
 Advanced
 ajaxpagenierung
 AjaxPagination
@@ -145,6 +146,7 @@ Dritterweiterungen
 Drittstaatentransfer
 Duplication
 EasyThemes
+Edit
 Editing
 Eingabeprüfung
 Einrichtungsassistent
@@ -318,6 +320,7 @@ Leserseite
 Leuchtkästen
 Libraries
 Lieblingsinhalte
+Lieferadresse
 Lieferanschrift
 LinkedIn
 Linksammlungen
