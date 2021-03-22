@@ -1,0 +1,4 @@
+de:
+    title: Swiper
+    description: >
+        Stellt Swiper.js als Alternative zum bestehenden Slider des Contao Core zur Verfügung. Diese Implementation des Sliders ermöglicht es außerdem eine CSS-Klasse für das Elternelement der Slides anzugeben. Dadurch kann der Slider ohne Weiteres für bestehende Contao-Inhalte wie Galerien oder Nachrichtenlisten eingesetzt werden.
