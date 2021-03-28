@@ -13,3 +13,4 @@ de:
         - Positionsverfolgung
         - GPS
         - Telematik
+    dependency: true

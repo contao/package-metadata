@@ -5,3 +5,4 @@ de:
         Der Baustein hat "stand-alone" keine nutzbaren Funktionen und wird über Composer automatisch mit installiert.
     keywords:
         - con4gis
+    dependency: true

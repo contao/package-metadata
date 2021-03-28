@@ -8,3 +8,4 @@ en:
     - showcases
     - offers
     - operator
+  dependency: true

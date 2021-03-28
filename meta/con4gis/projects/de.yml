@@ -7,3 +7,4 @@ de:
         - con4gis
         - Frontend Framework
         - Webanwendungen
+    dependency: true

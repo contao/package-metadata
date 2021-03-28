@@ -10,3 +10,4 @@ de:
     - Formulare
     - Listen
     - React
+  dependency: true

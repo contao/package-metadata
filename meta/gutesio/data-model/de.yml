@@ -8,3 +8,4 @@ de:
     - Schaufenster
     - Angebote
     - Betreiber
+  dependency: true

@@ -6,3 +6,4 @@ en:
         - con4gis
         - front end framework
         - web applications
+    dependency: true

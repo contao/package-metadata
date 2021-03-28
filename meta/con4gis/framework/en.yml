@@ -10,3 +10,4 @@ en:
     - forms
     - lists
     - react
+  dependency: true

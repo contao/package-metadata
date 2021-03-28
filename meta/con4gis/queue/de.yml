@@ -7,3 +7,4 @@ de:
         - con4gis
         - Stapelverarbeitung
         - Stack
+    dependency: true

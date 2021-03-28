@@ -8,3 +8,4 @@ en:
         - stack
         - batch
         - processing
+    dependency: true
