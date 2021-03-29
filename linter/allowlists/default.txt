@@ -105,6 +105,9 @@ google
 googlemaps
 GPX
 Graphhopper
+gutes
+gutesio
+gutes.io
 Hofff
 hofff
 Host
