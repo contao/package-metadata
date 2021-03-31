@@ -26,6 +26,7 @@ Bulma
 bundle
 Bundle
 Bundles
+Burns
 Bynder
 Catalog
 ChangeLanguage
@@ -128,6 +129,7 @@ jQuery
 js
 JSON
 JWT
+Ken
 Klarna
 KlickTipp
 KML
@@ -223,6 +225,7 @@ Source
 Spectre
 Spotify
 sql
+standard
 start
 Start
 Stardate
