@@ -245,7 +245,7 @@ ThemeManager
 theme
 Themes
 Timeline
-Tiny Slider
+Tiny
 TinyJPG
 TinyMCE
 TinyPNG
