@@ -225,7 +225,6 @@ Source
 Spectre
 Spotify
 sql
-standard
 start
 Start
 Stardate
