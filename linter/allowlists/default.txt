@@ -28,6 +28,7 @@ Bulma
 bundle
 Bundle
 Bundles
+Burns
 Bynder
 Catalog
 ChangeLanguage
@@ -133,6 +134,7 @@ jQuery
 js
 JSON
 JWT
+Ken
 Klarna
 KlickTipp
 KML
@@ -254,6 +256,7 @@ ThemeManager
 theme
 Themes
 Timeline
+Tiny
 TinyJPG
 TinyMCE
 TinyPNG
