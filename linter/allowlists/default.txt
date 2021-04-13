@@ -99,6 +99,7 @@ geocoding
 GeoIP
 getLaw
 getlaw
+GDPR
 GIS
 gis
 GitHub
