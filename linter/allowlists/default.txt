@@ -58,6 +58,7 @@ DMS
 DOM
 DOMPDF
 DownloadMail
+DSGVO
 eCommerce
 Einzelhandelsgeschäfte
 Edition
@@ -81,6 +82,7 @@ Feed
 fieldset
 Fieldset
 Flex
+Flower
 Footer
 FOSSGIS
 Foundation
@@ -97,6 +99,7 @@ geocoding
 GeoIP
 getLaw
 getlaw
+GDPR
 GIS
 gis
 GitHub
@@ -120,6 +123,7 @@ iFrame
 Immobilienbörse
 ImmobilienScout
 Immobilienunternehmen
+Indie
 InsertTags
 Instagram
 Inszenium
@@ -212,11 +216,13 @@ README
 Reddit
 Reload
 REST
+Roboto
 RockSolid
 Rocksolid
 rocksolid
 rss
 RSS
+Sans
 SCSS
 SEO
 Selling
@@ -244,6 +250,7 @@ svg
 Swiper
 Symfony
 SysCara
+Tangerine
 tawk
 TCPDF
 Template
