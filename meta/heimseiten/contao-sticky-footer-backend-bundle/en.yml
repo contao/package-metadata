@@ -3,4 +3,4 @@ en:
     description: >
         Sticky footer for the back end with pure CSS. The footer is displayed immediately and not only after scrolling. Works also in debug mode.
     keywords:
-        - Backend
+        - Back end
