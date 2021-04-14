@@ -1,6 +1,6 @@
 de:
     title: Sticky Backend Footer
     description: >
-        Sticky Footer für das Backend mit purem css. Der Footer wird sofort angezeigt und nicht erst nach dem scrollen. Funktioniert auch im Debug-Modus.
+        Sticky Footer für das Backend mit purem CSS. Der Footer wird sofort angezeigt und nicht erst nach dem Scrollen. Funktioniert auch im Debug-Modus.
     keywords:
         - Backend
