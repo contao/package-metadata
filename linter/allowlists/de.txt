@@ -137,6 +137,7 @@ Datensichten
 Datenvervollständigung
 DC
 de
+Debug
 Detailansicht
 Detailinhalt
 Detailseite
