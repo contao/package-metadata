@@ -15,7 +15,7 @@ jobs:
               run: sudo apt-get install aspell aspell-en aspell-de aspell-cs aspell-es aspell-fr
 
             - name: Set up PHP
-              uses: shivammathur/setup-php@v1
+              uses: shivammathur/setup-php@v2
               with:
                   php-version: 7.4
                   extensions: json
