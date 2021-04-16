@@ -242,7 +242,7 @@ class LintCommand extends Command
 
         try {
             $this->io->writeln('Checking if package exists on packagist.org: '.$package, OutputInterface::VERBOSITY_DEBUG);
-            $this->getJson('https://repo.packagist.org/p/'.$package.'.json');
+            $this->getJson('https://repo.packagist.org/p2/'.$package.'.json');
         } catch (RequestException $e) {
             if (404 !== $e->getResponse()->getStatusCode()) {
                 // Shouldn't happen, throw

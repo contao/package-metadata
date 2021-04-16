@@ -12,6 +12,7 @@ declare(strict_types=1);
 
 namespace Contao\PackageMetaDataIndexer;
 
+use Composer\MetadataMinifier\MetadataMinifier;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Contracts\HttpClient\Exception\ExceptionInterface;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
@@ -67,14 +68,14 @@ class Packagist
                 return null;
             }
 
-            $repoData = $this->getJson('https://repo.packagist.org/p/'.$name.'.json');
+            $repoData = $this->getJson('https://repo.packagist.org/p2/'.$name.'.json');
 
             if (!isset($repoData['packages'][$name])) {
                 return null;
             }
 
             $data['packages'] = $packagesData['package'];
-            $data['p'] = $repoData['packages'][$name];
+            $data['p'] = MetadataMinifier::expand($repoData['packages'][$name]);
         } catch (ExceptionInterface $e) {
             $this->output->writeln(sprintf('Error fetching package "%s"', $name), OutputInterface::VERBOSITY_DEBUG);
 
