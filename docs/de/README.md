@@ -6,7 +6,7 @@ Es erlaubt das Übersetzen und Anreichern von Paketinformationen jedes beliebige
 auch Pakete, die nicht vom Typ `contao-bundle` sind (wie bspw. eine allgemeine PHP Excel Exportbibliothek), übersetzt
 werden.
 
-Die Metadaten werden im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden. Es wird 
+Die Metadaten werden im [YAML-Format][4] gespeichert und es kann ein Logo im SVG-Format angegeben werden. Es wird
 empfohlen, das Logo beispielsweise mittels [SVGO][6] bzw. dem GUI-Tool [SVGOMG][7] entsprechend zu optimieren.
 
 ## Beispiel einer Paketstruktur
@@ -51,22 +51,23 @@ Für weitere Informationen zum Dateiformat, sieh dir die [Transifex Dokumentatio
 
 ## YAML-Syntax
 
-In der YAML-Datei können die folgenden Keywörter definiert werden: 
+In der YAML-Datei können die folgenden Keywörter definiert werden:
 
-| | | 
-|-|-| 
-| __title__       | Der Titel der Extension| 
-| __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint | 
-| __keywords__    | Liste von Keywörtern für die Suche | 
-| __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für Anwendende gedacht sind (Standard: `false`) | 
-| __support__     | Übersetzung bzw. Angabe von sprach-spezifischen Support-Links der `composer.json`. Key-Value-Syntax: [Unterstützte Keys][8] | 
-| __suggest__     | Übersetzung der Texte für empfohlene Pakete (`suggest`-Abschnitt) | 
+| | |
+|-|-|
+| __title__       | Der Titel der Extension|
+| __description__ | Lange Beschreibung der Extension, die in der Detailansicht erscheint |
+| __keywords__    | Liste von Keywörtern für die Suche |
+| __dependency__  | Bei `true` wird die Extension nicht über die Suche gefunden. Dies ist der Fall für Extensions, die nicht für Anwendende gedacht sind (Standard: `false`) |
+| __support__     | Übersetzung bzw. Angabe von sprach-spezifischen Support-Links der `composer.json`. Key-Value-Syntax: [Unterstützte Keys][8] |
+| __suggest__     | Übersetzung der Texte für empfohlene Pakete (`suggest`-Abschnitt) |
+| __homepage__    | Homepage-Link für private Pakete, welche diese Information nicht per `composer.json` zur Verfügung stellen. |
 
 ## Öffentliche vs. private/proprietäre Pakete
 
 Das Metadaten-Repository füttert den Suchindex des Contao Managers und erlaubt die Suche sowohl nach öffentlichen als auch
 nach privaten bzw. proprietären Paketen. Entsprechend kannst du für beide Pakettypen Beschreibungen einreichen. Die
-Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der 
+Definition eines öffentlichen Pakets ist dessen Verfügbarkeit via [packagist.org][5]. Für private Pakete bietet der
 Contao Manager aktuell noch keinen automatisierten Installationsprozess. Deshalb ist eine "homepage" Pflichtangabe
 und soll Angaben zur Installation und ggf. zum Erwerb eines Lizenzschlüssels etc. enthalten.
 
@@ -77,8 +78,8 @@ werden.
 
 ## Rechtschreibprüfung
 
-Die Metadaten werden automatisch auf korrekte Rechtschreibung überprüft. Wenn die Überprüfung fehlschlägt, du dir aber sicher bist, 
-dass das Wort korrekt ist, musst du womöglich die Allow-Lists aktualisieren. Diese werden im Ordner `linter/allowlists` nach Sprache 
+Die Metadaten werden automatisch auf korrekte Rechtschreibung überprüft. Wenn die Überprüfung fehlschlägt, du dir aber sicher bist,
+dass das Wort korrekt ist, musst du womöglich die Allow-Lists aktualisieren. Diese werden im Ordner `linter/allowlists` nach Sprache
 gepflegt. Eigennamen und andere Begriffe, die in jeder Sprache identisch sind, werden in `default.txt` gepflegt.
 
 ## Unterstützte Sprachen

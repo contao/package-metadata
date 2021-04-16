@@ -6,7 +6,7 @@ It allows to translate and enhance package information of any [Composer][1] pack
 provide meta information for e.g. packages that are not of type `contao-bundle` but e.g. a suggestion of
 your very own bundle such as a general PHP excel library.
 
-The metadata is stored in [YAML format][4] and a logo can be specified in SVG format. It is recommended to 
+The metadata is stored in [YAML format][4] and a logo can be specified in SVG format. It is recommended to
 optimize the logo using [SVGO][6] or the GUI tool [SVGOMG][7], for example.
 
 ## Package structure example
@@ -54,14 +54,15 @@ For more information on the file format, see [the Transifex documentation][2]
 
 The following keywords can be defined in the meta data yaml file:
 
-| | | 
-|-|-| 
-| __title__       | Title of the extension | 
-| __description__ | Long description of the extension that shows up in the Details view | 
-| __keywords__    | List of keywords that will enhance search performance  | 
-| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: `false`) | 
-| __support__     | Allows you to provide differing support links for certain languages that originally are part of the `composer.json`. Key-value syntax: [supported keys][8] | 
-| __suggest__     | Provide translation of the texts within the `suggest` section | 
+| | |
+|-|-|
+| __title__       | Title of the extension |
+| __description__ | Long description of the extension that shows up in the Details view |
+| __keywords__    | List of keywords that will enhance search performance  |
+| __dependency__  | If true, the extension will not show up in the search. This is useful for extensions not tailored for end-users (default: `false`) |
+| __support__     | Allows you to provide differing support links for certain languages that originally are part of the `composer.json`. Key-value syntax: [supported keys][8] |
+| __suggest__     | Provide translation of the texts within the `suggest` section |
+| __homepage__    | Homepage for private packages, which do not provide this information through their `composer.json`. |
 
 ## Public vs. private/proprietary packages
 
