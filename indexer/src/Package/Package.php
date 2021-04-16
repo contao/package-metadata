@@ -376,8 +376,11 @@ class Package
 
         $data = array_replace_recursive($data, $this->getMetaForLanguage($language));
 
-        return array_filter($data, static function ($v) {
-            return null !== $v;
-        });
+        return array_filter(
+            $data,
+            static function ($v) {
+                return null !== $v;
+            }
+        );
     }
 }

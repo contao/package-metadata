@@ -166,14 +166,16 @@ class Factory
                     return $curr;
                 }
 
-                if ('-dev' !== substr($prev, -4)
+                if (
+                    '-dev' !== substr($prev, -4)
                     && 0 !== strpos($prev, 'dev-')
                     && (0 === strpos($curr, 'dev-') || '-dev' === substr($curr, -4))
                 ) {
                     return $prev;
                 }
 
-                if ('-dev' !== substr($curr, -4)
+                if (
+                    '-dev' !== substr($curr, -4)
                     && 0 !== strpos($curr, 'dev-')
                     && (0 === strpos($prev, 'dev-') || '-dev' === substr($prev, -4))
                 ) {
