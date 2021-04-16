@@ -15,7 +15,7 @@
         "composer/composer": "^1.9"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.16"
+        "contao/easy-coding-standard": "^3.0"
     },
     "authors": [
         {
@@ -27,5 +27,10 @@
         "psr-4": {
             "Contao\\PackageMetaDataLinter\\": "src/"
         }
+    },
+    "scripts": {
+        "cs-fixer": [
+            "vendor/bin/ecs check src/ --fix --ansi"
+        ]
     }
 }
