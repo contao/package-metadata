@@ -1,5 +1,4 @@
 en:
     title: Contao Haste
-    dependency: true
     description: >
         Haste is a collection of tools and classes to ease working with Contao. The extension also provides a collection of insert tags which can be useful for different purposes, e.g. converting or formatting dates. Further information about all the features of this extension can be found on GitHub.
