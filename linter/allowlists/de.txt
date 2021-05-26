@@ -443,6 +443,7 @@ Privacy
 production
 Produktkatalogen
 Produktpräsentation
+Produktslider
 Professional
 Programmierkenntnisse
 Projektwebseite

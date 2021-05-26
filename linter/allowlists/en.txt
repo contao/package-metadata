@@ -146,6 +146,7 @@ playout
 Plenta
 Plugin
 pre
+preconfigured
 prebuilt
 Preview
 Privacy
