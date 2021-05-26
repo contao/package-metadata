@@ -3,6 +3,10 @@ en:
     description: >
         In the shop version of the popular theme, there is a preconfigured Isotope eCommerce shop including an optimized
         start page and typical shop elements such as theme worlds, brands and product sliders in the chic MATE style.
+
+        We rely on the extensive official Isotope eCommerce Demo as a basis. All elements are styled for the MATE theme.
+        If you want to support Isotope eCommerce, you can join the Isotope Circle as a member or actively help with
+        the development.
     keywords:
         - Theme
         - Materialize
