@@ -1,0 +1,9 @@
+en:
+    title: mmenu - Mobile Navigation for Contao
+    description: >
+        Implementation of mmenu as an extension for Contao. mmenu is a JavaScript plugin by Fred Heusschen which provides an efficient navigation menu for many purposes.
+    keywords:
+        - contao
+        - navigation
+        - menu
+        - mobile
