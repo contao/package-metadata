@@ -1,9 +1,15 @@
+  
 en:
-    title: mmenu - Mobile Navigation for Contao
-    description: >
-        Implementation of mmenu as an extension for Contao. mmenu is a JavaScript plugin by Fred Heusschen which provides an efficient navigation menu for many purposes.
-    keywords:
-        - contao
-        - navigation
-        - menu
-        - mobile
+  title: Modal Gallery
+  description: >
+    Create a gallery where each slide can contain unlimited hotspot links which trigger modal boxes.
+  keywords:
+    - modal
+    - gallery
+    - bright
+    - cloud
+  homepage: https://www.brightcloudstudio.com/
+  support:
+    email: mark@brightcloudstudio.com
+    issues: https://github.com/bright-cloud-studio/modal-gallery/issues
+    source: https://github.com/bright-cloud-studio/modal-gallery
