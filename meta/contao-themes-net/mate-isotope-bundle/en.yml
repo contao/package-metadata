@@ -1,0 +1,23 @@
+en:
+    title: MATE Theme + Isotope
+    description: >
+        In the shop version of the popular theme, there is a preconfigured Isotope eCommerce shop including an optimized
+        start page and typical shop elements such as theme worlds, brands and product sliders in the chic MATE style.
+    keywords:
+        - Theme
+        - Materialize
+        - SEO
+        - Mobil
+        - optimized
+        - Template
+        - scss
+        - Style
+        - Layout
+        - Isotope
+        - Shop
+        - Demo
+    homepage: https://contao-themes.net/theme-detail/mate-isotope.html
+    support:
+        docs: https://pdir.de/docs/de/contao/themes/mate-isotope/
+        forum: https://community.contao.org
+        donation: https://contao-themes.net/sponsoring.html
