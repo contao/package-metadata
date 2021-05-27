@@ -1,0 +1,14 @@
+en:
+    title: Modal Gallery
+    description: >
+        A customized gallery with unlimited links that open modal boxes
+    keywords:
+        - modal
+        - gallery
+        - bright
+        - cloud
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/add-user-fields/issues
+        source: https://github.com/bright-cloud-studio/add-user-fields
+        
