@@ -1,15 +1,15 @@
 en:
-  title: Add User Fields
-  description: >
-    Adds two custom user fields, image and bio, so they can be displayed on News posts and elsewhere
+    title: Add User Fields
+    description: >
+        Adds two custom user fields, image and bio, so they can be displayed on News posts and elsewhere
   keywords:
-    - add
-    - user
-    - fields
-    - bright
-    - cloud
-  homepage: https://www.brightcloudstudio.com/
-  support:
-    email: mark@brightcloudstudio.com
-    issues: https://github.com/bright-cloud-studio/add-user-fields/issues
-    source: https://github.com/bright-cloud-studio/add-user-fields
+    keywords:
+        - add
+        - user
+        - fields
+        - bright
+        - cloud
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/add-user-fields/issues
+        source: https://github.com/bright-cloud-studio/add-user-fields
