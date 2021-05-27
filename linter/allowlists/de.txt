@@ -443,6 +443,7 @@ Privacy
 production
 Produktkatalogen
 Produktpräsentation
+Produktslider
 Professional
 Programmierkenntnisse
 Projektwebseite
@@ -578,6 +579,7 @@ Textfeldern
 Textfeldes
 textwizard
 Texteigenschaften
+Themenwelten
 ThemeRoller
 Ticker
 Tiles
