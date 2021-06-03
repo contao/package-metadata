@@ -52,23 +52,25 @@ class LintCommand extends Command
             ->setDescription('Lint all the metadata.')
             ->addArgument('files', InputArgument::OPTIONAL | InputArgument::IS_ARRAY, 'To lint specific files')
             ->addOption('skip-private-check', null, InputOption::VALUE_NONE, 'Do not check packagist if a package is private.')
+            ->addOption('skip-spell-check', null, InputOption::VALUE_NONE, 'Do not check spelling.')
         ;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        $this->spellChecker = new SpellChecker(__DIR__.'/../allowlists');
         $this->io = new SymfonyStyle($input, $output);
         $this->io->title('Contao Package metadata linter');
 
         $this->validatePackageNames();
 
         if ($files = $input->getArgument('files')) {
-            $this->validateFiles($files, $input->getOption('skip-private-check'));
+            $this->validateFiles($files, $input->getOption('skip-private-check'), $input->getOption('skip-spell-check'));
 
             return $this->error ? 1 : 0;
         }
 
-        $this->validateMetadata($input->getOption('skip-private-check'));
+        $this->validateMetadata($input->getOption('skip-private-check'), $input->getOption('skip-spell-check'));
         $this->validateComposerJson();
 
         if (!$this->error) {
@@ -78,7 +80,7 @@ class LintCommand extends Command
         return $this->error ? 1 : 0;
     }
 
-    private function validateFiles(array $files, $skipPrivate): void
+    private function validateFiles(array $files, bool $skipPrivate, bool $skipSpellCheck): void
     {
         foreach ($files as $path) {
             $file = new \SplFileInfo(realpath($path));
@@ -92,12 +94,12 @@ class LintCommand extends Command
             if ('composer.json' === $file->getFilename()) {
                 $this->validateComposerFile($file);
             } else {
-                $this->validateMetadataFile($file, $skipPrivate);
+                $this->validateMetadataFile($file, $skipPrivate, $skipSpellCheck);
             }
         }
     }
 
-    private function validateMetadata(bool $skipPrivate): void
+    private function validateMetadata(bool $skipPrivate, bool $skipSpellCheck): void
     {
         $finder = new Finder();
         $finder->files()->in(__DIR__.'/../../meta')->depth('== 2')->name('*.{yaml,yml}');
@@ -106,18 +108,14 @@ class LintCommand extends Command
         $this->io->progressStart($finder->count());
 
         foreach ($finder as $file) {
-            $this->validateMetadataFile($file, $skipPrivate);
+            $this->validateMetadataFile($file, $skipPrivate, $skipSpellCheck);
         }
 
         $this->io->progressFinish();
     }
 
-    private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate): void
+    private function validateMetadataFile(\SplFileInfo $file, bool $skipPrivate, bool $skipSpellCheck): void
     {
-        if (null === $this->spellChecker) {
-            $this->spellChecker = new SpellChecker(__DIR__.'/../allowlists');
-        }
-
         $package = basename(\dirname($file->getPath())).'/'.basename($file->getPath());
         $language = str_replace(['.yaml', '.yml'], '', $file->getBasename());
 
@@ -159,10 +157,8 @@ class LintCommand extends Command
         }
 
         // Content
-        if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage)) {
+        if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage, $skipSpellCheck)) {
             $this->error($package, $language, 'The YAML file contains invalid data.');
-
-            return;
         }
     }
 
@@ -255,7 +251,7 @@ class LintCommand extends Command
         return $packageCache[$package] = false;
     }
 
-    private function validateContent(string $package, string $language, array $content, bool $requiresHomepage): bool
+    private function validateContent(string $package, string $language, array $content, bool $requiresHomepage, bool $skipSpellCheck): bool
     {
         $data = json_decode(json_encode($content));
 
@@ -273,7 +269,19 @@ class LintCommand extends Command
             $this->io->error($message);
         }
 
-        // Spellcheck certain properties
+        if (!$validator->isValid()) {
+            return false;
+        }
+
+        if ($skipSpellCheck) {
+            return true;
+        }
+
+        return $this->spellCheck($package, $language, $content);
+    }
+
+    private function spellCheck(string $package, string $language, array $content): bool
+    {
         foreach (['title', 'description'] as $key) {
             if (!isset($content[$key])) {
                 continue;
@@ -296,7 +304,7 @@ class LintCommand extends Command
             }
         }
 
-        return $validator->isValid();
+        return true;
     }
 
     private function error(string $package, string $language, string $message): void
