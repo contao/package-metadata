@@ -16,7 +16,6 @@ jobs:
               with:
                   php-version: 7.4
                   extensions: json
-                  tools: prestissimo
 
             - name: Checkout
               uses: actions/checkout@v2

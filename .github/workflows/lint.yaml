@@ -19,7 +19,6 @@ jobs:
               with:
                   php-version: 7.4
                   extensions: json
-                  tools: prestissimo
 
             - uses: actions/checkout@v2
             - run: git fetch --prune --unshallow
