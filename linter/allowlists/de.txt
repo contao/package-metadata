@@ -478,6 +478,7 @@ Rendereinstellungen
 Repository
 reservierbare
 Responsive
+responsive
 responsiven
 Rewrite
 Rewriting
