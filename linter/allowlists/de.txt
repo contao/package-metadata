@@ -48,6 +48,8 @@ Bedingungsfelder
 Bedingungsfeldern
 Been
 Beispieldaten
+Belegungsplan
+Belegungspläne
 Benachrichtigungstypen
 Benachrichtigungszentrum
 Benutzerdaten
