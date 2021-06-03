@@ -5,7 +5,7 @@ on:
         paths:
             - 'meta/**'
     schedule:
-        - cron: '0 12 1 * *'
+        - cron: '0 12 * * 1'
 
 jobs:
     lint:
@@ -37,5 +37,9 @@ jobs:
               run: |
                   echo "metafiles=$(git diff --name-only origin/main -- | grep -E "^meta/[^/]+/[^/]+/.+?\.(yml|json)" | uniq | tr '\n' ' ')" >> $GITHUB_ENV
 
-            - name: Lint files
+            - name: Lint files without spell check
+              run: linter/lint --skip-spell-check ${{ env.metafiles }}
+
+            - name: Lint files with spell check
               run: linter/lint ${{ env.metafiles }}
+              continue-on-error: ${{ github.event_name == 'pull_request' }}
