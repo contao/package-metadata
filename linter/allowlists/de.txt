@@ -185,6 +185,8 @@ Fallback
 Farbschemen
 Favicons
 FE
+Feed
+Feeds
 Felderguppen
 Fields
 File
@@ -476,6 +478,7 @@ Rendereinstellungen
 Repository
 reservierbare
 Responsive
+responsive
 responsiven
 Rewrite
 Rewriting
