@@ -185,6 +185,8 @@ Fallback
 Farbschemen
 Favicons
 FE
+Feed
+Feeds
 Felderguppen
 Fields
 File
