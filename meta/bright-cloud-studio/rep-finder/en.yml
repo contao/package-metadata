@@ -1,11 +1,10 @@
 en:
-    title: Add User Fields
+    title: Rep Finder
     description: >
-        Adds two custom user fields, image and bio, so they can be displayed on News posts or elsewhere.
+        Adds a front end module to search for representatives by ZIP Code, and a back end system for managing it.
     keywords:
-        - add
-        - user
-        - fields
+        - rep
+        - finder
         - bright
         - cloud
     support:
