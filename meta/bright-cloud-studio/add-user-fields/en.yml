@@ -1,7 +1,7 @@
 en:
     title: Add User Fields
     description: >
-        Adds two custom user fields, image and bio, so they can be displayed on News posts or elsewhere
+        Adds two custom user fields, image and bio, so they can be displayed on News posts or elsewhere.
     keywords:
         - add
         - user
