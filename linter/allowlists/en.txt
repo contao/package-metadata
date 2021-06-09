@@ -88,7 +88,6 @@ Head
 HeaderFooterCode
 helpdesk
 History
-hotspot
 infos
 Insert
 Install
