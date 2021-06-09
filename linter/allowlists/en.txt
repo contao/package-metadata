@@ -88,6 +88,7 @@ Head
 HeaderFooterCode
 helpdesk
 History
+hotspot
 infos
 Insert
 Install
@@ -146,6 +147,7 @@ playout
 Plenta
 Plugin
 pre
+preconfigured
 prebuilt
 Preview
 Privacy

@@ -48,6 +48,8 @@ Bedingungsfelder
 Bedingungsfeldern
 Been
 Beispieldaten
+Belegungsplan
+Belegungspläne
 Benachrichtigungstypen
 Benachrichtigungszentrum
 Benutzerdaten
@@ -185,6 +187,8 @@ Fallback
 Farbschemen
 Favicons
 FE
+Feed
+Feeds
 Felderguppen
 Fields
 File
@@ -443,6 +447,7 @@ Privacy
 production
 Produktkatalogen
 Produktpräsentation
+Produktslider
 Professional
 Programmierkenntnisse
 Projektwebseite
@@ -475,6 +480,7 @@ Rendereinstellungen
 Repository
 reservierbare
 Responsive
+responsive
 responsiven
 Rewrite
 Rewriting
@@ -578,6 +584,7 @@ Textfeldern
 Textfeldes
 textwizard
 Texteigenschaften
+Themenwelten
 ThemeRoller
 Ticker
 Tiles
