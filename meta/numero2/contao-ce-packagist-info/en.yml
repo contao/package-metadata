@@ -1,0 +1,3 @@
+en:
+    title: Information about packages from packagist.com
+    description: Content Element that grabs and displays metadata about a package from packagist.org..
