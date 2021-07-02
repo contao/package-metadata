@@ -1,0 +1,3 @@
+en:
+    title: Simple Isotope stock management
+    description: The simplest ERP system for Isotope eCommerce. Products can be assigned a quota which is decreased with each order. Optionally, products can be automatically switched invisible as soon as no more stock is available.

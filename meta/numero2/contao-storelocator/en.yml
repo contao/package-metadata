@@ -1,0 +1,3 @@
+en:
+    title: Contao StoreLocator
+    description: Extension for managing stores (or in common address data) and providing a frontend-search based on geo data.
