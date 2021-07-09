@@ -1,0 +1,8 @@
+de:
+    title: Amazon SNS Gateway
+    description: Integration von AWS SNS als Gateway für das Notification Center.
+    keywords:
+        - aws
+        - sns
+        - sms
+        - notification_center
