@@ -248,6 +248,7 @@ Input
 Inputtype
 Insert
 Install
+Installationspaket
 Jobbörse
 Kalenderformate
 Kartenanwendung
