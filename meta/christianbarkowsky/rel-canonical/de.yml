@@ -1,5 +1,5 @@
 de:
-    title: rel-canonical
+    title: rel-canonical (Canonical Tag)
     description: >
         Mit dieser Erweiterung kannst du das Header-Tag rel="canonical" nutzen, falls du auf deiner Webseite Seiten mit gleichen Inhalten hast und sich dies nicht vermeiden lässt.
     keywords:
