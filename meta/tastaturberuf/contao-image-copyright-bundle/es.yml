@@ -2,7 +2,7 @@ es:
     title: Información sobre la licencia de las imágenes
     description: >
         Con este paquete de Contao, puede añadir fácilmente un aviso de licencia para cada imagen y luego mostrarlas en un módulo.
-        Especialmente útil si utiliza banco de imágenes de varios proveedores y necesita mostrar la información de la licencia.
+        Especialmente útil si utiliza fotos de stock de varios proveedores y necesita mostrar la información de la licencia.
     keywords:
         - copyright
         - derechos de autor
