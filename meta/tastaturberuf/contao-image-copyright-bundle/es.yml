@@ -1,0 +1,20 @@
+es:
+    title: Información sobre la licencia de las imágenes
+    description: >
+        Con este paquete de Contao, puede añadir fácilmente un aviso de licencia para cada imagen y luego mostrarlas en un módulo.
+        Especialmente útil si utiliza banco de imágenes de varios proveedores y necesita mostrar la información de la licencia.
+    keywords:
+        - copyright
+        - derechos de autor
+        - stock
+        - stockfotos
+        - fotos de archivo
+        - istock
+        - fotolia
+        - licencia
+        - imágenes
+        - derechos de autor
+    support:
+        email: code@tastaturberuf.de
+        issues: https://github.com/Tastaturberuf/contao-image-copyright-bundle/issues
+        source: https://github.com/Tastaturberuf/contao-image-copyright-bundle/
