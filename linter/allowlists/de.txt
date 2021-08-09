@@ -492,6 +492,8 @@ TabControl
 Tabellenzeile
 TableLookupWizard
 Tabs
+Tageszeitabhängige
+Tageszeitliche
 Teaser
 Teaserbild
 Teaserbox
