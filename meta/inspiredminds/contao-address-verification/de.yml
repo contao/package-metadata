@@ -1,4 +1,8 @@
 de:
     title: Address Verification
     description: >
+<<<<<<< HEAD
         Diese Extension erlaubt es, Adressen im Backend anzulegen und zu verwalten. Gegen diese Adressen kann dann eine eingegebene Adresse im Frontend verifiziert werden. Je nach Ergebnis der Verifizierung wird dann anderer Inhalt angezeigt (oder eine andere Weiterleitung ausgeführt). Es kommt außerdem ein einfaches Autocomplete Skript zum Einsatz, welches die eingegebenen Adressen im Frontend zur Verfügung stellt.
+=======
+        Diese Extension erlaubt es Adressen im Backend anzulegen und zu verwalten. Gegen diese Adressen kann dann eine eingegebene Adresse im Frontend verifiziert werden. Je nach Ergebnis der Verifizierung wird dann anderer Inhalt angezeigt (oder eine andere Weiterleitung ausgeführt). Es kommt außerdem ein einfaches Autocomplete Script zum Einsatz, welches die eingegebenen Adressen im Frontend zur Verfügung stellt.
+>>>>>>> add inspiredminds/contao-address-verification
