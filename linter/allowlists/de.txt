@@ -3,6 +3,7 @@ Academy
 Access
 Accordion
 Active
+Address
 Addresses
 Admins
 Adress
@@ -524,6 +525,7 @@ Unified
 Uploader
 Uploads
 Validierung
+Verification
 Varone
 Verkaufsobjekte
 Vermietungsabteilung

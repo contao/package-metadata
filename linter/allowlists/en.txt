@@ -10,6 +10,8 @@ assets
 Assistant
 autocompletion
 Avatar
+autocomplete
+autocompleted
 automator
 backend
 base
