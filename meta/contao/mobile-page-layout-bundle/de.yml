@@ -1,5 +1,6 @@
 de:
     title: Mobiles Seitenlayout für Contao 4.8+
+    discoverable: false
     description: >
         In Contao 4.8 wurde die Unterstützung für mobile Seitenlayouts entfernt.
         Wenn deine Webseite diese Funktion weiterhin benötigt, installiere diese Erweiterung. Beachte,

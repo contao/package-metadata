@@ -1,5 +1,6 @@
 de:
     title: Contao FAQ
+    discoverable: false
     description: >
         Erweitert Contao um FAQ-Funktionalität. Damit wird das Verwalten von häufig gestellten Fragen ein
         Kinderspiel. Im Backend von Contao können Ihre Redakteure ganz einfach die Fragen und die Antwort darauf verwalten

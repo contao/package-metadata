@@ -1,5 +1,6 @@
 de:
     title: Contao Kommentare
+    discoverable: false
     description: >
         Erweitert Contao um Kommentar-Funktionen. Du kannst es nutzen um generelle Kommentarfunktionalität
         zu Contao hinzuzufügen. Beliebige weitere Bundles können wiederum dieses Bundle nutzen um selbst eine

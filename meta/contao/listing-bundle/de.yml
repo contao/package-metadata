@@ -1,5 +1,6 @@
 de:
     title: Contao Auflistungen
+    discoverable: false
     description: >
         Erweitert Contao um Auflistungsfunktionen. Das Frontendmodul kann eine beliebige Datenbank-Tabelle
         mit einem beliebigen Template darstellen und verfügt ausserdem über Filterfunktionalität, so dass bspw.

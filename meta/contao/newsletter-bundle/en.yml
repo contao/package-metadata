@@ -1,5 +1,6 @@
 en:
     title: Contao Newsletter
+    discoverable: false
     description: >
         Adds newsletter functionality to Contao. It allows to manage different newsletters and recipient
         lists. Sending newsletters is done directly from the back end as well and styling them is very easy thanks
