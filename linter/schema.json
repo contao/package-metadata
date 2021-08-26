@@ -78,6 +78,10 @@
     "dependency": {
       "type": "boolean",
       "description": "If this package is a dependency. The package is only installable if it's a suggestion of an installed package."
+    },
+    "discoverable": {
+      "type": "boolean",
+      "description": "If the package is not discoverable, it will not show up in most downloaded, top rated etc."
     }
   },
   "additionalProperties": false
