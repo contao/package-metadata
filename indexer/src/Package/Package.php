@@ -384,7 +384,7 @@ class Package
             'released' => $this->getReleased(),
             'updated' => $this->getUpdated(),
             'dependency' => $this->isDependency(),
-            'discoverable' => $this->isDiscoverable(),
+            'discoverable' => $this->isDiscoverable() && !$this->isDependency(),
             'abandoned' => $this->getAbandoned(),
             'private' => $this->isPrivate(),
             'suggest' => $this->getSuggest(),
