@@ -384,7 +384,7 @@ class Package
             'released' => $this->getReleased(),
             'updated' => $this->getUpdated(),
             'dependency' => $this->isDependency(),
-            'discoverable' => $this->isDiscoverable() && !$this->isDependency(),
+            'discoverable' => $this->isDiscoverable(),
             'abandoned' => $this->getAbandoned(),
             'private' => $this->isPrivate(),
             'suggest' => $this->getSuggest(),
@@ -393,6 +393,10 @@ class Package
         ];
 
         $data = array_replace_recursive($data, $this->getMetaForLanguage($language));
+
+        if ($data['dependency']) {
+            $data['discoverable'] = false;
+        }
 
         return array_filter(
             $data,
