@@ -529,7 +529,6 @@ Uploads
 Validierung
 Verification
 Varone
-Vererbungsstufe
 Verkaufsobjekte
 Vermietungsabteilung
 Verschlüsselungsklasse
