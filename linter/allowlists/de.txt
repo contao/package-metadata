@@ -21,6 +21,7 @@ Animations
 AntiSpam
 Api
 Archiving
+Article
 Artikeleigenschaften
 Artikelvererbung
 Assets
@@ -245,6 +246,7 @@ Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
+Inherit
 Input
 Inputtype
 Insert
