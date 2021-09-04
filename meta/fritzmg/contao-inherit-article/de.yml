@@ -1,0 +1,4 @@
+de:
+    title: Inherit Article
+    description: >
+        Erlaubt es Artikel in der Seitenstruktur nach unten zu vererben. Dabei kann die maximale Vererbungsstufe so wie die Reihenfolge der vererbten Artikel festgelegt werden.

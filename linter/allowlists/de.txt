@@ -21,6 +21,7 @@ Animations
 AntiSpam
 Api
 Archiving
+Article
 Artikeleigenschaften
 Artikelvererbung
 Assets
@@ -244,6 +245,7 @@ Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
+Inherit
 Input
 Inputtype
 Insert
@@ -527,6 +529,7 @@ Uploads
 Validierung
 Verification
 Varone
+Vererbungsstufe
 Verkaufsobjekte
 Vermietungsabteilung
 Verschlüsselungsklasse
