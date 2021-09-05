@@ -1,0 +1,18 @@
+en:
+    title: Dismissable Banner Element
+    description: >
+        This Bundle provides a dismissable banner content element.
+        The dismiss of the banner is stored in the local storage of the browser.
+        The banner will also be shown again after the configured expiry time (default: 30 days) or if it has been modified in the back end since the dismiss of the visitor.
+    keywords:
+        - contao
+        - dismissable
+        - dismissible
+        - banner
+        - overlay
+        - popover
+        - element
+        - content
+        - close
+        - expiry
+        - hide
