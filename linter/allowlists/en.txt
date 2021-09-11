@@ -56,6 +56,8 @@ DC
 de
 debug
 Detection
+Dismissable
+dismissable
 dlh
 Documents
 EasyThemes
