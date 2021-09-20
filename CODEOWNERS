@@ -16,6 +16,7 @@
 /meta/contao/ @contao/reviewers
 /meta/contao-components/ @contao/reviewers
 /meta/contao-themes-net/ @MDevster
+/meta/contao-themes-shop/ @contao-themes-shop
 /meta/contao-dd/ @MDevster
 /meta/contao-monitoring/ @cliffparnitzky
 /meta/contao-dms/ @cliffparnitzky

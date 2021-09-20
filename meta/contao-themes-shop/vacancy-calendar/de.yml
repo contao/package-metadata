@@ -1,0 +1,12 @@
+de:
+    title: Belegungsplan
+    description: >
+        Einfache Darstellung und Konfiguration von Belegungen für verschiedene Objekte. Ausgabe als Frontend-Modul pro Objekt.
+    keywords:
+        - Belegungsplan
+        - Verfügbarkeiten
+        - Belegungskalender
+        - Belegungen
+        - Verfügbarkeiten
+    support:
+        issues: https://github.com/contao-themes-shop/vacancy-calendar/issues

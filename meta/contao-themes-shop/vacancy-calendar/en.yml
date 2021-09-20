@@ -1,0 +1,10 @@
+de:
+    title: Vacancy calendar
+    description: >
+        Allows the display of vacancies for different objects in a simple and convenient way. For each object a frontend-module is used.
+    keywords:
+        - Vacancy calendar
+        - availibility
+        - vacancy
+    support:
+        issues: https://github.com/contao-themes-shop/vacancy-calendar/issues
