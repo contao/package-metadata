@@ -1,7 +1,7 @@
 en:
     title: Vacancy calendar
     description: >
-        Allows the display of vacancies for different objects in a simple and convenient way. For each object a frontend-module is used.
+        Allows the display of vacancies for different objects in a simple and convenient way. For each object a front end module is used.
     keywords:
         - Vacancy calendar
         - availibility
