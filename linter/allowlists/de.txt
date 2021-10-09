@@ -416,6 +416,7 @@ Rechtsklick
 Rechtstexte
 Regex
 Registerkarte
+Registration
 Regular
 Related
 Remember
