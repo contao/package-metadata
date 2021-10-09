@@ -1,0 +1,4 @@
+de:
+    title: Event Registration
+    description: >
+        Diese Erweiterung ermöglicht Registrierungen für Events bzw. Veranstaltungen. Diese Events können eine optionale maximale und minimale Anzahl an Registrierungen haben. Auch ein Zeitraum für die Registrierung kann definiert werden. Optional kann auch eingestellt werden, dass Registrierungen bestätigt werden müssen. Alle Registrierungen werden im Haupt-Event zusammengefasst, falls die ChangeLanguage Erweiterung zum Einsatz kommt.

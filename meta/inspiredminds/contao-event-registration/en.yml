@@ -1,0 +1,4 @@
+en:
+    title: Event Registration
+    description: >
+        This extension allows registration for events. Events can have an optional minimum and maximum amount of participants. A registration time frame can be defined as well as whether registrations have to be confirmed. All registrations will be saved in the main event when used in conjunction with the ChangeLanguage extension.
