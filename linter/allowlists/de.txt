@@ -131,9 +131,11 @@ Detection
 Directory
 Documents
 Down
+Drag
 Drittanbieter
 Dritterweiterungen
 Drittstaatentransfer
+Drop
 Duplication
 EasyThemes
 Edit
@@ -462,6 +464,7 @@ Sliders
 Slides
 Social
 Socialmedia
+Sortiermöglichkeiten
 Sortierungsfunktionen
 Sorting
 Source
