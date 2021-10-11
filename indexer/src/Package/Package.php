@@ -85,6 +85,11 @@ class Package
     private $dependency = false;
 
     /**
+     * @var bool
+     */
+    private $discoverable = true;
+
+    /**
      * @var string|bool
      */
     private $abandoned = false;
@@ -275,6 +280,18 @@ class Package
         return $this;
     }
 
+    public function isDiscoverable(): bool
+    {
+        return $this->discoverable;
+    }
+
+    public function setDiscoverable(bool $discoverable): self
+    {
+        $this->discoverable = $discoverable;
+
+        return $this;
+    }
+
     /**
      * @return bool|string
      */
@@ -367,6 +384,7 @@ class Package
             'released' => $this->getReleased(),
             'updated' => $this->getUpdated(),
             'dependency' => $this->isDependency(),
+            'discoverable' => $this->isDiscoverable(),
             'abandoned' => $this->getAbandoned(),
             'private' => $this->isPrivate(),
             'suggest' => $this->getSuggest(),
@@ -376,8 +394,15 @@ class Package
 
         $data = array_replace_recursive($data, $this->getMetaForLanguage($language));
 
-        return array_filter($data, static function ($v) {
-            return null !== $v;
-        });
+        if ($data['dependency']) {
+            $data['discoverable'] = false;
+        }
+
+        return array_filter(
+            $data,
+            static function ($v) {
+                return null !== $v;
+            }
+        );
     }
 }

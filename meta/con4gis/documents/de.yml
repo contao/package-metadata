@@ -6,3 +6,4 @@ de:
         - con4gis
         - dompdf
         - PDF Generator
+    dependency: true

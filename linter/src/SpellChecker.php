@@ -55,7 +55,7 @@ class SpellChecker
         return $this->filterAllowedWords($language, $errors);
     }
 
-    private function loadSupportedLanguages()
+    private function loadSupportedLanguages(): void
     {
         $process = new Process([
             'aspell',

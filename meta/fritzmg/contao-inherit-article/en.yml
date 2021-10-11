@@ -1,0 +1,4 @@
+en:
+    title: Inherit Article
+    description: >
+        Allows inheritable articles within Contao. In each article's settings, you have the option to let it inherit downwards in the page hierarchy of Contao. When enabled, the article will be visible on its parent page and all subpages of that parent. You can also set the maximum inheritance level as well as a priority in order to influence the order of inherited articles.

@@ -1,0 +1,11 @@
+de:
+  title: gutes.io Data-Model
+  description: >
+    Datenmodell für gutes.io Betreiber- und Anbieterseiten.
+  keywords:
+    - gutes.io
+    - gutesio
+    - Schaufenster
+    - Angebote
+    - Betreiber
+  dependency: true

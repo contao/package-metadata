@@ -1,5 +1,6 @@
 de:
     title: Contao News
+    discoverable: false
     description: >
         Erweitert Contao um News-Funktionalität. Damit können im Backend News-Einträge verwaltet und via
         verschiedener Frontend-Module ausgegeben werden. Eine News kann mittels Inhaltselementen beliebig strukturiert
@@ -9,4 +10,3 @@ de:
         - neuigkeiten
         - ankündigungen
         - blog
-

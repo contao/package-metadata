@@ -1,3 +1,4 @@
 de:
     title: PDF-Artikel
     description: Generiert Artikel als PDF für Contao.
+    discoverable: false

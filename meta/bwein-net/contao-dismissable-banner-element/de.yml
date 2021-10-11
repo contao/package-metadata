@@ -1,0 +1,25 @@
+de:
+    title: Abweisbares Bannerelement
+    description: >
+        Diese Erweiterung bietet ein abweisbares bzw. ausblendbares Banner-Inhaltselement.
+        Die Ablehnung des Banners wird im lokalen Speicher des Browsers gespeichert.
+        Das Banner wird nach der konfigurierten Ablaufzeit (Standard: 30 Tage) wieder angezeigt oder wenn es im Backend seit der Ablehnung des Besuchers geändert wurde.
+    keywords:
+        - contao
+        - dismissable
+        - dismissible
+        - banner
+        - overlay
+        - popover
+        - element
+        - content
+        - close
+        - expiry
+        - hide
+        - ablehnbar
+        - ausblendbar
+        - schließen
+        - ablauf
+        - ausblenden
+        - verstecken
+        - inhaltselement

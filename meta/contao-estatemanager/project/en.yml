@@ -1,0 +1,13 @@
+en:
+    title: Contao EstateManager Project / New Construction
+    description: >
+        The Projects / New Construction extension for the Contao EstateManager enables the presentation of new
+        construction projects, objects with multiple residential units or entire residential parks.
+    keywords:
+        - realestate
+        - estate
+        - project
+        - new construction
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

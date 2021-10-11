@@ -1,0 +1,4 @@
+en:
+    title: Address Verification
+    description: >
+        This extension allows you to manage addresses in the back end which can then be verified against in the front end. The extension provides a module where front end visitors can enter their address. This address will be verified against the stored addresses and different content will then be shown (or different redirects will be executed), depending on the verification result. The module also provides a simple autocomplete script by default. All the entered addresses in the back end will be provided for autocompletion on the street input field of the address. The chosen autocompleted result will be filled in in all input fields (street, number, apartment, city and country).

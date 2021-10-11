@@ -1,0 +1,13 @@
+en:
+    title: Contao EstateManager Google Maps
+    description: >
+        The Google Maps extension for Contao EstateManager allows you to display properties on a Google map.
+    keywords:
+        - realestate
+        - estate
+        - google
+        - map
+        - cluster
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

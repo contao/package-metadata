@@ -1,0 +1,38 @@
+name: Rebuild the package index
+
+on:
+    workflow_dispatch:
+        inputs:
+            arguments:
+                description: 'Arguments for the indexer command.'
+                required: false
+
+jobs:
+    index:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Set up PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: 7.4
+                  extensions: json
+
+            - name: Checkout
+              uses: actions/checkout@v2
+
+            - name: Cache Composer Vendor
+              uses: actions/cache@v1
+              with:
+                  path: indexer/vendor/
+                  key: ${{ runner.os }}-indexer-vendor-${{ hashFiles('indexer/composer.lock') }}
+                  restore-keys: ${{ runner.os }}-indexer-vendor-
+
+            - name: Install the dependencies
+              run: cd indexer && composer install --no-interaction --no-suggest
+
+            - name: Update Index
+              run: indexer/index ${{ github.event.inputs.arguments }}
+              env:
+                  ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+                  ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+                  ALGOLIA_INDEX: v3_packages

@@ -1,3 +1,4 @@
+
 en:
     title: Contao Time Tracking Bundle
     description: >
@@ -8,4 +9,3 @@ en:
         - activity
         - actions
         - user
-        

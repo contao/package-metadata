@@ -7,3 +7,4 @@ en:
         - maps
         - tracking
         - GPS
+    dependency: true

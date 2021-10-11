@@ -1,8 +1,11 @@
-* @aschempp @Toflar
+/.github @aschempp @Toflar
+/indexer @aschempp @Toflar
+/linter/src @aschempp @Toflar
 
 /meta/
 /meta/bastibuck/ @bastibuck
 /meta/bohnmedia/ @bohnmedia
+/meta/bright-cloud-studio/ @bright-cloud-studio
 /meta/brkwsky/ @christianbarkowsky
 /meta/bugbuster/ @BugBuster1701
 /meta/bwein-net/ @rabauss
@@ -13,6 +16,7 @@
 /meta/contao/ @contao/reviewers
 /meta/contao-components/ @contao/reviewers
 /meta/contao-themes-net/ @MDevster
+/meta/contao-themes-shop/ @contao-themes-shop
 /meta/contao-dd/ @MDevster
 /meta/contao-monitoring/ @cliffparnitzky
 /meta/contao-dms/ @cliffparnitzky
@@ -23,15 +27,20 @@
 /meta/estao-immo/ @christianbarkowsky
 /meta/friends-of-contao/ @frontendschlampe
 /meta/fritzmg/ @fritzmg
+/meta/gutesio/ @coastforge-mei
 /meta/inspiredminds/ @fritzmg
 /meta/isotope/ @aschempp @Toflar @netzarbeiter
 /meta/madeyourday/ @ausi
 /meta/markenzoo/ @felix-kaestner
 /meta/myparcelcom/ @derkurier100
 /meta/netzmacht/ @dmolineus
+/meta/numero2/ @bennyborn
 /meta/oneup/ @bytehead @sheeep
 /meta/pdir/ @MDevster
 /meta/syncgw/ @syncgw
 /meta/terminal42/ @aschempp @Toflar @qzminski @richardhj
 /meta/trilobit-gmbh/ @trilobit-gmbh
 /meta/wangaz/ @7FyOh
+/meta/oveleon/ @doishub @eki89
+/meta/contao-thememanager/ @doishub @eki89
+/meta/contao-estatemanager/ @doishub @eki89

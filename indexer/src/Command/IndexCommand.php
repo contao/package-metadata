@@ -49,7 +49,7 @@ class IndexCommand extends Command
     private $index;
 
     /**
-     * @var Package[]
+     * @var array<Package>
      */
     private $packages = [];
 
@@ -93,7 +93,7 @@ class IndexCommand extends Command
         $this
             ->setName('package-index')
             ->setDescription('Indexes package metadata')
-            ->addArgument('packages', InputArgument::OPTIONAL|InputArgument::IS_ARRAY, 'The packages to index (optional).')
+            ->addArgument('packages', InputArgument::OPTIONAL | InputArgument::IS_ARRAY, 'The packages to index (optional).')
             ->addOption('with-stats', null, InputOption::VALUE_NONE, 'Also update statistics (should run less often / generates more API calls).')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Do not index any data. Very useful together with -vvv.')
             ->addOption('clear-index', null, InputOption::VALUE_NONE, 'Clears algolia indexes completely (full re-index).')
@@ -113,6 +113,7 @@ class IndexCommand extends Command
 
         $updateAll = false;
         $packageNames = $input->getArgument('packages');
+
         if (empty($packageNames)) {
             $updateAll = true;
             $packageNames = array_unique(array_merge(
@@ -238,20 +239,23 @@ class IndexCommand extends Command
 
     private function initIndex(bool $clearIndex): void
     {
-        /* @noinspection PhpUnhandledExceptionInspection */
+        /** @noinspection PhpUnhandledExceptionInspection */
         $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
         $this->indexData = [];
 
         if ($clearIndex) {
-            /* @noinspection PhpUnhandledExceptionInspection */
+            /** @noinspection PhpUnhandledExceptionInspection */
             $this->index->clearIndex();
+
             return;
         }
 
         $cursor = null;
+
         do {
             $data = $this->index->browseFrom(null, null, $cursor);
             $cursor = $data['cursor'] ?? null;
+
             foreach ($data['hits'] as $item) {
                 $this->indexData[$item['objectID']] = $item;
             }
@@ -265,14 +269,14 @@ class IndexCommand extends Command
                 sprintf('ObjectID %s does not exist in index', $data['objectID']),
                 OutputInterface::VERBOSITY_DEBUG
             );
+
             return false;
         }
 
         $existing = $this->indexData[$data['objectID']];
 
         if (!$includeStatistics) {
-            unset($data['favers'], $data['downloads']);
-            unset($existing['favers'], $existing['downloads']);
+            unset($data['favers'], $data['downloads'], $existing['favers'], $existing['downloads']);
         }
 
         foreach ($data as $k => $v) {

@@ -1,0 +1,13 @@
+en:
+    title: Contao EstateManager Energy Scale
+    description: >
+        The energy scale extension for Contao EstateManager adds an animated energy scale that can be displayed below
+        the energy certificate information.
+    keywords:
+        - realestate
+        - estate
+        - energy
+        - scala
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

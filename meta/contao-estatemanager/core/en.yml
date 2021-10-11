@@ -1,0 +1,15 @@
+en:
+    title: Contao EstateManager Core
+    description: >
+        The Contao EstateManager is a free and open source real estate extension for the CMS Contao. The core extension
+        already offers all components of a full-fledged real estate homepage. There are already many extensions
+        available for the Contao EstateManager that allow you to easily add new features. Click on project website to
+        learn more.
+    keywords:
+        - realestate
+        - estate
+        - agent
+        - marketing
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

@@ -1,5 +1,5 @@
 en:
-    title: rel-canonical
+    title: rel-canonical (Canonical Tag)
     description: >
         With this extension you can use the header tag rel="canonical", if you have pages with the same content and you can't avoid them.
     keywords:

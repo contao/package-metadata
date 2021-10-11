@@ -1,5 +1,6 @@
 en:
     title: Contao Calendar
+    discoverable: false
     description: >
         Adds calendar functionality to Contao. You can use it to manage upcoming and past events.
 
