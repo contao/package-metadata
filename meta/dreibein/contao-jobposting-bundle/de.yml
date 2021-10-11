@@ -1,0 +1,13 @@
+de:
+    title: Contao Jobposting Bundle
+    description: >
+        Diese Erweiterung erlaubt es ähnlich wie die Nachrichten-Erweiterung von Contao Job-Archive, Job-Kategorien und Jobs zu erstellen.
+
+        Für die Stellenausschreibungen gibt es sowohl ein Listen- als auch ein Reader-Modul.
+    keywords:
+        - job
+        - jobs
+        - stellenausschreibung
+        - job-list
+        - job-reader
+        - job-radar

@@ -1,0 +1,12 @@
+de:
+    title: Contao Jobletter Bundle
+    description: >
+        Diese Erweiterung erweitert das Jobposting Bundle. Ähnlich wie beim Newsletter-Modul von Contao kann man einen Job-Letter abonnieren.
+        Die Anmeldung funktioniert nur über OptIn.
+
+        Sowohl für die An- als auch Abmeldung gibt es ein eigenes Modul.
+    keywords:
+        - job
+        - jobs
+        - job-letter
+        - job-radar

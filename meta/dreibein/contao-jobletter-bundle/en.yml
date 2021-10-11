@@ -1,0 +1,12 @@
+en:
+    title: Contao Jobletter Bundle
+    description: >
+        This extension extends the Jobposting bundle. Similar to the newsletter module of Contao you can subscribe to a job letter.
+        The subscription works only via OptIn.
+
+        There is a separate module for both registration and deregistration.
+    keywords:
+        - job
+        - jobs
+        - job-letter
+        - job-radar

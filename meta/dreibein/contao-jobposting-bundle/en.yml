@@ -1,0 +1,12 @@
+en:
+    title: Contao Jobposting Bundle
+    description: >
+        This extension allows to create job archives, job categories and jobs similar to the news extension of Contao.
+
+        There is both a list and reader module for job postings.
+    keywords:
+        - job
+        - jobs
+        - job-list
+        - job-reader
+        - job-radar
