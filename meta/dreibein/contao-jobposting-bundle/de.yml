@@ -1,5 +1,6 @@
 de:
     title: Contao Jobposting Bundle
+    homepage: https://github.com/dreibein/contao-jobposting-bundle
     description: >
         Diese Erweiterung erlaubt es ähnlich wie die Nachrichten-Erweiterung von Contao Job-Archive, Job-Kategorien und Jobs zu erstellen.
 
@@ -11,3 +12,6 @@ de:
         - job-list
         - job-reader
         - job-radar
+    support:
+        issues: https://github.com/dreibein/contao-jobposting-bundle/issues
+        source: https://github.com/dreibein/contao-jobposting-bundle/releases
