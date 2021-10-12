@@ -4,7 +4,7 @@ de:
     description: >
         Diese Erweiterung erlaubt es ähnlich wie die Nachrichten-Erweiterung von Contao Job-Archive, Job-Kategorien und Jobs zu erstellen.
 
-        Für die Stellenausschreibungen gibt es sowohl ein Listen- als auch ein Reader-Modul.
+        Für die einzelnen Jobs gibt es sowohl ein Listen- als auch ein Leser-Modul.
     keywords:
         - job
         - jobs
