@@ -97,6 +97,8 @@ Install
 io
 IO
 IOTravelCostsBundle
+Jobletter
+Jobposting
 Language
 Lead
 Leads
