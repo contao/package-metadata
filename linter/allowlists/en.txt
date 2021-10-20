@@ -91,6 +91,7 @@ HeaderFooterCode
 helpdesk
 History
 hotspot
+hovercard
 infos
 Insert
 Install

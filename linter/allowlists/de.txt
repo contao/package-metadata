@@ -215,6 +215,7 @@ Geokodierung
 Geokodierungsdienste
 Geschütztes
 Get
+Glossarbegriffe
 Grid
 Grids
 Groups
@@ -240,6 +241,7 @@ Hintergründe
 History
 Hook
 Hooks
+Hovercard
 IO
 IOTravelCostsBundle
 Iconfont
@@ -297,6 +299,7 @@ Latitude
 Layoutvorlage
 Lead
 Leads
+Lesemodul
 Leserseite
 Leuchtkästen
 Libraries
