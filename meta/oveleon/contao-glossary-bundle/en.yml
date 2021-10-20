@@ -3,7 +3,7 @@ en:
     description: >
         A glossary extension for the Contao Open Source CMS. Glossaries are organized in archives similar to news and
         events and can be displayed via a list and reader module. Additionally, glossary terms can automatically be
-        replaced in the front-end. Furthermore, a preview of the term can be displayed with a hovercard.
+        replaced in the front end. Furthermore, a preview of the term can be displayed with a hovercard.
     keywords:
         - glossary
         - hovercard
