@@ -1,0 +1,7 @@
+de:
+    title: Contao Sticky Footer
+    description: >
+        Der Sticky Footer erleichert dir das Arbeiten im Contao Backend, denn er erspart dir das herunterscrollen zum
+        Speichern Button. Er basiert übrigens nur auf CSS - kein Javascript nötig.
+    keywords:
+        - Backend

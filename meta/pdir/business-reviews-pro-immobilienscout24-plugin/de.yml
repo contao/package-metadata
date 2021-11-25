@@ -1,0 +1,25 @@
+de:
+    title: Business-Reviews Pro Immobilienscout24-Plugin
+    description: >
+        Importiere deine Bewertungen von Immobilienscout24 vollautomatisch
+    keywords:
+        - Lokales Geschäft
+        - Produkt
+        - Rezept
+        - Bewertung
+        - Veranstaltung
+        - Mikroformate
+        - Contao
+        - schema.org
+        - Website
+        - Automobil
+        - Restaurant
+        - Einzelhandel
+        - Franchise
+        - Immobilienverwaltung
+        - Hotels
+        - Pensionen
+    homepage: https://pdir.de/contao-business-reviews/
+    support:
+        email: support@pdir.de
+        docs: https://pdir.de/docs/de/contao/extensions/business-reviews/

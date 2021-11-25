@@ -1,0 +1,25 @@
+de:
+    title: Business-Reviews Pro Trusted-Shops-Plugin
+    description: >
+        Importiere deine Bewertungen von Trusted Shops vollautomatisch
+    keywords:
+        - Lokales Geschäft
+        - Produkt
+        - Rezept
+        - Bewertung
+        - Veranstaltung
+        - Mikroformate
+        - Contao
+        - schema.org
+        - Website
+        - Automobil
+        - Restaurant
+        - Einzelhandel
+        - Franchise
+        - Immobilienverwaltung
+        - Hotels
+        - Pensionen
+    homepage: https://pdir.de/contao-business-reviews/
+    support:
+        email: support@pdir.de
+        docs: https://pdir.de/docs/de/contao/extensions/business-reviews/
