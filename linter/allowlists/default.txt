@@ -96,6 +96,7 @@ IPs
 IT
 ImmobilienScout
 Immobilienbörse
+Immobilienscout
 Immobilienunternehmen
 Indie
 InsertTags
@@ -128,6 +129,7 @@ MaxMind
 MetaModel
 MetaModels
 MultiColumnWizard
+My
 NATURE
 Netzhirsch
 Netzmacht
@@ -183,6 +185,7 @@ SMS
 SNS
 Sans
 Selling
+Sharepoint
 Shariff
 Shops
 SimpleTokens
@@ -291,6 +294,7 @@ iTunes
 jQuery
 jpg
 js
+krpano
 leaflet
 mPDF
 maps
