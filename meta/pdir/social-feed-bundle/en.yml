@@ -2,7 +2,7 @@ en:
     title: Social Feed
     description: >
         The Social Feed Extension shows a user feed from the most popular social networks. Currently the extension
-        supports Facebook, Instagram and Twitter.
+        supports Facebook, Instagram, Twitter and LinkedIn.
     keywords:
         - social
         - feed
@@ -16,3 +16,4 @@ en:
         - sync
         - posts
         - archive
+        - linkedin
