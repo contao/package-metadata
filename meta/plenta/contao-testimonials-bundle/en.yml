@@ -12,4 +12,6 @@ en:
         - certificate
     homepage: https://plenta.io
     support:
+        issues: https://github.com/plenta/contao-testimonials-bundle/issues
+        source: https://github.com/plenta/contao-testimonials-bundle
         email: hallo@plenta.io

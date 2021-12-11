@@ -1,7 +1,7 @@
 de:
-    title: Testimonials - Empfehlungsschreiben
+    title: Testimonials (Empfehlungsschreiben)
     description: >
-        Erweiterung zur Anzeige von Testimonials - Empfehlungsschreiben - auf deiner Website.
+        Erweiterung zur Anzeige von Testimonials (Empfehlungsschreiben) auf deiner Website.
     keywords:
         - Testimonial
         - Empfehlungsschreiben
@@ -14,5 +14,7 @@ de:
         - Zeugnis
         - Zertifikat
     homepage: https://plenta.io
-        support:
-            email: hallo@plenta.io
+    support:
+        issues: https://github.com/plenta/contao-testimonials-bundle/issues
+        source: https://github.com/plenta/contao-testimonials-bundle
+        email: hallo@plenta.io
