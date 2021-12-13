@@ -501,6 +501,7 @@ Tech
 Teilnehmerregistrierung
 Telematik
 Templatehint
+Testimonials
 Textarea
 Texteigenschaften
 Textfeld
@@ -511,7 +512,6 @@ Themenwelten
 Ticker
 Tiles
 Titelleiste
-title
 Touch
 Tracking
 Travel
