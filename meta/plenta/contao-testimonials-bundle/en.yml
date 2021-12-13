@@ -1,0 +1,17 @@
+en:
+    title: Testimonials
+    description: >
+        Simple testimonial extension to display customer testimonials on your website.
+    keywords:
+        - testimonial
+        - attestation
+        - reference
+        - customer
+        - satisfied
+        - testimony
+        - certificate
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-testimonials-bundle/issues
+        source: https://github.com/plenta/contao-testimonials-bundle
+        email: hallo@plenta.io
