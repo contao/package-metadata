@@ -1,0 +1,9 @@
+de:
+    title: Contao Glossar Bundle
+    description: >
+        Eine Glossar-Erweiterung für Contao. Glossare werden ähnlich wie Nachrichten und Events in Archiven organisiert
+        und können über ein Listen- und Lesemodul angezeigt werden. Zusätzlich können Glossarbegriffe im Frontend
+        ersetzt werden. Außerdem kann eine Vorschau über eine Hovercard angezeigt werden.
+    keywords:
+        - glossar
+        - verweise

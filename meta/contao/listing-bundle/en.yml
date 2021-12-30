@@ -1,5 +1,6 @@
 en:
     title: Contao Listing
+    discoverable: false
     description: >
         Adds listing functionality to Contao. The front end module can list entries of an arbitrary database
         table by rendering them with a customizable template and also provides basic filter functionality. You can

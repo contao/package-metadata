@@ -1,8 +1,11 @@
 AMPHTML
+Ablaufzeit
+Abweisbares
 Academy
 Access
 Accordion
 Active
+Address
 Addresses
 Admins
 Adress
@@ -20,6 +23,7 @@ Animations
 AntiSpam
 Api
 Archiving
+Article
 Artikeleigenschaften
 Artikelvererbung
 Assets
@@ -29,6 +33,7 @@ Attributausgaben
 Attributtypen
 Auflistungsfunktionen
 Ausserdem
+Author
 Automatisierungsaufgaben
 Autovervollständigung
 Avatar
@@ -36,6 +41,7 @@ Avatare
 Backend
 Backendmodul
 Badge
+Bannerelement
 Basisbibliotheken
 Baumstruktur
 Bedingungsfelder
@@ -105,7 +111,6 @@ Dateiauswahl
 Dateibaum
 Dateityp
 Dateiverwaltung
-Daten
 Datenbanksicherung
 Datenbanktabelle
 Dateninhalte
@@ -124,9 +129,11 @@ Detection
 Directory
 Documents
 Down
+Drag
 Drittanbieter
 Dritterweiterungen
 Drittstaatentransfer
+Drop
 Duplication
 EasyThemes
 Edit
@@ -206,6 +213,7 @@ Geokodierung
 Geokodierungsdienste
 Geschütztes
 Get
+Glossarbegriffe
 Grid
 Grids
 Groups
@@ -231,6 +239,7 @@ Hintergründe
 History
 Hook
 Hooks
+Hovercard
 IO
 IOTravelCostsBundle
 Iconfont
@@ -244,12 +253,15 @@ Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
+Inherit
 Input
 Inputtype
 Insert
 Install
 Installationspaket
 Jobbörse
+Jobletter
+Jobposting
 Kalenderformate
 Kartenanwendung
 Kartendiensten
@@ -285,6 +297,7 @@ Latitude
 Layoutvorlage
 Lead
 Leads
+Lesemodul
 Leserseite
 Leuchtkästen
 Libraries
@@ -408,6 +421,7 @@ Rechtsklick
 Rechtstexte
 Regex
 Registerkarte
+Registration
 Regular
 Related
 Remember
@@ -453,6 +467,7 @@ Sliders
 Slides
 Social
 Socialmedia
+Sortiermöglichkeiten
 Sortierungsfunktionen
 Sorting
 Source
@@ -493,6 +508,8 @@ TabControl
 Tabellenzeile
 TableLookupWizard
 Tabs
+Tageszeitabhängige
+Tageszeitliche
 Teaser
 Teaserbild
 Teaserbox
@@ -525,6 +542,7 @@ Uploader
 Uploads
 Validierung
 Varone
+Verification
 Verkaufsobjekte
 Vermietungsabteilung
 Verschlüsselungsklasse
@@ -559,11 +577,13 @@ Zahlungsmoduls
 Zeitstrahl
 Zielseiten
 Zugangsdaten
+abweisbares
 ajaxpagenierung
 alone
 amphtml
 anwaltlich
 assets
+ausblendbares
 ausserdem
 base
 bits
@@ -587,7 +607,6 @@ de
 dlh
 endgeräteübergreifenden
 etc
-filterbare
 foo
 formvalidation
 für
@@ -599,7 +618,7 @@ gestylten
 hard
 heart
 heruntergezählt
-hochgeladen
+herunterscrollen
 inkl
 inkludiert
 install
@@ -632,7 +651,6 @@ reservierbare
 responsive
 responsiven
 seitenübergreifend
-sogenannte
 splitter
 staging
 standardmässig
@@ -649,12 +667,12 @@ usw
 uvm
 verkaufsstarker
 vermietungsoptimierte
-verschiedenener
 visits
 visuell
-wich
 yes
 youtube
 zeitintensiven
 zeitintensiver
 Übersetzungsfelder
+Pulse
+Anzeigeregeln

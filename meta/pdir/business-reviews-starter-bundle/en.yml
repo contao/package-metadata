@@ -1,0 +1,26 @@
+en:
+    title: Business-Reviews Starter
+    description: >
+        Appealing and effective display reviews from multiple platforms like Google My Business, Facebook and Trusted
+        Shops on your Contao website
+    keywords:
+        - local business
+        - product
+        - recipe
+        - review
+        - event
+        - microformats
+        - contao
+        - schema.org
+        - website
+        - automobile
+        - restaurant
+        - retail store
+        - franchise
+        - real estate
+        - hotels
+        - hospitality
+    homepage: https://pdir.de/contao-business-reviews/
+    support:
+        email: support@pdir.de
+        docs: https://pdir.de/docs/de/contao/extensions/business-reviews/

@@ -1,0 +1,17 @@
+en:
+    title: Contao Jobposting Bundle
+    homepage: https://github.com/dreibein/contao-jobposting-bundle
+    description: >
+        This extension allows to create job archives, job categories and jobs similar to the news extension of Contao.
+
+        There is both a list and reader module for job postings.
+    keywords:
+        - job
+        - jobs
+        - stellenausschreibung
+        - job-list
+        - job-reader
+        - job-radar
+    support:
+        issues: https://github.com/dreibein/contao-jobposting-bundle/issues
+        source: https://github.com/dreibein/contao-jobposting-bundle/releases

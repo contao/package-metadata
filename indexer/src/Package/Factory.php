@@ -186,6 +186,6 @@ class Factory
             }
         );
 
-        return $versions[$latest];
+        return $versions[$latest] ?? [];
     }
 }

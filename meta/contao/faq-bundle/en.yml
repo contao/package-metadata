@@ -1,5 +1,6 @@
 en:
     title: Contao FAQ
+    discoverable: false
     description: >
         Adds FAQ functionality to Contao. With it the management of frequently asked questions becomes a
         piece of cake! Your editors can easily manage the questions and respective answers in a new section in the back

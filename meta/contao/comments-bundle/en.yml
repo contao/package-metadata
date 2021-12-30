@@ -1,5 +1,6 @@
 en:
     title: Comments for Contao
+    discoverable: false
     description: >
         Adds comments functionality to Contao. You can use it to enhance Contao with general comments
         functionality. Any other third party bundle can again rely on this bundle to add comment functionality to its

@@ -121,7 +121,7 @@ class MetaDataRepository
 
             $data = $this->filterMetadata($data);
             $data['metadata'] = sprintf(
-                'https://github.com/contao/package-metadata/blob/master/meta/%s/%s.yml',
+                'https://github.com/contao/package-metadata/blob/main/meta/%s/%s.yml',
                 $package->getName(),
                 $language
             );
@@ -136,7 +136,7 @@ class MetaDataRepository
     {
         return array_intersect_key(
             $data,
-            array_flip(['title', 'description', 'keywords', 'homepage', 'support', 'suggest', 'dependency'])
+            array_flip(['title', 'description', 'keywords', 'homepage', 'support', 'suggest', 'dependency', 'discoverable'])
         );
     }
 }

@@ -5,12 +5,13 @@
     "license": "MIT",
     "keywords": ["contao", "manager", "composer", "packages", "algolia", "search"],
     "require": {
-        "php": "^7.3",
+        "php": "^7.4",
         "ext-json": "*",
         "algolia/algoliasearch-client-php": "^1.27",
         "composer/metadata-minifier": "^1.0",
         "symfony/console": "^5.0",
         "symfony/finder": "^5.0",
+        "symfony/filesystem": "^5.0",
         "symfony/http-client": "^5.0",
         "symfony/http-kernel": "^5.0",
         "symfony/yaml": "^5.0"

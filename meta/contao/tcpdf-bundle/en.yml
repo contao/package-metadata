@@ -1,3 +1,4 @@
 en:
     title: Articles to PDF
     description: Adds article to PDF generator for Contao.
+    discoverable: false

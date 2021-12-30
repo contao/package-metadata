@@ -1,5 +1,6 @@
 de:
     title: Contao Newsletter
+    discoverable: false
     description: >
         Erweitert Contao um Newsletter-Funktionalität. Damit können im Backend Newsletter und verschiedene
         Empfängerlisten verwaltet werden. Das Senden der Newsletter erfolgt ebenfalls direkt aus dem Backend und die
