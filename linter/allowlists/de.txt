@@ -398,6 +398,7 @@ Preisdetails
 Preistabelle
 Preview
 Privacy
+Produktdetails
 Produktkatalogen
 Produktpräsentation
 Produktslider
