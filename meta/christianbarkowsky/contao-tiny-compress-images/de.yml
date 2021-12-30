@@ -1,7 +1,7 @@
 de:
-  title: JPG- und PNG-Komprimierung
+  title: JPG, PNG und WebP Komprimierung
   description: >
-    Dieses Plugin optimiert Bilder automatisch durch die Integration des TinyJPG / TinyPNG Services.
+    Dieses Plugin optimiert Bilder automatisch durch die Integration des TinyJPG / TinyPNG / Tinyfy Services.
   keywords:
   - tinypng
   - tinyjpg
@@ -9,3 +9,9 @@ de:
   - Bilder
   - verkleinern
   - jpeg
+  - png
+  - jpg
+  - webp
+  - tiny
+  - tinyfy
+  - optimieren
