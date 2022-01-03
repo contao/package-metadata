@@ -1,28 +1,24 @@
 de:
     title: Contao Consent
     description: >
-        NEU in Version 1.2:
+        NEU in Version 1.4:
 
-        - Erweiterung der Formulierung der Beschreibung von Google Analytics zur endgeräteübergreifenden Verarbeitung
+        - Mustertexte für drei weitere Sprachen: Spanisch, Polnisch und Rumänisch
 
-        - Einarbeitung der Google Fonts direkt in den Einstellungen der Einwilligung
+        - Unterstützung für die Übersetzung in einem Konfigurationsbaum
 
-        - neue Mustertexte für die Einwilligungen für Adobe Fonts für Websites (Typekit) und OpenStreetMap (FOSSGIS e.V. und OpenStreetMap Foundation)
+        - Unterstützung für Drittanbieter (Subvendoren)
 
-        - neue JavaScript-Events
+        - Erlauben von benutzerdefiniertem HTML für die Dienste von Google Analytics und Matomo
 
-        - Bereitstellung eines Mustertextes für die Datenschutzhinweise zum Google Tag Manager
+        - Konfiguration hinzufügen, um die Position des Banners anzupassen
 
-        - Hinzufügen der Einwilligung für den Drittstaatentransfer für alle Dienste außerhalb der EU
+        - Hinzufügen von Preload-Link-Headern für status.js und consent-manager.js
 
-        - Bereitstellung einer Vorlage für die interne Dokumentation
-
-        - Anzeige eines Hinweises bei erneuter Anzeige des Consent Banners bei Änderung der Einwilligungen
-
-        - Integration von Dritterweiterungen auf Basis der Consent Bridge (hofff/contao-tawk-to, hofff/contao-facebook-pixel, RockSolid Custom Elements und netzmacht/contao-leaflet-maps)
+        - ein neues Event hinzufügt, damit Plugins das Verhalten anpassen können
 
 
-        Mit unserer Erweiterung für die Einverständniserklärungen kannst du einfach und rechtssicher die benötigten Einverständnisse Deiner Benutzer:innen einholen. Wir liefern Dir anwaltlich geprüfte Mustertexte in Deutsch und Englisch für Adobe Fonts für Websites (Typekit), Google Analytics, Google Maps, Google Fonts, Matomo, OpenStreetMap (FOSSGIS e.V. und OpenStreetMap Foundation), Vimeo und YouTube (weitere Dienste und Sprachen folgen). Des weiteren kannst du auch eigene Tools und Scripte einbinden, um eine Einwilligung einzuholen. Durch unsere frei verfügbare Contao Consent Bridge können auch andere Erweiterungen eigene Einwilligungseinstellungen mitliefern und an Contao Consent übergeben. Aktuell werden die folgende Erweiterungen unterstützt:
+        Mit unserer Erweiterung für die Einverständniserklärungen kannst du einfach und rechtssicher die benötigten Einverständnisse Deiner Benutzer:innen einholen. Wir liefern Dir anwaltlich geprüfte Mustertexte in Deutsch, Englisch, Spanisch, Polnisch und Rumänisch für Adobe Fonts für Websites (Typekit), Google Analytics, Google Maps, Google Fonts, Matomo, OpenStreetMap (FOSSGIS e.V. und OpenStreetMap Foundation), SoundCloud, Spotify, Vimeo und YouTube (weitere Dienste und Sprachen folgen). Wir unterstützen auch den Google Tag Manager und den Matomo Tag Manager. Des weiteren kannst du auch eigene Tools und Scripte einbinden, um eine Einwilligung einzuholen. Durch unsere frei verfügbare Contao Consent Bridge können auch andere Erweiterungen eigene Einwilligungseinstellungen mitliefern und an Contao Consent übergeben. Aktuell werden die folgende Erweiterungen unterstützt:
 
         - hofff/contao-tawk-to
 
@@ -54,9 +50,13 @@ de:
         - google analytics
         - google maps
         - google fonts
+        - google tag manager
         - webfonts
         - matomo
+        - matomo tag manager
         - openstreetmap
+        - soundcloud
+        - spotify
         - vimeo
         - youtube
     homepage: https://www.contao.solutions/
