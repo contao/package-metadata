@@ -90,7 +90,6 @@ Collect
 Columns
 Components
 Connect
-Consent
 Constants
 Container
 Content
