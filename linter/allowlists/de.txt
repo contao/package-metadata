@@ -131,6 +131,7 @@ Documents
 Down
 Drag
 Drittanbieter
+Drittanbietern
 Dritterweiterungen
 Drittstaatentransfer
 Drop
@@ -281,6 +282,7 @@ Klassenbasierte
 Klassensammlung
 Kommentarfunktionalität
 Kompetenzteams
+Konfigurationsbaum
 Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
@@ -493,6 +495,7 @@ Style
 StyleManager
 Styling
 Subnetze
+Subvendoren
 Suchabos
 Suchbar
 Suchbegriff
