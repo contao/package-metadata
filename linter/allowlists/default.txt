@@ -7,6 +7,7 @@ AlleAktien
 Allgäu
 Alpdesk
 Analytics
+analytics
 Android
 App
 Areas
@@ -40,6 +41,8 @@ Community
 Composer
 Config
 Connector
+Consent
+consent
 Contao
 ContaoDMS
 ContaoMonitoring
@@ -92,6 +95,8 @@ HIBP
 Heusschen
 Hofff
 Host
+HTML
+html
 ID
 IPs
 IT
@@ -124,6 +129,7 @@ Login
 MailChimp
 Managed
 Manager
+manager
 Mapbox
 Matomo
 MaxMind
@@ -167,6 +173,8 @@ Pinterest
 Piwik
 Pixabay
 Podcasts
+Preload
+preload
 QR
 Quantitativ
 README
@@ -194,12 +202,15 @@ SimpleTokens
 Sineos
 SiteID
 Slack
+SoundCloud
 Source
 Spectre
 Spotify
 SSO
 Stardate
 Start
+Status
+status
 Sticky
 StoreLocator
 Stripe
