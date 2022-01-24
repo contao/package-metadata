@@ -203,9 +203,3 @@ Watchlist
 watchlist
 yes
 youtube
-auto
-deployment
-release
-Releases
-stages
-Stage

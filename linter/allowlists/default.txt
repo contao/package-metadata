@@ -351,5 +351,3 @@ xliff
 xls
 yml
 Prod
-Release
-Stages
