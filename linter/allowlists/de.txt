@@ -680,5 +680,6 @@ zeitintensiver
 Pulse
 Anzeigeregeln
 Release
+Releases
 Stages
 Stage
