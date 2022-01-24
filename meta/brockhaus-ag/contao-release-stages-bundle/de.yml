@@ -5,7 +5,6 @@ de:
     - contao
     - bundle
     - release
-    - releasing
     - stages
     - auto
     - deployment
