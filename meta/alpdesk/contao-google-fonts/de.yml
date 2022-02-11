@@ -1,0 +1,11 @@
+de:
+    title: Google-Webfonts für Contao
+    description: >
+        Mit dieser Erweiterung können Google-Webfonts mit wenigen Klicks DSGVO konform in die Webseite eingebunden werden.
+        Die Erweiterung ladet die ausgewählten Google-Webfonts lokal ins Contao herunter und stellt fertig CSS-Dateien zum Einbinden ins Seitenlayout bereit.
+    keywords:
+        - Google
+        - Google Webfont
+        - Webfont
+        - Google Web font
+        - DSGVO
