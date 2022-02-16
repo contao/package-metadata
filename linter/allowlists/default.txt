@@ -349,9 +349,5 @@ vivenio
 WebP
 xliff
 xls
-<<<<<<< HEAD
-yml
-=======
 yml
 Prod
->>>>>>> origin/main
