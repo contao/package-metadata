@@ -90,7 +90,6 @@ Collect
 Columns
 Components
 Connect
-Consent
 Constants
 Container
 Content
@@ -131,6 +130,7 @@ Documents
 Down
 Drag
 Drittanbieter
+Drittanbietern
 Dritterweiterungen
 Drittstaatentransfer
 Drop
@@ -281,6 +281,7 @@ Klassenbasierte
 Klassensammlung
 Kommentarfunktionalität
 Kompetenzteams
+Konfigurationsbaum
 Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
@@ -398,6 +399,7 @@ Preisdetails
 Preistabelle
 Preview
 Privacy
+Produktdetails
 Produktkatalogen
 Produktpräsentation
 Produktslider
@@ -492,6 +494,7 @@ Style
 StyleManager
 Styling
 Subnetze
+Subvendoren
 Suchabos
 Suchbar
 Suchbegriff
@@ -676,3 +679,7 @@ zeitintensiver
 Übersetzungsfelder
 Pulse
 Anzeigeregeln
+Release
+Releases
+Stages
+Stage
