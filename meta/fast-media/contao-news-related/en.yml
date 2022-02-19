@@ -1,9 +1,7 @@
 en:
     title: News Related
     description: >
-        List similar news items
-
-Automatically display related news posts below or next to a news item. The extension is indispensable for blogs in particular and recognizes similar posts in several steps.
+        List similar news items. Automatically display related news posts below or next to a news item. The extension is indispensable for blogs in particular and recognizes similar posts in several steps.
     keywords:
         - accordance
         - Blog

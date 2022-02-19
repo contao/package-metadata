@@ -1,9 +1,7 @@
 en:
     title: Event Manager
     description: >
-        Event booking and seminar management etc.
-
-The Contao Event Manager allows your customers to list, filter and book your events. The booking of events is like in every modern shop system.
+        Event booking and seminar management etc. The Contao Event Manager allows your customers to list, filter and book your events. The booking of events is like in every modern shop system.
     keywords:
         - attendees
         - Cart
