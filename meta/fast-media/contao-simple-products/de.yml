@@ -1,16 +1,13 @@
 de:
     title: Contao Produktkatalog
     description: >
-        Flexible Möglichkeiten der Produktpräsentation und einfache Konfiguration. Mit dem Produktkatalog für Contao verwalten Sie Ihre Produkte in Kategorien. Der Produktkatalog ist ideal dafür geeignet schnell und einfach Produkte aufzulisten, ohne viel Konfigurations-Aufwand. Sie können zudem alle Inhaltselemente in den Produktdetails verwenden und die Verfügbarkeit und Anzahl von Produkten begrenzen.
+        Flexible Möglichkeiten der Produktpräsentation und einfache Konfiguration.
     keywords:
         - Auflistung
         - Contao
-        - Contao Module
         - Downloads
         - Katalog
         - Kategorien
-        - Kategorisierung
-        - Kommentare
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-produktkatalog/
     support:
         email: dev@fast-media.net

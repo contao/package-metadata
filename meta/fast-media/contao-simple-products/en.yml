@@ -1,16 +1,13 @@
 en:
     title: Contao simple products
     description: >
-        Flexible options for product presentation and simple configuration. With the product catalog for Contao you can manage your products in categories. The product catalog is ideally suited for quickly and easily listing products without much configuration effort. You can also use all content elements in the product details and limit the availability and quantitiy of products.
+        Flexible options for product presentation and simple configuration. 
     keywords:
         - Catalog
         - categories
-        - categorization
         - category
         - Comments
         - Contao
-        - Contao Module
-        - Downloads
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-produktkatalog/
     support:
         email: dev@fast-media.net
