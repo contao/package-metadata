@@ -3,10 +3,6 @@ en:
     description: >
         Flexible options for product presentation and simple configuration. 
     keywords:
-        - Catalog
-        - categories
-        - category
-        - Comments
         - Contao
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-produktkatalog/
     support:
