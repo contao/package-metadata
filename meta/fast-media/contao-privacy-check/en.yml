@@ -1,0 +1,30 @@
+en:
+    title: Privacy Check
+    description: >
+        This contao extension checks every page layout, if there are used CDN / cloud services like google fonts, jquery.com, bootstrap.com, google analytics et cetera. The extension prevent entering google webfonts by an editor in the layout dialog in the backend.
+    keywords:
+        - backend
+        - backend administration
+        - check
+        - cloud
+        - DSGVO
+        - examination
+        - external
+        - Google
+        - Google Fonts
+        - JavaScript
+        - jQuery
+        - Layout
+        - legal
+        - mootools
+        - page layout
+        - privacy
+        - problem
+        - scripts
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/datenschutz-check/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/datenschutz-check/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/datenschutz-check/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/datenschutz-check/support/
+        source: https://bitbucket.org/contao-extensions/privacy-check/
