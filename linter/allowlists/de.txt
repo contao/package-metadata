@@ -281,6 +281,7 @@ Klassenbasierte
 Klassensammlung
 Kommentarfunktionalität
 Kompetenzteams
+Konfigurationsaufwand
 Konfigurationsbaum
 Konfiguartionsdatei
 Konfigurationsoberfläche
@@ -353,6 +354,7 @@ Multidomain
 Nachrichtenarchiv
 Nachrichtenarchivs
 Nachrichtenartikel
+Nachrichtenbeitrag
 Nachrichtenbeitrags
 Nachrichtenbeiträge
 Nachrichtenleser
