@@ -21,6 +21,7 @@ Barcode
 Bayerischer
 Bing
 Bootstrap
+Breadcrumb
 BROCKHAUS
 Bulma
 Bundle
@@ -37,6 +38,7 @@ ChangeLanguage
 ChangeNewsMore
 Checkbox
 Clickpress
+Cloud
 Community
 Composer
 Config
