@@ -1,7 +1,7 @@
 de:
     title: Datenschutz Check
     description: >
-        Die Contao Erweiterung prüft nach Installation alle Seitenlayouts einer Contao Installation, ob Google Fonts oder Cloud-Dienste wie jQuery.com, bootstrap.com oder Google Analytics etc. eingebunden sind.
+        Die Contao Erweiterung prüft nach Installation alle Seitenlayouts einer Contao Installation, ob Google Fonts oder Cloud-Dienste wie jQuery.com, Bootstrap.com oder Google Analytics etc. eingebunden sind.
     keywords:
         - Backend
         - Backend-Verwaltung

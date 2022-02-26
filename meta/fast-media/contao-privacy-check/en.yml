@@ -1,7 +1,7 @@
 en:
     title: Privacy Check
     description: >
-        This contao extension checks every page layout, if there are used CDN / cloud services like google fonts, jquery.com, bootstrap.com, google analytics et cetera. The extension prevent entering google webfonts by an editor in the layout dialog in the backend.
+        This contao extension checks every page layout, if there are used CDN / Cloud services like Google Fonts, jQuery.com, Bootstrap.com, Google Analytics etc. The extension prevent entering Google webfonts by an editor in the layout dialog in the backend.
     keywords:
         - backend
         - backend administration
