@@ -281,6 +281,7 @@ Klassenbasierte
 Klassensammlung
 Kommentarfunktionalität
 Kompetenzteams
+Konfigurationsaufwand
 Konfigurationsbaum
 Konfiguartionsdatei
 Konfigurationsoberfläche
@@ -353,6 +354,7 @@ Multidomain
 Nachrichtenarchiv
 Nachrichtenarchivs
 Nachrichtenartikel
+Nachrichtenbeitrag
 Nachrichtenbeitrags
 Nachrichtenbeiträge
 Nachrichtenleser
@@ -364,6 +366,7 @@ Navbar
 Navigationselementes
 Navigationsmenü
 Neubauprojekten
+Newsbeiträge
 Newsletter
 Notification
 Nu
@@ -456,6 +459,7 @@ Seitentyp
 Select
 Selectbox
 Selects
+Seminarverwaltung
 Serverabhängig
 Serverhint
 Serverseitiger
@@ -463,6 +467,7 @@ Share
 Short
 Sibling
 Sichtbarkeiten
+Shopsystem
 Slave
 Slider
 Sliders
@@ -545,6 +550,7 @@ Uploader
 Uploads
 Validierung
 Varone
+Veranstaltungsbuchung
 Verification
 Verkaufsobjekte
 Vermietungsabteilung

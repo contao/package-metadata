@@ -1,0 +1,50 @@
+de:
+    title: Event Manager
+    description: >
+        Veranstaltungsbuchung und Seminarverwaltung u.a. Der Event Manager ermöglicht die Auflistung, Filterung und Buchung von Veranstaltungen. Die Bestellung erfolgt wie man es von einem modernen Shopsystem gewohnt ist.
+    keywords:
+        - Anmeldung
+        - Ansprechpartner
+        - Auflistung
+        - Benachrichtigungen
+        - Bestellung
+        - Bezahlung
+        - Contao
+        - Contao Extensions
+        - Contao Module
+        - CSV
+        - Dozenten
+        - E-Commerce
+        - E-Mail
+        - Events
+        - Export
+        - Fortbildung
+        - ICS
+        - Import
+        - Kaufen
+        - Kreditkarte
+        - Kunden
+        - Kurse
+        - Kursverwaltung
+        - Lastschrift
+        - Locations
+        - Merkliste
+        - PayOne
+        - PayPal
+        - Reservierung
+        - Seminare
+        - Seminarverwaltung
+        - Sofort
+        - Teilnehmer
+        - Tickets
+        - Veranstalter
+        - Veranstaltungen
+        - Warenkorb
+        - Weiterbildung
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/support/
+        source: https://bitbucket.org/contao-extensions/event-manager/
