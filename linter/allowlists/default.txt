@@ -21,12 +21,14 @@ Barcode
 Bayerischer
 Bing
 Bootstrap
+Breadcrumb
 BROCKHAUS
 Bulma
 Bundle
 Bundles
 Burns
 Bynder
+CDN
 CMS
 CONVERT
 CSS
@@ -37,6 +39,7 @@ ChangeLanguage
 ChangeNewsMore
 Checkbox
 Clickpress
+Cloud
 Community
 Composer
 Config
