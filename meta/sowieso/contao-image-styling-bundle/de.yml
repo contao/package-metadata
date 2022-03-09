@@ -7,7 +7,7 @@ de:
         
         Das padding für das before-Element wird dynamisch für alle verwendeten Bildgrößen berechnet und die entsprechenden Media-Queries im CSS angelegt.
         
-        Neuere Broswer besitzen hierfür das CSS-Attribut "ratio", doch mit dem berechneten Styling kann man auch ältere Browser ansprechen.
+        Neuere Browser besitzen hierfür das CSS-Attribut "ratio", doch mit dem berechneten Styling kann man auch ältere Browser ansprechen.
     keywords:
         - Lazy Loading
         - Responsive Image
