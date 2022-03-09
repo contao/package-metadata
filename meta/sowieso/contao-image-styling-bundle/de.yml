@@ -1,0 +1,19 @@
+de:
+    title: Lazy Image Styling
+    description: >
+        Dieses Bundle fügt für jedes Bild, das lazy geladen wird, ein inline-Styling hinzu.
+        Durch das Styling wird ein before-Element zum Image-Container hinzugefügt, der den Platz für das Bild reserviert.
+        Dadurch wird beim Nachladen der Bilder der Content der Webseite nicht beeinflusst.
+        
+        Das padding für das before-Element wird dynamisch für alle verwendeten Bildgrößen berechnet und die entsprechenden Media-Queries im CSS angelegt.
+        
+        Neuere Broswer besitzen hierfür das CSS-Attribut "ratio", doch mit dem berechneten Styling kann man auch ältere Browser ansprechen.
+    keywords:
+        - Lazy Loading
+        - Responsive Image
+        - Dynamische Bilder
+    support:
+        issues: https://github.com/sowieso-web/contao-image-styling-bundle/issues
+        docs: https://github.com/sowieso-web/contao-image-styling-bundle
+    suggest:
+        github.com/aFarkas/lazysizes: Diese Library ermöglicht image-lazy-loading systemübergreifend
