@@ -1,0 +1,14 @@
+de:
+    title: Clickskeks Cookie Consent Banner
+    description: >
+        Easy integration for Clickskeks Cookie Banner
+    keywords:
+        - contao
+        - contao-bundle
+        - cookie
+        - cookieconsent
+        - banner
+        - dsgvo
+    support:
+        issues: https://github.com/clickpress/contao-clickskeks/issues
+        docs: https://github.com/clickpress/contao-clickskeks
