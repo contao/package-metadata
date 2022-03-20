@@ -132,6 +132,7 @@ navigations
 nestable
 Newsletter
 newslist
+Notelist
 Notification
 notification
 Open
