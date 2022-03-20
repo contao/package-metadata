@@ -1,0 +1,21 @@
+de:
+    title: MetaModels Merkliste
+    description: >
+        Die Merkliste (Notelist) erweitert MetaModels um die Möglichkeit, in der FE-Ausgabe
+        einzelne Datensätze (Items) einer Merkliste hinzuzufügen, entfernen und danach zu
+        filtern. Beim Hinzufügen können optional weitere Daten angegeben werden. Eine Übergabe
+        der Merkliste-Items an ein Formular ist möglich. 
+
+        Einsatzmöglichkeiten für die Merkliste reichen von einer „normalen Merkliste“
+        über Vergleichslisten z.B. von Produkteigenschaften bis zu Warenkorbfunktionen. 
+
+        Mehr zur Installation und die Arbeit mit MetaModels-Merkliste in unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/manual/extended/notelist.html
+    keywords:
+        - metamodels
+        - merkliste
+        - notelist
+        - watchlist
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/
