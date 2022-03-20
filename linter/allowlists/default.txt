@@ -182,6 +182,7 @@ Pinterest
 Piwik
 Pixabay
 Podcasts
+Poedit
 Preload
 preload
 QR
@@ -275,6 +276,7 @@ XING
 XLIFF
 XLS
 XLSX
+YAML
 YouTube
 ZIP
 Zammad

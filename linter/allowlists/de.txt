@@ -296,6 +296,7 @@ Konfigurationsoberfläche
 Konfigurator
 Konnektor
 Konnektors
+Konsolenaufrufe
 Kontaktdaten
 Kontextmenü
 Kopfbereich
@@ -566,6 +567,7 @@ Umkreissuche
 Unified
 Uploader
 Uploads
+Übersetzungstools
 Validierung
 Varone
 Veranstaltungsbuchung
