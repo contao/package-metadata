@@ -388,6 +388,7 @@ Panel
 Panelen
 Panels
 Parallax
+Parent
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
