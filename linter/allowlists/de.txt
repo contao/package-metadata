@@ -145,6 +145,7 @@ Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
 Elternelement
+Elterntabelle
 Empfängerlisten
 Encryption
 Endgeräte
@@ -388,6 +389,7 @@ Panel
 Panelen
 Panels
 Parallax
+Parent
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
