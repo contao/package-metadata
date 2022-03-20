@@ -259,6 +259,7 @@ Inputtype
 Insert
 Install
 Installationspaket
+Items
 Jobbörse
 Jobletter
 Jobposting
@@ -369,6 +370,7 @@ Navigationsmenü
 Neubauprojekten
 Newsbeiträge
 Newsletter
+Notelist
 Notification
 Nu
 Nutzerbasis
@@ -404,6 +406,7 @@ Preistabelle
 Preview
 Privacy
 Produktdetails
+Produkteigenschaften
 Produktkatalogen
 Produktpräsentation
 Produktslider
@@ -565,6 +568,7 @@ Vollbildmodus
 Vorlagedatei
 Vorschaubild
 WOW
+Warenkorbfunktionen
 Webanwendungen
 Webseite
 Webseitenbesucher
