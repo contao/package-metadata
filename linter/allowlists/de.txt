@@ -32,6 +32,7 @@ Attachment
 Attributausgaben
 Attributtypen
 Auflistungsfunktionen
+Aufnahmezeitpunkt
 Ausserdem
 Author
 Automatisierungsaufgaben
@@ -63,6 +64,7 @@ Bewertungssystem
 Bilddatenbank
 Bildergalerie
 Bildergalerien
+Bildformaten
 Bildgrößen
 Bildgrößeneinstellung
 Bildschirmpräsentation
@@ -101,6 +103,7 @@ Core
 Cores
 Crawlers
 Creator
+CT
 Custom
 Customizer
 DC
@@ -212,6 +215,7 @@ Geoinformationen
 Geoinformationssystemen
 Geokodierung
 Geokodierungsdienste
+Geokoordinaten
 Geschütztes
 Get
 Glossarbegriffe
@@ -265,6 +269,7 @@ Jobbörse
 Jobletter
 Jobposting
 Kalenderformate
+Kameratyp
 Kartenanwendung
 Kartendiensten
 Karteneditor
@@ -354,6 +359,7 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
+MRT
 Multidomain
 Nachrichtenarchiv
 Nachrichtenarchivs
@@ -397,6 +403,7 @@ Parent
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
+Patientendaten
 Pattern
 Picker
 Playlist
@@ -449,6 +456,7 @@ Rocksolid
 Root
 Routenplaner
 Routenplanung
+Röntgenaufnahmen
 SCR
 Schaltfläche
 Schaufensterlisten
@@ -541,6 +549,7 @@ Texteigenschaften
 Textfeld
 Textfeldern
 Textfeldes
+Textformaten
 ThemeRoller
 Themenwelten
 Ticker

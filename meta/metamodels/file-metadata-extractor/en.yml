@@ -1,0 +1,25 @@
+en:
+    title: MetaModels File Metadata Extractor
+    description: >
+        The file metadata extraction reads out metadata from files - metadata
+        is additional information that is "hidden" in the file. Known are EXIF and IPTC
+        data, for example, which in image formats such as JPG/PNG contain information
+        about exposure, camera type, flash, author, geo-coordinates, etc.
+        Metadata is also available in text formats such as DOC/DOCX/PDF in the form
+        of author, description, etc. Just like patient data in digital
+        MRI/CT/X-ray images in DICOM format. 
+
+        More about installation and working with MetaModels file metadata extraction in
+        our manual at
+        https://metamodels.readthedocs.io/de/latest/manual/extended/metadata_extractor.html
+    keywords:
+        - metamodels
+        - file
+        - datei
+        - metadaten
+        - meta data
+        - IPTC
+        - EXIF
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/
