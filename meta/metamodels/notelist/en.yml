@@ -2,14 +2,12 @@ en:
     title: MetaModels Notelist
     description: >
         The note list or watch list extends MetaModels by the possibility of adding
-        individual data sets (items) to a watch list and add individual data sets
-        (items) to a watch list, remove them and then filter them. Optionally,
-        additional data can be specified when adding items. A transfer of the
+        individual data sets (items) to a watch list, remove them and then filter them. 
+        Optionally, additional data can be specified when adding items. A transfer of the
         watch list items to a form is possible. 
 
-        Possible uses for the watch list range from a "normal watch list" to
-        comparison lists, for example to comparison lists, e.g. of product
-        properties, to shopping basket functions. 
+        Possible use cases for the watch list include e.g a "normal watch list", 
+        comparison lists, product properties, or shopping basket functions. 
 
         More about the installation and working with MetaModels-Merkliste in our
         manual at
