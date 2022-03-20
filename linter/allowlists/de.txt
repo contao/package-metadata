@@ -145,6 +145,7 @@ Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
 Elternelement
+Elterntabelle
 Empfängerlisten
 Encryption
 Endgeräte
