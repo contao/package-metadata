@@ -270,6 +270,7 @@ Karteneditor
 Kartenlayern
 Kartentechnik
 Kassenbereich
+Kaufprozess
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
 Kennworts
@@ -376,6 +377,7 @@ Nutzerbasis
 Nutzerfreundlichkeit
 OR
 Objektliste
+Onlineshop
 Open
 Opt
 Overlay
