@@ -1,0 +1,22 @@
+de:
+    title: MetaModels Isotope-Bridge
+    description: >
+        Mit „MetaModels-2-Isotope“ werden verschiedene Komponenten zur Verfügung gestellt,
+        um aus MetaModels heraus Items (Artikel, Produkt) an den Onlineshop Isotopeecommerce
+        (Isotope) für einen Kauf (Checkout) zu übergeben.
+
+        Die Übergabe aus MetaModels heraus erfolgt über den Warenkorb von Isotope. Anschließend
+        wird der weitere Kaufprozess so durchgeführt, wie es in der Konfiguration von Isotope
+        eingestellt wurde. 
+
+        Mehr zur Installation und die Arbeit mit MetaModels-Isotope-Bridge in unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/manual/extended/isotope.html
+    keywords:
+        - metamodels
+        - shop
+        - ecommerce
+        - webshop
+        - isotope
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/
