@@ -288,6 +288,7 @@ Konfigurationsoberfläche
 Konfigurator
 Konnektor
 Konnektors
+Konsolenaufrufe
 Kontaktdaten
 Kontextmenü
 Kopfbereich
