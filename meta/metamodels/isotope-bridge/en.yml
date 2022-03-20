@@ -2,11 +2,11 @@ en:
     title: MetaModels Isotope-Bridge
     description: >
         MetaModels-2-Isotope" provides various components, to transfer items
-        (articles, products) from MetaModels to the online shop Isotopeecommerce
+        (articles, products) from MetaModels to the online shop Isotope eCommerce
         (Isotope) for a purchase (checkout).
 
-        The transfer from MetaModels takes place via the Isotope shopping cart. Subsequently
-        the further purchase process is carried out as set in the configuration of Isotope.
+        The transfer from MetaModels takes place via the Isotope shopping cart. Subsequently,
+        the further purchase process is carried out as set in the configuration of Isotope
         configuration. 
 
         More about the installation and the work with MetaModels-Isotope-Bridge in our manual under
