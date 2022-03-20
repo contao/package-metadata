@@ -1,9 +1,9 @@
 en:
     title: MetaModels XLIFF-Export-Import
     description: >
-        With the XLIFF export-import tool, the contents of a Contao installation can be exported and
-        be exported for translation and imported again. Besides the normal content of Contao, also
-        the multilingual content of MetaModels can be are exported or imported.
+        With the XLIFF export-import tool, the contents of a Contao installation can be exported 
+        for translation and imported again. Besides the normal content of Contao, also
+        the multilingual content of MetaModels can be exported or imported.
 
         The export is an XLIFF file that can be read by common translation tools. For example, with
         the tool Poedit. In cooperation with translation agencies, XLIFF is standard.
