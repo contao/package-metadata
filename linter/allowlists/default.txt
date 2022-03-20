@@ -56,7 +56,10 @@ Cron
 Cross
 DCA
 DCA's
+DICOM
 DMS
+DOC
+DOCX
 DOM
 DOMPDF
 DSGVO
@@ -71,6 +74,7 @@ EstateManager
 EuF
 Eventlist
 Excel
+EXIF
 Exposé
 FAQs
 FOSSGIS
@@ -103,6 +107,7 @@ HTML
 html
 ID
 IPs
+IPTC
 IT
 ImmobilienScout
 Immobilienbörse
