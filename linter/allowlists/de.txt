@@ -59,6 +59,7 @@ Benutzernamen
 Berechnungsarten
 Besuchererweiterung
 Betreiberseiten
+Bewertungsarchive
 Bewertungssystem
 Bilddatenbank
 Bildergalerie
@@ -342,6 +343,7 @@ Mindestlänge
 Mitarbeiterlisten
 Mitgliedergruppe
 Mitgliedergruppen
+Mitgliedseinstellungen
 Model
 Moduleinstellungen
 Modultyp
