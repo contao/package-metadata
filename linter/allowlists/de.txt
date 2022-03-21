@@ -292,6 +292,7 @@ Kontextmenü
 Kopfbereich
 Kreuztabelle
 Kreuztabellen
+Kundenrezensionen
 Kundenstimmen
 Landingpages
 Language
@@ -522,6 +523,7 @@ Tech
 Teilnehmerregistrierung
 Telematik
 Templatehint
+Testimonial
 Testimonials
 Textarea
 Texteigenschaften
