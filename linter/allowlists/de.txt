@@ -303,6 +303,8 @@ Kontextmenü
 Kopfbereich
 Kreuztabelle
 Kreuztabellen
+Kundenrezensionen
+Kundenstimmen
 Landingpages
 Language
 Latitude
@@ -547,6 +549,7 @@ Tech
 Teilnehmerregistrierung
 Telematik
 Templatehint
+Testimonial
 Testimonials
 Textarea
 Texteigenschaften
