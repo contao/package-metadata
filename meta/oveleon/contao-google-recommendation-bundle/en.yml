@@ -1,0 +1,8 @@
+en:
+    title: Contao Google Recommendation Bundle
+    description: >
+        Extends the Contao Recommendation Bundle with an import of Google reviews.
+    keywords:
+        - google
+        - ratings
+        - reviews
