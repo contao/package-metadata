@@ -3,6 +3,7 @@ en:
     description: >
         This Bundle provides a back end module to easily create and list backups of the contao database.
         The backups can be downloaded in the back end and backups can be created manually by back end users.
+        Please read the migration notes to version 2 in the readme of this extension!
     keywords:
         - contao
         - database

@@ -3,6 +3,7 @@ de:
     description: >
         Diese Erweiterung bietet ein Backend-Modul zum einfachen Erstellen und Auflisten von Backups der Contao-Datenbank.
         Die Backups können im Backend heruntergeladen werden und Backups können manuell durch Backend-Benutzer erstellt werden.
+        Bitte die Migrationshinweise zu Version 2 in der Readme dieser Erweiterung lesen!
     keywords:
         - contao
         - database
