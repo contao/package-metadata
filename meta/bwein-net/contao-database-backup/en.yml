@@ -1,14 +1,12 @@
 en:
     title: Database Backup
     description: >
-        This Bundle provides an console command to do easy backups of the Contao database.
+        This Bundle provides a back end module to easily create and list backups of the contao database.
         The backups can be downloaded in the back end and backups can be created manually by back end users.
-        Automatic backups are triggered by the daily Contao cronjob automator.
     keywords:
         - contao
         - database
         - backup
         - sql
         - dump
-        - command
-        - cron
+        - backend
