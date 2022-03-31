@@ -569,6 +569,7 @@ Tracking
 Travel
 Trigger
 TwitterReader
+Typo
 UItoTop
 Umgebungshinweis
 Umkreissuche
