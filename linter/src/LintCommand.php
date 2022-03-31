@@ -83,11 +83,9 @@ class LintCommand extends Command
     private function validateFiles(array $files, bool $skipPrivate, bool $skipSpellCheck): void
     {
         foreach ($files as $path) {
-            $file = new \SplFileInfo(realpath($path));
+            $file = new \SplFileInfo(realpath($path) ?: $path);
 
             if (!$file->isFile()) {
-                $this->io->error(sprintf('The file "%s" was not found', $path));
-                $this->error = true;
                 continue;
             }
 

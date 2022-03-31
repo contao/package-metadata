@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Filter Parent
+    description: >
+        Der Filter-Parent ermöglicht es, Items einer vorhandenen Kind-Tabelle nach
+        Eigenschaften der Elterntabelle zu filtern. 
+
+        Mehr zur Installation und die Arbeit mit MetaModels Filter Parent in unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/manual/extended/filter_parent.html
+    keywords:
+        - metamodels
+        - filter
+        - parent
+        - kindtabelle
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/

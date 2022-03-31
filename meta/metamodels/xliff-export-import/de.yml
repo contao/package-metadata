@@ -1,0 +1,34 @@
+de:
+    title: MetaModels XLIFF-Export-Import
+    description: >
+        Mit dem Tool XLIFF-Export-Import können die Inhalte einer Contao-Installation für
+        eine Übersetzung exportiert und wieder importiert werden. Neben den normalen
+        Inhalten von Contao werden auch die mehrsprachigen Inhalte von MetaModels
+        exportiert bzw. importiert.
+
+        Als Export wird eine XLIFF-Datei erzeugt, die von gängigen Übersetzungstools
+        eingelesen werden kann. Zum Beispiel mit dem Tool Poedit. In der Zusammenarbeit
+        mit Übersetzungsbüros ist XLIFF Standard.
+
+        Sind die Übersetzungen in die exportierte XLIFF-Datei eingepflegt, kann diese
+        wieder importiert werden.
+
+        Der Export und Import erfolgt über Konsolenaufrufe - die Konfiguration über
+        eine selbst zu erstellende YAML-Datei.
+
+        Aktuell werden folgende Module unterstützt: Contao (Core), MetaModels (Daten),
+        RockSolid Custom-Elements.
+
+        Mehr zur Installation und die Arbeit mit XLIFF-Export-Import in
+        unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/manual/extended/xliff_ex-import.html
+    keywords:
+        - metamodels
+        - XLIFF
+        - export
+        - import
+        - translation
+        - multi language
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/

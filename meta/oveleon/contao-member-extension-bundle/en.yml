@@ -1,0 +1,8 @@
+en:
+    title: Contao Member Extension Bundle
+    description: >
+        Adds an avatar to members and allows uploading a profile picture. 
+        Allows members to be listed with detail pages.
+    keywords:
+        - member
+        - avatar
