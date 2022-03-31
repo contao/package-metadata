@@ -1,14 +1,13 @@
 de:
     title: Erweiterte Navigation
     description: >
-        Diese Contao Erweiterung Ignoriert auf Wunsch bestimmte Seiten in Navigation oder Breadcrumb
+        Diese Contao Erweiterung ignoriert auf Wunsch bestimmte Seiten in Navigation oder Breadcrumb.
     keywords:
         - Ausschließen
         - Contao
         - Hauptnavigation
         - Menü
         - Navigation
-        - Seitenstruktur
         - Seitenstruktur
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/erweiterte-contao-navigation/
     support:
