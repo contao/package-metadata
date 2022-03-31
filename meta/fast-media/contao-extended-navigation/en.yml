@@ -4,13 +4,13 @@ en:
         If desired, this Contao extension ignores certain pages in the navigation or breadcrumb
     keywords:
         - Contao
-        - exclude
-        - exclusion
-        - main navigation
-        - menu
+        - Exclude
+        - Exclusion
+        - Main navigation
+        - Menu
         - Navigation
         - Page structure
-        - page structure
+        - Page structure
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/erweiterte-contao-navigation/
     support:
         email: dev@fast-media.net
