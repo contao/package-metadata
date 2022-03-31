@@ -1,7 +1,8 @@
 de:
     title: Automatische Weiterleitungen
     description: >
-        Übersichtlicher Htaccess Ersatz mit Statistiken Automatische Weiterleitung beliebig vieler URLs auf interne Seiten, Links oder externe Links. Übersichtlicher Htaccess-Ersatz mit Statistiken und künftige Weiterleitung bisher aufgetretener 404-Fehler.
+        Übersichtlicher Htaccess Ersatz mit Statistiken
+        Automatische Weiterleitung beliebig vieler URLs auf interne Seiten, Links oder externe Links. Übersichtlicher Htaccess-Ersatz mit Statistiken und künftige Weiterleitung bisher aufgetretener 404-Fehler.
     keywords:
         - '301'
         - '302'
