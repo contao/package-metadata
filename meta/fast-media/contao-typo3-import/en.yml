@@ -1,7 +1,8 @@
 en:
     title: Typo3 Import
     description: >
-        Import complete Typo3 websites including pages, content, news & events With this extension pages, content, news and events are migrated from a Typo3 installation to Contao.
+        Import complete Typo3 websites including pages, content, news & events.
+        With this extension pages, content, news and events are migrated from a Typo3 installation to Contao.
     keywords:
         - Content
         - Content elements
@@ -13,7 +14,7 @@ en:
         - News
         - Pages
         - Page structure
-        - Schnittstelle
+        - Interface
         - Typo3
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/typo3-import/
     support:
