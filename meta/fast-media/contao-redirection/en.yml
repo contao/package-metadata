@@ -1,0 +1,26 @@
+en:
+    title: Automatic redirections
+    description: >
+        Übersichtlicher Htaccess Ersatz mit Statistiken Automatic forwarding of any number of URLs to internal pages, links or external links. Clear Htaccess replacement with statistics, 410 status support and future forwarding of previously encountered 404 errors. Supports 410 gone pages.
+    keywords:
+        - 301
+        - 302
+        - 404
+        - 410
+        - backend administration
+        - Contao module
+        - Htaccess
+        - HTTP state
+        - Individually
+        - Linking
+        - Links
+        - Page structure
+        - Statistics
+        - Weiterleitung
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/automatische-weiterleitungen/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/automatische-weiterleitungen/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/automatische-weiterleitungen/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/automatische-weiterleitungen/support/
+        source: https://bitbucket.org/contao-extensions/redirection/

@@ -1,0 +1,24 @@
+en:
+    title: 
+    description: >
+        Import complete Typo3 websites including pages, content, news & events With this extension pages, content, news and events are migrated from a Typo3 installation to Contao.
+    keywords:
+        - Content
+        - Content elements
+        - Database
+        - Events
+        - Import
+        - Items
+        - Migration
+        - News
+        - Pages
+        - Page structure
+        - Schnittstelle
+        - Typo3
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/typo3-import/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/typo3-import/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/typo3-import/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/typo3-import/support/
+        source: https://bitbucket.org/contao-extensions/typo3-import/

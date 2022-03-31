@@ -1,0 +1,17 @@
+de:
+    title: Wiederkehrende Orte
+    description: >
+        Diese Erweiterung klinkt sich in die Contao Events ein und ermöglicht die einfache Verwaltung und Pflege wiederkehrender Veranstaltungsorte.
+    keywords:
+        - Contao
+        - Events
+        - Locations
+        - Orte
+        - Veranstaltungsorte
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/wiederkehrende-orte/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/wiederkehrende-orte/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/wiederkehrende-orte/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/wiederkehrende-orte/support/
+        source: https://bitbucket.org/contao-extensions/locations/

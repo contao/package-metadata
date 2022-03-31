@@ -1,0 +1,25 @@
+en:
+    title: Coupons
+    description: >
+        You can use this extension to create vouchers in the Contao backend. In addition, your customers can order new vouchers in the frontend.
+    keywords:
+        - buy
+        - Contao
+        - coupon
+        - Coupons
+        - discount
+        - E-Commerce
+        - Event Manager
+        - Events
+        - Order
+        - Payment
+        - Products
+        - purchase
+        - voucher
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/gutscheine/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/gutscheine/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/gutscheine/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/gutscheine/support/
+        source: https://bitbucket.org/contao-extensions/coupons/
