@@ -16,6 +16,7 @@ Akkordions
 Aliases
 Alliance
 Amphtml
+Anbieterlisten
 Anbieterseiten
 Anfahrtskarten
 Animated
@@ -184,6 +185,7 @@ Filterfunktionalität
 Filterfunktionen
 Fine
 Firefighter
+Firmendetailseiten
 Flipbert
 Flipbook
 Flipbooks
@@ -567,6 +569,7 @@ Tracking
 Travel
 Trigger
 TwitterReader
+Typo
 UItoTop
 Umgebungshinweis
 Umkreissuche
@@ -577,6 +580,7 @@ Uploads
 Validierung
 Varone
 Veranstaltungsbuchung
+Veranstaltungsorte
 Verification
 Verkaufsobjekte
 Vermietungsabteilung

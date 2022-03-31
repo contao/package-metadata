@@ -1,7 +1,7 @@
 en:
     title: Extended Navigation
     description: >
-        If desired, this Contao extension ignores certain pages in the navigation or breadcrumb
+        If desired, this Contao extension ignores certain pages in the navigation or breadcrumb.
     keywords:
         - Contao
         - exclude
@@ -10,7 +10,6 @@ en:
         - menu
         - Navigation
         - Page structure
-        - page structure
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/erweiterte-contao-navigation/
     support:
         email: dev@fast-media.net

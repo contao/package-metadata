@@ -75,6 +75,7 @@ Folder
 foo
 Formvalidation
 formvalidation
+frontend
 functionalities
 Fußball
 Gallery
@@ -154,6 +155,7 @@ production
 Projects
 PWA
 Queue
+redirections
 reimport
 rel
 Responsive
@@ -194,6 +196,7 @@ tmp
 Tracking
 Trigger
 TwitterReader
+Typo
 UItoTop
 Uploader
 uploader
