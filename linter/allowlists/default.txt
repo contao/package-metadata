@@ -39,6 +39,7 @@ ChangeLanguage
 ChangeNewsMore
 Checkbox
 Clickpress
+Clickskeks
 Cloud
 Community
 Composer
