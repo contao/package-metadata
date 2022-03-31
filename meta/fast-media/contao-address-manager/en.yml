@@ -1,7 +1,8 @@
 en:
     title: Address Manager
     description: >
-        Business directory, supplier lists and company detail pages Manage different addresses for companies, locations, clubs etc. and output them in lists.
+        Business directory, supplier lists and company detail pages
+        Manage different addresses for companies, locations, clubs etc. and output them in lists.
     keywords:
         - Addresses
         - Companies
