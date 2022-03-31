@@ -1,0 +1,26 @@
+de:
+    title: Adress Manager
+    description: >
+        Branchenverzeichnis, Anbieter Listen und Firmendetailseiten Verwalten Sie verschiedene Adressen für Gewerbe, Veranstaltungsorte, Vereine, Unterhmen etc. und geben Sie diese in Listen aus.
+    keywords:
+        - Adressen
+        - Ansprechpartner
+        - Auflistung
+        - Branchen
+        - Contao
+        - Filter
+        - Firmen
+        - Location
+        - Navigation
+        - Orte
+        - Suche
+        - Unternehmen
+        - Veranstaltungsorte
+        - Verzeichnis
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/support/
+        source: https://bitbucket.org/contao-extensions/address-manager/

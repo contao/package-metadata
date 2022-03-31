@@ -1,0 +1,27 @@
+en:
+    title: Address Manager
+    description: >
+        Business directory, supplier lists and company detail pages Manage different addresses for companies, locations, clubs etc. and output them in lists.
+    keywords:
+        - Addresses
+        - Companies
+        - Company
+        - Contact persons
+        - Contao
+        - Directory
+        - Filter
+        - Industry
+        - Listing
+        - Location
+        - Navigation
+        - Places
+        - Search
+        - Sectors
+        - Venues
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/adress-manager/support/
+        source: https://bitbucket.org/contao-extensions/address-manager/
