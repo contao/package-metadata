@@ -1,7 +1,8 @@
 de:
     title: Typo3 Import
     description: >
-        Komplette Websites mit Seiten, Inhalten, News & Events aus Typo3 importieren Mit dieser Erweiterung werden Seiten, Inhalte, News und Events von einer Typo3 Installation zu Contao migriert.
+        Komplette Websites mit Seiten, Inhalten, News & Events aus Typo3 importieren.
+        Mit dieser Erweiterung werden Seiten, Inhalte, News und Events von einer Typo3 Installation zu Contao migriert.
     keywords:
         - Artikel
         - Datenbank
