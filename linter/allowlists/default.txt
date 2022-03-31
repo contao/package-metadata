@@ -103,6 +103,7 @@ HIBP
 Heusschen
 Hofff
 Host
+Htaccess
 HTML
 html
 ID
@@ -250,6 +251,7 @@ Tweets
 Twig
 Twitter
 Typekit
+Typo3
 UI
 UUID
 UUIDs
