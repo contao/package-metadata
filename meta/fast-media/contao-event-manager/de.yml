@@ -10,6 +10,7 @@ de:
         - Bestellung
         - Bezahlung
         - Contao
+        - Contao Extensions
         - Contao Module
         - CSV
         - Dozenten
@@ -40,7 +41,6 @@ de:
         - Veranstaltungen
         - Warenkorb
         - Weiterbildung
-        - Ähnliche Beiträge
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/
     support:
         email: dev@fast-media.net

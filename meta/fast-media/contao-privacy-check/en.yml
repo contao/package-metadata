@@ -3,24 +3,24 @@ en:
     description: >
         This contao extension checks every page layout, if there are used CDN / Cloud services like Google Fonts, jQuery.com, Bootstrap.com, Google Analytics etc. The extension prevent entering Google webfonts by an editor in the layout dialog in the backend.
     keywords:
-        - Backend
+        - backend
         - backend administration
-        - Check
-        - Cloud
+        - check
+        - cloud
         - DSGVO
-        - Examination
-        - External
+        - examination
+        - external
         - Google
         - Google Fonts
         - JavaScript
         - jQuery
         - Layout
-        - Legal
-        - Mootools
-        - Page layout
-        - Privacy
-        - Problem
-        - Scripts
+        - legal
+        - mootools
+        - page layout
+        - privacy
+        - problem
+        - scripts
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/datenschutz-check/
     support:
         email: dev@fast-media.net

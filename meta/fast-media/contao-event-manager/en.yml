@@ -3,43 +3,44 @@ en:
     description: >
         Event booking and seminar management etc. The Contao Event Manager allows your customers to list, filter and book your events. The booking of events is like in every modern shop system.
     keywords:
-        - Attendees
+        - attendees
         - Cart
         - Contact persons
         - Contao
         - Contao Extensions
-        - Contao module
-        - Course management
-        - Courses
+        - Contao Module
+        - course management
+        - courses
         - Credit card
         - CSV
         - Customers
         - Debit
         - E-Commerce
-        - Education
-        - Email
+        - education
+        - email
         - Events
         - Export
+        - further education
         - ICS
         - Import
-        - Lecturers
-        - Listing
+        - lecturers
+        - listing
         - Locations
         - Notifications
         - Order
-        - Organizer
-        - Participants
+        - organizer
+        - participants
         - Payment
         - PayOne
         - PayPal
-        - Purchase
-        - Reservation
-        - Seminar
-        - Seminar management
-        - Sign up
+        - purchase
+        - reservation
+        - seminar
+        - seminar management
+        - sign up
         - Sofort
-        - Tickets
-        - Training
+        - tickets
+        - training
         - Watchlist
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/event-manager/
     support:

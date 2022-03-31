@@ -3,16 +3,14 @@ en:
     description: >
         List similar news items. Automatically display related news posts below or next to a news item. The extension is indispensable for blogs in particular and recognizes similar posts in several steps.
     keywords:
-        - Accordance
-        - Announcement
+        - accordance
         - Blog
         - Contao
         - Contao Extensions
-        - Contao module
+        - Contao Module
         - News
-        - Press
-        - Related
-        - Relation
+        - related
+        - relation
         - Templates
     homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-news-related/
     support:
