@@ -191,6 +191,8 @@ README
 REST
 RSS
 React
+Readme
+readme
 Recruitee
 Reddit
 Reload
