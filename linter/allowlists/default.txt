@@ -39,6 +39,7 @@ ChangeLanguage
 ChangeNewsMore
 Checkbox
 Clickpress
+Clickskeks
 Cloud
 Community
 Composer
@@ -55,7 +56,10 @@ Cron
 Cross
 DCA
 DCA's
+DICOM
 DMS
+DOC
+DOCX
 DOM
 DOMPDF
 DSGVO
@@ -70,6 +74,7 @@ EstateManager
 EuF
 Eventlist
 Excel
+EXIF
 Exposé
 FAQs
 FOSSGIS
@@ -98,10 +103,12 @@ HIBP
 Heusschen
 Hofff
 Host
+Htaccess
 HTML
 html
 ID
 IPs
+IPTC
 IT
 ImmobilienScout
 Immobilienbörse
@@ -176,6 +183,7 @@ Pinterest
 Piwik
 Pixabay
 Podcasts
+Poedit
 Preload
 preload
 QR
@@ -243,6 +251,7 @@ Tweets
 Twig
 Twitter
 Typekit
+Typo3
 UI
 UUID
 UUIDs
@@ -269,6 +278,7 @@ XING
 XLIFF
 XLS
 XLSX
+YAML
 YouTube
 ZIP
 Zammad
