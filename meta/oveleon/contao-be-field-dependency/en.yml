@@ -1,0 +1,9 @@
+en:
+    title: DCA field conditions
+    description: >
+        In addition to the palettes and sub-palettes, this extension adds a new field property for DCA fields where
+        conditions for displaying the field can be defined.
+    keywords:
+        - dca
+        - field
+        - dependency

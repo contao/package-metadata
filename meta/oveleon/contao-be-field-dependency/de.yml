@@ -1,0 +1,9 @@
+de:
+    title: DCA-Feld Bedingungen
+    description: >
+        Zusätzlich zu den Paletten und Unterpaletten fügt diese Erweiterung eine neue Feldeigenschaft für DCA-Felder
+        hinzu, in der Bedingungen für das Anzeigen des Feldes definiert werden können.
+    keywords:
+        - dca
+        - feld
+        - abhängigkeit

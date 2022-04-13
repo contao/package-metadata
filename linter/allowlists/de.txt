@@ -176,6 +176,7 @@ Farbschemen
 Favicons
 Feed
 Feeds
+Feldeigenschaft
 Felderguppen
 Fields
 File
@@ -575,6 +576,7 @@ UItoTop
 Umgebungshinweis
 Umkreissuche
 Unified
+Unterpaletten
 Uploader
 Uploads
 Übersetzungstools
