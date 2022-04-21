@@ -1,0 +1,18 @@
+en:
+    title: Jobs Basic Bundle
+    description: >
+        The perfect solution for your job offer site.
+        Basic Job Manager for Contao CMS (including Google for Jobs)
+        Open source and free.
+    keywords:
+        - Job
+        - Jobs
+        - Vacancy
+        - Career
+        - Occupation
+        - Apply
+        - Workplace
+    homepage: https://plenta.io/contao-erweiterungen/jobs-basic
+    support:
+        issues: https://github.com/plenta/contao-jobs-basic-bundle/issues
+        docs: https://plenta.io/contao-erweiterungen/jobs-basic
