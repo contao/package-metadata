@@ -22,6 +22,7 @@ Anfahrtskarten
 Animated
 Animations
 AntiSpam
+Anzeigeregeln
 Api
 Archiving
 Article
@@ -80,6 +81,7 @@ Bspw
 Buchnavigation
 Buchungsformular
 Buttongenerator
+CT
 Calculator
 Calendar
 Canonical
@@ -105,7 +107,6 @@ Core
 Cores
 Crawlers
 Creator
-CT
 Custom
 Customizer
 DC
@@ -293,9 +294,9 @@ Klassenbasierte
 Klassensammlung
 Kommentarfunktionalität
 Kompetenzteams
+Konfiguartionsdatei
 Konfigurationsaufwand
 Konfigurationsbaum
-Konfiguartionsdatei
 Konfigurationsoberfläche
 Konfigurator
 Konnektor
@@ -335,6 +336,7 @@ Logout
 Longitude
 Länderauswahl
 MATE
+MRT
 Maklermodul
 Maklersoftware
 Maps
@@ -368,7 +370,6 @@ Monitoring
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
-MRT
 Multidomain
 Nachrichtenarchiv
 Nachrichtenarchivs
@@ -437,6 +438,7 @@ Projects
 Projektwebseite
 Protocol
 Pull
+Pulse
 Push
 Pwned
 Queries
@@ -455,6 +457,8 @@ Registerkarte
 Registration
 Regular
 Related
+Release
+Releases
 Remember
 Rendereinstellungen
 Repository
@@ -491,10 +495,10 @@ Serverabhängig
 Serverhint
 Serverseitiger
 Share
+Shopsystem
 Short
 Sibling
 Sichtbarkeiten
-Shopsystem
 Slave
 Slider
 Sliders
@@ -512,6 +516,8 @@ Speisenpläne
 Spiders
 Sprachenwechsler
 Sprachparameter
+Stage
+Stages
 Standardauswahlen
 Standardrechte
 Standortermittlung
@@ -579,7 +585,6 @@ Unified
 Unterpaletten
 Uploader
 Uploads
-Übersetzungstools
 Validierung
 Varone
 Veranstaltungsbuchung
@@ -652,6 +657,7 @@ dlh
 endgeräteübergreifenden
 etc
 foo
+for
 formvalidation
 für
 geo
@@ -721,9 +727,4 @@ youtube
 zeitintensiven
 zeitintensiver
 Übersetzungsfelder
-Pulse
-Anzeigeregeln
-Release
-Releases
-Stages
-Stage
+Übersetzungstools
