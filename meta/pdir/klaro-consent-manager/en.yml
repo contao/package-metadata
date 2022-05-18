@@ -1,0 +1,25 @@
+en:
+    title: Klaro Consent Manager
+    description: >
+        Put an end to the cookie chaos! Manage cookies & services on Contao websites easily & clearly directly from
+        the Contao backend. We rely on "Klaro! - a free and open source consent tool, which provides a user-friendly
+        cookie banner for obtaining user consent and reliably blocks the loading of services until then. Klaro is
+        DSGVO compliant, easy to configure, lightweight and compatible with all modern browsers. For a lightning-fast
+        setup, we have prepared a comprehensive configuration file for you with over 20 services. You can find out
+        more by clicking on the "Project website" button.
+    keywords:
+        - cookie
+        - cookiebar
+        - gdpr
+        - dsgvo
+        - manager
+        - cookiebanner
+        - bar
+        - privacy
+        - settings
+        - klaro
+        - popup
+        - cookies
+    homepage: https://pdir.de
+    support:
+        email: support@pdir.de
