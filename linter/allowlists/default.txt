@@ -126,6 +126,7 @@ JavaScript
 KML
 Ken
 Klarna
+Klaro
 KlickTipp
 KuteJS
 LASR
