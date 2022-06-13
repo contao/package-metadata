@@ -1,0 +1,18 @@
+de:
+  title: Contao-Anbindung für Rechtstexte von eRecht24
+  description: >
+    Diese Erweiterung ermöglicht die einfache Integration von Impressum und Datenschutzerklärung von eRecht24 in Contao.
+    Die Erweiterung stellt lediglich eine Schnittstelle für eRecht24 zur Verfügung.
+    Es wird eine aktive Mitgliedschaft bei eRecht24 benötigt, um entsprechende API-Schlüssel zu generieren.
+    Die Programmierung, Weiterentwicklung und der Support wird von Fenepedia durchgeführt.
+  keywords:
+    - eRecht24
+    - eRecht24-API
+    - Rechtstexte
+    - Impressum
+    - Datenschutz
+    - Datenschutzerklärung
+  homepage: https://www.fenepedia.de/contao-er24-rechtstexte
+  support:
+    issues: https://github.com/fenepedia/contao-er24-rechtstexte/issues
+    docs: https://www.fenepedia.de/contao-er24-rechtstexte
