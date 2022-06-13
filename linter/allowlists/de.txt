@@ -728,13 +728,4 @@ youtube
 zeitintensiven
 zeitintensiver
 Übersetzungsfelder
-<<<<<<< HEAD
-Pulse
-Anzeigeregeln
-Release
-Releases
-Stages
-Stage
-=======
 Übersetzungstools
->>>>>>> origin/main

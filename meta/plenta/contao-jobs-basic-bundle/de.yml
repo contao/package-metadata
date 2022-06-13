@@ -1,13 +1,9 @@
 de:
     title: Jobs Basic Bundle
     description: >
-        Die perfekte Lösung für Stellenangebote auf deiner Website.
-<<<<<<< HEAD
-        Basic Job Manager für das Contao CMS (inkl. Google for Jobs).
-=======
-        Basic Job Manager für das Contao CMS (inkl. "Google for Jobs").
->>>>>>> origin/main
-        Open Source und kostenlos.
+            Die perfekte Lösung für Stellenangebote auf deiner Website.
+            Basic Job Manager für das Contao CMS (inkl. "Google for Jobs").
+            Open Source und kostenlos.
     keywords:
         - Job
         - Jobs
