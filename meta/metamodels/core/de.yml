@@ -16,6 +16,9 @@ de:
     keywords:
         - metamodels
         - core
+        - catalog
+        - katalog
+    homepage: https://now.metamodel.me
     support:
         docs: https://metamodels.readthedocs.io/de/latest/
     suggest:
@@ -24,6 +27,7 @@ de:
         metamodels/attribute_alias: Attribut Alias
         metamodels/attribute_checkbox: Attribut Checkbox
         metamodels/attribute_color: Attribut Color
+        metamodels/attribute_contentarticle: Attribut Artikel-Content
         metamodels/attribute_combinedvalues: Attribut kombinierte Werte
         metamodels/attribute_country: Attribut Land
         metamodels/attribute_decimal: Attribut Dezimal
@@ -35,6 +39,7 @@ de:
         metamodels/attribute_numeric: Attribut Numerisch
         metamodels/attribute_rating: Attribut Rating
         metamodels/attribute_select: Attribut Einzelauswahl [select]
+        metamodels/attribute_tablemulti: Attribut Multi-Tabelle (MCW)
         metamodels/attribute_tabletext: Attribut Tabellentext
         metamodels/attribute_tags: Attribut Mehrfachauswahl [tags]
         metamodels/attribute_text: Attribut Text
@@ -42,10 +47,12 @@ de:
         metamodels/attribute_timestamp: Attribut Datum/Zeit
         metamodels/attribute_translatedalias: Attribut übersetzter Alias
         metamodels/attribute_translatedcheckbox: Attribut übersetzte Checkbox
+        metamodels/attribute_translatedcontentarticle: Attribut übersetzter Artikel-Content
         metamodels/attribute_translatedcombinedvalues: Attribut übersetzte kombinierte Werte
         metamodels/attribute_translatedfile: Attribut übersetzte Datei
         metamodels/attribute_translatedlongtext: Attribut übersetzter Langtext
-        metamodels/attribute_translatedtabletext: Attribut übersetzter Tabellentext 
+        metamodels/attribute_translatedtabletext: Attribut übersetzter Tabellentext
+        metamodels/attribute_translatedtablemulti: Attribut übersetzte Multi-Tabelle (MCW)
         metamodels/attribute_translatedtext: Attribut übersetzter Text
         metamodels/attribute_translatedurl: Attribut übersetzte URL
         metamodels/filter_checkbox: Filter Checkbox

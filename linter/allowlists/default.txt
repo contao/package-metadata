@@ -21,12 +21,14 @@ Barcode
 Bayerischer
 Bing
 Bootstrap
+Breadcrumb
 BROCKHAUS
 Bulma
 Bundle
 Bundles
 Burns
 Bynder
+CDN
 CMS
 CONVERT
 CSS
@@ -37,6 +39,8 @@ ChangeLanguage
 ChangeNewsMore
 Checkbox
 Clickpress
+Clickskeks
+Cloud
 Community
 Composer
 Config
@@ -52,7 +56,10 @@ Cron
 Cross
 DCA
 DCA's
+DICOM
 DMS
+DOC
+DOCX
 DOM
 DOMPDF
 DSGVO
@@ -67,6 +74,7 @@ EstateManager
 EuF
 Eventlist
 Excel
+EXIF
 Exposé
 FAQs
 FOSSGIS
@@ -95,10 +103,12 @@ HIBP
 Heusschen
 Hofff
 Host
+Htaccess
 HTML
 html
 ID
 IPs
+IPTC
 IT
 ImmobilienScout
 Immobilienbörse
@@ -116,6 +126,7 @@ JavaScript
 KML
 Ken
 Klarna
+Klaro
 KlickTipp
 KuteJS
 LASR
@@ -173,6 +184,7 @@ Pinterest
 Piwik
 Pixabay
 Podcasts
+Poedit
 Preload
 preload
 QR
@@ -181,6 +193,8 @@ README
 REST
 RSS
 React
+Readme
+readme
 Recruitee
 Reddit
 Reload
@@ -240,6 +254,7 @@ Tweets
 Twig
 Twitter
 Typekit
+Typo3
 UI
 UUID
 UUIDs
@@ -266,6 +281,7 @@ XING
 XLIFF
 XLS
 XLSX
+YAML
 YouTube
 ZIP
 Zammad

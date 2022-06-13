@@ -1,0 +1,9 @@
+de:
+    title: Contao Bewertungen Bundle
+    description: >
+        Dieses Bundle ergänzt Contao um Bewertungsarchive mit Bewertungen.
+        Bewertungen können über Listen angezeigt und nach der Anzahl der Sterne gefiltert werden. 
+        Zusätzlich können Bewertungen von Besuchern über ein Formular mit Double-Opt-In-Verfahren abgegeben werden.
+    keywords:
+        - bewertung
+        - rezensionen

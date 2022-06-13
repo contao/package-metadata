@@ -1,0 +1,9 @@
+en:
+    title: Contao Recommendation Bundle
+    description: >
+        This bundle adds rating archives and recommendations to Contao. 
+        Ratings can be displayed via lists and can be filtered by the number of stars. 
+        Additionally ratings can be submitted by visitors via a form with double opt-in procedure.
+    keywords:
+        - rating
+        - recommendations

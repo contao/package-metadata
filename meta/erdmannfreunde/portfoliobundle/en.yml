@@ -1,0 +1,9 @@
+en:
+    title: Portfolio-Extension
+    description: >
+        With the portfolio extension, you are able to manage references similar to news and events via the backend and display them using different frontend modules. A portfolio entry is a set of content elements.
+    keywords:
+        - referenzen
+        - portfolio
+        - showcase
+        - work

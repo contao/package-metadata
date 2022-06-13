@@ -1,0 +1,22 @@
+en:
+    title: News Related
+    description: >
+        List similar news items.
+        Automatically display related news posts below or next to a news item. The extension is indispensable for blogs in particular and recognizes similar posts in several steps.
+    keywords:
+        - Accordance
+        - Announcement
+        - Blog
+        - Contao
+        - News
+        - Press
+        - Related
+        - Relation
+        - Templates
+    homepage: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-news-related/
+    support:
+        email: dev@fast-media.net
+        docs: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-news-related/handbuch/
+        issues: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-news-related/support/
+        forum: https://www.fast-media.net/de/produkte/contao-erweiterung/contao-news-related/support/
+        source: https://bitbucket.org/contao-extensions/news-related/

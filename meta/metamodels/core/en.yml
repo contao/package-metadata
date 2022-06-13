@@ -15,6 +15,9 @@ en:
     keywords:
         - metamodels
         - core
+        - catalog
+        - katalog
+    homepage: https://now.metamodel.me
     support:
         docs: https://metamodels.readthedocs.io/en/latest/
     suggest:
@@ -23,6 +26,7 @@ en:
         metamodels/attribute_alias: Attribute alias
         metamodels/attribute_checkbox: Attribute checkbox
         metamodels/attribute_color: Attribute Color
+        metamodels/attribute_contentarticle: Attribute article content
         metamodels/attribute_combinedvalues: Attribute combined values
         metamodels/attribute_country: Attribute country
         metamodels/attribute_decimal: Attribute decimal
@@ -34,6 +38,7 @@ en:
         metamodels/attribute_numeric: Attribute numeric
         metamodels/attribute_rating: Attribute rating
         metamodels/attribute_select: Attribute single selection [select]
+        metamodels/attribute_tablemulti: Attribute multi-table (MCW)
         metamodels/attribute_tabletext: Attribute table text
         metamodels/attribute_tags: Attribute multiple selection [tags]
         metamodels/attribute_text: Attribute text
@@ -41,10 +46,12 @@ en:
         metamodels/attribute_timestamp: Attribute date/time
         metamodels/attribute_translatedalias: Attribute translated alias
         metamodels/attribute_translatedcheckbox: Attribute translated checkbox
+        metamodels/attribute_translatedcontentarticle: Attribute translated article content
         metamodels/attribute_translatedcombinedvalues: Attribute translated combined values
         metamodels/attribute_translatedfile: Attribute translated file
         metamodels/attribute_translatedlongtext: Attribute translated long text
-        metamodels/attribute_translatedtabletext: Attribute translated table text 
+        metamodels/attribute_translatedtabletext: Attribute translated table text
+        metamodels/attribute_translatedtablemulti: Attribute translated multi table (MCW)
         metamodels/attribute_translatedtext: Attribute translated text
         metamodels/attribute_translatedurl: Attribute translated URL
         metamodels/filter_checkbox: Filter checkbox
