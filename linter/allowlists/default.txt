@@ -332,6 +332,7 @@ js
 krpano
 leaflet
 mPDF
+mailer
 maps
 metamodel
 metamodels
@@ -351,6 +352,7 @@ pixel
 png
 rocksolid
 rss
+send
 sql
 start
 storeFormData
