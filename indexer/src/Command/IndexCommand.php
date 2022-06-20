@@ -31,7 +31,7 @@ class IndexCommand extends Command
      *
      * @see https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
      */
-    public const LANGUAGES = ['en', 'de', 'br', 'cs', 'es', 'fa', 'fr', 'it', 'ja', 'lv', 'nl', 'pl', 'pt', 'ru', 'sr', 'zh'];
+    public const LANGUAGES = ['en', 'de', 'br', 'cs', 'es', 'fa', 'fr', 'it', 'ja', 'lv', 'nl', 'pl', 'pt', 'ru', 'sr', 'sv', 'tr', 'zh'];
 
     /**
      * @var Packagist
