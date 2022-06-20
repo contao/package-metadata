@@ -125,7 +125,7 @@ class Factory
     {
         $meta = [];
 
-        foreach (IndexCommand::LANGUAGES as $language) {
+        foreach (IndexCommand::$languages as $language) {
             if (null !== ($data = $this->metaData->getMetaDataForPackage($package, $language))) {
                 $meta[$language] = $data;
             }

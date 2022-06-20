@@ -15,29 +15,31 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class IndexCommand extends Command
 {
     protected static $defaultName = 'package-index';
     protected static $defaultDescription = 'Indexes package metadata';
 
-    /**
-     * Languages for the search index.
-     *
-     * @see https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
-     */
-    public const LANGUAGES = ['en', 'de', 'br', 'cs', 'es', 'fa', 'fr', 'it', 'ja', 'lv', 'nl', 'pl', 'pt', 'ru', 'sr', 'sv', 'tr', 'zh'];
-
     private Index $index;
     private OutputInterface $output;
     private array $indexData;
 
     /**
+     * Languages for the search index.
+     * @see https://github.com/contao/package-list/blob/main/src/i18n/locales.js
+     *
+     * @var array<string>
+     */
+    public static array $languages;
+
+    /**
      * @var array<Package>
      */
-    private array $packages = [];
+    private array $packages;
 
-    public function __construct(private readonly Packagist $packagist, private readonly Factory $packageFactory, private readonly Client $client, private readonly MetaDataRepository $metaDataRepository)
+    public function __construct(private readonly Packagist $packagist, private readonly Factory $packageFactory, private readonly Client $algoliaClient, private readonly MetaDataRepository $metaDataRepository, private readonly HttpClientInterface $httpClient)
     {
         parent::__construct();
     }
@@ -63,6 +65,7 @@ class IndexCommand extends Command
         $this->output = $output;
         $this->packages = [];
 
+        $this->initLanguages();
         $this->initIndex($clearIndex);
 
         $updateAll = false;
@@ -160,7 +163,7 @@ class IndexCommand extends Command
                     $languages = [$language];
 
                     if ('en' === $language) {
-                        $languages = array_merge(['en'], array_diff(self::LANGUAGES, $languageKeys));
+                        $languages = array_merge(['en'], array_diff(self::$languages, $languageKeys));
                     }
 
                     $data = $package->getForAlgolia($languages);
@@ -194,7 +197,7 @@ class IndexCommand extends Command
     private function initIndex(bool $clearIndex): void
     {
         /** @noinspection PhpUnhandledExceptionInspection */
-        $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
+        $this->index = $this->algoliaClient->initIndex($_SERVER['ALGOLIA_INDEX']);
         $this->indexData = [];
 
         if ($clearIndex) {
@@ -279,5 +282,14 @@ class IndexCommand extends Command
         }
 
         return true;
+    }
+
+    private function initLanguages(): void
+    {
+        $response = $this->httpClient->request('GET', 'https://raw.githubusercontent.com/contao/package-list/main/src/i18n/locales.js');
+
+        preg_match_all('/^[ ]+([a-z]{2}(_[A-Z]{2})?)/m', $response->getContent(), $matches);
+
+        self::$languages = $matches[1];
     }
 }
