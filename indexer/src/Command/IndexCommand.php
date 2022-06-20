@@ -93,7 +93,7 @@ class IndexCommand extends Command
             $this->deleteRemovedPackages($dryRun);
         }
 
-        return 0;
+        return Command::SUCCESS;
     }
 
     private function deleteRemovedPackages(bool $dryRun): void

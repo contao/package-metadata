@@ -32,6 +32,6 @@
         }
     },
     "scripts": {
-        "cs-fixer": "@php tools/ecs/vendor/bin/ecs check src/ --fix --ansi"
+        "cs-fixer": "@php ../tools/ecs/vendor/bin/ecs check src/ --fix --ansi"
     }
 }

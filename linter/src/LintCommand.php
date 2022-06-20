@@ -2,18 +2,8 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Metadata Linter
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataLinter;
 
-use GuzzleHttp\Client;
-use GuzzleHttp\Exception\GuzzleException;
-use GuzzleHttp\Exception\RequestException;
 use JsonSchema\Constraints\Constraint;
 use JsonSchema\Exception\ValidationException;
 use JsonSchema\Validator;
@@ -27,36 +17,34 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Yaml\Exception\ParseException;
 use Symfony\Component\Yaml\Yaml;
+use Symfony\Contracts\HttpClient\Exception\HttpExceptionInterface;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class LintCommand extends Command
 {
-    /**
-     * @var SymfonyStyle
-     */
-    private $io;
+    protected static $defaultName = 'app:lint';
+    protected static $defaultDescription = 'Lint all the metadata.';
 
-    /**
-     * @var SpellChecker
-     */
-    private $spellChecker;
+    private SymfonyStyle $io;
+    private SpellChecker $spellChecker;
+    private bool $error = false;
+    private array $privatePackages = [];
 
-    /**
-     * @var bool
-     */
-    private $error = false;
+    public function __construct(private readonly HttpClientInterface $httpClient)
+    {
+        parent::__construct();
+    }
 
     protected function configure(): void
     {
         $this
-            ->setName('app:lint')
-            ->setDescription('Lint all the metadata.')
             ->addArgument('files', InputArgument::OPTIONAL | InputArgument::IS_ARRAY, 'To lint specific files')
             ->addOption('skip-private-check', null, InputOption::VALUE_NONE, 'Do not check packagist if a package is private.')
             ->addOption('skip-spell-check', null, InputOption::VALUE_NONE, 'Do not check spelling.')
         ;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $this->spellChecker = new SpellChecker(__DIR__.'/../allowlists');
         $this->io = new SymfonyStyle($input, $output);
@@ -67,7 +55,7 @@ class LintCommand extends Command
         if ($files = $input->getArgument('files')) {
             $this->validateFiles($files, $input->getOption('skip-private-check'), $input->getOption('skip-spell-check'));
 
-            return $this->error ? 1 : 0;
+            return $this->error ? Command::FAILURE : Command::SUCCESS;
         }
 
         $this->validateMetadata($input->getOption('skip-private-check'), $input->getOption('skip-spell-check'));
@@ -77,7 +65,7 @@ class LintCommand extends Command
             $this->io->success('All checks successful!');
         }
 
-        return $this->error ? 1 : 0;
+        return $this->error ? Command::FAILURE : Command::SUCCESS;
     }
 
     private function validateFiles(array $files, bool $skipPrivate, bool $skipSpellCheck): void
@@ -126,7 +114,7 @@ class LintCommand extends Command
         }
 
         // Line ending
-        if (!("\n" === substr($content, -1) && "\n" !== substr($content, -2))) {
+        if (!(str_ends_with($content, "\n") && "\n" !== substr($content, -2))) {
             $this->error($package, $language, 'File must end by a singe new line.');
 
             return;
@@ -206,7 +194,7 @@ class LintCommand extends Command
             $schema = (object) ['$ref' => $schemaFile];
             $schema->required = ['name', 'homepage'];
 
-            $value = json_decode(file_get_contents($file->getPathname()), false);
+            $value = json_decode(file_get_contents($file->getPathname()), false, 512, JSON_THROW_ON_ERROR);
             $validator = new Validator();
             $validator->validate($value, $schema, Constraint::CHECK_MODE_EXCEPTIONS);
 
@@ -228,32 +216,34 @@ class LintCommand extends Command
 
     private function isPrivatePackage(string $package): bool
     {
-        static $packageCache = [];
-
-        if (isset($packageCache[$package])) {
-            return $packageCache[$package];
+        if (isset($this->privatePackages[$package])) {
+            return $this->privatePackages[$package];
         }
 
         try {
             $this->io->writeln('Checking if package exists on packagist.org: '.$package, OutputInterface::VERBOSITY_DEBUG);
-            $this->getJson('https://repo.packagist.org/p2/'.$package.'.json');
-        } catch (RequestException $e) {
-            if (404 !== $e->getResponse()->getStatusCode()) {
-                // Shouldn't happen, throw
-                throw $e;
+
+            // Throws on response status >= 300
+            $this->httpClient
+                ->request('GET', 'https://repo.packagist.org/p2/'.$package.'.json')
+                ->getContent()
+            ;
+
+            return $this->privatePackages[$package] = false;
+        } catch (HttpExceptionInterface $exception) {
+            if (404 === $exception->getResponse()->getStatusCode()) {
+                return $this->privatePackages[$package] = true;
             }
 
-            return true;
+            throw $exception;
         }
-
-        return $packageCache[$package] = false;
     }
 
     private function validateContent(string $package, string $language, array $content, bool $requiresHomepage, bool $skipSpellCheck): bool
     {
         $data = json_decode(json_encode($content));
 
-        $schemaData = json_decode(file_get_contents(\dirname(__DIR__).'/schema.json'), true);
+        $schemaData = json_decode(file_get_contents(\dirname(__DIR__).'/schema.json'), true, 512, JSON_THROW_ON_ERROR);
 
         if ($requiresHomepage) {
             $schemaData['required'] = ['homepage'];
@@ -308,26 +298,11 @@ class LintCommand extends Command
     private function error(string $package, string $language, string $message): void
     {
         $this->error = true;
-        $this->io->error(sprintf('[Package: %s; Language: %s]: %s',
+        $this->io->error(sprintf(
+            '[Package: %s; Language: %s]: %s',
             $package,
             $language,
             $message
         ));
-    }
-
-    /**
-     * @throws GuzzleException
-     */
-    private function getJson(string $uri): array
-    {
-        $client = new Client();
-
-        $response = $client->request('GET', $uri);
-
-        if (200 !== $response->getStatusCode()) {
-            throw new \RuntimeException(sprintf('Response error. Status code %s', $response->getStatusCode()));
-        }
-
-        return (array) json_decode($response->getBody()->getContents(), true);
     }
 }
