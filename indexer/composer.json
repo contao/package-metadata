@@ -4,20 +4,27 @@
     "type": "project",
     "license": "MIT",
     "keywords": ["contao", "manager", "composer", "packages", "algolia", "search"],
+    "authors": [
+        {
+            "name": "Andreas Schempp",
+            "email": "andreas.schempp@terminal42.ch"
+        },
+        {
+            "name": "Yanick Witschi",
+            "email": "yanick.witschi@terminal42.ch"
+        }
+    ],
     "require": {
-        "php": "^7.4",
+        "php": "^8.1",
         "ext-json": "*",
         "algolia/algoliasearch-client-php": "^1.27",
         "composer/metadata-minifier": "^1.0",
-        "symfony/console": "^5.0",
-        "symfony/finder": "^5.0",
-        "symfony/filesystem": "^5.0",
-        "symfony/http-client": "^5.0",
-        "symfony/http-kernel": "^5.0",
-        "symfony/yaml": "^5.0"
-    },
-    "require-dev": {
-        "contao/easy-coding-standard": "^3.0"
+        "symfony/console": "^6.0",
+        "symfony/finder": "^6.0",
+        "symfony/filesystem": "^6.0",
+        "symfony/http-client": "^6.0",
+        "symfony/http-kernel": "^6.0",
+        "symfony/yaml": "^6.0"
     },
     "autoload": {
         "psr-4": {
@@ -25,8 +32,6 @@
         }
     },
     "scripts": {
-        "cs-fixer": [
-            "vendor/bin/ecs check src/ --fix --ansi"
-        ]
+        "cs-fixer": "@php tools/ecs/vendor/bin/ecs check src/ --fix --ansi"
     }
 }

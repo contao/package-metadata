@@ -2,121 +2,32 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Indexer
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @author     Andreas Schempp <andreas.schempp@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataIndexer\Package;
 
 class Package
 {
-    /**
-     * @var string
-     */
-    private $name;
+    private string|null $title = null;
+    private string|null $description = null;
+    private array|null $keywords = null;
+    private string|null $homepage = null;
+    private array|null $support = null;
+    private array $versions = [];
+    private array|null $license = null;
+    private int $downloads = 0;
+    private int $favers = 0;
+    private string|null $released = null;
+    private string|null $updated = null;
+    private bool $supported = false;
+    private bool $dependency = false;
+    private bool $discoverable = true;
+    private string|bool $abandoned = false;
+    private bool $private = false;
+    private array|null $suggest = null;
+    private string|null $logo = null;
+    private array $meta = [];
 
-    /**
-     * @var string
-     */
-    private $title;
-
-    /**
-     * @var string
-     */
-    private $description;
-
-    /**
-     * @var array
-     */
-    private $keywords;
-
-    /**
-     * @var string
-     */
-    private $homepage;
-
-    /**
-     * @var array
-     */
-    private $support;
-
-    /**
-     * @var array
-     */
-    private $versions = [];
-
-    /**
-     * @var array
-     */
-    private $license;
-
-    /**
-     * @var int
-     */
-    private $downloads = 0;
-
-    /**
-     * @var int
-     */
-    private $favers = 0;
-
-    /**
-     * @var string
-     */
-    private $released;
-
-    /**
-     * @var string
-     */
-    private $updated;
-
-    /**
-     * @var bool
-     */
-    private $supported = false;
-
-    /**
-     * @var bool
-     */
-    private $dependency = false;
-
-    /**
-     * @var bool
-     */
-    private $discoverable = true;
-
-    /**
-     * @var string|bool
-     */
-    private $abandoned = false;
-
-    /**
-     * @var bool
-     */
-    private $private = false;
-
-    /**
-     * @var array|null
-     */
-    private $suggest;
-
-    /**
-     * @var string
-     */
-    private $logo;
-
-    /**
-     * @var array
-     */
-    private $meta = [];
-
-    public function __construct(string $name)
+    public function __construct(private readonly string $name)
     {
-        $this->name = $name;
     }
 
     public function getName(): string
@@ -129,55 +40,55 @@ class Package
         return $this->title ?: $this->name;
     }
 
-    public function setTitle(?string $title): self
+    public function setTitle(string|null $title): self
     {
         $this->title = $title;
 
         return $this;
     }
 
-    public function getDescription(): ?string
+    public function getDescription(): string|null
     {
         return $this->description;
     }
 
-    public function setDescription(?string $description): self
+    public function setDescription(string|null $description): self
     {
         $this->description = $description;
 
         return $this;
     }
 
-    public function getKeywords(): ?array
+    public function getKeywords(): array|null
     {
         return $this->keywords;
     }
 
-    public function setKeywords(?array $keywords): self
+    public function setKeywords(array|null $keywords): self
     {
         $this->keywords = $keywords;
 
         return $this;
     }
 
-    public function getHomepage(): ?string
+    public function getHomepage(): string|null
     {
         return $this->homepage;
     }
 
-    public function setHomepage(?string $homepage): self
+    public function setHomepage(string|null $homepage): self
     {
         $this->homepage = $homepage;
 
         return $this;
     }
 
-    public function getSupport(): ?array
+    public function getSupport(): array|null
     {
         return $this->support;
     }
 
-    public function setSupport(?array $support): self
+    public function setSupport(array|null $support): self
     {
         $this->support = $support;
 
@@ -196,12 +107,12 @@ class Package
         return $this;
     }
 
-    public function getLicense(): ?array
+    public function getLicense(): array|null
     {
         return $this->license;
     }
 
-    public function setLicense(?array $license): self
+    public function setLicense(array|null $license): self
     {
         $this->license = $license;
 
@@ -232,24 +143,24 @@ class Package
         return $this;
     }
 
-    public function getReleased(): ?string
+    public function getReleased(): string|null
     {
         return $this->released;
     }
 
-    public function setReleased(?string $released): self
+    public function setReleased(string|null $released): self
     {
         $this->released = $released;
 
         return $this;
     }
 
-    public function getUpdated(): ?string
+    public function getUpdated(): string|null
     {
         return $this->updated;
     }
 
-    public function setUpdated(?string $updated): self
+    public function setUpdated(string|null $updated): self
     {
         $this->updated = $updated;
 
@@ -292,15 +203,12 @@ class Package
         return $this;
     }
 
-    /**
-     * @return bool|string
-     */
-    public function getAbandoned()
+    public function getAbandoned(): string|bool
     {
         return $this->abandoned;
     }
 
-    public function setAbandoned($abandoned): self
+    public function setAbandoned(string|bool $abandoned): self
     {
         $this->abandoned = $abandoned;
 
@@ -319,24 +227,24 @@ class Package
         return $this;
     }
 
-    public function getSuggest(): ?array
+    public function getSuggest(): array|null
     {
         return $this->suggest;
     }
 
-    public function setSuggest(?array $suggest): self
+    public function setSuggest(array|null $suggest): self
     {
         $this->suggest = $suggest;
 
         return $this;
     }
 
-    public function getLogo(): ?string
+    public function getLogo(): string|null
     {
         return $this->logo;
     }
 
-    public function setLogo(?string $logo): self
+    public function setLogo(string|null $logo): self
     {
         $this->logo = $logo;
 
@@ -400,9 +308,7 @@ class Package
 
         return array_filter(
             $data,
-            static function ($v) {
-                return null !== $v;
-            }
+            static fn ($v) => null !== $v
         );
     }
 }

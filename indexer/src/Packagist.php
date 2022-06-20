@@ -2,14 +2,6 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Indexer
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @author     Andreas Schempp <andreas.schempp@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataIndexer;
 
 use Composer\MetadataMinifier\MetadataMinifier;
@@ -26,20 +18,8 @@ class Packagist
      */
     private const EXCLUDE_LIST = ['contao/installation-bundle', 'contao/module-devtools', 'contao/module-repository', 'contao/contao'];
 
-    /**
-     * @var OutputInterface
-     */
-    private $output;
-
-    /**
-     * @var HttpClientInterface
-     */
-    private $client;
-
-    public function __construct(OutputInterface $output, HttpClientInterface $client)
+    public function __construct(private readonly OutputInterface $output, private readonly HttpClientInterface $client)
     {
-        $this->output = $output;
-        $this->client = $client;
     }
 
     public function getPackageNames(string $type): array
@@ -55,7 +35,7 @@ class Packagist
         return array_diff($data['packageNames'], self::EXCLUDE_LIST);
     }
 
-    public function getPackageData(string $name): ?array
+    public function getPackageData(string $name): array|null
     {
         if (preg_match(self::PLATFORM_PACKAGE_REGEX, $name)) {
             return null;

@@ -2,14 +2,6 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Indexer
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @author     Andreas Schempp <andreas.schempp@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataIndexer\Package;
 
 use Contao\PackageMetaDataIndexer\Command\IndexCommand;
@@ -18,25 +10,10 @@ use Contao\PackageMetaDataIndexer\Packagist;
 
 class Factory
 {
-    /**
-     * @var MetaDataRepository
-     */
-    private $metaData;
+    private array $cache = [];
 
-    /**
-     * @var Packagist
-     */
-    private $packagist;
-
-    /**
-     * @var array
-     */
-    private $cache = [];
-
-    public function __construct(MetaDataRepository $metaData, Packagist $packagist)
+    public function __construct(private readonly MetaDataRepository $metaData, private readonly Packagist $packagist)
     {
-        $this->metaData = $metaData;
-        $this->packagist = $packagist;
     }
 
     public function create(string $name): Package
@@ -124,7 +101,7 @@ class Factory
     private function isSupported(array $versionsData): bool
     {
         foreach ($versionsData as $version => $versionData) {
-            if (0 === strpos((string) $version, 'dev-')) {
+            if (str_starts_with((string) $version, 'dev-')) {
                 continue;
             }
 
@@ -167,17 +144,17 @@ class Factory
                 }
 
                 if (
-                    '-dev' !== substr($prev, -4)
-                    && 0 !== strpos($prev, 'dev-')
-                    && (0 === strpos($curr, 'dev-') || '-dev' === substr($curr, -4))
+                    !str_ends_with($prev, '-dev')
+                    && !str_starts_with($prev, 'dev-')
+                    && (str_starts_with($curr, 'dev-') || str_ends_with($curr, '-dev'))
                 ) {
                     return $prev;
                 }
 
                 if (
-                    '-dev' !== substr($curr, -4)
-                    && 0 !== strpos($curr, 'dev-')
-                    && (0 === strpos($prev, 'dev-') || '-dev' === substr($prev, -4))
+                    !str_ends_with($curr, '-dev')
+                    && !str_starts_with($curr, 'dev-')
+                    && (str_starts_with($prev, 'dev-') || str_ends_with($prev, '-dev'))
                 ) {
                     return $curr;
                 }
