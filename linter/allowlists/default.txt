@@ -41,6 +41,7 @@ Checkbox
 Clickpress
 Clickskeks
 Cloud
+Command
 Community
 Composer
 Config
@@ -140,6 +141,7 @@ Lightbox
 Lightcase
 Login
 MailChimp
+Mailer
 Managed
 Manager
 manager
