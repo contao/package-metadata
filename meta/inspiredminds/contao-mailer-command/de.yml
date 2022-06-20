@@ -1,0 +1,4 @@
+de:
+    title: Mailer Command
+    description: >
+        Diese Erweiterung fügt ein "mailer:send" Kommando für Contao 4.13 und höher hinzu.
