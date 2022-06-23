@@ -1,4 +1,4 @@
-de:
+en:
     title: Contao Privacy/Consent
     description: >
         Simple consent handling tool, supports YouTube, Vimeo, Google Maps, Google Analytics, Openstreetmaps, Matomo (if needed), Mapbox and Leadlabs. User consent and a history of changes are both stored in the browsers LocalStorage, not external tools / services needed.

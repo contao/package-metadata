@@ -1,4 +1,4 @@
-de:
+en:
     title: Contao Basic
     description: >
         Support package with basic settings in Contao. Contains a reset.scss, some additional video settings and some generic layouts for privacy pages.
