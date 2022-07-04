@@ -139,6 +139,8 @@ LastLogin
 Leaflet
 Lightbox
 Lightcase
+Leadlabs
+LocalStorage
 Login
 MailChimp
 Mailer
@@ -172,6 +174,7 @@ OpenGraph-Protocol
 OpenImmo
 OpenLayers
 OpenStreetMap
+OpenStreetMaps
 OriginalFileName
 Overpass
 Overpass
@@ -206,6 +209,7 @@ Roboto
 RockSolid
 Rocksolid
 SCSS
+scss
 SEO
 SERP
 SINEOS
@@ -350,6 +354,7 @@ phpexcel
 phpoffice
 pixel
 png
+reset
 rocksolid
 rss
 send

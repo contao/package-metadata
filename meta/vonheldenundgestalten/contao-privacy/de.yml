@@ -1,7 +1,7 @@
 de:
     title: Contao Privacy/Consent
     description: >
-        Einfache Consent-Verwaltung mit Unterstützung von Youtube, Vimeo, Google Maps, Google Analytics, OpenStreetMaps, Matomo (bei Bedarf), Mapbox und Leadlabs. Consent und Historie der Zustimmungen wird im LocalStorage des Browsers gespeichert, nicht extern.
+        Einfache Consent-Verwaltung mit Unterstützung von YouTube, Vimeo, Google Maps, Google Analytics, OpenStreetMaps, Matomo (bei Bedarf), Mapbox und Leadlabs. Consent und Historie der Zustimmungen wird im LocalStorage des Browsers gespeichert, nicht extern.
     keywords:
       - contao
       - datenschutz
