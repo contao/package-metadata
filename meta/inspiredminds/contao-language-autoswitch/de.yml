@@ -1,4 +1,4 @@
 de:
     title: Automatic Language Switcher for Contao Modules
     description: >
-        Diese Erweiterung verändert automatisch Seiten-, Archiv- und Kalender-Referenzen in unterstützen Frontend-Modulen in Abhängigkeit der aktiven Sprache. Somit müssen nicht pro Sprache mehrere Module angelegt werden.
+        Diese Erweiterung verändert automatisch Seiten-, Archiv- und Kalender-Referenzen in unterstützten Frontend-Modulen in Abhängigkeit der aktiven Sprache. Somit müssen nicht pro Sprache mehrere Module angelegt werden.
