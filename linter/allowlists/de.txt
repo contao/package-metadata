@@ -37,6 +37,7 @@ Auflistungsfunktionen
 Aufnahmezeitpunkt
 Ausserdem
 Author
+Automatic
 Automatisierungsaufgaben
 Autovervollständigung
 Avatar
@@ -365,6 +366,7 @@ Mitgliedergruppen
 Mitgliedseinstellungen
 Model
 Moduleinstellungen
+Modules
 Modultyp
 Monitoring
 MonitoringClientSensorGoogleMaps
@@ -538,6 +540,7 @@ Suchbar
 Suchbegriff
 Suchmoduls
 Suchtreffer
+Switcher
 Sync
 Synchronisierung
 Synchronisierungszeit
