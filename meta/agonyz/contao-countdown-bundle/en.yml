@@ -1,0 +1,14 @@
+en:
+    title: Countdown Bundle
+    description: >
+        The bundle allows you to create and configure simple countdown content elements.
+    keywords:
+        - contao
+        - bundle
+        - countdown
+        - date
+        - content element
+        - timer
+    support:
+        issues: https://github.com/agonyz/contao-countdown-bundle/issues
+        docs: https://github.com/agonyz/contao-countdown-bundle
