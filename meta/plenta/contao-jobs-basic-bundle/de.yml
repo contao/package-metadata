@@ -1,5 +1,5 @@
 de:
-    title: Jobs Basic Bundle
+    title: Jobs Basic - effektive Karriereseiten
     description: >
             Die perfekte Lösung für Stellenangebote auf deiner Website.
             Basic Job Manager für das Contao CMS (inkl. "Google for Jobs").
@@ -17,6 +17,7 @@ de:
         - Arbeitsplatz
         - Arbeit
         - Stelle
+        - Recruiting
     homepage: https://plenta.io/contao-erweiterungen/jobs-basic
     support:
         issues: https://github.com/plenta/contao-jobs-basic-bundle/issues
