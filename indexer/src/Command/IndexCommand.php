@@ -2,14 +2,6 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Indexer
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @author     Andreas Schempp <andreas.schempp@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataIndexer\Command;
 
 use AlgoliaSearch\Client;
@@ -23,76 +15,40 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class IndexCommand extends Command
 {
+    protected static $defaultName = 'package-index';
+    protected static $defaultDescription = 'Indexes package metadata';
+
+    private Index $index;
+    private OutputInterface $output;
+    private array $indexData;
+
     /**
      * Languages for the search index.
+     * @see https://github.com/contao/package-list/blob/main/src/i18n/locales.js
      *
-     * @see https://github.com/contao/contao-manager/blob/master/src/i18n/locales.js
+     * @var array<string>
      */
-    public const LANGUAGES = ['en', 'de', 'br', 'cs', 'es', 'fa', 'fr', 'it', 'ja', 'lv', 'nl', 'pl', 'pt', 'ru', 'sr', 'zh'];
-
-    /**
-     * @var Packagist
-     */
-    private $packagist;
-
-    /**
-     * @var Client
-     */
-    private $client;
-
-    /**
-     * @var Index
-     */
-    private $index;
+    public static array $languages;
 
     /**
      * @var array<Package>
      */
-    private $packages = [];
+    private array $packages;
 
-    /**
-     * @var Factory
-     */
-    private $packageFactory;
-
-    /**
-     * @var MetaDataRepository
-     */
-    private $metaDataRepository;
-
-    /**
-     * @var OutputInterface
-     */
-    private $output;
-
-    /**
-     * @var array
-     */
-    private $indexData;
-
-    public function __construct(Packagist $packagist, Factory $packageFactory, Client $client, MetaDataRepository $metaDataRepository)
+    public function __construct(private readonly Packagist $packagist, private readonly Factory $packageFactory, private readonly Client $algoliaClient, private readonly MetaDataRepository $metaDataRepository, private readonly HttpClientInterface $httpClient)
     {
-        $this->packagist = $packagist;
-        $this->client = $client;
-        $this->packageFactory = $packageFactory;
-        $this->metaDataRepository = $metaDataRepository;
-
         parent::__construct();
     }
 
-    /**
-     * {@inheritdoc}
-     */
     protected function configure(): void
     {
         parent::configure();
 
         $this
-            ->setName('package-index')
-            ->setDescription('Indexes package metadata')
             ->addArgument('packages', InputArgument::OPTIONAL | InputArgument::IS_ARRAY, 'The packages to index (optional).')
             ->addOption('with-stats', null, InputOption::VALUE_NONE, 'Also update statistics (should run less often / generates more API calls).')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Do not index any data. Very useful together with -vvv.')
@@ -109,6 +65,7 @@ class IndexCommand extends Command
         $this->output = $output;
         $this->packages = [];
 
+        $this->initLanguages();
         $this->initIndex($clearIndex);
 
         $updateAll = false;
@@ -136,7 +93,7 @@ class IndexCommand extends Command
             $this->deleteRemovedPackages($dryRun);
         }
 
-        return 0;
+        return Command::SUCCESS;
     }
 
     private function deleteRemovedPackages(bool $dryRun): void
@@ -169,7 +126,7 @@ class IndexCommand extends Command
         foreach ($packageNames as $packageName) {
             $package = $this->packageFactory->create($packageName);
 
-            if (null === $package || !$package->isSupported()) {
+            if (!$package->isSupported()) {
                 $this->output->writeln($packageName.' found, but is not supported.', OutputInterface::VERBOSITY_DEBUG);
                 continue;
             }
@@ -206,7 +163,7 @@ class IndexCommand extends Command
                     $languages = [$language];
 
                     if ('en' === $language) {
-                        $languages = array_merge(['en'], array_diff(self::LANGUAGES, $languageKeys));
+                        $languages = array_merge(['en'], array_diff(self::$languages, $languageKeys));
                     }
 
                     $data = $package->getForAlgolia($languages);
@@ -240,7 +197,7 @@ class IndexCommand extends Command
     private function initIndex(bool $clearIndex): void
     {
         /** @noinspection PhpUnhandledExceptionInspection */
-        $this->index = $this->client->initIndex($_SERVER['ALGOLIA_INDEX']);
+        $this->index = $this->algoliaClient->initIndex($_SERVER['ALGOLIA_INDEX']);
         $this->indexData = [];
 
         if ($clearIndex) {
@@ -299,8 +256,8 @@ class IndexCommand extends Command
                         'Data for %s not equal. Field %s is not up to date (existing: %s / new: %s).',
                         $data['objectID'],
                         $k,
-                        json_encode($existing[$k]),
-                        json_encode($data[$k])
+                        json_encode($existing[$k], JSON_THROW_ON_ERROR),
+                        json_encode($data[$k], JSON_THROW_ON_ERROR)
                     ),
                     OutputInterface::VERBOSITY_DEBUG
                 );
@@ -325,5 +282,14 @@ class IndexCommand extends Command
         }
 
         return true;
+    }
+
+    private function initLanguages(): void
+    {
+        $response = $this->httpClient->request('GET', 'https://raw.githubusercontent.com/contao/package-list/main/src/i18n/locales.js');
+
+        preg_match_all('/^[ ]+([a-z]{2}(_[A-Z]{2})?)/m', $response->getContent(), $matches);
+
+        self::$languages = $matches[1];
     }
 }

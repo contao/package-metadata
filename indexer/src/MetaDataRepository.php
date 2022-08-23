@@ -2,14 +2,6 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Indexer
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @author     Andreas Schempp <andreas.schempp@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataIndexer;
 
 use Contao\PackageMetaDataIndexer\Package\Package;
@@ -20,27 +12,14 @@ use Symfony\Component\Yaml\Yaml;
 
 class MetaDataRepository
 {
-    /**
-     * @var string
-     */
-    private $metaDataDir;
-
-    /**
-     * @var Filesystem
-     */
-    private $fs;
-
-    /**
-     * @var array
-     */
-    private $names;
+    private Filesystem $fs;
+    private array|null $names = null;
 
     /**
      * Metadata constructor.
      */
-    public function __construct(string $metaDataDir)
+    public function __construct(private readonly string $metaDataDir)
     {
-        $this->metaDataDir = $metaDataDir;
         $this->fs = new Filesystem();
     }
 
@@ -65,7 +44,7 @@ class MetaDataRepository
         return $this->names;
     }
 
-    public function getLogoForPackage(Package $package): ?string
+    public function getLogoForPackage(Package $package): string|null
     {
         [$vendor, $name] = explode('/', $package->getName(), 2);
         $image = sprintf('%s/%s/logo.svg', $vendor, $name);
@@ -94,7 +73,7 @@ class MetaDataRepository
         return $logo;
     }
 
-    public function getComposerJsonForPackage(Package $package): ?array
+    public function getComposerJsonForPackage(Package $package): array|null
     {
         $file = $this->getMetaDataDir().'/'.$package->getName().'/composer.json';
 
@@ -111,7 +90,7 @@ class MetaDataRepository
         return $data;
     }
 
-    public function getMetaDataForPackage(Package $package, string $language): ?array
+    public function getMetaDataForPackage(Package $package, string $language): array|null
     {
         $file = $this->getMetaDataDir().'/'.$package->getName().'/'.$language.'.yml';
 

@@ -1,17 +1,19 @@
 #!/usr/bin/env php
 <?php
-// application.php
 
 require __DIR__.'/vendor/autoload.php';
 
 use Symfony\Component\Console\Application;
 use Contao\PackageMetaDataLinter\LintCommand;
+use Symfony\Component\HttpClient\HttpClient;
 
 ini_set('display_errors', '1');
 ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
-$lintCommand = new LintCommand();
+$httpClient = HttpClient::create();
+
+$lintCommand = new LintCommand($httpClient);
 
 $application = new Application();
 $application->add($lintCommand);

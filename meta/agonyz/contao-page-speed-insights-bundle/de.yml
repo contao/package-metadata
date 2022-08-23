@@ -1,0 +1,17 @@
+de:
+    title: Page Speed Insights Bundle
+    description: >
+        Das Bundle ermöglicht die automatische Erfassung der im Contao hinterlegten Root Domains über die Google Page Speed Insights API.
+        Die Erfassung kann über Cronjobs/Commands zeitlich konfiguriert werden.
+
+        Im Backend findet sich eine tabellarische Übersicht der Resultate.
+    keywords:
+        - contao
+        - bundle
+        - google page speed insights
+        - api
+        - automatic
+        - analyse
+    support:
+        issues: https://github.com/agonyz/contao-page-speed-insights/issues
+        docs: https://github.com/agonyz/contao-page-speed-insights

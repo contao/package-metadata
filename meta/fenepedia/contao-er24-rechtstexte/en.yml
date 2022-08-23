@@ -1,0 +1,17 @@
+en:
+  title: Contao connection for legal texts from eRecht24
+  description: >
+    This extension allows easy integration of imprint and privacy policy from eRecht24 into Contao.
+    The extension only provides an interface for eRecht24.
+    An active membership at eRecht24 is required to generate corresponding API keys.
+    Programming, further development and support is provided by Fenepedia.
+  keywords:
+    - eRecht24
+    - eRecht24 API
+    - legal texts
+    - imprint
+    - privacy policy
+  homepage: https://www.fenepedia.de/contao-er24-rechtstexte
+  support:
+    issues: https://github.com/fenepedia/contao-er24-rechtstexte/issues
+    docs: https://www.fenepedia.de/contao-er24-rechtstexte

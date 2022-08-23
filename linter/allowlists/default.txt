@@ -41,6 +41,7 @@ Checkbox
 Clickpress
 Clickskeks
 Cloud
+Command
 Community
 Composer
 Config
@@ -70,6 +71,7 @@ Edition
 Einzelhandelsgeschäfte
 Email
 Erdmann
+eRecht
 EstateManager
 EuF
 Eventlist
@@ -80,6 +82,7 @@ FAQs
 FOSSGIS
 Facebook
 Feed
+Fenepedia
 Fieldset
 Flex
 Flower
@@ -136,8 +139,11 @@ LastLogin
 Leaflet
 Lightbox
 Lightcase
+Leadlabs
+LocalStorage
 Login
 MailChimp
+Mailer
 Managed
 Manager
 manager
@@ -168,6 +174,7 @@ OpenGraph-Protocol
 OpenImmo
 OpenLayers
 OpenStreetMap
+OpenStreetMaps
 OriginalFileName
 Overpass
 Overpass
@@ -202,6 +209,7 @@ Roboto
 RockSolid
 Rocksolid
 SCSS
+scss
 SEO
 SERP
 SINEOS
@@ -328,6 +336,7 @@ js
 krpano
 leaflet
 mPDF
+mailer
 maps
 metamodel
 metamodels
@@ -345,8 +354,10 @@ phpexcel
 phpoffice
 pixel
 png
+reset
 rocksolid
 rss
+send
 sql
 start
 storeFormData

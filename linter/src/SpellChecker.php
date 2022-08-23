@@ -2,32 +2,16 @@
 
 declare(strict_types=1);
 
-/*
- * Contao Package Metadata Linter
- *
- * @author     Yanick Witschi <yanick.witschi@terminal42.ch>
- * @license    MIT
- */
-
 namespace Contao\PackageMetaDataLinter;
 
 use Symfony\Component\Process\Process;
 
 class SpellChecker
 {
-    /**
-     * @var string
-     */
-    private $allowListDir;
+    private array|null $supportedLanguages = null;
 
-    /**
-     * @var array|null
-     */
-    private $supportedLanguages;
-
-    public function __construct(string $allowListDir)
+    public function __construct(private readonly string $allowListDir)
     {
-        $this->allowListDir = $allowListDir;
     }
 
     public function spellCheck(string $text, string $language): array
