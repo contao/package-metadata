@@ -13,5 +13,5 @@ en:
         - automatic
         - analyse
     support:
-        issues: https://github.com/agonyz/contao-page-speed-insights/issues
-        docs: https://github.com/agonyz/contao-page-speed-insights
+        issues: https://github.com/agonyz/contao-page-speed-insights-bundle/issues
+        docs: https://github.com/agonyz/contao-page-speed-insights-bundle
