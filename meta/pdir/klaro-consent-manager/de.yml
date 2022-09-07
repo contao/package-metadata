@@ -1,0 +1,26 @@
+de:
+    title: Klaro Consent Manager
+    description: >
+        Setz dem Cookie-Chaos ein Ende! Verwalte Cookies & Dienste auf Contao Webseiten einfach & übersichtlich direkt
+        aus dem Contao Backend. Wir setzen dabei auf "Klaro!" - ein kostenloses und quelloffenes Consent-Tool, welches
+        einen benutzerfreundlichen Cookie Banner zum Einholen von Nutzer-Einwilligungen bietet und das Laden von
+        Diensten bis dahin zuverlässig blockiert. Klaro ist DSGVO konform, einfach zu konfigurieren, leichtgewichtig
+        und mit allen modernen Browsern kompatibel. Für eine blitzschnelle Einrichtung haben wir für dich eine
+        umfangreiche Konfigurationsdatei mit über 20 Diensten vorbereitet. Mehr erfährst du über den Button
+        "Projektwebseite".
+    keywords:
+        - cookie
+        - cookiebar
+        - gdpr
+        - dsgvo
+        - manager
+        - cookiebanner
+        - bar
+        - privacy
+        - settings
+        - klaro
+        - popup
+        - cookies
+    homepage: https://pdir.de/consent/
+    support:
+        email: support@pdir.de

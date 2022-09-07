@@ -1,0 +1,11 @@
+en:
+    title: Contao Basic
+    description: >
+        Support package with basic settings in Contao. Contains a reset.scss, some additional video settings and some generic layouts for privacy pages.
+    keywords:
+      - contao
+      - support
+      - reset
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-basic/issues
+        docs: https://github.com/vonheldenundgestalten/contao-basic
