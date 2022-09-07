@@ -28,11 +28,6 @@ Geocode
 Geodata
 Groups
 HeaderFooterCode
-helpdesk
-hotspot
-hovercard
-infos
-io
 IO
 IOTravelCostsBundle
 Insert
@@ -42,9 +37,6 @@ Jobposting
 Libraries
 LinkedIn
 LiveValidation
-login
-logout
-mailto
 MATE
 Maps
 Mate
@@ -66,7 +58,10 @@ PWA
 Panel
 Picker
 Plenta
-<<<<<<< HEAD
+Plugin
+Preview
+Privacy
+Projects
 pre
 preconfigured
 prebuilt
@@ -75,21 +70,13 @@ Queue
 redirections
 reimport
 rel
+Responsive
+Rewrite
 scalable
 SCR
 selectbox
-=======
-Plugin
-Preview
-Privacy
-Projects
-Queue
-Responsive
-Rewrite
-SCR
 Scheduler
 Search
->>>>>>> main
 Serverhint
 Slider
 Social
@@ -102,18 +89,14 @@ TabControl
 TableLookupWizard
 Teaserbox
 Templatehint
-<<<<<<< HEAD
 templating
 textwizard
 theming
 Ticker
 tmp
-=======
-Ticker
 Tiles
 Tracking
 Trigger
->>>>>>> main
 TwitterReader
 Typo
 UItoTop
@@ -169,8 +152,6 @@ login
 logout
 mailto
 mouseover
-multi
-multidomain
 native
 navbar
 navigations
