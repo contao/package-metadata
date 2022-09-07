@@ -136,6 +136,8 @@ login
 logout
 mailto
 mouseover
+multi
+multidomain
 native
 navbar
 navigations
