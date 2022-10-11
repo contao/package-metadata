@@ -1,0 +1,4 @@
+en:
+    title: Content Templates
+    description: >
+        Mit dieser Extension können "Inhalts-Vorlagen" erzeugt und auf Seiten angewandt werden. Diese Vorlagen sind wie Seiten, die außerhalb der normalen Seitenstruktur leben und beinhalten Artikel und Inhaltselemente. Dies erlaubt es den Backend Nutzer*innen schnell eine neue Seite auf Basis einer Vorlage mit einer komplexen Inhaltsstruktur zu erstellen.
