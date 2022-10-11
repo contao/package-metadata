@@ -264,6 +264,7 @@ Inhaltscontainer
 Inhaltselement
 Inhaltselemente
 Inhaltselementen
+Inhaltsstruktur
 Inherit
 Input
 Inputtype
