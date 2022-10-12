@@ -243,6 +243,7 @@ Symfony
 SysCara
 TCPDF
 Tangerine
+Telegram
 Template
 Templates
 Templating
