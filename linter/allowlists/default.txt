@@ -142,6 +142,7 @@ Lightcase
 Leadlabs
 LocalStorage
 Login
+Lottie
 MailChimp
 Mailer
 Managed
@@ -242,6 +243,7 @@ Symfony
 SysCara
 TCPDF
 Tangerine
+Telegram
 Template
 Templates
 Templating
