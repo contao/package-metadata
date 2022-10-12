@@ -142,6 +142,7 @@ Lightcase
 Leadlabs
 LocalStorage
 Login
+Lottie
 MailChimp
 Mailer
 Managed
