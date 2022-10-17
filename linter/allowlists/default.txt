@@ -272,6 +272,7 @@ Usability
 Usercentrics
 VR
 Valhalla
+Veello
 Verband
 Vimeo
 WIB
@@ -337,6 +338,7 @@ jpg
 js
 krpano
 leaflet
+lightGallery
 mPDF
 mailer
 maps
