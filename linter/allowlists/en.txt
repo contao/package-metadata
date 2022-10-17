@@ -195,6 +195,7 @@ stardate
 stylable
 subnets
 subpages
+tailorable
 template
 templating
 terminal
