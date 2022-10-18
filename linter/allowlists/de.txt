@@ -629,6 +629,7 @@ Wohnparks
 Wohnungsunternehmen
 Wrapper
 Währungsfeld
+Zahlungsarten
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl
