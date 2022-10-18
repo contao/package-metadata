@@ -42,6 +42,7 @@ Automatisierungsaufgaben
 Autovervollständigung
 Avatar
 Avatare
+Avisodaten
 Backend
 Backendmodul
 Badge
@@ -404,6 +405,8 @@ Opt
 Overlay
 Override
 PWA
+Paketaufkleber
+Paketaufklebern
 Page
 Pages
 Paginierung
@@ -418,6 +421,7 @@ Passwortrichtlinie
 Passwortänderung
 Patientendaten
 Pattern
+Payment
 Picker
 Playlist
 Plenta
@@ -494,6 +498,7 @@ Select
 Selectbox
 Selects
 Seminarverwaltung
+Sendungslisten
 Serverabhängig
 Serverhint
 Serverseitiger
@@ -624,6 +629,7 @@ Wohnparks
 Wohnungsunternehmen
 Wrapper
 Währungsfeld
+Zahlungsarten
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl
