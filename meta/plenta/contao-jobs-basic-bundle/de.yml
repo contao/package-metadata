@@ -1,9 +1,11 @@
 de:
-    title: Jobs Basic - effektive Karriereseiten
+    title: Jobs - effektive Karriereseiten mit Contao
     description: >
-            Die perfekte Lösung für Stellenangebote auf deiner Website.
-            Basic Job Manager für das Contao CMS (inkl. "Google for Jobs").
-            Open Source und kostenlos.
+        Die perfekte Lösung für Stellenangebote auf deiner Website.
+        Auch geeignet für Stellenanzeigen in mehreren Sprachen.
+
+        Basic Job Manager für das Contao CMS (inkl. "Google for Jobs").
+        Open Source und kostenlos.
     keywords:
         - Job
         - Jobs
@@ -18,7 +20,9 @@ de:
         - Arbeit
         - Stelle
         - Recruiting
+        - Basic
     homepage: https://plenta.io/contao-erweiterungen/jobs-basic
     support:
         issues: https://github.com/plenta/contao-jobs-basic-bundle/issues
+        source: https://github.com/plenta/contao-jobs-basic-bundle
         docs: https://plenta.io/contao-erweiterungen/jobs-basic
