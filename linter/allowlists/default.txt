@@ -135,6 +135,7 @@ KuteJS
 LASR
 LDAP
 LTS
+Labelcenter
 LastLogin
 Leaflet
 Lightbox
@@ -195,6 +196,7 @@ Podcasts
 Poedit
 Preload
 preload
+PostFinance
 QR
 Quantitativ
 README
