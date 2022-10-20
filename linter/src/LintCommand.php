@@ -115,7 +115,7 @@ class LintCommand extends Command
 
         // Line ending
         if (!(str_ends_with($content, "\n") && "\n" !== substr($content, -2))) {
-            $this->error($package, $language, 'File must end by a singe new line.');
+            $this->error($package, 'File must end by a singe new line.', $language);
 
             return;
         }
@@ -123,14 +123,14 @@ class LintCommand extends Command
         try {
             $content = Yaml::parse($content);
         } catch (ParseException $e) {
-            $this->error($package, $language, 'The YAML file is invalid');
+            $this->error($package, 'The YAML file is invalid',  $language);
 
             return;
         }
 
         // Language
         if (!isset($content[$language])) {
-            $this->error($package, $language, 'The language key in the YAML file does not match the specified language file name.');
+            $this->error($package, 'The language key in the YAML file does not match the specified language file name.', $language);
 
             return;
         }
@@ -143,9 +143,7 @@ class LintCommand extends Command
         }
 
         // Content
-        if (!$this->validateContent($package, $language, $content[$language], $requiresHomepage, $skipSpellCheck)) {
-            $this->error($package, $language, 'The YAML file contains invalid data.');
-        }
+        $this->validateContent($package, $language, $content[$language], $requiresHomepage, $skipSpellCheck);
     }
 
     private function validateComposerJson(): void
@@ -175,10 +173,7 @@ class LintCommand extends Command
             $package = $file->getRelativePathname();
 
             if ($package !== mb_strtolower($package)) {
-                $this->error = true;
-                $this->io->error(
-                    sprintf('[Package: %s]: The package name has to be all lowercase', $package)
-                );
+                $this->error($package, ' The package name has to be all lowercase');
             }
         }
 
@@ -199,12 +194,10 @@ class LintCommand extends Command
             $validator->validate($value, $schema, Constraint::CHECK_MODE_EXCEPTIONS);
 
             if ($value->name !== $package) {
-                $this->error = true;
-                $this->io->error(sprintf('[Package: %s] Package name in composer.json does not match', $package));
+                $this->error($package, 'Package name in composer.json does not match');
             }
         } catch (ValidationException $e) {
-            $this->error = true;
-            $this->io->error(sprintf('[Package: %s] Error in composer.json: %s', $package, $e->getMessage()));
+            $this->error($package, 'Error in composer.json: ' . $e->getMessage());
         }
 
         try {
@@ -239,7 +232,7 @@ class LintCommand extends Command
         }
     }
 
-    private function validateContent(string $package, string $language, array $content, bool $requiresHomepage, bool $skipSpellCheck): bool
+    private function validateContent(string $package, string $language, array $content, bool $requiresHomepage, bool $skipSpellCheck): void
     {
         $data = json_decode(json_encode($content));
 
@@ -257,18 +250,14 @@ class LintCommand extends Command
             $this->io->error($message);
         }
 
-        if (!$validator->isValid()) {
-            return false;
-        }
-
         if ($skipSpellCheck) {
-            return true;
+            return;
         }
 
-        return $this->spellCheck($package, $language, $content);
+        $this->spellCheck($package, $language, $content);
     }
 
-    private function spellCheck(string $package, string $language, array $content): bool
+    private function spellCheck(string $package, string $language, array $content): void
     {
         foreach (['title', 'description'] as $key) {
             if (!isset($content[$key])) {
@@ -280,24 +269,31 @@ class LintCommand extends Command
             if (0 !== \count($errors)) {
                 $this->error(
                     $package,
-                    $language,
                     sprintf(
                         'Property "%s" does not pass the spell checker. Either update the allow list or fix the spelling :) Errors: %s',
                         $key,
                         implode(', ', $errors)
-                    )
+                    ),
+                    $language
                 );
-
-                return false;
             }
         }
-
-        return true;
     }
 
-    private function error(string $package, string $language, string $message): void
+    private function error(string $package, string $message, ?string $language = null): void
     {
         $this->error = true;
+
+        if (null === $language) {
+            $this->io->error(sprintf(
+                '[Package: %s]: %s',
+                $package,
+                $message
+            ));
+
+            return;
+        }
+
         $this->io->error(sprintf(
             '[Package: %s; Language: %s]: %s',
             $package,

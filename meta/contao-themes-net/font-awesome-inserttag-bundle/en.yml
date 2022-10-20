@@ -1,7 +1,7 @@
 en:
-    title: Font Awesome Inserttag Bundle
+    title: Font Awesome insert tag Bundle
     description: >
-        This bundle installs an InsertTag that allows to use Font Awesome icons as font or via SVG in Contao.
+        This bundle installs an insert tag that allows to use Font Awesome icons as font or via SVG in Contao.
     keywords:
         - Font
         - Icon
