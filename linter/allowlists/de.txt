@@ -109,6 +109,8 @@ Core
 Cores
 Crawlers
 Creator
+Cronjob
+Cronjobs
 Custom
 Customizer
 DC
@@ -270,6 +272,7 @@ Inherit
 Input
 Inputtype
 Insert
+Insights
 Install
 Installationspaket
 Items
@@ -278,6 +281,7 @@ Jobletter
 Jobposting
 Kalenderformate
 Kameratyp
+Karriereseiten
 Kartenanwendung
 Kartendiensten
 Karteneditor
@@ -295,6 +299,7 @@ Keywords
 Klartextwerte
 Klassenbasierte
 Klassensammlung
+Kommandozeilenbefehle
 Kommentarfunktionalität
 Kompetenzteams
 Konfiguartionsdatei
@@ -405,12 +410,12 @@ Opt
 Overlay
 Override
 PWA
-Paketaufkleber
-Paketaufklebern
 Page
 Pages
 Paginierung
 Paginierungen
+Paketaufkleber
+Paketaufklebern
 Panel
 Panelen
 Panels
@@ -520,6 +525,7 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
+Speed
 Speisenpläne
 Spiders
 Sprachenwechsler
@@ -531,6 +537,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Statistikübersicht
+Stellenanzeigen
 Sternzeit
 Stilanpassungen
 Stilgruppen
