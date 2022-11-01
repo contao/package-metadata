@@ -2,7 +2,8 @@ de:
     title: 0.1 Theme
     description: >
         0.1 ist das klimafreundlichste Contao Theme aller Zeiten, welches auf Basis von dem leichtgewichtigen
-        CSS-Framework Spectre zur Erstellung energieeffizienter Webseiten entwickelt wurde.
+        CSS-Framework Spectre zur Erstellung energieeffizienter Webseiten entwickelt wurde. Es ist mit Contao 4 und 5
+        kompatibel.
 
         Es setzt auf viele verschiedene Praktiken und Technologien, die den Energieverbrauch einer Website erheblich
         optimieren und deren Einsatz gleichzeitig auch in SEO Optimierung, Performance Verbesserung und Erhöhung der

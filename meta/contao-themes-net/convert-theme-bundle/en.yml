@@ -2,7 +2,7 @@ en:
     title: CONVERT Theme
     description: >
         With CONVERT you can create sales-boosting landing pages in a very short time, because it combines all
-        important elements and rules in one Contao theme. CONVERT was developed based on the lightweight
+        important elements and rules in one Contao theme. CONVERT was developed based on Contao 4.x and the lightweight
         CSS framework Spectre for optimal performance and high conversion rates.
     keywords:
         - Theme
