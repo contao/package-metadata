@@ -42,6 +42,7 @@ Automatisierungsaufgaben
 Autovervollständigung
 Avatar
 Avatare
+Avisodaten
 Backend
 Backendmodul
 Badge
@@ -108,6 +109,8 @@ Core
 Cores
 Crawlers
 Creator
+Cronjob
+Cronjobs
 Custom
 Customizer
 DC
@@ -269,6 +272,7 @@ Inherit
 Input
 Inputtype
 Insert
+Insights
 Install
 Installationspaket
 Items
@@ -277,6 +281,7 @@ Jobletter
 Jobposting
 Kalenderformate
 Kameratyp
+Karriereseiten
 Kartenanwendung
 Kartendiensten
 Karteneditor
@@ -294,6 +299,7 @@ Keywords
 Klartextwerte
 Klassenbasierte
 Klassensammlung
+Kommandozeilenbefehle
 Kommentarfunktionalität
 Kompetenzteams
 Konfiguartionsdatei
@@ -408,6 +414,8 @@ Page
 Pages
 Paginierung
 Paginierungen
+Paketaufkleber
+Paketaufklebern
 Panel
 Panelen
 Panels
@@ -418,6 +426,7 @@ Passwortrichtlinie
 Passwortänderung
 Patientendaten
 Pattern
+Payment
 Picker
 Playlist
 Plenta
@@ -494,6 +503,7 @@ Select
 Selectbox
 Selects
 Seminarverwaltung
+Sendungslisten
 Serverabhängig
 Serverhint
 Serverseitiger
@@ -515,6 +525,7 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
+Speed
 Speisenpläne
 Spiders
 Sprachenwechsler
@@ -526,6 +537,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Statistikübersicht
+Stellenanzeigen
 Sternzeit
 Stilanpassungen
 Stilgruppen
@@ -624,6 +636,7 @@ Wohnparks
 Wohnungsunternehmen
 Wrapper
 Währungsfeld
+Zahlungsarten
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl

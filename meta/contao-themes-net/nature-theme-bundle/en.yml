@@ -1,7 +1,8 @@
 en:
     title: NATURE Theme
     description: >
-        NATURE is an honest all-rounder among the Contao Themes in a natural-simple look, which was developed on the basis of Contao 4.x for websites of all kinds.
+        NATURE is an honest all-rounder among the Contao Themes in a natural-simple look, which was developed on the
+        basis of the framework Bulma for websites of all kinds. It is compatible with Contao 4 and 5.
     keywords:
         - Theme
         - Bulma
