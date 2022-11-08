@@ -281,6 +281,8 @@ Kartenanwendung
 Kartendiensten
 Karteneditor
 Kartenlayern
+Karriereseite
+Karriereseiten
 Kartentechnik
 Kassenbereich
 Kaufprozess
@@ -526,6 +528,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Statistikübersicht
+Stellenanzeigen
 Sternzeit
 Stilanpassungen
 Stilgruppen
@@ -735,6 +738,3 @@ zeitintensiven
 zeitintensiver
 Übersetzungsfelder
 Übersetzungstools
-Karriereseite
-Karriereseiten
-Stellenanzeigen
