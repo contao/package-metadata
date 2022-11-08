@@ -286,6 +286,8 @@ Kartenanwendung
 Kartendiensten
 Karteneditor
 Kartenlayern
+Karriereseite
+Karriereseiten
 Kartentechnik
 Kassenbereich
 Kaufprozess
