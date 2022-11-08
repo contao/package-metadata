@@ -1,9 +1,10 @@
 en:
     title: Broker module for real estate agents
     description: >
-        Real estate bundle for Contao 3 and 4 forms the interactive between broker software and the content management system Contao.
+        Real estate bundle forms the interactive between broker software and the content management system Contao.
 
-        The data is automatically imported, displayed as a filterable object list and displayed in the detail view according to your wishes.
+        The data is automatically imported, displayed as a filterable object list and displayed in the detail view
+        according to your wishes.
 
         - Import the objects directly from your broker software (real estate)
         - Optimized presentation of your objects

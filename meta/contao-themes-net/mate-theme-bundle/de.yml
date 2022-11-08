@@ -1,11 +1,15 @@
 de:
     title: MATE Theme
     description: >
-        MATE ist ein Theme, das das Frontend-Framework Materialize basierend auf Material Design nutzt.
+        MATE ist ein Theme, das das Frontend-Framework Materialize basierend auf Material Design nutzt. Es ist mit
+        Contao 4 und 5 kompatibel.
 
-        Das Theme ist für alle Endgeräte und gängigen Browser optimiert und liefert bereits alle Module und Elemente des Contao-Core gestylt mit. Header, Footer und Inhalte sowie Farben und das Layout können einfach nach Ihren Wünschen angepasst und verändert werden.
+        Das Theme ist für alle Endgeräte und gängigen Browser optimiert und liefert bereits alle Module und Elemente
+        des Contao-Core gestylt mit. Header, Footer und Inhalte sowie Farben und das Layout können einfach nach Ihren
+        Wünschen angepasst und verändert werden.
 
-        Das MATE Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (ohne Copyright Hinweis) erhältlich.
+        Das MATE Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (ohne Copyright Hinweis)
+        erhältlich.
     keywords:
         - Theme
         - Materialize
