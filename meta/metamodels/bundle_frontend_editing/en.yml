@@ -1,0 +1,11 @@
+en:
+    title: MetaModels Frontend-Editing-Bundle
+    description: >
+        The bundle loads all packages that are available for frontend editing (FEE).
+        
+        More about frontend editing in our manual at https://metamodels.readthedocs.io/de/latest/manual/extended/frontend_editing.html
+    keywords:
+        - metamodels
+        - bundle_frontend_editing
+        - frontend-editing bundle
+    homepage: https://now.metamodel.me
