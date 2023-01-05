@@ -1,0 +1,15 @@
+en:
+    title: Constant Contact Integration
+    description: >
+        Establish a connection between Contao and Constant Contact. Set up forms to automatically create Contacts and add them to Lists
+    keywords:
+        - constant
+        - contact
+        - integration
+        - bright
+        - cloud
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/constant-contact-integration/issues
+        source: https://github.com/bright-cloud-studio/constant-contact-integration
+        
