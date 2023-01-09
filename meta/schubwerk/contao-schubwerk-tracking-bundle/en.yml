@@ -1,0 +1,16 @@
+en:
+    title: Schubwerk Tracking for Contao
+    description: >
+        schubwerk Analytics is a GDPR-compliant, server-side analytics solution for determining website traffic. With the help of the plugin, visitor numbers, the number of sessions that have taken place, as well as user behavior can be collected and analyzed. In addition, the plugin offers the possibility to include custom forms to control lead routes and generate new leads.
+
+        Unlike other analytics providers, the data is not collected with the help of cookies, but on the server side. No personal data is collected, stored or processed. There is no need to obtain the user's consent via cookie banners. As a result, schubwerk Analytics obtains a much more complete picture than providers whose analytics system is based on cookies and can therefore be rejected by the user. All data collected by schubwerk Analytics is stored on servers in Germany.
+
+        After installation, the individual account key must be stored in the plugin settings.
+
+        If you do not yet have a schubwerk account or have questions about our plugin, you are welcome to arrange a free initial consultation.
+    keywords:
+      - tracking
+      - analytics
+    support:
+        issues: https://github.com/schubwerk/contao-schubwerk-tracking-bundle/issues
+        homepage: https://schubwerk.de/
