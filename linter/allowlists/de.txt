@@ -511,7 +511,8 @@ Seminarverwaltung
 Sendungslisten
 Serverabhängig
 Serverhint
-Serverseitig
+serverseitig
+serverseitige
 Serverseitiger
 Share
 Shopsystem
