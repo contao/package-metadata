@@ -163,6 +163,7 @@ Endgeräten
 Energieausweis
 Energieskala
 Engine
+Erstberatungsgespräch
 Ersteinrichtung
 Erstellungswerkzeuge
 Event
@@ -508,6 +509,7 @@ Seminarverwaltung
 Sendungslisten
 Serverabhängig
 Serverhint
+Serverseitig
 Serverseitiger
 Share
 Shopsystem
