@@ -101,9 +101,7 @@ lokal ausführen. Das folgende sollte auf einem Debian-basierten System funktion
 
 ```
 sudo apt install aspell aspell-cs aspell-de aspell-en aspell-es
-cd linter
-composer install
-cd ..
+composer install --working-dir=linter
 php linter/lint meta/yourvendor/yourpackage/*.yml
 ```
 
