@@ -1,0 +1,3 @@
+en:
+    title: Random Content Element
+    description: A wrapper element that displays a random Content Element every time the page is loaded.
