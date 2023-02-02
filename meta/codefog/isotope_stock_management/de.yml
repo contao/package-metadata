@@ -7,3 +7,4 @@ de:
         - lager
         - lagerverwaltung
     homepage: https://shop.codefog.pl/product/isotope-stock-management.html
+    discoverable: false

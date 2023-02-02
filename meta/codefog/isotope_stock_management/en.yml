@@ -7,3 +7,4 @@ en:
         - stock
         - warehouse
     homepage: https://shop.codefog.pl/product/isotope-stock-management.html
+    discoverable: false
