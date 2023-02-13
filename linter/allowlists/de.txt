@@ -72,6 +72,7 @@ Bildergalerien
 Bildformaten
 Bildgrößen
 Bildgrößeneinstellung
+Bildreferenzen
 Bildschirmpräsentation
 Bildslider
 Blätterkataloge
@@ -118,6 +119,7 @@ Dark
 Data
 Dateiauswahl
 Dateibaum
+Dateireferenzen
 Dateityp
 Dateiverwaltung
 Datenbanksicherung
