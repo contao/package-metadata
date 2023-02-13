@@ -1,0 +1,4 @@
+de:
+    title: File Usage
+    description: >
+        Ermöglicht Dateireferenzen in der Datenbank zu finden und aufzulisten, als auch Bildreferenzen automatisch zu ersetzen. Es können damit auch unbenutzte Dateien gefunden werden. Alles allerdings mit Vorbehalt.

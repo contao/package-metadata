@@ -1,0 +1,4 @@
+en:
+    title: File Usage
+    description: >
+        Allows you to find and and show file references in the database. You will also be able to automatically replace image references. It is also possible to find files in the file manager that are unused. Use with caution, as not all references might be found.
