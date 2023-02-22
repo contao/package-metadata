@@ -1,7 +1,7 @@
 en:
     title: Contao Redirect Failed Login
     description: >
-        Extends the default Contao 'Login form' front end module to allow selecting of a page to foward users to after failed login attempts
+        Extends the default Contao 'Login form' front end module to allow selecting of a page to forward users to after failed login attempts
     keywords:
         - login
         - fail
