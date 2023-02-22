@@ -33,7 +33,7 @@ en:
         metamodels/attribute_file: Attribute file
         metamodels/attribute_geodistance: Attribute geodistance for perimetersearch
         metamodels/attribute_langcode: Attribute country code
-        metamodels/attribute_levensthein: Attribute text search by Levenshtein
+        metamodels/attribute_levenshtein: Attribute text search by Levenshtein
         metamodels/attribute_longtext: Attribute longtext
         metamodels/attribute_numeric: Attribute numeric
         metamodels/attribute_rating: Attribute rating
@@ -62,4 +62,5 @@ en:
         metamodels/filter_select: Filter single selection
         metamodels/filter_tags: Filter multiple selection
         metamodels/filter_text: Filter text search
-        metamodels/contao-frontend-editing: Module Front-End-Editing
+        metamodels/contao-frontend-editing: Module Frontend-Editing
+        metamodels/bundle_frontend_editing: All packages for Frontend-Editing

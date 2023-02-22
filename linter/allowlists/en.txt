@@ -22,6 +22,7 @@ Dismissable
 EasyThemes
 Filemanager
 Formvalidation
+Frontend
 Fußball
 Geo
 Geocode

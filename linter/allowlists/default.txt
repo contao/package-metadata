@@ -208,6 +208,8 @@ Reload
 Roboto
 RockSolid
 Rocksolid
+Schubwerk
+schubwerk
 SCSS
 SEO
 SERP
@@ -268,6 +270,7 @@ UUID
 UUIDs
 Unzer
 Usability
+Usage
 Usercentrics
 VR
 Valhalla
