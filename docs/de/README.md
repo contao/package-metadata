@@ -94,6 +94,17 @@ Siehe https://github.com/contao/contao-manager/blob/1.3/src/i18n/locales.js
 4. Dein Pull Request wird automatisch überprüft.
 5. Sobald alle Checks grün sind, kann ein Mitglied des Review-Teams deinen Pull Request freigeben.
 
+### Lokales prüfen (Linting)
+
+Da die Prüfungen nicht immer direkt automatisch ablaufen und um insgesamt Zeit zu sparen, solltest du den Linter
+lokal ausführen. Das folgende sollte auf einem Debian-basierten System funktionieren, muss aber adaptiert werden:
+
+```
+sudo apt install aspell aspell-cs aspell-de aspell-en aspell-es
+composer install --working-dir=linter
+php linter/lint meta/yourvendor/yourpackage/*.yml
+```
+
 ## Code Owners
 
 Wenn du Inhaber eines _Namespaces_ bist, also zuständig für einen Ordner der Package-Metadata, kannst du deinen GitHub
