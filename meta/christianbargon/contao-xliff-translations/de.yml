@@ -1,6 +1,5 @@
 de:
-    dependency: true
-    title: Contao2xliff
+    title: Contao2xliff 
     description: >
         Contao-Inhalte einfach für Übersetzungsbüros als XLIFF-Datei exportieren und reimportieren. Contao2xliff Unterstützt alle Core Module und die meisten Drittanbieter-Erweiterungen.
     keywords:
