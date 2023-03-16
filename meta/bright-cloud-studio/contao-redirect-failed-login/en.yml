@@ -1,0 +1,15 @@
+en:
+    title: Contao Redirect Failed Login
+    description: >
+        Extends the default Contao 'Login form' front end module to allow selecting of a page to forward users to after failed login attempts
+    keywords:
+        - login
+        - fail
+        - redirect
+        - bright
+        - cloud
+        - studio
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/contao-redirect-failed-login/issues
+        source: https://github.com/bright-cloud-studio/contao-redirect-failed-login
