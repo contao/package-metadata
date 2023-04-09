@@ -1,0 +1,6 @@
+en:
+    title: Contao tossncaptcha Bundle
+    description: >
+        TossnCaptcha Captcha without Google
+    keywords:
+        - Captcha
