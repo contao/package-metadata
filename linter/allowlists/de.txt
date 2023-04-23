@@ -454,6 +454,7 @@ Professional
 Profilbildes
 Programmierkenntnisse
 Projects
+Projektinformationen
 Projektwebseite
 Protocol
 Pull
