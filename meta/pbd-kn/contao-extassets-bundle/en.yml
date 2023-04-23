@@ -1,0 +1,10 @@
+en:
+    title: Contao Extassets Bundle
+    description: >
+        External CSS & JS assets groups with bootstrap and font-awesome support
+    keywords:
+        - css
+        - js
+        - bootstrap
+        - font awesome
+               
