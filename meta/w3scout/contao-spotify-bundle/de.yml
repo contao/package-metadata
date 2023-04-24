@@ -2,6 +2,7 @@ de:
     title: Spotify Button
     description: >
         Diese Erweiterung ein konfigurierbares Spotify-Button Modul für das Frontend zur Verfügung.
+    homepage: https://w3scouts.com
     keywords:
         - Contao
         - Bundle

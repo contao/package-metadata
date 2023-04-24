@@ -2,6 +2,7 @@ en:
     title: Spotify Button
     description: >
         Provides a configurable Spotify button module for the front end
+    homepage: https://w3scouts.com
     keywords:
         - contao
         - bundle
