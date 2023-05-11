@@ -1,9 +1,11 @@
 de:
     title: Open Graph Tags
-    description: Fügt Seiten, News, Isotope-Produkten und StoreLocator-Einträgen die Möglichkeit hinzu diese um Open Graph Metadaten zu erweitern.
+    description: Fügt Seiten, News, Events, FAQ, Isotope-Produkten und StoreLocator-Einträgen die Möglichkeit hinzu diese um Open Graph Metadaten zu erweitern.
     keywords:
         - contao
         - opengraph
         - facebook
         - isotope
+        - faq
+        - events
         - storelocator
