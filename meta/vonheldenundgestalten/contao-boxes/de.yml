@@ -1,0 +1,12 @@
+de:
+    title: Contao Boxes (Content-Box)
+    description: >
+        Erstelle Content-Boxen, die flexibel auf einer Auswahl an Seiten (inkl. Unterseiten) eingebunden werden können.
+    keywords:
+      - contao
+      - content management
+      - boxes
+      - content-box
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-boxes/issues
+        docs: https://github.com/vonheldenundgestalten/contao-boxes

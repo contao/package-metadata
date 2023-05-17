@@ -1,0 +1,11 @@
+de:
+    title: Contao Autowrap
+    description: >
+        Gruppiert Elemente und Aliase der Elemente zusammen und vereinfacht so Pflege und Layout von Element-Gruppen.
+    keywords:
+      - contao
+      - support
+      - layout
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-autowrap/issues
+        docs: https://github.com/vonheldenundgestalten/contao-autowrap
