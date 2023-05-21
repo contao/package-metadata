@@ -1,0 +1,15 @@
+de:
+    title: Jalali-Datum für Contao
+    description: >
+        Diese Erweiterung zeigt Jalai-Datum im Contao-Frontend an.
+        Es gibt keine Konfiguration für die Verwendung.
+        Wenn die Sprache der Website „fa“ war, wird automatisch das jalalianische Datum angezeigt.
+    keywords:
+        - Jalali
+        - Persisch
+        - datum
+    homepage: https://respinar.com/de/contao-extentions/jalalidate
+    support:
+        issues: https://github.com/respinar/contao-jalalidate-bundle/issues
+        source: https://github.com/respinar/contao-jalalidate-bundle
+        docs: https://respinar.com/de/contao-extentions/jalalidate
