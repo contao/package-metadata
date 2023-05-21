@@ -3,7 +3,7 @@ en:
     description: >
         This extension shows Jalali date in Contao front end.
         There's no configuration for using it. If the language of 
-        website was 'fa', it show automatically Jalalian date.
+        website is 'Persian', it automatically show Jalali date.
     keywords:
         - Jalali
         - Persian
