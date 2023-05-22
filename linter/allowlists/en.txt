@@ -176,4 +176,3 @@ versioned
 watchlist
 webfonts
 youtube
-Jalali

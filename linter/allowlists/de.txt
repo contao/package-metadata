@@ -759,4 +759,3 @@ zeitintensiven
 zeitintensiver
 Übersetzungsfelder
 Übersetzungstools
-Jalali
