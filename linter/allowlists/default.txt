@@ -401,3 +401,5 @@ YouTube
 Zammad
 ZIP
 Zipuploads
+Hugin
+Munin
