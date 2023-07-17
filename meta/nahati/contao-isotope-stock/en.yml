@@ -1,0 +1,21 @@
+en:
+    title: Nahati Contao Isotope Stock
+    description: >
+        This extension adds a stock management to Contao / Isotope. It manages limited editions.
+
+        Also products that are not for sale (or reserved or sold out), can easily be integrated into the shop - offering a gallery feature to the shop.
+    keywords:
+        - Nahati
+        - Isotope
+        - product
+        - stock
+        - inventory
+        - status
+        - not for sale
+        - available
+        - reserved
+        - soldout
+        - gallery
+    support:
+        issues: https://github.com/nahati/contao-isotope-stock/issues
+        source: https://github.com/nahati/contao-isotope-stock

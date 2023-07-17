@@ -3,6 +3,7 @@ AjaxPagination
 Alliance
 AntiSpam
 Api
+Autowrap
 Avatar
 Bootstrapper
 Constants
