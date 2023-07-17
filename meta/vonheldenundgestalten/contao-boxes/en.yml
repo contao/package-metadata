@@ -1,0 +1,13 @@
+en:
+    title: Contao Boxes (Content-Box)
+    description: >
+        This Contao bundle provides flexible content boxes that can be included on a selection of pages (including subpages) easily.
+    keywords:
+      - contao
+      - content management
+      - boxes
+      - content-box
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-boxes/issues
+        docs: https://github.com/vonheldenundgestalten/contao-boxes
+    homepage: https://www.vonheldenundgestalten.com

@@ -96,6 +96,17 @@ See https://github.com/contao/contao-manager/blob/1.3/src/i18n/locales.js
 4. Your pull request is checked automatically.
 5. As soon as all checks are green, a member of the review team can approve and merge your Pull Request.
 
+### Checking (linting) locally
+
+As the checks do not always start automatically and to save time overall, you might want to run the linter
+locally. The following should work on a Debian based system, but might need to be adapted to your needs.
+
+```
+sudo apt install aspell aspell-cs aspell-de aspell-en aspell-es
+composer install --working-dir=linter
+php linter/lint meta/yourvendor/yourpackage/*.yml
+```
+
 ## Code Owners
 
 If you are the owner of a package namespace, make sure to add your GitHub username to the CODEOWNERS file.

@@ -40,6 +40,7 @@ Author
 Automatic
 Automatisierungsaufgaben
 Autovervollständigung
+Autowrap
 Avatar
 Avatare
 Avisodaten
@@ -79,6 +80,7 @@ Blätterkataloge
 Body
 Bootstrapper
 Bots
+Boxes
 Bridge
 Bspw
 Buchnavigation
@@ -454,6 +456,7 @@ Professional
 Profilbildes
 Programmierkenntnisse
 Projects
+Projektinformationen
 Projektwebseite
 Protocol
 Pull
