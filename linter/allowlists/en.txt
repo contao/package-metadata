@@ -177,5 +177,3 @@ versioned
 watchlist
 webfonts
 youtube
-Hugin
-Munin

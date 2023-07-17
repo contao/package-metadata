@@ -761,5 +761,3 @@ zeitintensiven
 zeitintensiver
 Übersetzungsfelder
 Übersetzungstools
-Hugin
-Munin
