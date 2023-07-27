@@ -1,0 +1,18 @@
+de:
+    title: Contao News - Like Button
+    description: >
+        Integriere deinen eigene Like Button in deine Contao News.
+    keywords:
+        - News
+        - Neuigkeiten
+        - Ankündigungen
+        - Blog
+        - like
+        - Herz
+        - mögen
+    homepage: https://plenta.io/
+    support:
+        issues: https://github.com/plenta/contao-news-like-bundle/issues
+        source: https://github.com/plenta/contao-news-like-bundle
+        docs: https://github.com/plenta/contao-news-like-bundle
+        email: hallo@plenta.io
