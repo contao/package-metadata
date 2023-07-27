@@ -1,7 +1,7 @@
 {
     "name": "isotope/isotope-demo",
     "description": "Demo Version of Isotope eCommerce",
-    "homepage": "https://isotopeecommerce.org/en/demo.html",
+    "homepage": "https://www.isotopeecommerce.org/en/demo.html",
     "keywords":["contao", "isotope"],
     "type": "composer-plugin",
     "license": "LGPL-3.0-or-later",
