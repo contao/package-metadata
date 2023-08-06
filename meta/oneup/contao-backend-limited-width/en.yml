@@ -1,0 +1,8 @@
+en:
+    title: Contao 5 backend with limited width
+    description: >
+        This Contao bundle reintroduces a setting for the backend user to limit the width of the backend view to 1440 pixels.
+    keywords:
+        - Backend
+        - Limited Width
+        - UX
