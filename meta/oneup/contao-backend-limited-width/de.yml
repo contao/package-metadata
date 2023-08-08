@@ -1,0 +1,8 @@
+de:
+    title: Contao 5 Backend mit limitierter Breite
+    description: >
+        Dieses Contao-Bundle führt die Einstellung für den Backend-Benutzer wieder ein, um die Breite der Backend-Ansicht auf 1440 Pixel zu begrenzen.
+    keywords:
+        - Backend
+        - Limitierte Breite
+        - UX
