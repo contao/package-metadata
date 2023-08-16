@@ -1,8 +1,11 @@
 de:
     title: Stripe Zahlungen für Isotope eCommerce
+    description: >
+        Unternehmen jeder Größe – von Start-ups bis hin zu großen Konzernen – setzen auf die Software und APIs
+        von Stripe, um Zahlungen anzunehmen, Auszahlungen zu senden und ihre Geschäftsabläufe online zu verwalten.
     keywords:
         - isotope
         - shop
         - payment
         - stripe
-    homepage: https://www.isotopeecommerce.org/en/marketplace.html
+    homepage: https://www.isotopeecommerce.org/de/marktplatz.html
