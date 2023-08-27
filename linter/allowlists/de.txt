@@ -230,6 +230,7 @@ Geoinformationssystemen
 Geokodierung
 Geokodierungsdienste
 Geokoordinaten
+Geschäftsabläufe
 Geschütztes
 Get
 Glossarbegriffe
@@ -629,7 +630,7 @@ Vollbildkarte
 Vollbildmodus
 Vorlagedatei
 Vorschaubild
-WOW
+Wallets
 Warenkorbfunktionen
 Webanwendungen
 Webseite
@@ -647,9 +648,11 @@ Weiterlesen
 Widerrufsbelehrung
 Wohnparks
 Wohnungsunternehmen
+WOW
 Wrapper
 Währungsfeld
 Zahlungsarten
+Zahlungsmethoden
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl

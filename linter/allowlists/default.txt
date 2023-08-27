@@ -301,6 +301,7 @@ SimpleTokens
 SINEOS
 Sineos
 SiteID
+Skrill
 Slack
 SMS
 SNS
