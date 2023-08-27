@@ -76,6 +76,7 @@ class IndexCommand extends Command
             $packageNames = array_unique(array_merge(
                 $this->packagist->getPackageNames('contao-bundle'),
                 $this->packagist->getPackageNames('contao-module'),
+                $this->packagist->getPackageNames('contao-theme'),
                 $this->packagist->getPackageNames('contao-component')
             ));
         }
