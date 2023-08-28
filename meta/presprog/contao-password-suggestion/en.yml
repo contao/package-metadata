@@ -8,3 +8,5 @@ en:
         - User
         - Member
         - Password generator
+    support:
+        issues: https://github.com/presprog/contao-password-suggestion/issues
