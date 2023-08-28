@@ -1,0 +1,10 @@
+de:
+    title: Contao Password Suggestion
+    description: >
+        Erweitert die Benutzer- und Mitgliederverwaltung im Backend um einen One-Click Passwortgenerator, um das Anlegen neuer Benutzer:innen und Mitglieder zu vereinfachen.
+    keywords:
+        - Passwort
+        - Backend
+        - Benutzer
+        - Mitglieder
+        - Passwortgenerator
