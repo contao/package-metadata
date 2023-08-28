@@ -1,0 +1,12 @@
+de:
+    title: Contao Passwortgenerator
+    description: >
+        Erweitert die Benutzer- und Mitgliederverwaltung im Backend um einen Ein-Klick Passwortgenerator, um das Anlegen neuer Benutzer:innen und Mitglieder zu vereinfachen.
+    keywords:
+        - Passwort
+        - Backend
+        - Benutzer
+        - Mitglieder
+        - Passwortgenerator
+    support:
+        issues: https://github.com/presprog/contao-password-suggestion/issues

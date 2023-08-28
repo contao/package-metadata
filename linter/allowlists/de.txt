@@ -381,6 +381,7 @@ Mitarbeiterlisten
 Mitgliedergruppe
 Mitgliedergruppen
 Mitgliedseinstellungen
+Mitgliederverwaltung
 Model
 Moduleinstellungen
 Modules
@@ -435,6 +436,7 @@ Parent
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
+Passwortgenerator
 Patientendaten
 Pattern
 Payment
