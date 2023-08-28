@@ -231,6 +231,7 @@ Geoinformationssystemen
 Geokodierung
 Geokodierungsdienste
 Geokoordinaten
+Geschäftsabläufe
 Geschütztes
 Get
 Glossarbegriffe
@@ -550,6 +551,7 @@ Standardauswahlen
 Standardrechte
 Standortermittlung
 Startbildschirm
+Startups
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
@@ -631,7 +633,7 @@ Vollbildkarte
 Vollbildmodus
 Vorlagedatei
 Vorschaubild
-WOW
+Wallets
 Warenkorbfunktionen
 Webanwendungen
 Webseite
@@ -649,9 +651,11 @@ Weiterlesen
 Widerrufsbelehrung
 Wohnparks
 Wohnungsunternehmen
+WOW
 Wrapper
 Währungsfeld
 Zahlungsarten
+Zahlungsmethoden
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl
