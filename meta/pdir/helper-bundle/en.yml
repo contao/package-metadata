@@ -1,0 +1,10 @@
+en:
+    title: pdir Helper Bundle
+    description: >
+        Intended for internal use only.
+    keywords:
+        - Contao
+        - pdir+ webtools
+    homepage: https://pdir.de/
+    support:
+        email: support@pdir.de
