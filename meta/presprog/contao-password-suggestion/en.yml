@@ -1,5 +1,5 @@
 en:
-    title: Contao Password Suggestion
+    title: Password Suggestion
     description: >
         Adds a one-click password generator to the backend user and member management to simplify adding new users and members.
     keywords:
