@@ -1,0 +1,18 @@
+de:
+    title: Propstack PHP API
+    description: >
+        Einfache API-Integration für Propstack
+    keywords:
+        - immobilien
+        - import
+        - expose
+        - Immobilienmakler
+        - Maklersoftware
+        - Immobiliensoftware
+        - Maklerbüro
+        - open immo
+        - Propstack
+    homepage: https://pdir.de/
+    support:
+        email: support@pdir.de
+        docs: https://pdir.de/docs/de/contao/extensions/
