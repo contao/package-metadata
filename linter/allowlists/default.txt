@@ -248,6 +248,7 @@ Pay
 PDF
 pdf
 PDFs
+pdir
 Perview
 Pexels
 PhotoSwipe
@@ -269,6 +270,7 @@ PostFinance
 Preload
 preload
 Prod
+Propstack
 QR
 Quantitativ
 React

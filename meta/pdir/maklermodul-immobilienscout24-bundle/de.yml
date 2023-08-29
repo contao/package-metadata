@@ -1,7 +1,7 @@
 de:
     title: Immobilienscout24 Import für das Maklermodul
     description: >
-        Dieses Bundle importiert deine Inserte aus Immobilienscout24 über die  API in deine Maklermodul Installation. Eine Domain Lizenz ist notwendig.
+        Dieses Bundle importiert deine Inserate aus Immobilienscout24 über die  API in deine Maklermodul Installation. Eine Domain Lizenz ist notwendig.
 
         Mehr erfährst du unter https://www.maklermodul.de/
     keywords:
