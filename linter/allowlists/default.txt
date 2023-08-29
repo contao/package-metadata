@@ -143,6 +143,7 @@ gutes.io
 gutesio
 Heusschen
 HIBP
+Hints
 Hofff
 hofff
 Host
@@ -277,6 +278,7 @@ readme
 Recruitee
 Reddit
 Reload
+Request
 reset
 REST
 Roboto
@@ -301,6 +303,7 @@ SimpleTokens
 SINEOS
 Sineos
 SiteID
+Skrill
 Slack
 SMS
 SNS
@@ -358,6 +361,7 @@ Twig
 Twitter
 Typekit
 Typo3
+UA
 UI
 Unzer
 updatePersonalData

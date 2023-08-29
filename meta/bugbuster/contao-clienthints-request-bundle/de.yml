@@ -1,0 +1,9 @@
+de:
+    title: Client Hints Request Bundle
+    description: >
+        Anforderung von "HTTP-Client-Hints" über den serverseitigen Header-Eintrag "Accept-CH: Sec-CH-UA...."
+    keywords:
+        - contao
+        - bundle
+        - client
+        - hints

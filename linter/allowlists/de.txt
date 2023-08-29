@@ -2,6 +2,7 @@ AMPHTML
 Ablaufzeit
 Abweisbares
 Academy
+Accept
 Access
 Accordion
 Active
@@ -230,6 +231,7 @@ Geoinformationssystemen
 Geokodierung
 Geokodierungsdienste
 Geokoordinaten
+Geschäftsabläufe
 Geschütztes
 Get
 Glossarbegriffe
@@ -379,6 +381,7 @@ Mitarbeiterlisten
 Mitgliedergruppe
 Mitgliedergruppen
 Mitgliedseinstellungen
+Mitgliederverwaltung
 Model
 Moduleinstellungen
 Modules
@@ -433,6 +436,7 @@ Parent
 Password-Policy
 Passwortrichtlinie
 Passwortänderung
+Passwortgenerator
 Patientendaten
 Pattern
 Payment
@@ -501,6 +505,7 @@ Scripte
 Scripts
 Scroll
 Search
+Sec
 Seitenaufrufe
 Seitenbaum
 Seiteneigenschaften
@@ -548,6 +553,7 @@ Standardauswahlen
 Standardrechte
 Standortermittlung
 Startbildschirm
+Startups
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
@@ -629,7 +635,7 @@ Vollbildkarte
 Vollbildmodus
 Vorlagedatei
 Vorschaubild
-WOW
+Wallets
 Warenkorbfunktionen
 Webanwendungen
 Webseite
@@ -647,9 +653,11 @@ Weiterlesen
 Widerrufsbelehrung
 Wohnparks
 Wohnungsunternehmen
+WOW
 Wrapper
 Währungsfeld
 Zahlungsarten
+Zahlungsmethoden
 Zahlungsmodul
 Zahlungsmoduls
 Zeitstrahl
@@ -737,6 +745,7 @@ reservierbare
 responsive
 responsiven
 seitenübergreifend
+serverseitigen
 splitter
 staging
 standardmässig
