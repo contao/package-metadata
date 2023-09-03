@@ -1,0 +1,11 @@
+en:
+    title: Resize images on upload
+    description: >
+        Define image sizes for folders and resize every image you upload to this folder right away.
+    keywords:
+        - Backend
+        - Images
+        - Image sizes
+        - Thumbnails
+    support:
+        issues: https://github.com/presprog/contao-resizeonupload/issues
