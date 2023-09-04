@@ -1,0 +1,16 @@
+en:
+    title: Clean up you Contao website
+    description: >
+        Find unused frontend modules & templates to keep your system clean and clear.
+
+        Attention: Backup database before use! Use at your own risk!
+    keywords:
+        - cleanup
+        - tidy
+        - unused
+        - locate
+    homepage: https://plenta.io/contao-erweiterungen/contao-tidy-up-bundle
+    support:
+        issues: https://github.com/plenta/contao-tidy-up-bundle/issues
+        source: https://github.com/plenta/contao-tidy-up-bundle
+        docs: https://plenta.io/contao-erweiterungen/contao-tidy-up-bundle
