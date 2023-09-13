@@ -3,11 +3,11 @@ en:
     description: >
         This extension adds a stock management to Contao / Isotope. Main features are:
         
-        1. Management of limited editions. Besides a stock counter the state is managed as well (available, reserved, soldout).
+        1. Management of limited editions. Besides a stock counter the state is managed as well (available, reserved, sold out).
 
         2. Order limits (minimum / maximum quantity of a product in cart/order).
 
-        3. Gallery. Unsellable products as well as reserved or soldout ones can be seamlessly integrated into the webshop offering a gallery feature.
+        3. Gallery. Unsalable products as well as reserved or sold out ones can be seamlessly integrated into the shop offering a gallery feature.
 
         keywords:
         - Nahati
@@ -16,15 +16,16 @@ en:
         - stock
         - inventory
         - status
-        - not for sale
+        - unsalable
         - available
         - reserved
         - soldout
         - orderlimit
         - minimum
         - maximum
-        - upperlimit
-        - lowerlimit
+        - limit
+        - upper
+        - lower
         - gallery
         - variants
     support:
