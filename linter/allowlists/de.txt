@@ -259,6 +259,7 @@ Hintergrundfarbe
 Hintergrundfarben
 Hintergründe
 History
+Höchstbestellmenge
 Hook
 Hooks
 Hovercard
