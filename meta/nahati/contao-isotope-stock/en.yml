@@ -21,7 +21,7 @@ en:
         - reserved
         - soldout
         - orderlimit
-        - minmum
+        - minimum
         - maximum
         - upperlimit
         - lowerlimit
