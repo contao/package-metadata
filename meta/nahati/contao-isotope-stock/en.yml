@@ -19,8 +19,8 @@ en:
         - unsalable
         - available
         - reserved
-        - soldout
-        - orderlimit
+        - sold
+        - order
         - minimum
         - maximum
         - limit
