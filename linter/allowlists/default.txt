@@ -410,3 +410,9 @@ Zipuploads
 Hugin
 Munin
 Like
+WCAG
+ATAG
+DDA
+EAA
+Unruh
+ADA
