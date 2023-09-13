@@ -4,11 +4,11 @@ de:
     description: >
         Diese Erweiterung stellt eine Lagerhaltung für Contao / Isotope zur Verfügung mit diesen Grundfunktionen:
         
-        1. Verwaltung limitierter Bestände. Neben dem Lagerbestands-Zähler wird ein Bestands-Status verwaltet (verfügbar, reserviert, ausverkauft). 
+        1. Verwaltung limitierter Bestände. Neben dem Zähler für den Lagerbestand wird ein Bestands-Status verwaltet (verfügbar, reserviert, ausverkauft). 
         
-        2. Bestelllimits (Mindestbestellmenge / Höchstbestellmenge eines Produkts).
+        2. Limitierte Bestellungen (Mindestbestellmenge / Höchstbestellmenge eines Produkts).
 
-        3. Galeriefunktion. Es lassen sich unverkäufliche Produkte oder Produkte, die reserviert oder ausverkauft sind, problemlos in den Webshop integrieren, so dass der Webshop auch die Funktion einer Galerie bieten kann.
+        3. Galerie. Es lassen sich unverkäufliche Produkte oder Produkte, die reserviert oder ausverkauft sind, problemlos in den Webshop integrieren, so dass der Webshop auch die Funktion einer Galerie bieten kann.
     
     keywords:
         - Nahati
