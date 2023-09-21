@@ -1,0 +1,15 @@
+en:
+    title: Multiple Sitemaps Bundle
+    description: >
+        The extension provides a new way for Contao to manage multiple sitemaps and index files:
+         - Setup multiple sitemaps with own filenames / url paths
+         - Choose sitemap indexing for every single page in page-tree
+         - Define entry priority and cache TTL for each sitemap individually
+         - Filter indexed pages by page tree (root or sub nodes possible - even multiple)
+         - Create index files for existing sitemaps
+    keywords:
+        - Sitemap
+        - JB-Support
+    support:
+        issues: https://github.com/jb-support/multiple-sitemaps/issues
+        repo: https://github.com/jb-support/multiple-sitemaps
