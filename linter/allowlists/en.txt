@@ -20,6 +20,7 @@ Customizer
 DC
 Detection
 Dismissable
+Downloader
 EasyThemes
 Filemanager
 Formvalidation

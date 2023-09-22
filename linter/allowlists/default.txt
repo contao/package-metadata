@@ -73,6 +73,8 @@ Dalley
 DCA
 DCA's
 DICOM
+dl
+dlp
 DMS
 DOC
 DOCX
@@ -404,6 +406,7 @@ XLSX
 YAML
 yml
 YouTube
+yt
 Zammad
 ZIP
 Zipuploads

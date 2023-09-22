@@ -1,0 +1,16 @@
+en:
+    title: YouTube Downloader
+    description: >
+        Download YouTube videos directly into a folder in the file system. (Uses youtube-dl or yt-dlp.)
+
+        Details can be found in the package's README.
+    keywords:
+        - youtube
+        - video
+        - download
+        - import
+        - youtube-dl
+        - yt-dlp
+    support:
+        issues: https://github.com/das-l/contao-youtube-dl-bundle/issues
+        docs: https://github.com/das-l/contao-youtube-dl-bundle/blob/main/README.md
