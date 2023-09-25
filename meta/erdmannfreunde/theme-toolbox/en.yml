@@ -1,0 +1,8 @@
+en:
+    title: Theme Toolbox
+    description: Create readable sets of CSS Classes, which can be used by editors in articles, content elements, frontend modules, news, events and faq. On top of that you can diasable the asset cache of contao, in order to watch changes in scss files immediately after refreshing your browser.
+    keywords:
+        - CSS 
+        - style
+        - toolbox
+        - theme
