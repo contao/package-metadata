@@ -1,0 +1,15 @@
+de:
+    title: Contao Website aufräumen
+    description: >
+        Finde ungenutzte Frontend-Module & Templates, um dein System sauber und übersichtlich zu halten.
+
+        Achtung: Datenbank vor Benutzung sichern! Benutzung auf eigene Gefahr!
+    keywords:
+        - aufräumen
+        - ungenutzt
+        - auffinden
+    homepage: https://plenta.io/contao-erweiterungen/contao-tidy-up-bundle
+    support:
+        issues: https://github.com/plenta/contao-tidy-up-bundle/issues
+        source: https://github.com/plenta/contao-tidy-up-bundle
+        docs: https://plenta.io/contao-erweiterungen/contao-tidy-up-bundle
