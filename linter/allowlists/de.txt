@@ -92,6 +92,7 @@ bla
 Blätterkataloge
 Body
 Bootstrapper
+Bordmittel
 Bots
 Boxes
 break
@@ -111,6 +112,7 @@ Card
 Cards
 categories
 center
+Chatbot
 checkbox
 Checkout
 Circle
@@ -157,6 +159,7 @@ Datenbanktabelle
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+Datenschutzhinweis
 Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
@@ -358,6 +361,7 @@ Kernfunktionalität
 Key
 Keys
 Keywords
+KI
 Klartextwerte
 Klassenbasierte
 Klassensammlung
@@ -513,6 +517,7 @@ Pattern
 Payment
 pflegbares
 Picker
+Pixelschubser
 Playlist
 Plenta
 Plugin

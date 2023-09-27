@@ -1,0 +1,31 @@
+en:
+    title: AI Content Bundle for Contao
+    description: >
+        AI Content Bundle is a powerful Contao extension that uses artificial intelligence (GPT-3, Bard) to create high-quality and engaging content. Save time and effort in content creation and still produce high-quality content for your target audience. Generate artificial intelligence (AI) content quickly and easily with GPT3 Api (OpenAI) or Google Bard. Try the AI Content Bundle today and revolutionize how your content is created!
+
+        Are you a developer or a web designer? Now you have no more blank pages in website development! Just use amazing human-like content until you get the content from your client.
+
+        ### General privacy notice
+        Do not enter any private or legally protected data into the chatbot!
+    keywords:
+        - ai
+        - content
+        - writer
+        - generator
+        - article
+        - news
+        - event
+        - site
+        - placeholder
+        - development
+        - text
+        - Bard
+        - GPT
+        - chat
+        - chatbot
+        - OpenAI
+        - Google
+        - back end
+    homepage: https://pdir.de/aicontent
+    support:
+        email: support@pdir.de
