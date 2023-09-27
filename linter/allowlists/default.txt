@@ -25,6 +25,7 @@ back end
 Backend
 Barcode
 barcode
+Bard
 Bayerischer
 BFV
 Bing
@@ -42,6 +43,7 @@ Catalog
 CDN
 ChangeEventsMore
 ChangeLanguage
+chatbot
 ChangeNewsMore
 Checkbox
 Clickpress
@@ -135,6 +137,7 @@ Go
 Google
 google
 googlemaps
+GPT
 GPX
 Graphhopper
 grid
@@ -229,6 +232,7 @@ ODD
 Official
 OGC
 Open
+OpenAI
 OpenCage
 OpenGraph
 OpenGraph-Protocol

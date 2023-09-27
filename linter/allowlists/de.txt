@@ -80,6 +80,7 @@ Bildslider
 Blätterkataloge
 Body
 Bootstrapper
+Bordmittel
 Bots
 Boxes
 Bridge
@@ -93,6 +94,7 @@ Calendar
 Canonical
 Card
 Cards
+Chatbot
 Checkout
 Circle
 Classes
@@ -130,6 +132,7 @@ Datenbanktabelle
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+Datenschutzhinweis
 Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
@@ -442,6 +445,7 @@ Patientendaten
 Pattern
 Payment
 Picker
+Pixelschubser
 Playlist
 Plenta
 Plugin
