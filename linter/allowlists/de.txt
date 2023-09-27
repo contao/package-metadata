@@ -309,6 +309,7 @@ Kernfunktionalität
 Key
 Keys
 Keywords
+KI
 Klartextwerte
 Klassenbasierte
 Klassensammlung
