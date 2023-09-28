@@ -1,0 +1,8 @@
+en:
+    title: 'ThemeManager: Recommendation'
+    description: >
+        Integrates the Contao Recommendation Bundle into the Contao ThemeManager by providing new templates and
+        enhancing the modules and components with new options.
+    keywords:
+        - theme
+        - recommendation
