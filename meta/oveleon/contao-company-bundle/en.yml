@@ -1,0 +1,7 @@
+en:
+    title: Company data
+    description: >
+        This bundle adds company data management to Contao, that can be used via insert tags.
+    keywords:
+        - company
+        - inserttags
