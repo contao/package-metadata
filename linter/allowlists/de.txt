@@ -706,6 +706,7 @@ ThemeRoller
 Ticker
 tiles
 Tiles
+TinySlider
 Titelleiste
 tmp
 Touch
