@@ -590,6 +590,7 @@ Scripts
 Scroll
 Search
 Sec
+Seitenaufruf
 Seitenaufrufe
 Seitenbaum
 Seiteneigenschaften
@@ -670,6 +671,7 @@ Syndikation
 system
 System-Information
 Systemlast
+Systemwartung
 Tab
 TabControl
 Tabellenzeile
@@ -703,6 +705,7 @@ tiles
 Tiles
 Titelleiste
 tmp
+Toolbox
 Touch
 tracking
 Tracking
