@@ -1,0 +1,7 @@
+de:
+    title: Theme Toolbox
+    description: Erstelle Sets von lesbaren CSS-Klassen, die von Redakteuren in Artikeln, Elementen, Modulen, News, Events und FAQ ausgewählt werden können. Zusätzlich hast du die Möglichkeit, den Asset-Cache von Contao über die Systemwartung zu deaktivieren, damit z.B. Änderungen in SCSS-Dateien bei jedem Seitenaufruf sichtbar werden. 
+    keywords:
+        - CSS Klassen
+        - CSS Stil
+        - CSS Style
