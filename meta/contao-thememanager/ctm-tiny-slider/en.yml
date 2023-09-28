@@ -1,0 +1,8 @@
+en:
+    title: 'ThemeManager: TinySlider'
+    description: >
+        Integrates the TinySlider into the Contao ThemeManager by enhancing list components, wrappers, galleries and
+        more components with new options.
+    keywords:
+        - theme
+        - slider
