@@ -1,8 +1,8 @@
 de:
     title: 'ThemeManager: Bewertungen'
     description: >
-        Integriert das Contao Bewertungen Bundle in den Contao ThemeManager, indem es neue Vorlagen bereitstellt und
-        Erweiterung der Module und Komponenten um neue Optionen.
+        Integriert das Contao Bewertungen Bundle in den Contao ThemeManager, indem es neue Templates bereitstellt und
+        die Module und Komponenten um neue Optionen erweitert.
     keywords:
         - theme
         - bewertungen
