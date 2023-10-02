@@ -334,6 +334,7 @@ Insert
 Insights
 install
 Install
+Installer
 Installationspaket
 io
 IO
@@ -531,6 +532,7 @@ Preistabelle
 Preview
 Privacy
 production
+Product
 Produktdetails
 Produkteigenschaften
 Produktkatalogen
@@ -703,6 +705,7 @@ Textfeldern
 Textfeldes
 Textformaten
 textwizard
+thememanager
 Themenwelten
 ThemeRoller
 Ticker

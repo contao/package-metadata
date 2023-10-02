@@ -160,6 +160,7 @@ Templatehint
 templating
 terminal
 textwizard
+thememanager
 theming
 Ticker
 tiles
