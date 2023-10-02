@@ -165,7 +165,6 @@ theming
 Ticker
 tiles
 Tiles
-TinySlider
 tmp
 Tracking
 Trigger
