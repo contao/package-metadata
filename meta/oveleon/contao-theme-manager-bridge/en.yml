@@ -1,0 +1,6 @@
+en:
+    title: 'ThemeManager: Product Installer'
+    description: >
+        The Product Installer allows the installation and setup of a product ordered via contao-thememanager.com.
+    keywords:
+        - theme
