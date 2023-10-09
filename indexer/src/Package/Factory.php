@@ -81,6 +81,7 @@ class Factory
 
         sort($versions);
 
+        $package->setType($latest['type'] ?? 'contao-bundle');
         $package->setTitle($package->getName());
         $package->setDescription($latest['description'] ?? null);
         $package->setKeywords($latest['keywords'] ?? null);
@@ -109,7 +110,10 @@ class Factory
                 return true;
             }
 
-            if (!isset($versionData['require']['contao/core-bundle'])) {
+            if (
+                !isset($versionData['require']['contao/core-bundle'])
+                && !isset($versionData['require']['contao/manager-bundle'])
+            ) {
                 continue;
             }
 
