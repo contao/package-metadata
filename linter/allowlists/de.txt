@@ -623,6 +623,8 @@ Shopsystem
 Short
 Sibling
 Sichtbarkeiten
+Sitemap
+Sitemaps
 Slave
 Slider
 Sliders
