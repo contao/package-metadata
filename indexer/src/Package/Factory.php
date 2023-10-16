@@ -74,7 +74,7 @@ class Factory
 
     private function setBasicDataFromPackagist(array $data, Package $package): void
     {
-        $latest = $this->findLatestVersion($data['p']);
+        $latest = $this->findLatestVersion($data['p']) ?? $data;
         $versions = array_keys($data['packages']['versions']);
         // $data['p'] contains the non-cached data, while only $data['packages'] has the "support" metadata
         $latestPackages = $this->findLatestVersion($data['packages']['versions']);
@@ -138,7 +138,7 @@ class Factory
         $package->setMeta($meta);
     }
 
-    private function findLatestVersion(array $versions)
+    private function findLatestVersion(array $versions): array|null
     {
         $latest = array_reduce(
             array_keys($versions),
