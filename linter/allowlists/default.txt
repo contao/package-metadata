@@ -90,6 +90,7 @@ eCommerce
 Edition
 EFG
 Einzelhandelsgeschäfte
+Elasticsearch
 eMail
 Email
 Erdmann
