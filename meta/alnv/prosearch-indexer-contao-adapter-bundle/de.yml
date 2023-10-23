@@ -1,0 +1,16 @@
+de:
+    title: SINEOS Contao Search Pro
+    description: >
+        Mit stetig wachsenden Online-Inhalten wird es immer anspruchsvoller, relevanten und bedeutsamen Content schnell zu finden. Genau hier setzt Contao Search Pro an.
+        Basierend auf der hochmodernen Elasticsearch-Technologie und ausgestattet mit einer Fülle an nützlichen Features
+    support:
+        docs: https://www.sineos.de/contao/contao-search-pro
+    keywords:
+        - contao
+        - bundle
+        - suche
+        - volltext
+        - elasticsearch
+        - typeahead
+        - autocomplete
+        - pdf
