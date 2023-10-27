@@ -1,0 +1,9 @@
+en:
+    title: Management and display of persons
+    description: >
+        With this extension, persons with their associated data can be managed in a clear list in the backend. These persons
+        can then be output at different places in the frontend via content elements or modules. This makes it easy to keep data about persons
+        consistent in all places on a website.
+    keywords:
+        - Person
+        - Management
