@@ -18,6 +18,7 @@ Bootstrapper
 canonical
 center
 checkbox
+CMACE
 con
 config
 configurator

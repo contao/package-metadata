@@ -118,6 +118,7 @@ Checkout
 Circle
 Classes
 Click
+CMACE
 coded
 Collapse
 Collect
