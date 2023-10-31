@@ -2,7 +2,7 @@ de:
     title: Verwaltung und Anzeige von Personen
     description: >
         Mit dieser Erweiterung können im Backend Personen mit ihren zugehörigen Daten in einer übersichtlichen Liste verwaltet werden. Diese Personen
-        können dann an unterschiedlichen Stellen im Frontend über Inhaltselemente oder Module ausgegeben werden. Dadurch wird es einfach Daten zu Personen
+        können dann an unterschiedlichen Stellen im Frontend über Inhaltselemente oder Module ausgegeben werden. Dadurch wird es einfach, Daten zu Personen
         auf einer Webseite an allen Stellen konsistent zu halten.
     keywords:
         - Person
