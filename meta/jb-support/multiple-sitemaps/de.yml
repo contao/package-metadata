@@ -1,0 +1,15 @@
+de:
+    title: Multiple Sitemaps Bundle
+    description: >
+        Die Erweiterung bietet eine Möglichkeit mehrere Sitemaps und Indexdateien zu verwalten:
+         - Einrichten mehrerer Sitemaps mit eigenen Dateinamen / URL-Pfaden
+         - Auswahl der Sitemap-Indizierung für jede einzelne Seite im Seitenbaum
+         - Festlegung von Priorität und Cache-Ablaufzeit für jede Sitemap individuell
+         - Filtern indizierter Seiten nach Seitenbaum (Stammknoten oder Unterseiten möglich, sogar mehrere)
+         - Erstellung von Indexdateien für vorhandene Sitemaps
+    keywords:
+        - Sitemap
+        - JB-Support
+    support:
+        issues: https://github.com/jb-support/multiple-sitemaps/issues
+        repo: https://github.com/jb-support/multiple-sitemaps

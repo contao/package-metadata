@@ -74,13 +74,14 @@ class Factory
 
     private function setBasicDataFromPackagist(array $data, Package $package): void
     {
-        $latest = $this->findLatestVersion($data['p']);
+        $latest = $this->findLatestVersion($data['p']) ?? $data;
         $versions = array_keys($data['packages']['versions']);
         // $data['p'] contains the non-cached data, while only $data['packages'] has the "support" metadata
         $latestPackages = $this->findLatestVersion($data['packages']['versions']);
 
         sort($versions);
 
+        $package->setType($latest['type'] ?? 'contao-bundle');
         $package->setTitle($package->getName());
         $package->setDescription($latest['description'] ?? null);
         $package->setKeywords($latest['keywords'] ?? null);
@@ -109,7 +110,10 @@ class Factory
                 return true;
             }
 
-            if (!isset($versionData['require']['contao/core-bundle'])) {
+            if (
+                !isset($versionData['require']['contao/core-bundle'])
+                && !isset($versionData['require']['contao/manager-bundle'])
+            ) {
                 continue;
             }
 
@@ -134,7 +138,7 @@ class Factory
         $package->setMeta($meta);
     }
 
-    private function findLatestVersion(array $versions)
+    private function findLatestVersion(array $versions): array|null
     {
         $latest = array_reduce(
             array_keys($versions),
