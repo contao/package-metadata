@@ -1,7 +1,7 @@
 en:
     title: Content Elements - Glide
     description: >
-        Integrates the Glidejs slider into Contao using custom Content Elements
+        Integrates the Glide slider into Contao using custom Content Elements
     keywords:
         - glide
         - slider
