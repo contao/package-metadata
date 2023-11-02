@@ -72,12 +72,20 @@ class IndexCommand extends Command
         $packageNames = $input->getArgument('packages');
 
         if (empty($packageNames)) {
-            $updateAll = true;
-            $packageNames = array_unique(array_merge(
-                $this->packagist->getPackageNames('contao-bundle'),
-                $this->packagist->getPackageNames('contao-module'),
-                $this->packagist->getPackageNames('contao-component')
-            ));
+            try {
+                $updateAll = true;
+                $packageNames = array_unique(array_merge(
+                    $this->packagist->getPackageNames('contao-bundle'),
+                    $this->packagist->getPackageNames('contao-module'),
+                    $this->packagist->getPackageNames('contao-theme'),
+                    $this->packagist->getPackageNames('contao-component')
+                ));
+            } catch (\RuntimeException $exception) {
+                $this->output->writeln($exception->getMessage());
+                $this->output->writeln('Stopping command to prevent removal of packages on Packagist API error.');
+
+                return Command::FAILURE;
+            }
         }
 
         $this->collectPackages($packageNames);

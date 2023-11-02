@@ -6,6 +6,7 @@ namespace Contao\PackageMetaDataIndexer\Package;
 
 class Package
 {
+    private string $type = 'contao-bundle';
     private string|null $title = null;
     private string|null $description = null;
     private array|null $keywords = null;
@@ -33,6 +34,18 @@ class Package
     public function getName(): string
     {
         return $this->name;
+    }
+
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    public function setType(string $type): self
+    {
+        $this->type = $type;
+
+        return $this;
     }
 
     public function getTitle(): string
@@ -281,6 +294,7 @@ class Package
         $data = [
             'objectID' => $this->getName().'/'.$language,
             'name' => $this->getName(),
+            'type' => $this->getType(),
             'title' => $this->getTitle(),
             'description' => $this->getDescription(),
             'keywords' => $this->getKeywords(),

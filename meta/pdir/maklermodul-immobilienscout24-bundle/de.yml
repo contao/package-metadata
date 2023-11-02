@@ -1,0 +1,20 @@
+de:
+    title: Immobilienscout24 Import für das Maklermodul
+    description: >
+        Dieses Bundle importiert deine Inserate aus Immobilienscout24 über die  API in deine Maklermodul Installation. Eine Domain Lizenz ist notwendig.
+
+        Mehr erfährst du unter https://www.maklermodul.de/
+    keywords:
+        - immobilien
+        - import
+        - expose
+        - Immobilienmakler
+        - Maklersoftware
+        - Immobiliensoftware
+        - Maklerbüro
+        - open immo
+        - Immobilienscout24
+    homepage: https://www.maklermodul.de/
+    support:
+        email: info@maklermodul.de
+        docs: https://pdir.de/docs/de/contao/extensions/maklermodul/import/immobilienscout24/

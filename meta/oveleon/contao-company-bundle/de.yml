@@ -1,0 +1,8 @@
+de:
+    title: Unternehmensdaten
+    description: >
+        Dieses Bundle fügt Contao eine Verwaltung von Unternehmensdaten hinzu, welche über Insert-Tags genutzt werden
+        können.
+    keywords:
+        - Unternehmen
+        - inserttags

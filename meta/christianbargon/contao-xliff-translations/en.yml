@@ -1,0 +1,11 @@
+en:
+    title: Contao2xliff 
+    description: >
+        Simply export and reimport Contao content for translation agencies as a XLIFF file. Contao2xliff supports all core modules and most of the third party extensions.
+    keywords:
+        - translation-agency
+        - XLIFF
+        - translation
+        - export
+        - import
+    homepage: https://contao2xliff.de

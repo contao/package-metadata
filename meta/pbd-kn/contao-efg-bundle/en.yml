@@ -1,0 +1,6 @@
+en:
+    title: Contao EFG Bundle
+    description: >
+        extension for Contao CMS porting of Contao 3.0
+    keywords:
+        - formular generator
