@@ -1,0 +1,17 @@
+en:
+    title: Content Elements - Glide
+    description: >
+        Integrates the Glide slider into Contao using custom Content Elements
+    keywords:
+        - glide
+        - slider
+        - content
+        - element
+        - bright
+        - cloud
+        - studio
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/contao-ce-glide/issues
+        source: https://github.com/bright-cloud-studio/contao-ce-glide
+        
