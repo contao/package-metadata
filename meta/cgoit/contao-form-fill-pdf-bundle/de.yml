@@ -1,7 +1,7 @@
 de:
     title: Befüllen von PDF Vorlagen mit Werten aus Formularen
     description: >
-        Mit dieser Erweiterung PDF Vorlagen mit den eingegebenen Werten aus Formularen befüllt und im Dateisystem gespeichert werden.
+        Mit dieser Erweiterung können PDF Vorlagen mit den eingegebenen Werten aus Formularen befüllt und im Dateisystem gespeichert werden.
         Die befüllten Formulare können anschließend z.B. über das Notification Center an den Webseiten-Benutzer oder den Webseiten-Betreiber
         per Mail versendet werden.
     keywords:
