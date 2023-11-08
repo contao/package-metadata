@@ -1,0 +1,11 @@
+en:
+    title: Fill PDF templates with values from forms
+    description: >
+        With this extension, PDF templates can be filled with the entered values from forms and saved in the file system.
+        The merged forms can then be sent by e-mail to the website user or the website operator via the Notification Center
+        for example.
+    keywords:
+        - Form
+        - PDF
+        - merge
+        - Template
