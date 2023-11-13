@@ -1,12 +1,16 @@
 en:
-  title: Contao KlickTipp Gateway
-  homepage: https://www.fenepedia.de/contao-klicktipp-gateway
+  title: Contao Isotope Product Member Groups
+  homepage: https://www.fenepedia.de/contao-isotope-erweiterung-produkte-mit-mitgliedergruppen-verknuepfen
   description: >
-    Connection to KlickTipp via an additional gateway for the notification center.
+      This Contao Isotope extension allows you to automatically add groups to logged in members when purchasing specific products, product variants or product types.
   keywords:
-    - KlickTipp
-    - Klick-Tipp
+    - isotope
+    - isotope ecommerce
+    - product
+    - member groups
+    - membership
+    - digital products
   support:
-    issues: https://github.com/fenepedia/contao-klicktipp-gateway/issues
-    source: https://github.com/fenepedia/contao-klicktipp-gateway/releases
-    docs: https://www.fenepedia.de/contao-klicktipp-gateway
+    issues: https://github.com/fenepedia/contao-isotope-product-member-groups/issues
+    source: https://github.com/fenepedia/contao-isotope-product-member-groups/releases
+    docs: https://www.fenepedia.de/contao-isotope-erweiterung-produkte-mit-mitgliedergruppen-verknuepfen
