@@ -443,6 +443,7 @@ Mieteinheiten
 Migrationshinweise
 Mindestlänge
 Mitarbeiterlisten
+Mitgliederbereichen
 Mitgliedergruppe
 Mitgliedergruppen
 Mitgliederverwaltung
@@ -539,6 +540,8 @@ Produkteigenschaften
 Produktkatalogen
 Produktpräsentation
 Produktslider
+Produkttypen
+Produktvarianten
 Professional
 Profilbildes
 Programmierkenntnisse
