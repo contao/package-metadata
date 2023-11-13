@@ -1,0 +1,12 @@
+en:
+    title: Contao Autowrap
+    description: >
+        Layout support package that can wrap up other elements for easier content management and layout formatting.
+    keywords:
+      - contao
+      - support
+      - layout
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-autowrap/issues
+        docs: https://github.com/vonheldenundgestalten/contao-autowrap
+    homepage: https://www.vonheldenundgestalten.com

@@ -247,7 +247,7 @@ class LintCommand extends Command
 
         foreach ($validator->getErrors() as $error) {
             $message = $error['message'].('' !== $error['property'] ? (' ['.$error['property'].']') : '');
-            $this->io->error($message);
+            $this->error($package, $message, $language);
         }
 
         if ($skipSpellCheck) {

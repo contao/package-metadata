@@ -1,0 +1,11 @@
+de:
+    title: Bilder in verschiedenen Größen beim Hochladen generieren lassen
+    description: >
+        Lege für Bilder in einem Ordner fest, in welchen Größen du sie verwenden möchtest, um die benötigten Bildgrößen nach dem Hochladen direkt erstellen zu lassen.
+    keywords:
+        - Backend
+        - Bilder
+        - Bildgrößen
+        - Thumbnails
+    support:
+        issues: https://github.com/presprog/contao-resizeonupload/issues

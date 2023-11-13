@@ -1,7 +1,8 @@
 en:
+    dependency: true
     title: Duplicate Content
-    description: > 
-        Duplicate Contao contents with just one click. Insert tags, forwarding pages, and main language (as used by ChangeLanguage) are adjusted automatically. Works perfectly for preparatory work to translate the website with, for example, Contao2xliff.  
+    description: >
+        Duplicate Contao contents with just one click. Insert tags, forwarding pages, and main language (as used by ChangeLanguage) are adjusted automatically. Works perfectly for preparatory work to translate the website with, for example, Contao2xliff.
     keywords:
         - duplicate
         - content

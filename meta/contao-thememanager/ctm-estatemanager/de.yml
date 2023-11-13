@@ -1,0 +1,7 @@
+de:
+    title: 'ThemeManager: EstateManager'
+    description: >
+        Integriert den Contao EstateManager und seine Erweiterungen in den Contao ThemeManager.
+    keywords:
+        - immobilien
+        - theme

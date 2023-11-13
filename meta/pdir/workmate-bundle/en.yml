@@ -1,0 +1,22 @@
+en:
+    title: WorkMATE - Agency tool for Contao
+    description: >
+        Manage all your project information in one place.
+    keywords:
+        - Contao
+        - Typo3
+        - WordPress
+        - Magento
+        - Shopify
+        - Craft CMS
+        - Joomla
+        - Drupal
+        - Neos
+        - tool
+        - management
+        - back end
+        - multi-client capable
+        - pdir+ webtools
+    homepage: https://pdir.de/
+    support:
+        email: support@pdir.de

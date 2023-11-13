@@ -1,0 +1,9 @@
+en:
+    title: Hugin and Munin
+    description: >
+        Send out Hugin and Munin
+    keywords:
+        - license
+    homepage: https://plenta.io
+    support:
+        email: hallo@plenta.io

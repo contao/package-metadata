@@ -16,7 +16,7 @@ class Packagist
     /**
      * Excluded packages that should not be found.
      */
-    private const EXCLUDE_LIST = ['contao/installation-bundle', 'contao/module-devtools', 'contao/module-repository', 'contao/contao'];
+    private const EXCLUDE_LIST = ['contao/installation-bundle', 'contao/contao'];
 
     public function __construct(private readonly OutputInterface $output, private readonly HttpClientInterface $client)
     {
@@ -27,9 +27,7 @@ class Packagist
         try {
             $data = $this->getJson('https://packagist.org/packages/list.json?type='.$type);
         } catch (ExceptionInterface $e) {
-            $this->output->writeln(sprintf('Error fetching package names of type "%s"', $type));
-
-            return [];
+            throw new \RuntimeException(sprintf('Error fetching package names of type "%s"', $type), 0, $e);
         }
 
         return array_diff($data['packageNames'], self::EXCLUDE_LIST);
