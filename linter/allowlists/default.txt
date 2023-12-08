@@ -48,6 +48,7 @@ ChangeLanguage
 chatbot
 ChangeNewsMore
 Checkbox
+ChurchDesk
 Clickpress
 Clickskeks
 Cloud
