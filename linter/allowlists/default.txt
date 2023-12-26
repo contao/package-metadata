@@ -48,6 +48,7 @@ ChangeLanguage
 chatbot
 ChangeNewsMore
 Checkbox
+ChurchDesk
 Clickpress
 Clickskeks
 Cloud
@@ -372,6 +373,7 @@ trilobit
 Trusted
 TTL
 tumblr
+Turbo
 Tweets
 Twig
 Twitter
