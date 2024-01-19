@@ -79,6 +79,7 @@ Dalley
 DCA
 DCA's
 DDA
+Deutsche
 DHL
 DICOM
 DMS
