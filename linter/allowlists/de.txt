@@ -335,8 +335,8 @@ Insert
 Insights
 install
 Install
-Installer
 Installationspaket
+Installer
 io
 IO
 IOTravelCostsBundle
@@ -533,8 +533,8 @@ Preisdetails
 Preistabelle
 Preview
 Privacy
-production
 Product
+production
 Produktdetails
 Produkteigenschaften
 Produktkatalogen
@@ -753,6 +753,8 @@ Verkaufsobjekte
 verkaufsstarker
 Vermietungsabteilung
 vermietungsoptimierte
+Versandmodul
+Versandmoduls
 Verschlüsselungsklasse
 Videohandbuch
 visits
