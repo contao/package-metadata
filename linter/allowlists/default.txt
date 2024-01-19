@@ -26,8 +26,8 @@ back end
 Back end
 Backend
 barcode
-Bard
 Barcode
+Bard
 Bayerischer
 BFV
 Bing
@@ -45,8 +45,8 @@ Catalog
 CDN
 ChangeEventsMore
 ChangeLanguage
-chatbot
 ChangeNewsMore
+chatbot
 Checkbox
 ChurchDesk
 Clickpress
@@ -79,6 +79,8 @@ Dalley
 DCA
 DCA's
 DDA
+Deutsche
+DHL
 DICOM
 DMS
 DOC
