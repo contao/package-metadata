@@ -18,6 +18,7 @@ Asset
 ATAG
 Austrian
 AuthCode
+Authenticator
 Autocomplete
 AWC
 Awesome
@@ -70,6 +71,7 @@ ContaoMonitoring
 CONVERT
 Corona
 Cowegis
+Crawler
 Cron
 cronjobs
 Cross
