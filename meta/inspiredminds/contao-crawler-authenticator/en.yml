@@ -1,0 +1,4 @@
+en:
+    title: Crawler Authenticator
+    description: >
+        This extension allows the Contao Crawler to be logged in as a front end member via HTTP Basic Authentication in order to index protected pages.
