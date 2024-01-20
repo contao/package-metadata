@@ -79,6 +79,7 @@ Besuchererweiterung
 Betreiberseiten
 Bewertungsarchive
 Bewertungssystem
+Bezahlungsmethode
 Bilddatenbank
 Bildergalerie
 Bildergalerien
