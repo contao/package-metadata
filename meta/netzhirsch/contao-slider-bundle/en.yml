@@ -1,0 +1,86 @@
+en:
+    title: Netzhirsch Contao Slider Bundle
+    homepage: https://www.netzhirsch.de
+    description: >
+        Contao Slider Bundle
+    keywords:
+          - contao
+          - slider
+          - slick
+          - gallery
+          - carousel
+          - slideshow
+          - karussell
+          - diashow
+          - bildergalerie
+          - bildkarussell
+          - bildershow
+          - bilderslider
+          - bilderslideshow
+          - bilderdiashow
+          - responsive slider
+          - responsive slideshow
+          - responsive carousel
+          - responsive gallery
+          - responsive karussell
+          - responsive diashow
+          - responsive bildergalerie
+          - responsive bildkarussell
+          - responsive bildershow
+          - responsive bilderslider
+          - responsive bilderslideshow
+          - responsive bilderdiashow
+          - mobile slider
+          - mobile slideshow
+          - mobile carousel
+          - mobile gallery
+          - mobile karussell
+          - mobile diashow
+          - mobile bildergalerie
+          - mobile bildkarussell
+          - mobile bildershow
+          - mobile bilderslider
+          - mobile bilderslideshow
+          - mobile bilderdiashow
+          - touch slider
+          - touch slideshow
+          - touch carousel
+          - touch gallery
+          - touch karussell
+          - touch diashow
+          - touch bildergalerie
+          - touch bildkarussell
+          - touch bildershow
+          - touch bilderslider
+          - touch bilderslideshow
+          - touch bilderdiashow
+          - swipe slider
+          - swipe slideshow
+          - swipe carousel
+          - swipe gallery
+          - swipe karussell
+          - swipe diashow
+          - swipe bildergalerie
+          - swipe bildkarussell
+          - swipe bildershow
+          - swipe bilderslider
+          - swipe bilderslideshow
+          - swipe bilderdiashow
+          - lazyload slider
+          - lazyload slideshow
+          - lazyload carousel
+          - lazyload gallery
+          - lazyload karussell
+          - lazyload diashow
+          - lazyload bildergalerie
+          - lazyload bildkarussell
+          - lazyload bildershow
+          - lazyload bilderslider
+          - lazyload bilderslideshow
+          - lazyload bilderdiashow
+          - responsive lazyload
+          - responsive lazyload slider
+    support:
+        issues: https://github.com/Netzhirsch/contao-slider-bundle/issues
+        source: https://github.com/Netzhirsch/contao-slider-bundle/releases
+        docs: https://github.com/Netzhirsch/contao-slider-bundle
