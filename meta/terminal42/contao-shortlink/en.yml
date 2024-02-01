@@ -1,6 +1,6 @@
 en:
     title: Shortlinks
-    description: Create shortlinks in the Contao back end to count and redirect visitors.
+    description: Create short links in the Contao back end to count and redirect visitors.
     keywords:
         - url
         - link
