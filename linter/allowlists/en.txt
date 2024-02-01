@@ -138,6 +138,7 @@ SCR
 Search
 selectbox
 Serverhint
+Shortlinks
 Slider
 Social
 Socialmedia
