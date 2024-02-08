@@ -1,7 +1,7 @@
 en:
-    title: Tiny Slider
+    title: CustomContao
     description: >
-        Replaces the standard Contao slider with the Tiny Slider and adds features like fade, ken-burns effect etc..
+        Adds a template for a fade effect to the Contao Content-Slider and much more.
     keywords:
         - slider
         - fader
