@@ -364,6 +364,9 @@ Listenform
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
+Lizenzmanager
+Lizenzschlüssel
+Lizenzverwaltung
 Logout
 Longitude
 Länderauswahl
@@ -456,6 +459,7 @@ Passwortrichtlinie
 Passwortänderung
 Patientendaten
 Pattern
+PayWalls
 Payment
 Picker
 Pixelschubser
@@ -475,6 +479,7 @@ Produkteigenschaften
 Produktkatalogen
 Produktpräsentation
 Produktslider
+Produkttyp
 Produkttypen
 Produktvarianten
 Professional
@@ -694,6 +699,7 @@ Zahlungsmoduls
 Zeitstrahl
 Zielseiten
 Zugangsdaten
+Zugangstoken
 abweisbares
 ajaxpagenierung
 alone

@@ -1,0 +1,18 @@
+de:
+    title: Lizenzmanager für Isotope
+    description: >
+        Mit der Erweiterung können Lizenzschlüssel verwaltet und als Produkt verkauft werden - z. B. für
+        Zugangstoken für Schulungen, Befragungen, PayWalls oder Eintritt.
+
+        Die Lizenzverwaltung wird bei einem Produkttyp frei geschaltet. Bei einem angelegten Produkt können
+        beliebig viele Lizenzschlüssel verwaltet werden. Wird das Produkt gekauft, wird für die entsprechende Anzahl
+        im Warenkorb Lizenzschlüssel zugeordnet. Die Lizenzen werden erst an den Kunden übertragen, wenn die Bezahlung
+        erfolgt ist.
+    keywords:
+        - contao
+        - isotope
+        - lizenz
+        - key
+        - manager
+        - e-spin
+    homepage: https://www.e-spin.de/kontakt.html
