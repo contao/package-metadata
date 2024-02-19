@@ -1,0 +1,18 @@
+en:
+    title: License manager for Isotope
+    description: >
+        The extension can be used to manage licence keys and sell them as a product - e.g. for access tokens
+        for training courses, surveys, paywalls or admission.
+
+        Licence management is activated for a product type. Any number of licence keys can be any number
+        of licence keys can be managed. If the product is purchased, licence keys are assigned for the
+        corresponding number licence keys are assigned in the shopping basket. The licences are only
+        transferred to the customer once payment has been made.
+    keywords:
+        - contao
+        - isotope
+        - license
+        - key
+        - manager
+        - e-spin
+    homepage: https://www.e-spin.de/kontakt.html

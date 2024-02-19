@@ -1,0 +1,9 @@
+en:
+    title: Calendar Modules And Content Elements (CMACE)
+    description: >
+        This bundle adds some new modules and content elements to display calendar events in the frontend.
+    keywords:
+        - Calendar
+        - Frontend
+        - Module
+        - Content Element

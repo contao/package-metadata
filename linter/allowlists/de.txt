@@ -37,6 +37,7 @@ Attributtypen
 Auflistungsfunktionen
 Aufnahmezeitpunkt
 Ausserdem
+Authentication
 Author
 Automatic
 Automatisierungsaufgaben
@@ -68,6 +69,7 @@ Besuchererweiterung
 Betreiberseiten
 Bewertungsarchive
 Bewertungssystem
+Bezahlungsmethode
 Bilddatenbank
 Bildergalerie
 Bildergalerien
@@ -77,9 +79,11 @@ Bildgrößeneinstellung
 Bildreferenzen
 Bildschirmpräsentation
 Bildslider
+Bildvorschau
 Blätterkataloge
 Body
 Bootstrapper
+Bordmittel
 Bots
 Boxes
 Bridge
@@ -93,6 +97,7 @@ Calendar
 Canonical
 Card
 Cards
+Chatbot
 Checkout
 Circle
 Classes
@@ -102,6 +107,7 @@ Collect
 Columns
 Components
 Connect
+Console
 Constants
 Container
 Content
@@ -130,6 +136,7 @@ Datenbanktabelle
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+Datenschutzhinweis
 Datenschutzhinweise
 Datenschutzrichtlinien
 Datensichten
@@ -159,6 +166,7 @@ Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
+Elementsets
 Elternelement
 Elterntabelle
 Empfängerlisten
@@ -262,6 +270,7 @@ History
 Hook
 Hooks
 Hovercard
+Höchstbestellmenge
 IO
 IOTravelCostsBundle
 Iconfont
@@ -269,6 +278,7 @@ Immobilienlösung
 Immobilienmakler
 Immobiliensoftware
 Include
+Indexdateien
 Infos
 Inhaltsboxen
 Inhaltscontainer
@@ -283,19 +293,21 @@ Insert
 Insights
 Install
 Installationspaket
+Installer
 Items
 Jobbörse
 Jobletter
 Jobposting
+KI
 Kalenderformate
 Kameratyp
+Karriereseite
+Karriereseiten
 Karriereseiten
 Kartenanwendung
 Kartendiensten
 Karteneditor
 Kartenlayern
-Karriereseite
-Karriereseiten
 Kartentechnik
 Kassenbereich
 Kaufprozess
@@ -327,6 +339,7 @@ Kreuztabelle
 Kreuztabellen
 Kundenrezensionen
 Kundenstimmen
+Kurzlinks
 Landingpages
 Language
 Latitude
@@ -351,6 +364,9 @@ Listenform
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
+Lizenzmanager
+Lizenzschlüssel
+Lizenzverwaltung
 Logout
 Longitude
 Länderauswahl
@@ -368,6 +384,8 @@ Materialize
 Mega
 Mehrfachauswahl
 Mehrsprachigkeit
+Member
+Members
 Menu
 Merger
 Merkzettel
@@ -379,10 +397,11 @@ Mieteinheiten
 Migrationshinweise
 Mindestlänge
 Mitarbeiterlisten
+Mitgliederbereichen
 Mitgliedergruppe
 Mitgliedergruppen
-Mitgliedseinstellungen
 Mitgliederverwaltung
+Mitgliedseinstellungen
 Model
 Moduleinstellungen
 Modules
@@ -435,13 +454,15 @@ Panels
 Parallax
 Parent
 Password-Policy
+Passwortgenerator
 Passwortrichtlinie
 Passwortänderung
-Passwortgenerator
 Patientendaten
 Pattern
+PayWalls
 Payment
 Picker
+Pixelschubser
 Playlist
 Plenta
 Plugin
@@ -452,11 +473,15 @@ Preisdetails
 Preistabelle
 Preview
 Privacy
+Product
 Produktdetails
 Produkteigenschaften
 Produktkatalogen
 Produktpräsentation
 Produktslider
+Produkttyp
+Produkttypen
+Produktvarianten
 Professional
 Profilbildes
 Programmierkenntnisse
@@ -507,6 +532,7 @@ Scripts
 Scroll
 Search
 Sec
+Seitenaufruf
 Seitenaufrufe
 Seitenbaum
 Seiteneigenschaften
@@ -522,14 +548,14 @@ Seminarverwaltung
 Sendungslisten
 Serverabhängig
 Serverhint
-serverseitig
-serverseitige
 Serverseitiger
 Share
 Shopsystem
 Short
 Sibling
 Sichtbarkeiten
+Sitemap
+Sitemaps
 Slave
 Slider
 Sliders
@@ -550,6 +576,7 @@ Sprachenwechsler
 Sprachparameter
 Stage
 Stages
+Stammknoten
 Standardauswahlen
 Standardrechte
 Standortermittlung
@@ -570,8 +597,11 @@ Subvendoren
 Suchabos
 Suchbar
 Suchbegriff
+Suchbegriffen
+Suchergebnissen
 Suchmoduls
 Suchtreffer
+Suchvorschläge
 Switcher
 Sync
 Synchronisierung
@@ -579,6 +609,7 @@ Synchronisierungszeit
 Syndikation
 System-Information
 Systemlast
+Systemwartung
 Tab
 TabControl
 Tabellenzeile
@@ -607,6 +638,7 @@ Themenwelten
 Ticker
 Tiles
 Titelleiste
+Toolbox
 Touch
 Tracking
 Traffics
@@ -618,6 +650,7 @@ UItoTop
 Umgebungshinweis
 Umkreissuche
 Unified
+Unternehmensdaten
 Unterpaletten
 Uploader
 Uploads
@@ -628,6 +661,8 @@ Veranstaltungsorte
 Verification
 Verkaufsobjekte
 Vermietungsabteilung
+Versandmodul
+Versandmoduls
 Verschlüsselungsklasse
 Videohandbuch
 Visualization
@@ -636,6 +671,7 @@ Vollbildkarte
 Vollbildmodus
 Vorlagedatei
 Vorschaubild
+WOW
 Wallets
 Warenkorbfunktionen
 Webanwendungen
@@ -654,7 +690,6 @@ Weiterlesen
 Widerrufsbelehrung
 Wohnparks
 Wohnungsunternehmen
-WOW
 Wrapper
 Währungsfeld
 Zahlungsarten
@@ -664,6 +699,7 @@ Zahlungsmoduls
 Zeitstrahl
 Zielseiten
 Zugangsdaten
+Zugangstoken
 abweisbares
 ajaxpagenierung
 alone
@@ -746,6 +782,8 @@ reservierbare
 responsive
 responsiven
 seitenübergreifend
+serverseitig
+serverseitige
 serverseitigen
 splitter
 staging
@@ -755,6 +793,7 @@ system
 template
 terminal
 textwizard
+thememanager
 tiles
 tmp
 tracking

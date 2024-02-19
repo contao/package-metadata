@@ -1,0 +1,7 @@
+en:
+    title: Member command for contao-console
+    description: >
+        Use contao-console to create front end user (members) or to reset passwords.
+    keywords:
+        - member
+        - console
