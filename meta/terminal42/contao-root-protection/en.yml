@@ -1,0 +1,3 @@
+en:
+    title: HTTP-Authentication for Root Pages
+    description: This bundle allows to configure HTTP Basic Authentication for individual root pages in Contao.
