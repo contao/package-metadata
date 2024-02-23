@@ -1,0 +1,3 @@
+en:
+    title: HTTP-Anmeldung für Root-Seiten
+    description: Mit diesem Bundle kannst du einzelne Root-Seiten in Contao per HTTP-Anmeldung schützen.
