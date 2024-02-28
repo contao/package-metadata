@@ -196,6 +196,7 @@ Farbschemen
 Favicons
 Feed
 Feeds
+Fehlerseite
 Feldeigenschaft
 Felderguppen
 Fields
