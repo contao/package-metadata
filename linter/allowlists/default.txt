@@ -431,3 +431,5 @@ RGAA
 LBI
 UNE
 JIS
+COPPA
+Stanca
