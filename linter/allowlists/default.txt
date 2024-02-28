@@ -16,6 +16,7 @@ Areas
 Asset
 Austrian
 AuthCode
+Authenticator
 Autocomplete
 AWC
 Awesome
@@ -23,8 +24,9 @@ AWS
 Back end
 back end
 Backend
-Barcode
 barcode
+Barcode
+Bard
 Bayerischer
 BFV
 Bing
@@ -43,6 +45,7 @@ CDN
 ChangeEventsMore
 ChangeLanguage
 ChangeNewsMore
+chatbot
 Checkbox
 Clickpress
 Clickskeks
@@ -64,6 +67,7 @@ ContaoMonitoring
 CONVERT
 Corona
 Cowegis
+Crawler
 Cron
 cronjobs
 Cross
@@ -72,6 +76,9 @@ CSV
 Dalley
 DCA
 DCA's
+DDA
+Deutsche
+DHL
 DICOM
 DMS
 DOC
@@ -86,6 +93,7 @@ EFG
 Einzelhandelsgeschäfte
 Email
 eMail
+eps
 Erdmann
 eRecht
 ERP

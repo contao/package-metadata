@@ -1,0 +1,4 @@
+de:
+    title: Crawler Authenticator
+    description: >
+        Diese Extension erlaubt es geschützte Seiten im Frontend durch den Contao Crawler zu indexieren. Dies passiert über HTTP Basic Authentication durch Angabe der Zugangsdaten eines Frontend Mitglieds.
