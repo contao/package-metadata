@@ -39,6 +39,7 @@ cronjob
 Crosstab
 Crosstabs
 css
+CustomContao
 customizable
 Customizer
 DC
