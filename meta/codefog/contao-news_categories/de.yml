@@ -1,0 +1,5 @@
+de:
+    title: News-Kategorien
+    description: >
+        Erweitert die Contao News um eine Kategorien-Verwaltung, mit welcher News kategorisiert
+        und im Frontend gefiltert werden können.
