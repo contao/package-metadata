@@ -7,7 +7,7 @@ de:
         SOLO basiert auf dem [Nutshell Framework](https://github.com/nutshell-framework) und wurde in Version 3 speziell für Contao 5.3 LTS entwickelt. 
         Das Theme ist für alle gängigen Geräte (Smartphones, Tablets, Desktop) und Browser (Chrome, Firefox, MS Edge, Safari) optimiert.
 
-        Besonderheiten von SOLO sind unter anderem: 
+        Besonderheiten von SOLO sind unter anderem
         
         einfache Installation über den Contao Manager oder das Contao Backend, 
         einfache Farbanpassungen über Custom Properties (CSS Variablen) vielseitige Anpassungsmöglichkeiten über SCSS, 
@@ -15,7 +15,6 @@ de:
         keine Copyright- oder Backlink-Pflicht notwendig.
         
         SOLO nutzt die neuen verschachtelten Inhaltselemente für Akkordeon und Slider
-
     keywords:
         - SOLO
         - Theme
