@@ -540,6 +540,7 @@ SCR
 Schaltfläche
 Schaufensterlisten
 Scheduler
+Schriftpositionierung
 Scripte
 Scripts
 Scroll
