@@ -22,6 +22,7 @@ Anbieterseiten
 Anfahrtskarten
 Animated
 Animations
+Anpassungsmöglichkeiten
 AntiSpam
 Anzeigeregeln
 Api
@@ -48,6 +49,7 @@ Avatare
 Avisodaten
 Backend
 Backendmodul
+Backlink
 Badge
 Bannerelement
 Basisbibliotheken
@@ -99,9 +101,11 @@ Card
 Cards
 Chatbot
 Checkout
+Chrome
 Circle
 Classes
 Click
+Coaches
 Collapse
 Collect
 Columns
@@ -159,6 +163,7 @@ Drittstaatentransfer
 Drop
 Duplication
 EasyThemes
+Edge
 Edit
 Editing
 Eingabeprüfung
@@ -192,6 +197,7 @@ Fahrzeugbestand
 Fahrzeuginformationen
 Fahrzeugmanager
 Fallback
+Farbanpassungen
 Farbschemen
 Favicons
 Feed
@@ -262,6 +268,7 @@ Head
 HeaderFooterCode
 Helpdesk
 Helper
+Hero
 Hilfsklasse
 Hilfsklassen
 Hintergrundbilder
@@ -434,6 +441,7 @@ Newsletter
 Notelist
 Notification
 Nu
+Nutshell
 Nutzerbasis
 Nutzerfreundlichkeit
 Nutzerverhalten
@@ -470,6 +478,7 @@ Playlist
 Plenta
 Plugin
 Plugins
+Positionierung
 Positionsverfolgung
 Posts
 Preisdetails
@@ -491,6 +500,7 @@ Programmierkenntnisse
 Projects
 Projektinformationen
 Projektwebseite
+Properties
 Protocol
 Pull
 Pulse
@@ -565,6 +575,7 @@ Sliders
 Slides
 Social
 Socialmedia
+Solopreneure
 Sortiermöglichkeiten
 Sortierungsfunktionen
 Sorting
@@ -575,6 +586,7 @@ Spam
 Speed
 Speisenpläne
 Spiders
+Sportler
 Sprachenwechsler
 Sprachparameter
 Stage
