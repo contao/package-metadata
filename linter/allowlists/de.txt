@@ -678,6 +678,7 @@ WOW
 Wallets
 Warenkorbfunktionen
 Webanwendungen
+Webentwicklung
 Webseite
 Webseitenbesucher
 Webseitenstatistiken
