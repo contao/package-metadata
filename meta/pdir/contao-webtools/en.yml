@@ -1,0 +1,11 @@
+en:
+    title: Contao Webtools
+    description: >
+        The extension provides various useful tools for web development with Contao.
+    keywords:
+        - tool
+        - backend
+        - web development
+        - developer tools
+        - cache
+        - script
