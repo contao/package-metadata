@@ -12,6 +12,7 @@ automator
 Autowrap
 Avatar
 backend
+backlink
 base
 bla
 Bootstrapper
@@ -144,6 +145,7 @@ Slider
 Social
 Socialmedia
 Softleister
+solopreneurs
 Spam
 splitter
 staging
