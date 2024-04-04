@@ -54,6 +54,7 @@ Badge
 Bannerelement
 Basisbibliotheken
 Baumstruktur
+Bearbeitungsmöglichkeiten
 Bedingungsfelder
 Bedingungsfeldern
 Been
@@ -280,6 +281,7 @@ Hook
 Hooks
 Hovercard
 Höchstbestellmenge
+ics
 IO
 IOTravelCostsBundle
 Iconfont
@@ -392,6 +394,7 @@ Master
 Mate
 Materialize
 Mega
+Megamenu
 Mehrfachauswahl
 Mehrsprachigkeit
 Member

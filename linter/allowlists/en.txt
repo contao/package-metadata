@@ -74,6 +74,7 @@ HeaderFooterCode
 helpdesk
 hotspot
 hovercard
+ics
 infos
 Insert
 Install
@@ -95,6 +96,7 @@ Mate
 MATE
 Materialize
 Mega
+Megamenu
 Merger
 Meta
 MonitoringClientSensorGoogleMaps

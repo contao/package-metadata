@@ -1,0 +1,11 @@
+de:
+    title: ics-Feeds importieren und exportieren
+    description: >
+        Mit dieser Erweiterung können Termine aus einem externen ics-Feed in einen Contao Kalender importiert und Termine
+        aus einem Contao-Kalender als ics-Feed exportiert werden.
+    homepage: https://github.com/cgoIT/contao-calendar-ical-bundle
+    keywords:
+        - Kalender
+        - iCal
+        - ics
+        - Feed
