@@ -280,6 +280,7 @@ Hook
 Hooks
 Hovercard
 Höchstbestellmenge
+ics
 IO
 IOTravelCostsBundle
 Iconfont

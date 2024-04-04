@@ -74,6 +74,7 @@ HeaderFooterCode
 helpdesk
 hotspot
 hovercard
+ics
 infos
 Insert
 Install
