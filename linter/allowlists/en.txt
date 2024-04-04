@@ -96,6 +96,7 @@ Mate
 MATE
 Materialize
 Mega
+Megamenu
 Merger
 Meta
 MonitoringClientSensorGoogleMaps

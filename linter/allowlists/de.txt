@@ -54,6 +54,7 @@ Badge
 Bannerelement
 Basisbibliotheken
 Baumstruktur
+Bearbeitungsmöglichkeiten
 Bedingungsfelder
 Bedingungsfeldern
 Been
@@ -393,6 +394,7 @@ Master
 Mate
 Materialize
 Mega
+Megamenu
 Mehrfachauswahl
 Mehrsprachigkeit
 Member

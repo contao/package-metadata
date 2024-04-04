@@ -1,0 +1,12 @@
+en:
+    title: Megamenu for Contao 5
+    description: >
+        With this extension you can create a Megamenu directly in the backend of Contao.
+        You can easily create the content of the menu via the usual editing options of an
+        article.
+    homepage: https://github.com/cgoIT/contao-megamenu-bundle
+    keywords:
+        - navigation
+        - menu
+        - article
+        - backend
