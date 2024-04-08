@@ -1,21 +1,21 @@
 de:
     title: Contao Consent
     description: >
-        NEU in Version 1.4:
+        NEU in Version 1.8:
 
-        - Mustertexte für drei weitere Sprachen: Spanisch, Polnisch und Rumänisch
+        - Temporäre Zustimmung hinzufügen für YouTube, Vimeo, Google Maps, OpenStreetMap, Spotify und SoundCloud
 
-        - Unterstützung für die Übersetzung in einem Konfigurationsbaum
+        - Unterstützung für Contao 5.3 hinzufügen
 
-        - Unterstützung von Drittanbietern (Subvendoren)
+        - Unterstützung für den strikten CSP-Modus mit blockierten unsafe-inline Styles und Skripten
 
-        - Erlauben von benutzerdefiniertem HTML für die Dienste von Google Analytics und Matomo
+        - Unterstützung für den Consent Mode vom Google Tag Manager
 
-        - Konfiguration hinzufügen, um die Position des Banners anzupassen
+        - Hinzufügen einer Option zum Löschen von Cookies, wenn eine Einwilligung widerrufen wird
 
-        - Hinzufügen von Preload-Link-Headern für status.js und consent-manager.js
+        - Hinzufügen einer Option zum Überschreiben des Moduls, der Seite für den Datenschutz, der Seite für die Datenschutzeinstellungen und der Bannervorlage auf der Hauptseite
 
-        - ein neues Event hinzufügt, damit Plugins das Verhalten anpassen können
+        - Automatisches Verbot für /hofff-contao-consent/ in der robots.txt
 
 
         Mit unserer Erweiterung für die Einverständniserklärungen kannst du einfach und rechtssicher die benötigten Einverständnisse Deiner Benutzer:innen einholen. Wir liefern Dir anwaltlich geprüfte Mustertexte in Deutsch, Englisch, Spanisch, Polnisch und Rumänisch für Adobe Fonts für Websites (Typekit), Google Analytics, Google Maps, Google Fonts, Matomo, OpenStreetMap (FOSSGIS e.V. und OpenStreetMap Foundation), SoundCloud, Spotify, Vimeo und YouTube (weitere Dienste und Sprachen folgen). Wir unterstützen auch den Google Tag Manager und den Matomo Tag Manager. Des weiteren kannst du auch eigene Tools und Scripte einbinden, um eine Einwilligung einzuholen. Durch unsere frei verfügbare Contao Consent Bridge können auch andere Erweiterungen eigene Einwilligungseinstellungen mitliefern und an Contao Consent übergeben. Aktuell werden die folgende Erweiterungen unterstützt:
@@ -28,6 +28,7 @@ de:
 
         - netzmacht/contao-leaflet-maps
 
+        - heimrichhannot/contao-google-maps-bundle
 
         Die Einwilligungsdaten werden im lokalen Speicher der Websitebesucher:innen abgelegt und es erfolgt keine Weiterleitung von Einwilligungsdaten an Dritte. Genauso einfach und flexibel die Einrichtung vorhandener Services ist, so geht auch das Hinzufügen individueller Services und Scripte schnell von der Hand. Des weiteren unterstützen wir den Google und den Matomo Tag Manager. Außerdem hast du die Möglichkeit verschiedene Hauptkonfigurationen anzulegen, um mehrsprachige oder Multidomain-Installationen zu unterstützen. Für die optimale Integration in eine Website kann das Design komplett individualisiert werden.
 

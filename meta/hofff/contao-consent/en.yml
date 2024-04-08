@@ -1,21 +1,21 @@
 en:
     title: Contao Consent
     description: >
-        NEW in version 1.4:
+        NEW in version 1.8:
 
-        - Add translations Spanish, Polish and Romanian
-        
-        - Add support for translation in a configuration tree
-        
-        - Add support for sub vendors
-        
-        - Allow custom html for Matomo and Google analytics services
-        
-        - Add configuration to customize the banner position
-        
-        - Add preload link headers for status.js and consent-manager.js
-        
-        - Add event so that plugins customize the behaviour
+        - Add temporary consent for YouTube, Vimeo, Google Maps, OpenStreetMap, Spotify and SoundCloud
+
+        - Add support for Contao 5.3
+
+        - Add support for strict CSP mode with blocked unsafe-inline styles and scripts
+
+        - Add support for Google Tag Manager consent mode
+
+        - Add option to delete cookies when a consent is revoked
+
+        - Add option to override additional module, privacy page, privacy settings page and banner template in the root page
+
+        - Automatically disallow /hofff-contao-consent/ directive to the robots.txt
 
 
         With our extension for the declarations of consent you can easily obtain the required agreements of your users in a legally compliant way. We provide lawyer-tested sample texts in German, English, Spanish, Polish and Romanian for Adobe Fonts for Websites (Typekit), Google Analytics, Google Maps, Google Fonts, Matomo, OpenStreetMap (FOSSGIS e.V. and OpenStreetMap Foundation), SoundCloud, Spotify, Vimeo and YouTube (further services and languages will follow). We also support Google Tag Manager and Matomo Tag Manager. Furthermore, you can also integrate your own tools and scripts to obtain consent. With our freely available Contao Consent Bridge, other extensions can also provide their own consent settings and pass them to Contao Consent. Currently the following extensions are supported:
@@ -28,6 +28,7 @@ en:
 
         - netzmacht/contao-leaflet-maps
 
+        - heimrichhannot/contao-google-maps-bundle
 
         The consent data is stored in the local storage of the website visitors and no data is passed on to third parties. The setup of existing services is just as simple and flexible as adding individual services and scripts. Furthermore we support the Google and the Matomo Tag Manager. In addition you have the possibility to create different main configurations to support multilingual or multidomain installations. For the optimal integration into a website the design can be completely individualized.
 
