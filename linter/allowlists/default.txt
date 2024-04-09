@@ -71,6 +71,7 @@ Crawler
 Cron
 cronjobs
 Cross
+CSP
 CSS
 CSV
 Dalley
@@ -149,6 +150,7 @@ grid
 gutes
 gutes.io
 gutesio
+heimrichhannot
 Heusschen
 HIBP
 Hints
@@ -292,6 +294,7 @@ Request
 reset
 REST
 Roboto
+robots
 RockSolid
 Rocksolid
 rocksolid
@@ -369,10 +372,12 @@ tumblr
 Tweets
 Twig
 Twitter
+txt
 Typekit
 Typo3
 UA
 UI
+unsafe
 Unzer
 updatePersonalData
 Usability
