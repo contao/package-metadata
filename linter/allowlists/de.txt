@@ -52,6 +52,7 @@ Backendmodul
 Backlink
 Badge
 Bannerelement
+Bannervorlage
 Basisbibliotheken
 Baumstruktur
 Bearbeitungsmöglichkeiten
@@ -263,6 +264,7 @@ Hardwarebeschleunigung
 Hauptarchivs
 Hauptbaustein
 Hauptkonfigurationen
+Hauptseite
 Hauptsprache
 Have
 Head
@@ -609,6 +611,7 @@ Stilgruppen
 Stockfotos
 Store
 Style
+Styles
 StyleManager
 Styling
 Subnetze
