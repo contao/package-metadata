@@ -1,7 +1,24 @@
 en:
     title: SOLO theme bundle
-    description: Install all extensions and dependencies for the SOLO theme by Erdmann & Freunde.
+    description: >
+        SOLO is a Contao theme for agencies that allows you to create a professional website for solopreneurs. 
+        It is perfect for musicians, athletes, authors, coaches and many other individuals.
+        
+        SOLO is based on the [Nutshell Framework](https://github.com/nutshell-framework) and was developed in version 3 especially for Contao 5.3 LTS. 
+        The theme is optimized for all common devices (smartphones, tablets, desktop) and browsers (Chrome, Firefox, MS Edge, Safari).
+    
+        Special features of SOLO include 
+        
+        Easy installation via the Contao Manager or the Contao backend, 
+        simple color adjustments via custom properties (CSS variables) versatile customization options via SCSS, 
+        design of all standard content elements, hero element with variants for font size and positioning,
+        no copyright or backlink obligation necessary.
+        
+        SOLO uses the new nested content elements for accordion and slider
     keywords:
         - SOLO
         - Theme
-        - Erdmann & Freunde
+        - Template
+        - scss
+        - Layout
+        - Erdmann und Freunde
