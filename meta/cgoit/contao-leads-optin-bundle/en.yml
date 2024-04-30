@@ -1,0 +1,7 @@
+en:
+    title: Opt-in functionality for Contao Leads 3.x
+    description: >
+        This extension adds an opt-in functionality for Contao Leads 3.x. The Notification Centre 2.x is fully supported.
+    keywords:
+        - notification
+        - optin

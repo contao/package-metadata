@@ -1,0 +1,5 @@
+en:
+    title: News Categories
+    description: >
+        Extends the Contao News with a category management, with which news can be categorized
+        and filtered in the frontend.

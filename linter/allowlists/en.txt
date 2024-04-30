@@ -12,6 +12,7 @@ automator
 Autowrap
 Avatar
 backend
+backlink
 base
 bla
 Bootstrapper
@@ -73,6 +74,7 @@ HeaderFooterCode
 helpdesk
 hotspot
 hovercard
+ics
 infos
 Insert
 Install
@@ -94,6 +96,7 @@ Mate
 MATE
 Materialize
 Mega
+Megamenu
 Merger
 Meta
 MonitoringClientSensorGoogleMaps
@@ -144,6 +147,7 @@ Slider
 Social
 Socialmedia
 Softleister
+solopreneurs
 Spam
 splitter
 staging

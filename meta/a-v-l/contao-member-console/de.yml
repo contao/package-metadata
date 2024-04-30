@@ -1,7 +1,7 @@
 de:
     title: Member Befehl für die Contao-Console
     description: >
-        Nutze die Contao-Console, um Frontend User (Members) zu erstellen oder Passwörter zurückzusetzen.
+        Nutze die Contao-Console, um Frontend User (Members) zu erstellen, aufzulisten, Passwörter zurückzusetzen oder zu löschen.
     keywords:
         - Member
         - Console

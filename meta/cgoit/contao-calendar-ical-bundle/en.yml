@@ -1,0 +1,12 @@
+en:
+    title: Import and export ics feeds
+    description: >
+        With this extension you can import appointments from an external ics feed into
+        a Contao calendar and export appointments exported from a Contao calendar as
+        an ics feed.
+    homepage: https://github.com/cgoIT/contao-calendar-ical-bundle
+    keywords:
+        - calendar
+        - iCal
+        - ics
+        - feed
