@@ -15,10 +15,12 @@ backend
 backlink
 base
 bla
+body
 Bootstrapper
 canonical
 center
 checkbox
+class
 con
 config
 configurator
@@ -46,11 +48,14 @@ Customizer
 DC
 de
 debug
+description
 Detection
+direction
 dismissable
 Dismissable
 dlh
 EasyThemes
+error
 etc
 eventlist
 exposés
@@ -139,11 +144,13 @@ Rewrite
 scalable
 Scheduler
 SCR
+scroll
 Search
 selectbox
 Serverhint
 Shortlinks
 Slider
+Slide
 Social
 Socialmedia
 Softleister
@@ -185,4 +192,5 @@ Visually
 watchlist
 Watchlist
 webfonts
+with
 youtube
