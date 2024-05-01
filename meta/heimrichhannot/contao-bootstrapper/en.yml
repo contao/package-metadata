@@ -5,3 +5,4 @@ en:
     keywords:
         - bootstrap
         - twitter
+    discoverable: false

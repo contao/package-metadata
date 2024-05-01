@@ -1,0 +1,10 @@
+en:
+    title: Shortlinks
+    description: Create short links in the Contao back end to count and redirect visitors.
+    keywords:
+        - url
+        - link
+        - shortcut
+        - shortlink
+        - subdomain
+        - bit.ly

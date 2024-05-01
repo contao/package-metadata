@@ -1,0 +1,14 @@
+de:
+    title: etracker-Integration
+    description: >
+        Integration von etracker Analytics in Contao, welche datenschutzkonformes Tracking ohne Zustimmung und ohne
+        Cookies ermöglicht. Mit dieser Erweiterung können die optionalen Tracking-Parameter, Formular-Tracking,
+        Tracking der internen Suche und weitere Ereignisse über das Contao Backend konfiguriert werden.
+
+        Ausnahmen für angemeldete Benutzer und Mitglieder und Debug-Modus für Benutzer sind ebenfalls möglich.
+    keywords:
+        - etracker
+        - analytics
+        - tracking
+    support:
+        issues: https://github.com/xenbytecom/contao-etracker/issues

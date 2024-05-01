@@ -1,0 +1,16 @@
+de:
+  title: Contao Isotope Produkt zu Mitgliedergruppen
+  homepage: https://www.fenepedia.de/contao-isotope-erweiterung-produkte-mit-mitgliedergruppen-verknuepfen
+  description: >
+      Diese Contao Isotope-Erweiterung ermöglicht es, registrierten Mitgliedern automatisch Mitgliedergruppen hinzuzufügen, wenn diese bestimmte Produkte, Produktvarianten oder Produkttypen kaufen. Hilfreich für das automatische Freischalten von digitalen Produkten oder geschützten Mitgliederbereichen.
+  keywords:
+    - Isotope
+    - Isotope eCommerce
+    - Produkt
+    - Mitgliedergruppen
+    - digitale Produkte
+    - Mitgliederbereiche
+  support:
+    issues: https://github.com/fenepedia/contao-isotope-product-member-groups/issues
+    source: https://github.com/fenepedia/contao-isotope-product-member-groups/releases
+    docs: https://www.fenepedia.de/contao-isotope-erweiterung-produkte-mit-mitgliedergruppen-verknuepfen
