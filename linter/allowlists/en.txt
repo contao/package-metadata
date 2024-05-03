@@ -19,6 +19,7 @@ body
 Bootstrapper
 canonical
 center
+ChatGPT
 checkbox
 class
 con
@@ -82,6 +83,7 @@ hovercard
 ics
 infos
 Insert
+inserttags
 Install
 io
 IO
@@ -118,6 +120,7 @@ nestable
 newslist
 Notelist
 notification
+OpenAI
 Opt
 optimised
 OR
@@ -139,6 +142,7 @@ Queue
 redirections
 reimport
 rel
+resources
 Responsive
 Rewrite
 scalable
@@ -163,6 +167,7 @@ stylable
 StyleManager
 subnets
 subpages
+subtemplates
 Tab
 TabControl
 TableLookupWizard

@@ -1,0 +1,12 @@
+de:
+    title: Contao OpenAI für SEO
+    description: >
+        Fügt Buttons im Backend hinzu, die Vorschläge für Seitentitel und Seitenbeschreibung über OpenAI / ChatGPT generieren.
+    keywords:
+      - contao
+      - seo
+      - openai
+      - chatgpt
+    support:
+        docs: https://github.com/vonheldenundgestalten/contao-openai-bundle
+    homepage: https://www.vonheldenundgestalten.de

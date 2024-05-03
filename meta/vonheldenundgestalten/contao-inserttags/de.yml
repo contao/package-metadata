@@ -1,0 +1,12 @@
+de:
+    title: Contao Inserttags
+    description: >
+        Erweiterte Inserttags und Backend-Rendering von eingebundenen Dateien und Templates aus dem eigenen Bundle.
+    keywords:
+      - contao
+      - development
+      - backend
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-inserttags/issues
+        docs: https://github.com/vonheldenundgestalten/contao-inserttags
+    homepage: https://www.vonheldenundgestalten.de
