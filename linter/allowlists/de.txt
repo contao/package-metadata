@@ -103,6 +103,7 @@ Canonical
 Card
 Cards
 Chatbot
+ChatGPT
 Checkout
 Chrome
 Circle
@@ -308,6 +309,7 @@ Inherit
 Input
 Inputtype
 Insert
+Inserttags
 Insights
 Install
 Installationspaket
@@ -458,6 +460,7 @@ OR
 Objektliste
 Onlineshop
 Open
+OpenAI
 Opt
 Overlay
 Override
@@ -534,6 +537,7 @@ Related
 Release
 Releases
 Remember
+Rendering
 Rendereinstellungen
 Repository
 Responsive
@@ -560,11 +564,13 @@ Sec
 Seitenaufruf
 Seitenaufrufe
 Seitenbaum
+Seitenbeschreibung
 Seiteneigenschaften
 Seiteninformation
 Seitenlayout
 Seitenlayouts
 Seitenstruktur
+Seitentitel
 Seitentyp
 Select
 Selectbox

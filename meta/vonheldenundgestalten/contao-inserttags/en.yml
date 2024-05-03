@@ -1,7 +1,7 @@
 en:
     title: Contao Inserttags
     description: >
-        Extended handling for inserttags, including backend rendering of included icons, subtemplates and other helpful ressources.
+        Extended handling for inserttags, including backend rendering of included icons, subtemplates and other helpful resources.
     keywords:
       - contao
       - development
