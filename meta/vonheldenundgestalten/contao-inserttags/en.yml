@@ -1,0 +1,12 @@
+en:
+    title: Contao Inserttags
+    description: >
+        Extended handling for inserttags, including backend rendering of included icons, subtemplates and other helpful ressources.
+    keywords:
+      - contao
+      - development
+      - backend
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-inserttags/issues
+        docs: https://github.com/vonheldenundgestalten/contao-inserttags
+    homepage: https://www.vonheldenundgestalten.de
