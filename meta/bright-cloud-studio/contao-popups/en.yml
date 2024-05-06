@@ -1,0 +1,15 @@
+en:
+    title: Contao Popups
+    description: >
+        Adds the ability to convert Contao Articles, Modules and Content Elements into popups.
+    keywords:
+      - contao
+      - popup
+      - bright
+      - cloud
+      - studio
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/contao-popups/issues
+        source: https://github.com/bright-cloud-studio/contao-popups
+    homepage: https://www.brightcloudstudio.com
