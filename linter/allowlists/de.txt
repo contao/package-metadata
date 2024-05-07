@@ -86,6 +86,7 @@ Bildslider
 Bildvorschau
 Blätterkataloge
 Body
+body
 Bootstrapper
 Bordmittel
 Bots
@@ -102,10 +103,12 @@ Canonical
 Card
 Cards
 Chatbot
+ChatGPT
 Checkout
 Chrome
 Circle
 Classes
+class
 Click
 Coaches
 Collapse
@@ -155,6 +158,7 @@ Detailseite
 Detailseiten
 Detection
 Directory
+direction
 Documents
 Down
 Drag
@@ -184,6 +188,7 @@ Endgeräten
 Energieausweis
 Energieskala
 Engine
+error
 Erstberatungsgespräch
 Ersteinrichtung
 Erstellungswerkzeuge
@@ -304,6 +309,7 @@ Inherit
 Input
 Inputtype
 Insert
+Inserttags
 Insights
 Install
 Installationspaket
@@ -454,6 +460,7 @@ OR
 Objektliste
 Onlineshop
 Open
+OpenAI
 Opt
 Overlay
 Override
@@ -530,6 +537,7 @@ Related
 Release
 Releases
 Remember
+Rendering
 Rendereinstellungen
 Repository
 Responsive
@@ -542,6 +550,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 SCR
+scroll
 Schaltfläche
 Schaufensterlisten
 Scheduler
@@ -549,16 +558,19 @@ Schriftpositionierung
 Scripte
 Scripts
 Scroll
+scroll
 Search
 Sec
 Seitenaufruf
 Seitenaufrufe
 Seitenbaum
+Seitenbeschreibung
 Seiteneigenschaften
 Seiteninformation
 Seitenlayout
 Seitenlayouts
 Seitenstruktur
+Seitentitel
 Seitentyp
 Select
 Selectbox
@@ -576,6 +588,7 @@ Sichtbarkeiten
 Sitemap
 Sitemaps
 Slave
+Slide
 Slider
 Sliders
 Slides
@@ -711,6 +724,7 @@ Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
 Widerrufsbelehrung
+with
 Wohnparks
 Wohnungsunternehmen
 Wrapper
