@@ -52,3 +52,5 @@
 /meta/agonyz/ @agonyz
 /meta/jb-support/ @jb-support
 /meta/xenbyte/ @av3
+/meta/jedocodes/ @jedoCodes
+/meta/jedocodes-components/ @jedoCodes @jedocodes-components
