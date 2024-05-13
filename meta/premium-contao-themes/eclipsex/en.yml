@@ -1,15 +1,13 @@
 en:
     title: Eclipse X Theme
-    description: > 
+    description: >
         The all-in-one theme solution for contao with 200+ ready-made websites.
-        
     keywords:
         - theme
         - template
         - premium
         - contao theme
         - themes
-        
     support:
-    	docs: https://service.premium-contao-themes.com/
+        docs: https://service.premium-contao-themes.com/
     homepage: https://www.premium-contao-themes.com/
