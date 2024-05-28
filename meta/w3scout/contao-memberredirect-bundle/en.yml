@@ -7,4 +7,5 @@ en:
         - bundle
         - member
         - redirect
-        - individual
+        - login
+        - logout
