@@ -1,0 +1,11 @@
+de:
+    title: Contao TimeTags Bundle
+    description: >
+        Das Bundle bietet zusätzliche InsertTags für die Ausgabe von Zeitangaben. Aktuell wird die Ausgabe von "Timesince", "Countdown" und "Countdown Tage" unterstützt. Es können jeweils Meldungen für bevorstehende und abgelaufene Termine angegeben werden.
+    keywords:
+        - contao
+        - bundle
+        - inserttags
+        - zeitangaben
+        - zeitraum
+        - countdown
