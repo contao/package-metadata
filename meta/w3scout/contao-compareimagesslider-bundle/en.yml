@@ -1,11 +1,11 @@
 en:
     title: Image Compare Slider
     description: >
-        The module provides a modern before-after image slider that allows users to easily and intuitively compare two images. This feature makes it possible to directly visualize the differences between the two images by moving a slider. Ideal for applications in image editing, design, and documenting changes.
+        The module provides a modern before-after image slider that allows users to easily and intuitively compare two images. This feature makes it possible to directly visualize the differences between the two images by moving a slider.
     keywords:
         - contao
         - bundle
-        - compere images
+        - compare images
         - image comparison
         - slider
         - image slider

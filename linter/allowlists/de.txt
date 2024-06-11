@@ -86,6 +86,7 @@ Bewertungssystem
 Bezahlungsmethode
 Bilddatenbank
 Bildergalerie
+Bilderslider
 Bildergalerien
 Bildformaten
 Bildgrößen
@@ -637,6 +638,8 @@ Röntgenaufnahmen
 Schaltfläche
 Schaufensterlisten
 Scheduler
+Schieberegler
+Schiebereglers
 Schriftpositionierung
 SCR
 Scripte
@@ -771,6 +774,7 @@ ThemeRoller
 Ticker
 Tiles
 tiles
+TimeTags
 Titelleiste
 tmp
 Toolbox

@@ -1,7 +1,7 @@
 en:
-    title: Contao Timetags Bundle
+    title: Contao TimeTags
     description: >
-        The bundle provides additional InsertTags for displaying time information. Currently, it supports the output of "Timesince," "Countdown," and "Countdown Days." Notifications can be specified for both upcoming and expired events.
+        The bundle provides additional InsertTags for displaying time information.
     keywords:
         - contao
         - bundle
