@@ -94,6 +94,7 @@ Bildgrößeneinstellung
 Bildreferenzen
 Bildschirmpräsentation
 Bildslider
+Bildvergleich
 Bildvorschau
 bits
 bla
