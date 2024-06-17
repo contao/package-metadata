@@ -497,6 +497,7 @@ MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
 MRT
 Multidomain
+Multiple-Choice
 Multiple-Choice-Fragen
 Nachrichtenarchiv
 Nachrichtenarchivs
