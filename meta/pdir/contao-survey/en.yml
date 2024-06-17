@@ -1,7 +1,7 @@
 en:
     title: Contao Survey
     description: >
-        A contao bundle to create online surveys. Supports multiple choice questions, openended questions, matrix
+        A contao bundle to create online surveys. Supports multiple choice questions, open questions, matrix
         questions and constant sum questions.
     keywords:
         - survey

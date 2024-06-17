@@ -359,6 +359,7 @@ StoreLocator
 Stripe
 Stylesheet
 stylesheet
+Survey
 SVG
 svg
 Swiper
