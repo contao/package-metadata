@@ -126,6 +126,7 @@ Chatbot
 ChatGPT
 checkbox
 Checkout
+Choice
 Chrome
 Circle
 class
@@ -497,8 +498,6 @@ MonitoringScanClientWorkerUpdateGooglemapsInstalles
 Mouseover
 MRT
 Multidomain
-Multiple-Choice
-Multiple-Choice-Fragen
 Nachrichtenarchiv
 Nachrichtenarchivs
 Nachrichtenartikel
