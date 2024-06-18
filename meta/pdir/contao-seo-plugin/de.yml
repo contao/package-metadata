@@ -1,9 +1,24 @@
 de:
     title: Contao SEO Plugin
     description: >
-        Das Contao SEO Plugin hilft Nutzern deine Inhalte gut zu optimieren und sowohl für Nutzer als auch für
-        Suchmaschinen leicht zu finden. Mit dem Contao SEO Plugin hast du die wichtigsten Faktoren einer Seite direkt
-        im Blick.
+        Steigere deinen Website-Traffic mit dem Contao SEO Plugin! Erhalte mehr Besucher von Suchmaschinen wie Google
+        und verbessere deine Sichtbarkeit im Internet. Optimiere deine Inhalte mühelos mit dem Contao SEO Plugin und
+        sorge dafür, dass deine Website sowohl von Nutzern als auch von Suchmaschinen schnell und einfach gefunden wird.
+        Das Contao SEO Plugin zeigt dir alle wichtigen SEO-Faktoren auf einen Blick, so dass du sie einfach optimieren
+        und deine Website für bessere Rankings in Suchmaschinen pushen kannst.
+
+
+        Aktueller Funktionsumfang der Version 1.0.0
+
+        - SEO Analyse von 8 typischen Onpage Problemen
+
+        - IndexNow Funktion für alle bekannten Anbieter indexnow.org
+
+        - Möglichkeit, ein 404-Fehlerprotokoll zu aktivieren
+
+        - Überwachung von Alias-Änderungen
+
+        - Anzeige bestehender URL-Weiterleitungen in der Alias-Ansicht
     keywords:
         - SEO
         - Optimierung
@@ -15,3 +30,5 @@ de:
         - IndexNow
         - Weiterleitung
         - Ranking
+        - 404
+        - Alias
