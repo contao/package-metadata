@@ -182,6 +182,7 @@ Immobilienbörse
 ImmobilienScout
 Immobilienscout
 Immobilienunternehmen
+IndexNow
 Indie
 InsertTags
 Instagram
@@ -358,6 +359,7 @@ StoreLocator
 Stripe
 Stylesheet
 stylesheet
+Survey
 SVG
 svg
 Swiper

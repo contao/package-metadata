@@ -126,6 +126,7 @@ Chatbot
 ChatGPT
 checkbox
 Checkout
+Choice
 Chrome
 Circle
 class
@@ -245,6 +246,7 @@ Favicons
 FE
 Feed
 Feeds
+Fehlerprotokoll
 Fehlerseite
 Feldeigenschaft
 Felderguppen
@@ -462,6 +464,7 @@ Master
 MATE
 Mate
 Materialize
+Matrixfragen
 Mega
 Megamenu
 Mehrfachauswahl
@@ -527,6 +530,7 @@ Nutzerverhalten
 Objektliste
 One
 Onlineshop
+Onpage
 Open
 OpenAI
 Opt
@@ -604,6 +608,7 @@ Queue
 Radioboxen
 Radiobutton
 Range
+Rankings
 Raumreservierung
 Raumreservierungen
 Rechnungs
@@ -782,6 +787,7 @@ Toolbox
 Touch
 Tracking
 tracking
+Traffic
 Traffics
 Travel
 Trigger
