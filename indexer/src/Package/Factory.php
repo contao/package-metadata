@@ -85,7 +85,7 @@ class Factory
         // $data['p'] contains the non-cached data, while only $data['packages'] has the "support" metadata
         $latestPackages = $this->findLatestVersion($data['packages']['versions']);
         $contaoConstraint = $this->buildContaoConstraint($data['p']);
-        $contaoVersions = $this->buildContaoVersions($contaoConstraint);
+        $contaoVersions = $contaoConstraint ? $this->buildContaoVersions($contaoConstraint) : null;
 
         sort($versions);
 
@@ -180,7 +180,7 @@ class Factory
         return $versions[$latest] ?? [];
     }
 
-    private function buildContaoConstraint(array $versions): string
+    private function buildContaoConstraint(array $versions): string|null
     {
         $constraints = [];
 
@@ -198,6 +198,10 @@ class Factory
             } catch (\Throwable) {
                 // Ignore
             }
+        }
+
+        if (!$constraints) {
+            return null;
         }
 
         return str_replace(['[', ']'], '', (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false)));
