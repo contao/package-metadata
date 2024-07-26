@@ -246,7 +246,7 @@ class Factory
             }
 
             if ($prefix) {
-                $matches[] = "$prefix +";
+                $matches[] = "$prefix+";
             }
         }
 
