@@ -24,8 +24,8 @@ class Package
     private string|bool $abandoned = false;
     private bool $private = false;
     private array|null $suggest = null;
-    private string $contaoConstraint = '';
-    private array $contaoVersions = [];
+    private string|null $contaoConstraint = null;
+    private array|null $contaoVersions = null;
     private string|null $logo = null;
     private array $meta = [];
 
@@ -254,24 +254,24 @@ class Package
         return $this;
     }
 
-    public function getContaoConstraint(): string
+    public function getContaoConstraint(): string|null
     {
         return $this->contaoConstraint;
     }
 
-    public function setContaoConstraint(string $contaoConstraint): self
+    public function setContaoConstraint(string|null $contaoConstraint): self
     {
         $this->contaoConstraint = $contaoConstraint;
 
         return $this;
     }
 
-    public function getContaoVersions(): array
+    public function getContaoVersions(): array|null
     {
         return $this->contaoVersions;
     }
 
-    public function setContaoVersions(array $contaoVersions): self
+    public function setContaoVersions(array|null $contaoVersions): self
     {
         $this->contaoVersions = $contaoVersions;
 
@@ -336,11 +336,17 @@ class Package
             'abandoned' => $this->getAbandoned(),
             'private' => $this->isPrivate(),
             'suggest' => $this->getSuggest(),
-            'contaoConstraint' => $this->getContaoConstraint(),
-            'contaoVersions' => $this->getContaoVersions(),
             'logo' => $this->getLogo(),
             'languages' => $languages,
         ];
+
+        if ($this->getContaoConstraint()) {
+            $data['contaoConstraint'] = $this->getContaoConstraint();
+        }
+
+        if ($this->getContaoVersions()) {
+            $data['contaoVersions'] = $this->getContaoVersions();
+        }
 
         $data = array_replace_recursive($data, $this->getMetaForLanguage($language));
 
