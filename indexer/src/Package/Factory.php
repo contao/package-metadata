@@ -185,6 +185,10 @@ class Factory
         $constraints = [];
 
         foreach ($versions as $package) {
+            if (VersionParser::parseStability($package['version']) !== 'stable') {
+                continue;
+            }
+
             if (!$constraint = $package['require']['contao/core-bundle'] ?? null) {
                 continue;
             }
