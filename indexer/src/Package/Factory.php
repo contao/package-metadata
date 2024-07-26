@@ -4,6 +4,10 @@ declare(strict_types=1);
 
 namespace Contao\PackageMetaDataIndexer\Package;
 
+use Composer\Semver\Constraint\Constraint;
+use Composer\Semver\Constraint\MultiConstraint;
+use Composer\Semver\Intervals;
+use Composer\Semver\VersionParser;
 use Contao\PackageMetaDataIndexer\Command\IndexCommand;
 use Contao\PackageMetaDataIndexer\MetaDataRepository;
 use Contao\PackageMetaDataIndexer\Packagist;
@@ -11,6 +15,8 @@ use Contao\PackageMetaDataIndexer\Packagist;
 class Factory
 {
     private array $cache = [];
+
+    private array $contaoVersions = [];
 
     public function __construct(private readonly MetaDataRepository $metaData, private readonly Packagist $packagist)
     {
@@ -78,6 +84,8 @@ class Factory
         $versions = array_keys($data['packages']['versions']);
         // $data['p'] contains the non-cached data, while only $data['packages'] has the "support" metadata
         $latestPackages = $this->findLatestVersion($data['packages']['versions']);
+        $contaoConstraint = $this->buildContaoConstraint($data['p']);
+        $contaoVersions = $this->buildContaoVersions($contaoConstraint);
 
         sort($versions);
 
@@ -96,6 +104,8 @@ class Factory
         $package->setSupported($this->isSupported($data['packages']['versions']));
         $package->setAbandoned($data['packages']['abandoned'] ?? false);
         $package->setSuggest($latest['suggest'] ?? null);
+        $package->setContaoConstraint($contaoConstraint);
+        $package->setContaoVersions($contaoVersions);
         $package->setPrivate(false);
     }
 
@@ -168,5 +178,78 @@ class Factory
         );
 
         return $versions[$latest] ?? [];
+    }
+
+    private function buildContaoConstraint(array $versions): string
+    {
+        $constraints = [];
+
+        foreach ($versions as $package) {
+            if (!$constraint = $package['require']['contao/core-bundle'] ?? null) {
+                continue;
+            }
+
+            if ('self.version' === $constraint) {
+                $constraint = $package['version'];
+            }
+
+            try {
+                $constraints[] = (new VersionParser())->parseConstraints($constraint);
+            } catch (\Throwable) {
+                // Ignore
+            }
+        }
+
+        return str_replace(['[', ']'], '', (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false)));
+    }
+
+    private function buildContaoVersions(string $contaoConstraint): array
+    {
+        if (!$this->contaoVersions) {
+            $data = $this->packagist->getPackageData('contao/core-bundle');
+
+            foreach ($data['p'] as $package) {
+                $version = explode('.', (new VersionParser())->normalize($package['version'] ?? ''));
+
+                if (\count($version) > 3 && (int) $version[0]) {
+                    $this->contaoVersions[(int) $version[0]][(int) $version[1]] ??= implode('.', $version);
+                }
+            }
+
+            ksort($this->contaoVersions);
+
+            foreach ($this->contaoVersions as $major => $minors) {
+                ksort($this->contaoVersions[$major]);
+            }
+        }
+
+        $constraint = (new VersionParser())->parseConstraints($contaoConstraint);
+
+        $matches = [];
+
+        foreach ($this->contaoVersions as $major => $minors) {
+            $prefix = '';
+            $lastMinor = 0;
+
+            foreach ($minors as $minor => $versionString) {
+                if ($constraint->matches(new Constraint('=', $versionString))) {
+                    if (!$prefix) {
+                        $prefix = "$major.$minor";
+                    }
+                } elseif ($prefix) {
+                    $version = "$major.$lastMinor";
+                    $matches[] = $version === $prefix ? $version : "$prefix - $version";
+                    $prefix = '';
+                }
+
+                $lastMinor = $minor;
+            }
+
+            if ($prefix) {
+                $matches[] = "$prefix+";
+            }
+        }
+
+        return $matches;
     }
 }
