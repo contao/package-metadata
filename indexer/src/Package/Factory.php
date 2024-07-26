@@ -200,11 +200,19 @@ class Factory
             }
         }
 
+        if (!$constraints) {
+            return '';
+        }
+
         return str_replace(['[', ']'], '', (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false)));
     }
 
     private function buildContaoVersions(string $contaoConstraint): array
     {
+        if (!$contaoConstraint) {
+            return [];
+        }
+
         if (!$this->contaoVersions) {
             $data = $this->packagist->getPackageData('contao/core-bundle');
 
