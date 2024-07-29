@@ -2,6 +2,7 @@
     "name": "isotope/payment-pfc",
     "description": "PostFinance Checkout implementation for Isotope eCommerce",
     "keywords": ["isotope", "payment", "postfinance", "checkout"],
+    "homepage": "https://extensions.terminal42.ch/p/payment-pfc",
     "type": "contao-bundle",
     "license": "proprietary",
     "authors": [

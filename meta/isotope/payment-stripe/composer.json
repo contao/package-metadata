@@ -2,6 +2,7 @@
     "name": "isotope/payment-stripe",
     "description": "Stripe payment method for Isotope eCommerce",
     "keywords": ["contao", "isotope", "payment", "stripe"],
+    "homepage": "https://extensions.terminal42.ch/p/isotope-stripe",
     "type": "contao-bundle",
     "license": "proprietary",
     "authors": [

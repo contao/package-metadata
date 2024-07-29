@@ -2,6 +2,7 @@
     "name": "isotope/payment-skrill",
     "description": "Skrill payment implementation for Isotope eCommerce",
     "keywords": ["isotope", "payment", "skrill", "checkout"],
+    "homepage": "https://extensions.terminal42.ch/p/payment-skrill",
     "type": "contao-bundle",
     "license": "proprietary",
     "authors": [
