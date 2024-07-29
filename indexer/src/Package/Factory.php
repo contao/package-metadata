@@ -76,8 +76,18 @@ class Factory
         $package->setReleased($data['time'] ?? null);
         $package->setUpdated($data['time'] ?? null);
         $package->setSuggest($data['suggest'] ?? null);
-        $package->setContaoConstraint($data['contaoConstraint'] ?? null);
-        $package->setContaoVersions($data['contaoVersions'] ?? null);
+
+        if (isset($package['require']['contao/core-bundle'])) {
+            try {
+                $contaoConstraint = (new VersionParser())->parseConstraints($package['require']['contao/core-bundle']);
+                $contaoConstraint = $this->normalizeConstraints([$contaoConstraint]);
+
+                $package->setContaoConstraint($contaoConstraint);
+                $package->setContaoVersions($this->buildContaoVersions($contaoConstraint));
+            } catch (\Throwable) {
+                // Ignore
+            }
+        }
     }
 
     private function setBasicDataFromPackagist(array $data, Package $package): void
@@ -210,11 +220,7 @@ class Factory
             return null;
         }
 
-        $constraint = (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false));
-        $constraint =  str_replace(['[', ']'], '', $constraint);
-        $constraint = preg_replace('{(\d+\.\d+\.\d+)\.\d+(-dev)?( |$)}', '$1 ', $constraint);
-
-        return trim($constraint);
+        return $this->normalizeConstraints($constraints);
     }
 
     private function buildContaoVersions(string $contaoConstraint): array
@@ -265,5 +271,14 @@ class Factory
         }
 
         return $matches;
+    }
+
+    private function normalizeConstraints(array $constraints): string
+    {
+        $constraint = (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false));
+        $constraint =  str_replace(['[', ']'], '', $constraint);
+        $constraint = preg_replace('{(\d+\.\d+\.\d+)\.\d+(-dev)?( |$)}', '$1 ', $constraint);
+
+        return trim($constraint);
     }
 }
