@@ -208,7 +208,7 @@ class Factory
             return null;
         }
 
-        return str_replace(['[', ']'], '', (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false)));
+        return implode(' || ', array_unique(array_map(static fn ($c) => $c->getPrettyString(), $constraints)));
     }
 
     private function buildContaoVersions(string $contaoConstraint): array
