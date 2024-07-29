@@ -198,7 +198,17 @@ class Factory
             }
 
             try {
-                $constraints[] = (new VersionParser())->parseConstraints($constraint);
+                $constraint = (new VersionParser())->parseConstraints($constraint)->getPrettyString();
+
+                foreach (explode('||', $constraint) as $c) {
+                    $c = trim($c);
+
+                    if (str_starts_with(ltrim($c, '<>=^~'), '3.')) {
+                        continue;
+                    }
+
+                    $constraints[] = $c;
+                }
             } catch (\Throwable) {
                 // Ignore
             }
@@ -208,7 +218,9 @@ class Factory
             return null;
         }
 
-        return implode(' || ', array_unique(array_map(static fn ($c) => $c->getPrettyString(), $constraints)));
+        $constraints = array_unique($constraints);
+
+        return implode(' || ', $constraints);
     }
 
     private function buildContaoVersions(string $contaoConstraint): array
