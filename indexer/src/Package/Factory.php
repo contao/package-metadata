@@ -77,9 +77,9 @@ class Factory
         $package->setUpdated($data['time'] ?? null);
         $package->setSuggest($data['suggest'] ?? null);
 
-        if (isset($package['require']['contao/core-bundle'])) {
+        if (isset($data['require']['contao/core-bundle'])) {
             try {
-                $contaoConstraint = (new VersionParser())->parseConstraints($package['require']['contao/core-bundle']);
+                $contaoConstraint = (new VersionParser())->parseConstraints($data['require']['contao/core-bundle']);
                 $contaoConstraint = $this->normalizeConstraints([$contaoConstraint]);
 
                 $package->setContaoConstraint($contaoConstraint);
