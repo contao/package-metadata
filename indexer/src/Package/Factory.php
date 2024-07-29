@@ -198,17 +198,7 @@ class Factory
             }
 
             try {
-                $constraint = (new VersionParser())->parseConstraints($constraint)->getPrettyString();
-
-                foreach (explode('||', $constraint) as $c) {
-                    $c = trim($c);
-
-                    if (str_starts_with(ltrim($c, '<>=^~'), '3.')) {
-                        continue;
-                    }
-
-                    $constraints[] = $c;
-                }
+                $constraints[] = (new VersionParser())->parseConstraints($constraint);
             } catch (\Throwable) {
                 // Ignore
             }
@@ -218,9 +208,11 @@ class Factory
             return null;
         }
 
-        $constraints = array_unique($constraints);
+        $constraint = (string) Intervals::compactConstraint(MultiConstraint::create($constraints, false));
+        $constraint =  str_replace(['[', ']'], '', $constraint);
+        $constraint = preg_replace('{(\d+\.\d+\.\d+)\.\d+(-dev)?( |$)}', '$1 ', $constraint);
 
-        return implode(' || ', $constraints);
+        return trim($constraint);
     }
 
     private function buildContaoVersions(string $contaoConstraint): array
