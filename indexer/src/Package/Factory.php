@@ -76,6 +76,8 @@ class Factory
         $package->setReleased($data['time'] ?? null);
         $package->setUpdated($data['time'] ?? null);
         $package->setSuggest($data['suggest'] ?? null);
+        $package->setContaoConstraint($data['contaoConstraint'] ?? null);
+        $package->setContaoVersions($data['contaoVersions'] ?? null);
     }
 
     private function setBasicDataFromPackagist(array $data, Package $package): void

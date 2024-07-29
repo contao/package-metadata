@@ -82,6 +82,18 @@
     "discoverable": {
       "type": "boolean",
       "description": "If the package is not discoverable, it will not show up in most downloaded, top rated etc."
+    },
+    "contaoConstraint": {
+      "type": "string",
+      "description": "Constraint for the supported Contao versions, e.g. \">= 4.13 || >= 5.3\"."
+    },
+    "contaoVersions": {
+      "type": "array",
+      "description": "List of supported Contao versions, e.g. \"4.13+\", \"5.3+\".",
+      "items": {
+        "type": "string",
+        "uniqueItems": true
+      }
     }
   },
   "additionalProperties": false
