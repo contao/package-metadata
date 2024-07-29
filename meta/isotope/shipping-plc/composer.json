@@ -1,0 +1,34 @@
+{
+    "name": "isotope/shipping-plc",
+    "description": "Isotope eCommerce shipping integration for Austrian Post-Labelcenter",
+    "homepage": "https://isotopeecommerce.org",
+    "keywords": [
+        "contao",
+        "isotope",
+        "ecommerce",
+        "shipping",
+        "post-labelcenter"
+    ],
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminal42.ch"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "contao/core-bundle": "^4.9",
+        "isotope/isotope-core": "^2.8",
+        "phpro/soap-client": "^2.0"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0",
+        "contao/core-bundle": "4.9.*",
+        "terminal42/contao-build-tools": "dev-main"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >= 3.0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "isotope/payment-skrill",
+    "description": "Skrill payment implementation for Isotope eCommerce",
+    "keywords": ["isotope", "payment", "skrill", "checkout"],
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminal42.ch"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-intl": "*",
+        "contao/core-bundle": "^4.9",
+        "isotope/isotope-core": "^2.8"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0",
+        "terminal42/contao-build-tools": "dev-main"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}
