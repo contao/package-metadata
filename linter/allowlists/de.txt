@@ -863,3 +863,5 @@ Zugangsdaten
 Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
+Github
+Changelog
