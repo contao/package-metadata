@@ -39,7 +39,7 @@ class IndexCommand extends Command
      */
     private array $packages;
 
-    public function __construct(private readonly Packagist $packagist, private readonly Factory $packageFactory, private readonly Client $algoliaClient, private readonly MetaDataRepository $metaDataRepository, private readonly HttpClientInterface $httpClient)
+    public function __construct(private readonly Packagist $packagist, private readonly Factory $packageFactory, private readonly MetaDataRepository $metaDataRepository, private readonly HttpClientInterface $httpClient, private readonly Client|null $algoliaClient = null)
     {
         parent::__construct();
     }
@@ -66,7 +66,10 @@ class IndexCommand extends Command
         $this->packages = [];
 
         $this->initLanguages();
-        $this->initIndex($clearIndex);
+
+        if (!$dryRun) {
+            $this->initIndex($clearIndex);
+        }
 
         $updateAll = false;
         $packageNames = $input->getArgument('packages');
@@ -204,8 +207,10 @@ class IndexCommand extends Command
 
     private function initIndex(bool $clearIndex): void
     {
+        $client = $this->algoliaClient ?: new Client($_SERVER['ALGOLIA_APP_ID'], $_SERVER['ALGOLIA_API_KEY']);
+
         /** @noinspection PhpUnhandledExceptionInspection */
-        $this->index = $this->algoliaClient->initIndex($_SERVER['ALGOLIA_INDEX']);
+        $this->index = $client->initIndex($_SERVER['ALGOLIA_INDEX']);
         $this->indexData = [];
 
         if ($clearIndex) {

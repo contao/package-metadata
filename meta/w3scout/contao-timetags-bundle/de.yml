@@ -1,0 +1,11 @@
+de:
+    title: Contao TimeTags
+    description: >
+        Das Bundle bietet zusätzliche InsertTags für die Ausgabe von Zeitangaben.
+    keywords:
+        - contao
+        - bundle
+        - inserttags
+        - zeitangaben
+        - zeitraum
+        - countdown

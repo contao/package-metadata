@@ -7,5 +7,7 @@ de:
         - Font
         - Icon
         - Inserttag
+        - Fontawesome
+        - font awesome
     support:
         docs: https://github.com/contao-themes-net/font-awesome-inserttag-bundle

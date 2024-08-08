@@ -27,8 +27,7 @@ $httpClient = new CachingHttpClient($httpClient, $store, [/*'trace_level' => 'fu
 $packagist = new Packagist($output, $httpClient);
 $metadataRepository = new MetaDataRepository(dirname(__DIR__).'/meta');
 $packageFactory = new Factory($metadataRepository, $packagist);
-$algoliaClient = new Client($_SERVER['ALGOLIA_APP_ID'], $_SERVER['ALGOLIA_API_KEY']);
-$command = new IndexCommand($packagist, $packageFactory, $algoliaClient, $metadataRepository, $httpClient);
+$command = new IndexCommand($packagist, $packageFactory, $metadataRepository, $httpClient);
 
 $application = new Application();
 $application->add($command);
