@@ -291,6 +291,8 @@ Pinterest
 Piwik
 Pixabay
 pixel
+Plakart
+plakart
 PNG
 png
 Podcasts
