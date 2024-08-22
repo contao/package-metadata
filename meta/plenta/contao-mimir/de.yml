@@ -1,0 +1,11 @@
+de:
+    title: Mimir
+    description: >
+        Mimir überwacht deinen Code und sendet jede Exception, die er findet, direkt an deinen Slack Workspace.
+    keywords:
+        - slack
+        - exception
+        - Fehler
+    homepage: https://plenta.io
+    support:
+        email: hallo@plenta.io
