@@ -84,6 +84,7 @@ CSP
 CSS
 CSV
 Dalley
+DeepL
 DCA
 DCA's
 DDA
