@@ -232,6 +232,7 @@ Manager
 manager
 Mapbox
 maps
+mar-ke
 Matomo
 MaxMind
 MetaModel
@@ -381,6 +382,7 @@ Theme
 theme
 ThemeManager
 Themes
+themore
 Timeline
 Tiny
 Tinyfy
@@ -451,3 +453,6 @@ YouTube
 Zammad
 ZIP
 Zipuploads
+Mimir
+Exception
+Workspace

@@ -1,0 +1,11 @@
+en:
+    title: Mimir
+    description: >
+        Mimir watches over your code and sends any exception he encounters directly to your Slack workspace.
+    keywords:
+        - slack
+        - exception
+        - error
+    homepage: https://plenta.io
+    support:
+        email: hallo@plenta.io
