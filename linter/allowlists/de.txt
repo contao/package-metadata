@@ -754,6 +754,7 @@ Tab
 TabControl
 Tabellenzeile
 TableLookupWizard
+Tablets
 Tabs
 Tageszeitabhängige
 Tageszeitliche
