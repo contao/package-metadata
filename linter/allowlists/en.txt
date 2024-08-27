@@ -171,6 +171,7 @@ subtemplates
 Tab
 TabControl
 TableLookupWizard
+Tablets
 tailorable
 Teaserbox
 template
