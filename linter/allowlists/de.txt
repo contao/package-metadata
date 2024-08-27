@@ -49,6 +49,7 @@ ausserdem
 Authentication
 Author
 Automatic
+Automations
 Automatisierungsaufgaben
 Autovervollständigung
 Autowrap
@@ -674,6 +675,7 @@ Seminarverwaltung
 Sendungslisten
 Serverabhängig
 Serverhint
+Serverinfrastruktur
 serverseitig
 serverseitige
 serverseitigen

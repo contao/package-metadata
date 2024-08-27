@@ -225,6 +225,7 @@ Login
 Lottie
 LTS
 MailChimp
+Maileon
 Mailer
 mailer
 Managed
