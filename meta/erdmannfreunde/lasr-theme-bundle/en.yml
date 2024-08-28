@@ -3,17 +3,10 @@ en:
     description: >
         LASR is a Contao theme for agencies, with which you can create a professional website for companies.
 
-        LASR is based on the [Nutshell Framework](https://github.com/nutshell-framework) and was specifically developed for Contao 5.3 LTS in version 3.
-        The theme is optimized for all common devices (smartphones, tablets, desktop) and browsers (Chrome, Firefox, MS Edge, Safari).
+        LASR is specifically developed for Contao 5.3 LTS in version 4. The theme is optimized for all common devices (smartphones, tablets, desktop) and browsers (Chrome, Firefox, MS Edge, Safari).
 
-        Features of LASR are among others
+        Features of LASR are easy installation via the Contao Manager or the Contao backend, easy color adjustments via Custom Properties (CSS Variables) and the portfolio extension for displaying references. There is also no copyright or backlink requirement at LASR.
 
-        easy installation via the Contao Manager or the Contao backend,
-        easy color adjustments via Custom Properties (CSS Variables),
-        portfolio extension for displaying references,
-        no copyright or backlink obligation required.
-
-        LASR uses the new embedded content elements for accordion and slider.
     keywords:
         - LASR
         - Theme
