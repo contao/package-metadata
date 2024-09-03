@@ -188,6 +188,7 @@ Indie
 InsertTags
 Instagram
 Inszenium
+Integrator
 IPs
 IPTC
 IT
