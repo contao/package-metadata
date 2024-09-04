@@ -84,11 +84,11 @@ CSP
 CSS
 CSV
 Dalley
-DeepL
 DCA
 DCA's
 DDA
 DDA
+DeepL
 Deutsche
 DHL
 DICOM
@@ -119,6 +119,7 @@ euf
 Eventlist
 Excel
 excel
+Exception
 EXIF
 Exposé
 exposé
@@ -162,6 +163,7 @@ GPT
 GPX
 Graphhopper
 grid
+gtag
 gutes
 gutes.io
 gutesio
@@ -241,6 +243,7 @@ MetaModel
 metamodel
 MetaModels
 metamodels
+Mimir
 mmenu
 mPDF
 mpdf
@@ -442,6 +445,7 @@ WMS
 Wodis
 WordPress
 WorkMATE
+Workspace
 WYSIWYG
 XING
 XLIFF
@@ -455,6 +459,3 @@ YouTube
 Zammad
 ZIP
 Zipuploads
-Mimir
-Exception
-Workspace
