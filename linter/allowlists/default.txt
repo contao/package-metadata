@@ -101,6 +101,7 @@ DownloadMail
 DSGVO
 EAA
 eCommerce
+ecommerce
 Edition
 EFG
 Einzelhandelsgeschäfte
