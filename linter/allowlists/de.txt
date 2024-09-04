@@ -87,8 +87,8 @@ Bewertungssystem
 Bezahlungsmethode
 Bilddatenbank
 Bildergalerie
-Bilderslider
 Bildergalerien
+Bilderslider
 Bildformaten
 Bildgrößen
 Bildgrößeneinstellung
@@ -123,6 +123,7 @@ Card
 Cards
 categories
 center
+Changelog
 Chatbot
 ChatGPT
 checkbox
@@ -204,6 +205,7 @@ Drop
 Duplication
 EasyThemes
 Eclipse
+ecommerce
 Edge
 Edit
 Editing
@@ -305,6 +307,7 @@ Geschütztes
 gestylt
 gestylten
 Get
+Github
 Glossarbegriffe
 Grid
 Grids
@@ -866,5 +869,3 @@ Zugangsdaten
 Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
-Github
-Changelog
