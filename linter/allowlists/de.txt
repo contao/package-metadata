@@ -49,6 +49,7 @@ ausserdem
 Authentication
 Author
 Automatic
+Automations
 Automatisierungsaufgaben
 Autovervollständigung
 Autowrap
@@ -86,8 +87,8 @@ Bewertungssystem
 Bezahlungsmethode
 Bilddatenbank
 Bildergalerie
-Bilderslider
 Bildergalerien
+Bilderslider
 Bildformaten
 Bildgrößen
 Bildgrößeneinstellung
@@ -122,6 +123,7 @@ Card
 Cards
 categories
 center
+Changelog
 Chatbot
 ChatGPT
 checkbox
@@ -304,6 +306,7 @@ Geschütztes
 gestylt
 gestylten
 Get
+Github
 Glossarbegriffe
 Grid
 Grids
@@ -674,6 +677,7 @@ Seminarverwaltung
 Sendungslisten
 Serverabhängig
 Serverhint
+Serverinfrastruktur
 serverseitig
 serverseitige
 serverseitigen
@@ -752,6 +756,7 @@ Tab
 TabControl
 Tabellenzeile
 TableLookupWizard
+Tablets
 Tabs
 Tageszeitabhängige
 Tageszeitliche
@@ -863,5 +868,3 @@ Zugangsdaten
 Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
-Github
-Changelog

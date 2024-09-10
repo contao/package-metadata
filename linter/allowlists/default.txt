@@ -88,6 +88,7 @@ DCA
 DCA's
 DDA
 DDA
+DeepL
 Deutsche
 DHL
 DICOM
@@ -118,6 +119,7 @@ euf
 Eventlist
 Excel
 excel
+Exception
 EXIF
 Exposé
 exposé
@@ -161,6 +163,7 @@ GPT
 GPX
 Graphhopper
 grid
+gtag
 gutes
 gutes.io
 gutesio
@@ -187,6 +190,7 @@ Indie
 InsertTags
 Instagram
 Inszenium
+Integrator
 IPs
 IPTC
 IT
@@ -224,6 +228,7 @@ Login
 Lottie
 LTS
 MailChimp
+Maileon
 Mailer
 mailer
 Managed
@@ -231,12 +236,14 @@ Manager
 manager
 Mapbox
 maps
+mar-ke
 Matomo
 MaxMind
 MetaModel
 metamodel
 MetaModels
 metamodels
+Mimir
 mmenu
 mPDF
 mpdf
@@ -380,6 +387,7 @@ Theme
 theme
 ThemeManager
 Themes
+themore
 Timeline
 Tiny
 Tinyfy
@@ -437,6 +445,7 @@ WMS
 Wodis
 WordPress
 WorkMATE
+Workspace
 WYSIWYG
 XING
 XLIFF

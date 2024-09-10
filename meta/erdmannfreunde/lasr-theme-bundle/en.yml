@@ -1,7 +1,16 @@
 en:
-    title: LASR theme bundle
-    description: Install all extensions and dependencies for the LASR theme by Erdmann & Freunde.
+    title: Contao Theme LASR
+    description: >
+        LASR is a Contao theme for agencies, with which you can create a professional website for companies.
+
+        LASR is specifically developed for Contao 5.3 LTS in version 4. The theme is optimized for all common devices (smartphones, tablets, desktop) and browsers (Chrome, Firefox, MS Edge, Safari).
+
+        Features of LASR are easy installation via the Contao Manager or the Contao backend, easy color adjustments via Custom Properties (CSS Variables) and the portfolio extension for displaying references. There is also no copyright or backlink requirement at LASR.
+
     keywords:
         - LASR
         - Theme
-        - Erdmann & Freunde
+        - Template
+        - scss
+        - Layout
+        - Erdmann und Freunde
