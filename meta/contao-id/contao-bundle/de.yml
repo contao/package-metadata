@@ -1,7 +1,7 @@
 de:
     title: contao.id - Single Sign-on für Contao
     description: >
-        Mit Hilfe von diesem Bundle kannst du dich mittels Single Sign-On (via contao.id) an deiner Contao-Installation anmelden.
+        Mit Hilfe von diesem Bundle kannst du dich mittels Single Sign-on (via contao.id) an deiner Contao-Installation anmelden.
     keywords:
         - SSO
         - Backend
