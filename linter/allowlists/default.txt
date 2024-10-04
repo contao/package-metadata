@@ -267,7 +267,6 @@ ODD
 Official
 OGC
 on
-On
 Open
 OpenCage
 OpenGraph
