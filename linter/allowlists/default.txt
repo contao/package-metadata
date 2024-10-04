@@ -179,6 +179,7 @@ HTML
 html
 Hugin
 iCal
+id
 ID
 iFrame
 Immobilienbörse
@@ -265,6 +266,8 @@ OAuth
 ODD
 Official
 OGC
+on
+On
 Open
 OpenCage
 OpenGraph
@@ -342,6 +345,7 @@ SERP
 Sharepoint
 Shariff
 Shops
+Sign
 SimpleTokens
 SINEOS
 Sineos
