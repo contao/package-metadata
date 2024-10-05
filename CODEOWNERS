@@ -55,3 +55,4 @@
 /meta/xenbyte/ @av3
 /meta/jedocodes/ @jedoCodes
 /meta/jedocodes-components/ @jedoCodes @jedocodes-components
+/meta/contao-id/ @bytehead @sheeep
