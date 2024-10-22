@@ -1,0 +1,12 @@
+en:
+    title: Digistore24 Connector for Contao
+    homepage: https://www.fenepedia.de/contao-digistore-connector
+    description: >
+        With the Digistore24 Connector for Contao, you can send orders from Digistore24 directly to Contao.
+        The connector allows you to automatically create members in Contao and grant them access to protected content.
+        Both single purchases and subscriptions are supported. Thanks to the integration with the Notification Center, you can send individual emails.
+        For more details, visit the product page. Compatible with Contao 4.13 and Contao 5.3+
+    keywords:
+        - digistore24
+        - digistore
+        - members area
