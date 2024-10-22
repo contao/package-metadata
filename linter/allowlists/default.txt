@@ -92,6 +92,8 @@ DeepL
 Deutsche
 DHL
 DICOM
+Digistore
+Digistore24
 DMS
 DOC
 DOCX

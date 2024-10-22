@@ -215,6 +215,7 @@ Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
+Einzelbestellungen
 Elementsets
 Elternelement
 Elterntabelle
@@ -588,6 +589,7 @@ Produktdetails
 Produkteigenschaften
 Produktkatalogen
 Produktpräsentation
+Produktseite
 Produktslider
 Produkttyp
 Produkttypen
