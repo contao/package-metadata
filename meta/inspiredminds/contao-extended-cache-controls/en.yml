@@ -1,0 +1,4 @@
+en:
+    title: Extended Cache Controls
+    description: >
+        This adds more settings to the Cache settings of a Contao page. These settings can be useful for large sites to keep the HTTP cache size smaller by only caching the most relevant URLs (e.g. only canonical URLs, only URLs with no query parameters or only certain parameters etc.).
