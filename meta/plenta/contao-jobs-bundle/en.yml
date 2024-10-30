@@ -1,5 +1,5 @@
 en:
-    title: Plenta Jobs - the job board software
+    title: Plenta.Jobs – The All-in-One Job Board Solution for Contao
     description: >
         Running a job board inside Contao has never been easier. Discover more at https://jobboerse-software.de
     keywords:
@@ -16,4 +16,4 @@ en:
         - Jobware
     homepage: https://jobboerse-software.de
     support:
-        email: team@jobboerse-software.de
+        email: hallo@plenta.io
