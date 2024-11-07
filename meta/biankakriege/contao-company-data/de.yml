@@ -1,0 +1,18 @@
+de:
+    title: Firmendaten verwalten
+    description: >
+        Mit dieser Erweiterung können Firmendaten verwaltet werden.
+        Es stehen Inhaltselemente und Module für Kontaktdaten, Impressum oder das Logo zur Verfügung. Ebenso können Personen hinzugefügt werden.
+        Im Formulargenerator kann eine Signatur oder Tokens genutzt werden.
+    keywords:
+        - Firmendaten
+        - Personendaten
+        - Formular
+        - E-Mail
+        - Benachrichtigungen
+        - Impressum
+        - Logo
+        - Kontaktdaten
+    support:
+        issues: https://github.com/biankakriege/contao-company-data/issues
+        source: https://github.com/biankakriege/contao-company-data
