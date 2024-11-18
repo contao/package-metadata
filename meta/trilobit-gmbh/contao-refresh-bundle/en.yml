@@ -1,0 +1,8 @@
+en:
+    title: Refresh Bundle for Contao 4
+    description: >
+        Use the Refresh Bundle to sync different Contao installations. Steps are executed on the console and may be shell or PHP (or other) scripts.
+        Use config.yml for cofig.
+    keywords:
+        - Sync Contao installtions
+

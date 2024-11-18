@@ -1,7 +1,7 @@
 de:
-    title: Contao 4 Serverhint Bundle
+    title: Serverhint Bundle für Contao 4
     description: >
-        Contao Backend Serverabhängig farblich anpassen (Titelleiste, Hervorhebung aktiver Menüpunkt) sowie Text-Hinweis neben dem Contao-Logo zur besseren Unterscheidung "lokal", "staging" und "production".
+        Contao Backend serverabhängig farblich anpassen (Titelleiste, Hervorhebung aktiver Menüpunkt) sowie Text-Hinweis neben dem Contao-Logo zur besseren Unterscheidung von z.B. "lokal", "staging" und "production".
     keywords:
         - Contao Backend
         - Serverabhängig

@@ -1,0 +1,12 @@
+de:
+    title: WorldOfImages Bundle für Contao 4 / Contao 5
+    description: >
+        Mit dem WorldOfImages Bundle (Bilderwelten) kannst du über die Dateiverwaltung von Contao Bilder oder Fotos von den freien Bilddatenbanken Pixabay, Pexels, Unsplash und Flickr herunterladen.
+        Um diese Bilddatenbanken benutzen zu können, benötigst du jeweils einen API-Key, den du nach der Registrierung bei dem jeweiligen Anbietern anfordern kannst.
+        Du kannst außerdem Voreinstellungen für die Bilderwelten-Suche in der Benutzerverwaltung festlegen.
+    keywords:
+        - Pixabay
+        - Pexels
+        - Unsplash
+        - Flickr
+        - Bilddatenbank
