@@ -5,7 +5,7 @@ en:
         * Country-Select
         * Language-Select
         * Gender-Select
-        * Database-Select
+        * Database-Select (specifying which table, which column outputs the options and which column is for the labels)
         * Database-Radio - see Database-Select
         * Database-Checkbox - see Database-Select
     keywords:
