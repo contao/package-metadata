@@ -1,7 +1,7 @@
 en:
     title: MonitoringSystemSensor Bundle for Contao 4 / Contao 5
     description: >
-        The MonitoringSystemSensor bundle adds additional system information like use of quota or the version of php and operating system.
+        The MonitoringSystemSensor bundle adds additional system information like use of quota or the version of PHP and operating system.
     keywords:
         - Client
         - Contao-Monitoring
