@@ -1,7 +1,7 @@
 de:
     title: Refresh Bundle für Contao 4
     description: >
-        Mit dem Refresh Bundle können mehrere Contao Instanzen synchronisiert werden. Konfigurierte Einzelschritte werden dabei automatisch auf der Konsole ausgeführt und können Shell bzw PHP (und andere) Scripte sein.
+        Mit dem Refresh Bundle können mehrere Contao Instanzen synchronisiert werden. Konfigurierte Einzelschritte werden dabei automatisch auf der Konsole ausgeführt und können Shell bzw. PHP (und andere) Scripte sein.
         Die Konfiguration erfolgt über die config.yml
     keywords:
         - Synchronisierung von Contao Instanzen
