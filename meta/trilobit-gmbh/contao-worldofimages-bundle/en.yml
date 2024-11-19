@@ -1,0 +1,12 @@
+en:
+    title: WorldOfImages Bundle for Contao 4 / Contao 5
+    description: >
+        Use the WorldOfImages Bundle to add download capability of images from Pixabay, Pexels, Unsplash and Flickr in the Contao file management section.
+        You need to get an API key from every respective image database.
+        You may also add presetting for the image search in the users section.
+    keywords:
+        - Pixabay
+        - Pexels
+        - Unsplash
+        - Flickr
+        - image database

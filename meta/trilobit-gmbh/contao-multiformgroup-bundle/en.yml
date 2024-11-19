@@ -1,0 +1,9 @@
+en:
+    title: MultiFormGroups for Contao 4 / Contao 5
+    description: >
+        With the MultiFormGroups bundle you can let the user of your website choose, how many times a group of form fields will be shown and filled in
+        like a varying number of previous job position with description and dates in an application form.
+    keywords:
+        - forms
+        - repetition of form field groups
+
