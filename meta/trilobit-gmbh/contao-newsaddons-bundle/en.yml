@@ -2,7 +2,7 @@ en:
     title: NewsAddons Bundle for Contao 4 / Contao 5
     description: >
         The NewsAddons bundle enables the display of news for every quarter of a year. News and News Archive are extend by a quarter option.
-        The New Archive menu lists all quarters with content grouped by year and quarter. And additional templated is included to show a paginated listing with AJAX.
+        The New Archive menu lists all quarters with content grouped by year and quarter. An additional template is included to show a paginated listing with AJAX.
         You also may group found news by the appropriate quarter.
     keywords:
         - news
