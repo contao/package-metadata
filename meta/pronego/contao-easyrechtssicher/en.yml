@@ -10,7 +10,7 @@ en:
         
         The installation is super easy. After selecting it in the Contao Store, 
         simply enter the API key in the settings and then create one or more frontend 
-        modules of the type "Easyrechtssicher."  
+        modules of the type "easyRechtssicher."  
         Integration into an article is done using the "Module" type, where you select 
         the desired module.
     keywords:

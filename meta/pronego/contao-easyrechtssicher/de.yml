@@ -10,7 +10,7 @@ de:
         
         Die Installation ist kinderleicht. Nach der Auswahl im Contao-Store einfach den
         API-Schlüssel in den Einstellungen eintragen und dann ein oder mehrere Frontend-Module 
-        vom Typ "Easyrechtssicher" erstellen.
+        vom Typ "easyRechtssicher" erstellen.
         Die Einbindung im Artikel erfolgt dann über den Typ Modul mit Auswahl des jeweiligen Moduls.
     keywords:
         - dsgvo
