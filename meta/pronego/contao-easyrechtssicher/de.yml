@@ -1,0 +1,22 @@
+de:
+    title: EasyRechtssicher Integration
+    description: >
+        Mit dem Contao DSGVO Plugin kannst Du jederzeit eine neue Seite für Deine Datenschutzerklärung erstellen. 
+        Ändert sich etwas – sei es auf Deiner Website, sei es bei den rechtlichen Anforderungen – kannst Du Deine 
+        Datenschutzerklärung einfach neu erzeugen. So bleibt Deine Datenschutzerklärung immer aktuell.
+        Das gilt auch für das Impressum und die Widerrufsbelehrung.
+    
+        Zur Konfiguration nutzt Du einfach den Generator unter https://easyrechtssicher.de.
+        
+        Die Installation ist kinderleicht. Nach der Auswahl im Contao-Store einfach den
+        API-Schlüssel in den Einstellungen eintragen und dann ein oder mehrere Frontend-Module 
+        vom Typ "Easyrechtssicher" erstellen.
+        Die Einbindung im Artikel erfolgt dann über den Typ Modul mit Auswahl des jeweiligen Moduls.
+    keywords:
+        - dsgvo
+        - easyrechtssicher
+        - impressumgenerator
+        - datenschutzgenerator
+        - datenschutz
+        - impressum
+    homepage: https://easyrechtssicher.de
