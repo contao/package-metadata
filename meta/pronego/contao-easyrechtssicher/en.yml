@@ -1,0 +1,23 @@
+en:
+    title: EasyRechtssicher Integration
+    description: >
+        With the Contao GDPR plugin, you can create a new page for your privacy policy at any time. 
+        If something changes – whether on your website or in legal requirements – you can easily regenerate your 
+        privacy policy. This ensures that your privacy policy is always up to date. 
+        The same applies to the legal notice (imprint) and the cancellation policy.
+        
+        To configure, simply use the generator at https://easyrechtssicher.de.
+        
+        The installation is super easy. After selecting it in the Contao Store, 
+        simply enter the API key in the settings and then create one or more frontend 
+        modules of the type "easyRechtssicher."  
+        Integration into an article is done using the "Module" type, where you select 
+        the desired module.
+    keywords:
+        - gdpr
+        - easyrechtssicher
+        - imprint-generator
+        - privacy-policy-generator
+        - privacy
+        - imprint
+    homepage: https://easyrechtssicher.de
