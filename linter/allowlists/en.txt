@@ -206,4 +206,6 @@ Changelog
 EasyRechtssicher
 easyRechtssicher
 Tooltip
-Ttooltips
+Tooltips
+tooltip
+tooltips
