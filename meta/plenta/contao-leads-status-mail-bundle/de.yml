@@ -1,0 +1,19 @@
+de:
+    title: Status Mails für Terminal42/Leads
+    description: >
+        Diese Erweiterung fügt den Terminal42/Leads Status-Mails hinzu.
+    keywords:
+        - Formular
+        - Daten
+        - speichern
+        - Lead
+        - Leads
+        - Leadgenerierung
+        - Status
+        - Mail
+        - E-Mail
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-leads-status-mail-bundle/issues
+        source: https://github.com/plenta/contao-leads-status-mail-bundle
+        email: hallo@plenta.io
