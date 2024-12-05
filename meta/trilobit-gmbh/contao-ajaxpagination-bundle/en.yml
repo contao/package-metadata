@@ -1,8 +1,8 @@
 en:
-    title: Contao 4 AjaxPagination Bundle
+    title: AjaxPagination Bundle for Contao 4
     description: >
-        With the AjaxPagination Bundle it is possible to  create ajax pagination from each pagination enabled element available in Contao.
-        Thus, sections of a page that are paginated can be turned over without having to reload the entire page.
+        With the AjaxPagination Bundle it is possible to create ajax pagination from each pagination enabled element available in Contao.
+        Thus, sections of a page that are paginated can be turned over without reloading the entire page.
     keywords:
         - AjaxPagination
         - element

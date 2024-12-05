@@ -1,7 +1,8 @@
 de:
-    title: Contao 4 Pexels Bundle
+    title: Pexels Bundle für Contao 4
     description: >
-        Mit der Pexels Erweiterung kannst du über die Dateiverwaltung von Contao Bilder oder Fotos von der freien Bilddatenbank Pexels herunterladen.
+        Nachfolge Bundle: WorldOfImages Bundle für Contao 4 / Contao 5
+        Mit dem Pexels Bundle kannst du über die Dateiverwaltung von Contao Bilder oder Fotos von der freien Bilddatenbank Pexels herunterladen.
     keywords:
         - Pexels
         - Bilddatenbank

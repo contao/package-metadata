@@ -1,7 +1,7 @@
 de:
-    title: Contao 4 HeaderFooterCode Bundle
+    title: HeaderFooterCode Bundle für Contao 4 / Contao 5
     description: >
-        Mit diesem Bundle für Contao (Version 4.4.x) kannst du für jede Seite zusätzlichen individuellen Header- und Footer Code einbinden und bei Bedarf auf Unterseiten vererben.
+        Mit dem HeaderFooterCode Bundle kannst du für jede Seite zusätzlichen individuellen Header- und Footer Code einbinden und bei Bedarf auf Unterseiten vererben.
         Der zusätzliche Header- und Footer Code wird über die Seiteneigenschaften gepflegt.
     keywords:
         - Header

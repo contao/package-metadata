@@ -1,6 +1,6 @@
 en:
-    title: Contao 4 History Bundle
+    title: History Bundle for Contao 4
     description: >
-        With the History Bundle it is possible to add a history to your Contao page that shows the pages visited.
+        With the History Bundle it is possible to add a history to your Contao page that shows the last pages visited.
     keywords:
         - history

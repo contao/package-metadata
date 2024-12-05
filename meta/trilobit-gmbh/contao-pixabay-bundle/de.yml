@@ -1,7 +1,8 @@
 de:
-    title: Contao 4 Pixabay Bundle
+    title: Pixabay Bundle für Contao 4
     description: >
-        Mit der Pixabay Erweiterung können sie über die Dateiverwaltung von Contao Bilder oder Fotos von der freien Bilddatenbank Pixabay herunterladen.
+        Nachfolge Bundle: WorldOfImages Bundle für Contao 4 / Contao 5
+        Mit dem Pixabay Bundle kannst du über die Dateiverwaltung von Contao Bilder oder Fotos von der freien Bilddatenbank Pixabay herunterladen.
     keywords:
         - Pixabay
         - Bilddatenbank

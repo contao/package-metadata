@@ -872,3 +872,6 @@ Zugangsdaten
 Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
+Firmendaten
+EasyRechtssicher
+easyRechtssicher
