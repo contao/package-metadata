@@ -209,3 +209,10 @@ Tooltip
 Tooltips
 tooltip
 tooltips
+selectable
+Heiko
+Unger
+Lothar
+Monoslideshow
+Wimer
+Hazenberg

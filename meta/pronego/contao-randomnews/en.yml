@@ -1,0 +1,17 @@
+en:
+    title: Random News
+    description: >
+        This extension allows you to select "Random News" as a module in the Contao backend 
+        and display random news from selectable news archives in various formats.
+
+        It was originally developed by [Heiko Unger from Odenwerk](odenwerk@gmail.com) 
+        and maintained until around 2013. At the request of [Lothar Schwalm](https://die-schreibmaus.de) 
+        (current sponsor), the extension was taken over in 2023 by [Dr. Manuel Lamotte-Schubert/PRONEGO](https://www.pronego.com) 
+        after unsuccessful attempts to contact the original developer and was adapted for Contao 5.
+
+    keywords:
+        - random news
+        - randomnews
+        - random
+        - news
+        - news generator
