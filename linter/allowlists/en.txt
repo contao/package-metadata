@@ -205,3 +205,10 @@ Github
 Changelog
 EasyRechtssicher
 easyRechtssicher
+selectable
+Heiko
+Unger
+Lothar
+Monoslideshow
+Wimer
+Hazenberg
