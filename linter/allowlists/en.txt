@@ -205,6 +205,10 @@ Github
 Changelog
 EasyRechtssicher
 easyRechtssicher
+Tooltip
+Tooltips
+tooltip
+tooltips
 selectable
 Heiko
 Unger
