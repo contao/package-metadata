@@ -1,0 +1,15 @@
+de:
+    title: Modal / Dialog / Tooltip / Overlay for Contao
+    description: >
+        Mach es dir leicht: Zusatzinfos genau da, wo du sie brauchst!
+        Mit wenigen Klicks kannst du editorfreundliche Tooltips, Modals, Popups oder Overlays hinzufügen. Egal, ob neben Texten, Bildern oder anderen Elementen – die passende Info ist immer griffbereit.
+    keywords:
+        - modal
+        - dialog
+        - tooltip
+        - overlay
+        - popup
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-tooltip-bundle/issues
+        source: https://github.com/plenta/contao-tooltip-bundle
