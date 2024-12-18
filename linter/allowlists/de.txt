@@ -873,8 +873,6 @@ Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
 Firmendaten
-EasyRechtssicher
-easyRechtssicher
 Modal
 Tooltip
 Tooltips
@@ -886,17 +884,4 @@ Modals
 Random
 Zufallsnachricht
 Kontaktbemühungen
-Unger
-Dr
-Manuel
-Lothar
 ca
-Monoslideshow
-Slideshow
-Wimer
-Hazenberg
-Odenwerk
-Schwalm
-Lamotte
-PRONEGO
-Ritter
