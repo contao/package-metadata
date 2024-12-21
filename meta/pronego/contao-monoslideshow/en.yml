@@ -1,26 +1,26 @@
 en:
     title: Monoslideshow HTML5 Image and Video Slideshow
     description: >
-        This extension enables the use of the [Monoslideshow](https://monoslideshow.com) in Contao.
-        The [Monoslideshow](https://monoslideshow.com) is the ultimate configurable HTML5 image and video slideshow.
+        This extension enables the use of the Monoslideshow (https://monoslideshow.com) in Contao.
+        The Monoslideshow is a configurable HTML5 image and video slideshow.
 
-        It was originally developed by [Daniel Ritter](https://www.designr.ch)
-        and maintained until around 2013. At the request of [Lothar Schwalm](https://die-schreibmaus.de) 
-        (current sponsor), the extension was taken over in 2023 by [Dr. Manuel Lamotte-Schubert/PRONEGO](https://www.pronego.com) 
+        It was originally developed by Daniel Ritter (https://www.designr.ch)
+        and maintained until around 2013. At the request of Lothar Schwalm (https://die-schreibmaus.de, current sponsor), 
+        the extension was taken over in 2023 by Dr. Manuel Lamotte-Schubert/PRONEGO (https://www.pronego.com) 
         after unsuccessful attempts to contact the original developer and was adapted for Contao 5.
 
-        The [Monoslideshow](https://monoslideshow.com/) works only in conjunction with a JavaScript file 
-        that was available for purchase on the [website](https://monoslideshow.com/) until 2023 (cost: at that time approx. 25 €). 
-        However, the developer of Monoslideshow, Wimer Hazenberg, has since discontinued the project.
-        Nevertheless, you can contact him via his [website](https://monokai.com/) to request a Monoslideshow license.
+        The Monoslideshow works only in conjunction with a JavaScript file 
+        that was available for purchase on the website https://monoslideshow.com until 2023 (cost: at that time approx. 25 €). 
+        However, the developer of the Monoslideshow, Wimer Hazenberg, has since discontinued the project.
+        Nevertheless, you can contact him via his website https://monokai.com to request a Monoslideshow license.
 
         Those who already own a Monoslideshow license can continue to use it with this extension in Contao 5.
 
         If you would like to see the wonderful effects of the Monoslideshow in live galleries before going through 
-        the effort of requesting the purchase of the JavaScript file from [Wimer Hazenberg](https://monokai.com), 
+        the effort of requesting the purchase of the JavaScript file from Wimer Hazenberg (https://monokai.com), 
         you can do so at the following link:
 
-        [Demo on die-schreibmaus.de](https://die-schreibmaus.de/ganz-spezielle-galerien.html)
+        Demo: https://die-schreibmaus.de/ganz-spezielle-galerien.html
     keywords:
         - slideshow
         - video slider
