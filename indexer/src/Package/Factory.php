@@ -67,6 +67,7 @@ class Factory
             return;
         }
 
+        $package->setType($data['type'] ?? 'contao-bundle');
         $package->setDescription($data['description'] ?? null);
         $package->setKeywords($data['keywords'] ?? null);
         $package->setHomepage($data['homepage'] ?? null);
