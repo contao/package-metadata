@@ -17,7 +17,7 @@
     }
   ],
   "support": {
-    "homepage": "https://mar-ke.de"
+    "docs": "https://themore.mar-ke.de/doku/installation"
   },
   "require": {
     "contao/manager-bundle": "5.3.*",
