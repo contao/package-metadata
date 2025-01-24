@@ -1,0 +1,34 @@
+{
+  "name": "mar-ke/themore",
+  "description": "themore",
+  "homepage": "https://themore.mar-ke.de",
+  "keywords": [
+    "contao",
+    "mar-ke",
+    "themore",
+    "theme"
+  ],
+  "type": "contao-theme",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Digitalagentur mar_ke",
+      "homepage": "https://mar-ke.de"
+    }
+  ],
+  "support": {
+    "docs": "https://themore.mar-ke.de/doku/installation"
+  },
+  "require": {
+    "contao/manager-bundle": "5.3.*",
+    "contao/calendar-bundle": "^5.3",
+    "contao/comments-bundle": "^5.3",
+    "contao/conflicts": "@dev",
+    "contao/faq-bundle": "^5.3",
+    "contao/listing-bundle": "^5.3",
+    "contao/news-bundle": "^5.3",
+    "contao/newsletter-bundle": "^5.3",
+    "madeyourday/contao-rocksolid-custom-elements": "^2.4",
+    "markocupic/contao-component-fontawesome-free": "^6.2"
+  }
+}
