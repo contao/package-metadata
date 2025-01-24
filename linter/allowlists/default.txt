@@ -46,6 +46,7 @@ Burns
 Bynder
 Captcha
 Catalog
+Categories
 Category
 CDN
 ChangeEventsMore
