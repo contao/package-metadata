@@ -46,6 +46,7 @@ Burns
 Bynder
 Captcha
 Catalog
+Category
 CDN
 ChangeEventsMore
 ChangeLanguage
@@ -497,3 +498,19 @@ Country
 Gender
 Database
 Labels
+EasyRechtssicher
+easyRechtssicher
+Heiko
+Unger
+Dr
+Manuel
+Lamotte
+Lothar
+Monoslideshow
+Slideshow
+Wimer
+Hazenberg
+Odenwerk
+Schwalm
+PRONEGO
+Ritter
