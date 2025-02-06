@@ -873,6 +873,8 @@ Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
 Firmendaten
+EasyRechtssicher
+easyRechtssicher
 Modal
 Tooltip
 Tooltips
