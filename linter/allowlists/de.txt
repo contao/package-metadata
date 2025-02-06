@@ -873,11 +873,8 @@ Zugangstoken
 Übersetzungsfelder
 Übersetzungstools
 Firmendaten
-<<<<<<< HEAD
 EasyRechtssicher
 easyRechtssicher
-=======
->>>>>>> 430567ba29b6ec24cc0b021fa99a1bad182cfb39
 Modal
 Tooltip
 Tooltips
@@ -886,10 +883,7 @@ Overlays
 Zusatzinfos
 editorfreundliche
 Modals
-<<<<<<< HEAD
-=======
 Random
 Zufallsnachricht
 Kontaktbemühungen
 ca
->>>>>>> 430567ba29b6ec24cc0b021fa99a1bad182cfb39

@@ -203,16 +203,10 @@ with
 youtube
 Github
 Changelog
-<<<<<<< HEAD
 EasyRechtssicher
 easyRechtssicher
-=======
->>>>>>> 430567ba29b6ec24cc0b021fa99a1bad182cfb39
 Tooltip
 Tooltips
 tooltip
 tooltips
-<<<<<<< HEAD
-=======
 selectable
->>>>>>> 430567ba29b6ec24cc0b021fa99a1bad182cfb39
