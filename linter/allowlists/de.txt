@@ -744,6 +744,7 @@ Suchabos
 Suchbar
 Suchbegriff
 Suchbegriffen
+Suchergebnisse
 Suchergebnissen
 Suchmoduls
 Suchtreffer
