@@ -1,0 +1,9 @@
+en:
+    title: Megamenu for Contao 5
+    description: >
+        With this bundle you can easily add a onepage navigation to your website. No jQuery required!
+    homepage: https://github.com/cgoIT/contao-onepage-bundle
+    keywords:
+        - navigation
+        - menu
+        - onepage
