@@ -8,4 +8,4 @@ de:
         - Navigation
         - SEO
         - Alias
-    dependency: true
+    discoverable: false
