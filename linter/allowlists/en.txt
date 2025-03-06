@@ -211,3 +211,4 @@ Tooltips
 tooltip
 tooltips
 selectable
+checkboxes
