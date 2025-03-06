@@ -889,5 +889,6 @@ Random
 Zufallsnachricht
 Kontaktbemühungen
 ca
+Funnel
 Funnels
 Kontrollkästchen
