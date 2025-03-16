@@ -1,0 +1,22 @@
+de:
+    title: Externe Verwaltung Ihrer robots.txt
+    description: >
+        Sie haben mehrere Contao-Installationen? Sie sind es leid, bei jeder Installation die gleiche
+        robots.txt zu konfigurieren? Sie vergessen immer einige Installationen, wenn Sie die robots.txt
+        aktualisieren?
+        Dann ist dieses Paket genau das Richtige für Sie!
+
+        Platzieren Sie Ihre globale robots.txt einfach dort, wo sie für Ihre Installationen zugänglich ist...
+
+        - eine Datei im Dateisystem
+        - Erreichbar über http
+        - ...
+
+        Sie können alles verwenden, was über PHPs `file_get_contents` geladen werden kann.
+
+        Der Inhalt dieser globalen robots.txt-Datei wird dann in Ihre Installation eingebunden. So haben Sie
+        immer noch die Möglichkeit, Dinge hinzuzufügen, die spezifisch für eine Contao-Installation sind.
+    keywords:
+        - robots.txt
+        - Verwaltung
+        - extern
