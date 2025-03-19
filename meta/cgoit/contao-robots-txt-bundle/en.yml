@@ -1,11 +1,11 @@
 en:
     title: External management of your robots.txt
     description: >
-        You have multiple contao installations? You're tired of configuring the same robots.txt stuff
+        You have multiple Contao installations? You're tired of configuring the same robots.txt stuff
         in every installation? You always miss some installation if you update the robots.txt stuff?
         Then this bundle is the right for you!
 
-        Just place your global robot.txt anywhere where it's accessible for your installations...
+        Just place your global robots.txt anywhere where it's accessible for your installations...
 
         - a file in the filesystem
         - reachable via http
@@ -14,7 +14,7 @@ en:
         You can use everything that can be loaded via PHPs `file_get_contents`.
 
         The content of this global robots.txt file is then merged to your installation. So you still have
-        the option to add stuff specific for one contao installation/root page.
+        the option to add stuff specific for one Contao installation/root page.
     keywords:
         - robots.txt
         - management
