@@ -63,6 +63,7 @@ exposés
 extensibility
 favicons
 Filemanager
+filesystem
 fka
 foo
 formvalidation
@@ -80,6 +81,7 @@ HeaderFooterCode
 helpdesk
 hotspot
 hovercard
+http
 ics
 infos
 Insert
