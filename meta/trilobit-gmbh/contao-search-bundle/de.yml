@@ -3,7 +3,7 @@ de:
     description: >
         Erweiterung des Contao-Suchmoduls um weitere einschränkende Parameter (minimale und maximale Anzahl Suchbegriff-Länge, maximale Anzahl Keywords)
     keywords:
-        - Contao-Suchmoduls
+        - Contao-Suchmodul
         - Parameter
         - Suchbegriff-Länge
         - Keywords

@@ -1,8 +1,8 @@
 de:
-    title: Contao 4 Constants Bundle
+    title: Constants Bundle für Contao 4 / Contao 5
     description: >
         Das Constants Bundle fügt dem Backend von Contao den Punkt Konstanten hinzu, wo du mit einer Bezeichnung und einem dazugehörenden Wert eine oder mehrere Konstanten festlegen kannst.
-        Diese können dann wiederum durch einen Insert-Tag überall in ihrer Contao Installation eingefügt werden.
+        Diese können dann wiederum durch einen Insert-Tag überall in deiner Contao Installation eingefügt werden.
     keywords:
         - Konstanten
         - Bezeichnung

@@ -1,0 +1,4 @@
+en:
+    title: Category News Sorting
+    description: >
+        Allows to sort news records individually per category for the front end.

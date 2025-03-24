@@ -1,0 +1,12 @@
+en:
+    title: Contao Github Releases Bundle
+    description: >
+        Simply display your Github release history on your website.
+    keywords:
+        - Github
+        - Releases
+        - Changelog
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-github-releases-bundle/issues
+        source: https://github.com/plenta/contao-github-releases-bundle

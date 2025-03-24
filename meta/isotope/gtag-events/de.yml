@@ -1,0 +1,6 @@
+de:
+    title: Google Analytics eCommerce tracking für Isotope eCommerce
+    description: >
+        Fügt automatisch die eCommerce-Events zum Google Tag Manager
+        (gtag.js) auf deiner Isotope eCommerce Webseite hinzu.
+    homepage: https://extensions.terminal42.ch/p/isotope-gtag-events

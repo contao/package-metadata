@@ -1,0 +1,11 @@
+de:
+    title: Contao Survey
+    description: >
+        Eine Contao-Erweiterung zur Erstellung von Online-Umfragen. Unterstützt Multiple-Choice-Fragen, offene Fragen,
+        Matrixfragen und Fragen mit konstanter Summe.
+    keywords:
+        - Umfrage
+        - Quiz
+        - Frage
+        - Antwort
+        - Multiple-Choice

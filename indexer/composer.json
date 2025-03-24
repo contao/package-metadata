@@ -19,6 +19,7 @@
         "ext-json": "*",
         "algolia/algoliasearch-client-php": "^1.27",
         "composer/metadata-minifier": "^1.0",
+        "composer/semver": "^3.4",
         "symfony/console": "^6.0",
         "symfony/finder": "^6.0",
         "symfony/filesystem": "^6.0",

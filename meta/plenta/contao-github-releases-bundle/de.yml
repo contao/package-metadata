@@ -1,0 +1,12 @@
+de:
+    title: Contao Github Releases Bundle
+    description: >
+        Lass deine Github Releases als Changelog auf deiner Website anzeigen.
+    keywords:
+        - Github
+        - Releases
+        - Changelog
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-github-releases-bundle/issues
+        source: https://github.com/plenta/contao-github-releases-bundle

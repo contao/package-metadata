@@ -1,0 +1,10 @@
+de:
+    title: NewsAddons Bundle für Contao 4 / Contao 5
+    description: >
+        Mit dem NewsAddons Bundle ist es möglich, Nachrichten nach Quartalen gruppiert auszugeben. Die beiden Module News-Archiv und News-Menü werden um die Option Quartal ergänzt.
+        Das Nachrichtenarchiv Modul kann alle Nachrichten quartalsweise listen.
+        Das Nachrichtenarchiv-Menü Modul listet alle Quartale mit Inhalt gruppiert nach dem Jahr und Quartal auf. Außerdem wird durch das Bundle ein weiteres Template ausgeliefert, über das das Menü als Paginierung ausgegeben werden kann.
+        Das Modul Nachrichtenliste wurde um eine Option zum quartalsweisen Gruppieren der gefundenen Nachrichten ergänzt.
+    keywords:
+        - Nachrichten
+        - quartalsweise Ausgabe

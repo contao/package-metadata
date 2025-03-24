@@ -1,0 +1,28 @@
+{
+    "name": "isotope/payment-pfc",
+    "description": "PostFinance Checkout implementation for Isotope eCommerce",
+    "keywords": ["isotope", "payment", "postfinance", "checkout"],
+    "homepage": "https://extensions.terminal42.ch/p/payment-pfc",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminal42.ch"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "contao/core-bundle": "^4.4",
+        "isotope/isotope-core": "^2.4",
+        "postfinancecheckout/sdk": "^2.1",
+        "symfony/http-kernel": "^3.3 || ^4. || ^5.0 || ^6.0"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0",
+        "terminal42/contao-build-tools": "dev-main"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}

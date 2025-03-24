@@ -1,7 +1,7 @@
 en:
-    title: Contao 4 Zipuploads Bundle
+    title: ZipUploads Bundle for Contao 4 / Contao 5
     description: >
-        The Zipuploads bundle handles all uploads of a form and packs the files into a single zip.
+        The ZipUploads bundle handles all uploads of a form and packs the files into a single zip.
     keywords:
         - zipuploads
         - upload
