@@ -1,13 +1,13 @@
 en:
-  title: "Eclipse X6 Theme"
-  description: >
-    The featherlight all-in-one Contao theme. Update-safe and extremely lightweight. GDPR & BFSG compliant!
-  keywords:
-    - "theme"
-    - "template"
-    - "premium"
-    - "contao theme"
-    - "themes"
-  support:
-    docs: "https://service.premium-contao-themes.com/"
-  homepage: "https://www.premium-contao-themes.com/"
+    title: Eclipse X6 Theme
+    description: >
+        The featherlight all-in-one Contao theme. Update-safe and extremely lightweight. GDPR & BFSG compliant!
+    keywords:
+        - theme
+        - template
+        - premium
+        - contao theme
+        - themes
+    support:
+        docs: https://service.premium-contao-themes.com/
+    homepage: https://www.premium-contao-themes.com/
