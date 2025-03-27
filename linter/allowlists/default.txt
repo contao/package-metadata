@@ -33,6 +33,7 @@ Barcode
 Bard
 Bayerischer
 BFV
+BFSG
 Bing
 BITV
 Bootstrap
