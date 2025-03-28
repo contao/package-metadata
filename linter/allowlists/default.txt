@@ -33,6 +33,7 @@ Barcode
 Bard
 Bayerischer
 BFV
+BFSG
 Bing
 BITV
 Bootstrap
@@ -73,6 +74,7 @@ Contao
 contao
 ContaoDMS
 ContaoMonitoring
+contents
 CONVERT
 COPPA
 Corona
@@ -136,6 +138,7 @@ Feed
 Fenepedia
 Fieldset
 fieldset
+file
 Flex
 Flower
 Font
@@ -154,6 +157,7 @@ Geocoder
 geocoder
 geocoding
 GeoIP
+get
 getLaw
 getlaw
 GIS
@@ -297,6 +301,7 @@ Pexels
 PhotoSwipe
 PHP
 php
+PHPs
 phpexcel
 phpoffice
 PIM
