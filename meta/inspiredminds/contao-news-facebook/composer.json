@@ -1,0 +1,20 @@
+{
+    "name": "inspiredminds/contao-news-facebook",
+    "description": "Contao News synchronization with Facebook Pages.",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "homepage": "https://www.inspiredminds.at/contao-news-facebook",
+    "authors": [
+        {
+            "name": "INSPIRED MINDS",
+            "homepage": "http://www.inspiredminds.at"
+        }
+    ],
+    "support": {
+        "email": "office@inspiredminds.at"
+    },
+    "require": {
+        "php": ">=8.1",
+        "contao/core-bundle": "^4.13 || ^5.0"
+    }
+}
