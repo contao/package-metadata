@@ -1,0 +1,21 @@
+{
+    "name": "inspiredminds/contao-news-twitter",
+    "description": "Contao News synchronisation with Twitter.",
+    "keywords": ["contao", "news", "twitter", "sync"],
+    "type": "contao-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "INSPIRED MINDS",
+            "homepage": "http://www.inspiredminds.at"
+        }
+    ],
+    "support": {
+        "email": "office@inspiredminds.at"
+    },
+    "require": {
+        "php": "^7.1 || ^8.0",
+        "contao/core-bundle": "^4.9"
+    },
+    "abandoned": true
+}

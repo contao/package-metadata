@@ -10,3 +10,4 @@ en:
         - synchronise
         - tweet
         - posts
+    discoverable: false
