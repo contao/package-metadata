@@ -4,6 +4,7 @@
     "keywords": ["contao", "news", "twitter", "sync"],
     "type": "contao-module",
     "license": "proprietary",
+    "homepage": "https://www.inspiredminds.at/contao-news-twitter",
     "authors": [
         {
             "name": "INSPIRED MINDS",
