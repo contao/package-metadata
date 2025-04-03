@@ -1,0 +1,15 @@
+de:
+    title: Digital Asset Management Integrator
+    description: >
+        Dieses Paket integriert Digital Assets Management-Anbieter direkt in dein Contao-Backend.
+        Neben der regulären Dateiauswahl-Registerkarte wird pro Integration eine neue Registerkarte hinzugefügt, auf der du die Assets
+        deiner Integration durchsuchen, filtern, herunterladen und dann direkt über den Dateibaum auswählen und einbinden kannst.
+    keywords:
+        - bynder
+        - celum
+        - Bilderarchiv
+        - zusammenarbeiten
+        - pflegen
+        - Marke
+        - DAM
+        - webdam

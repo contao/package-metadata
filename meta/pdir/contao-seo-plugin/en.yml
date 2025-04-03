@@ -1,0 +1,34 @@
+en:
+    title: Contao SEO Plugin
+    description: >
+        Increase your website traffic with the Contao SEO plugin! Get more visitors from search engines like Google
+        and improve your visibility on the internet. Easily optimise your content with the Contao SEO plugin and
+        ensure that your website can be found quickly and easily by both users and search engines. The Contao SEO
+        plugin shows you all the important SEO factors at a glance so that you can easily optimise them and push
+        your website for better search engine rankings.
+
+        Current range of functions of version 1.0.0:
+
+        - SEO analysis of 8 typical on-page problems
+
+        - IndexNow function for all known providers
+
+        - Possibility to activate a 404 error log
+
+        - Monitoring of alias changes
+
+        - Display existing URL redirects in the alias view
+    keywords:
+        - seo
+        - optimisation
+        - analysis
+        - keyword
+        - search engine
+        - monitoring
+        - toolbar
+        - IndexNow
+        - redirect
+        - forwarding
+        - ranking
+        - alias
+    homepage: https://pdir.de/contao-seo-plugin/

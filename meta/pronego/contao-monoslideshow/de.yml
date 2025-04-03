@@ -1,0 +1,31 @@
+de:
+    title: Monoslideshow HTML5 Bilder- und Video-Slideshow
+    description: >
+        Diese Erweiterung ermöglicht die Verwendung der Monoslideshow (https://monoslideshow.com) in Contao.
+        Die Monoslideshow ist eine konfigurierbare HTML5 Bilder- und Video-Slideshow.
+        
+        Sie wurde ursprünglich von Daniel Ritter (https://www.designr.ch)
+        entwickelt und bis ca. 2013 gewartet. Auf Wunsch von Lothar Schwalm (https://die-schreibmaus.de, derzeitiger Sponsor) 
+        wurde die Erweiterung 2023 nach vergeblichen Kontaktbemühungen zu dem Programmierer 
+        von Dr. Manuel Lamotte-Schubert/PRONEGO (https://www.pronego.com) übernommen und für Contao 5 angepasst.
+        
+        Die Monoslideshow funktioniert nur in Verbindung mit einer JavaScript-Datei, 
+        die bis 2023 auf der Website https://monoslideshow.com erworben werden konnte (Kosten: damals ca. 25 €). 
+        Mittlerweile hat der Entwickler der Monoslideshow, Wimer Hazenberg, das Projekt jedoch eingestellt.
+        Man kann ihn aber über seine Website https://monokai.com kontaktieren und für eine Monoslideshow-Lizenz anfragen.
+
+        Wer bereits eine Monoslideshow-Lizenz besitzt, kann sie mit dieser Erweiterung in Contao 5 
+        weiterhin benutzen.
+        
+        Wer sich die wunderbaren Effekte der Monoslideshow einmal in Live-Galerien ansehen möchte, 
+        bevor er/sie sich die Mühe macht, den Kauf der JavaScript-Datei bei Wimer Hazenberg (https://monokai.com) 
+        zu erfragen, kann das unter folgendem Link tun:
+
+        Demo: https://die-schreibmaus.de/ganz-spezielle-galerien.html
+    keywords:
+        - slideshow
+        - videoslider
+        - bildslider
+        - effekte
+        - html5
+    homepage: https://monoslideshow.com

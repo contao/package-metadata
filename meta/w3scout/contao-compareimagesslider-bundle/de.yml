@@ -1,0 +1,14 @@
+de:
+    title: Bildvergleich mittels Slider
+    description: >
+        Das Modul bietet einen modernen Vorher-Nachher-Bilderslider, mit dem Benutzer zwei Bilder einfach und intuitiv vergleichen können. Diese Funktion ermöglicht es, Unterschiede zwischen den beiden Bildern durch das Verschieben eines Schiebereglers direkt sichtbar zu machen.
+    keywords:
+        - contao
+        - bundle
+        - slider
+        - bilderslider
+        - bildvergleich
+        - bilder vergleichen
+        - twentytwenty
+        - vorher-nachher
+        - fotografie

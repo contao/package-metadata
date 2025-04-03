@@ -1,0 +1,6 @@
+de:
+    title: Event Image Override
+    description: >
+        Ermöglicht die Bildgrößeneinstellung des Events die Bildgrößeneinstellung des Eventmoduls zu überschreiben.
+
+        Normalerweise benutzt Contao immer die Bildgrößeneinstellung des Eventmoduls, wenn definiert, und nur die Bildgrößeneinstellung des Events als Fallback. Mit dieser Extension wird die Logik umgedreht, also es wird die Bildgrößeneinstellung des Events verwendet, wenn das Teaser-Bild der Event ausgegeben wird.

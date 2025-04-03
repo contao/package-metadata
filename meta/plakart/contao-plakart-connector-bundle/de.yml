@@ -1,0 +1,5 @@
+de:
+    title: plakart Contao-Connector
+    description: >
+        Interne API-Verbindung zur Verwaltung von verschiedenen Contao-Installationen.
+    dependency: true

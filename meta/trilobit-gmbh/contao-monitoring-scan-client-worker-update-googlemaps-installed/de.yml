@@ -1,7 +1,7 @@
 de:
-    title: Contao 4 MonitoringScanClientWorkerUpdateGooglemapsInstalles Module
+    title: MonitoringScanClientWorkerUpdateGooglemapsInstalles Module für Contao 4
     description: >
-        Stellt eine Komponente, zum Aktualisieren des Systems eines überwachten Eintrags mit den gescannten Google Maps-Daten vom Client bereit.
+        Stellt eine Komponente zum Aktualisieren des Systems eines überwachten Eintrags mit den gescannten Google Maps-Daten vom Client bereit.
     keywords:
         - Google Maps-Daten
         - Client
