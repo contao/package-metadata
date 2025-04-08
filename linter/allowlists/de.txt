@@ -187,7 +187,7 @@ Datenvervollständigung
 DC
 de
 Debug
-Detailseiten
+Delete
 Detailansicht
 Detailinhalt
 Detailseite
