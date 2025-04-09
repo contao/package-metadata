@@ -187,6 +187,7 @@ Datenvervollständigung
 DC
 de
 Debug
+Delete
 Detailansicht
 Detailinhalt
 Detailseite
@@ -256,6 +257,7 @@ Feldeigenschaft
 Felderguppen
 Fields
 File
+Files
 Filemanager
 Filtereinstellungen
 Filterfunktionalität
