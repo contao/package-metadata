@@ -46,6 +46,7 @@ css
 CustomContao
 customizable
 Customizer
+CustomSwiper
 DC
 de
 debug
@@ -82,6 +83,7 @@ helpdesk
 hotspot
 hovercard
 http
+IconInsertTags
 ics
 infos
 Insert
