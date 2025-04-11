@@ -167,6 +167,7 @@ CT
 Custom
 CustomContao
 Customizer
+CustomSwiper
 Dark
 Data
 Dateiauswahl
@@ -347,6 +348,7 @@ Hooks
 Hovercard
 Höchstbestellmenge
 Iconfont
+IconInsertTags
 ics
 Immobilienlösung
 Immobilienmakler
@@ -790,6 +792,7 @@ textwizard
 thememanager
 Themenwelten
 ThemeRoller
+Thumbnails
 Ticker
 Tiles
 tiles
