@@ -211,6 +211,7 @@ Eclipse
 Edge
 Edit
 Editing
+Eingabeformulare
 Eingabeprüfung
 Einrichtungsassistent
 Einstellungsmöglichkeiten
@@ -273,6 +274,7 @@ Folder
 Fonts
 foo
 for
+Forms
 Formularausgaben
 Formulardaten
 Formularelemente
