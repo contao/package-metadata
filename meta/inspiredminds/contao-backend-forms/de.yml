@@ -1,0 +1,4 @@
+de:
+    title: Backend Forms
+    description: >
+        Erweiterung zu codefog/contao-haste um schnell im Backend ein Formular bauen zu können, im selben Stil wie die normalen Eingabeformulare von Contao.
