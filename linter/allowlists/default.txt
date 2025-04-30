@@ -93,6 +93,7 @@ DCA's
 DDA
 DDA
 DeepL
+DelayStamp
 Deutsche
 DHL
 DICOM
@@ -385,6 +386,7 @@ SVG
 svg
 Swiper
 Symfony
+Symfony's
 SysCara
 Tangerine
 tawk

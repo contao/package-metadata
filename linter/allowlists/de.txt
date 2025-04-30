@@ -378,6 +378,8 @@ Install
 install
 Installationspaket
 Installer
+Invalidation
+invalidiert
 IO
 io
 IOTravelCostsBundle
@@ -732,6 +734,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Startups
+Startzeit
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
