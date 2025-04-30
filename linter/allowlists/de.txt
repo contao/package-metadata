@@ -378,6 +378,8 @@ Install
 install
 Installationspaket
 Installer
+Invalidation
+invalidiert
 IO
 io
 IOTravelCostsBundle
@@ -483,6 +485,7 @@ Mehrsprachigkeit
 Member
 Members
 Menu
+Messenger
 Merger
 Merkzettel
 Meta
@@ -733,6 +736,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Startups
+Startzeit
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
