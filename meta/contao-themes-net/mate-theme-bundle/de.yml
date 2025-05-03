@@ -17,7 +17,7 @@ de:
 
         ✓ EAA
 
-        ✓ Section 508
+        ✓ Rehabilitationsgesetz Abschnitt 508
 
         ✓ AODA
 
@@ -60,6 +60,7 @@ de:
         - Kontrastmodus
         - Vorschau
         - Demo
+        - Rehabilitationsgesetz
     homepage: https://contao-themes.net/theme-detail/mate.html
     support:
         docs: https://pdir.de/docs/de/contao/themes/mate/
