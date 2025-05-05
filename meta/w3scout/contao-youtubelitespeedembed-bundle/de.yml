@@ -1,0 +1,12 @@
+de:
+    title: Youtube LiteSpeed Embed
+    description: >
+        Ein leichtgewichtiges, leistungsorientiertes YouTube-Embed Content-Element, das im Schnitt 225x schneller lädt.
+    keywords:
+        - contao
+        - bundle
+        - content element
+        - media
+        - video
+        - youtube
+        - web component
