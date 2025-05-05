@@ -57,6 +57,7 @@ dismissable
 Dismissable
 dlh
 EasyThemes
+Embed
 error
 etc
 eventlist
@@ -98,6 +99,7 @@ Libraries
 lightboxes
 LinkedIn
 listWizard
+LiteSpeed
 LiveValidation
 login
 logout
@@ -206,6 +208,7 @@ Watchlist
 webfonts
 with
 youtube
+Youtube
 Github
 Changelog
 EasyRechtssicher
