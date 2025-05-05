@@ -222,6 +222,7 @@ Einzelbestellungen
 Elementsets
 Elternelement
 Elterntabelle
+Embed
 Empfängerlisten
 Encryption
 Endgeräte
@@ -455,6 +456,7 @@ Listenansichten
 Listenform
 listWizard
 listwizard
+LiteSpeed
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
@@ -877,6 +879,7 @@ Wrapper
 Währungsfeld
 yes
 youtube
+YouTube
 Zahlungsarten
 Zahlungsmethoden
 Zahlungsmodul
