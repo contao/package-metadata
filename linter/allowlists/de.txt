@@ -495,6 +495,7 @@ Mietangebote
 Mieteinheiten
 Migrationshinweise
 Mindestlänge
+Minimalversion
 Mitarbeiterlisten
 Mitgliederbereichen
 Mitgliedergruppe
@@ -636,6 +637,7 @@ Regex
 Registerkarte
 Registration
 Regular
+Rehabilitationsgesetz
 reimport
 reimportieren
 rel
@@ -823,6 +825,7 @@ Umkreissuche
 Unified
 Unternehmensdaten
 Unterpaletten
+updatesicher
 upgraden
 Uploader
 Uploads
@@ -882,6 +885,7 @@ zeitintensiven
 zeitintensiver
 Zeitstrahl
 Zielseiten
+Zugänglichkeitserklärung
 Zugangsdaten
 Zugangstoken
 Übersetzungsfelder
