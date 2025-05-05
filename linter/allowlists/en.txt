@@ -208,7 +208,7 @@ Watchlist
 webfonts
 with
 youtube
-Youtube
+YouTube
 Github
 Changelog
 EasyRechtssicher
