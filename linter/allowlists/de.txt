@@ -879,7 +879,7 @@ Wrapper
 Währungsfeld
 yes
 youtube
-Youtube
+YouTube
 Zahlungsarten
 Zahlungsmethoden
 Zahlungsmodul
