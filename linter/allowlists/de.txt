@@ -167,6 +167,7 @@ CT
 Custom
 CustomContao
 Customizer
+CustomSwiper
 Dark
 Data
 Dateiauswahl
@@ -187,6 +188,7 @@ Datenvervollständigung
 DC
 de
 Debug
+Delete
 Detailansicht
 Detailinhalt
 Detailseite
@@ -209,6 +211,7 @@ Eclipse
 Edge
 Edit
 Editing
+Eingabeformulare
 Eingabeprüfung
 Einrichtungsassistent
 Einstellungsmöglichkeiten
@@ -219,6 +222,7 @@ Einzelbestellungen
 Elementsets
 Elternelement
 Elterntabelle
+Embed
 Empfängerlisten
 Encryption
 Endgeräte
@@ -256,6 +260,7 @@ Feldeigenschaft
 Felderguppen
 Fields
 File
+Files
 Filemanager
 Filtereinstellungen
 Filterfunktionalität
@@ -270,6 +275,7 @@ Folder
 Fonts
 foo
 for
+Forms
 Formularausgaben
 Formulardaten
 Formularelemente
@@ -345,6 +351,7 @@ Hooks
 Hovercard
 Höchstbestellmenge
 Iconfont
+IconInsertTags
 ics
 Immobilienlösung
 Immobilienmakler
@@ -372,6 +379,8 @@ Install
 install
 Installationspaket
 Installer
+Invalidation
+invalidiert
 IO
 io
 IOTravelCostsBundle
@@ -447,6 +456,7 @@ Listenansichten
 Listenform
 listWizard
 listwizard
+LiteSpeed
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
@@ -477,6 +487,7 @@ Mehrsprachigkeit
 Member
 Members
 Menu
+Messenger
 Merger
 Merkzettel
 Meta
@@ -486,6 +497,7 @@ Mietangebote
 Mieteinheiten
 Migrationshinweise
 Mindestlänge
+Minimalversion
 Mitarbeiterlisten
 Mitgliederbereichen
 Mitgliedergruppe
@@ -627,6 +639,7 @@ Regex
 Registerkarte
 Registration
 Regular
+Rehabilitationsgesetz
 reimport
 reimportieren
 rel
@@ -636,6 +649,7 @@ Releases
 Remember
 Rendereinstellungen
 Rendering
+Replace
 Repository
 reservierbare
 Responsive
@@ -726,6 +740,7 @@ Standardrechte
 Standortermittlung
 Startbildschirm
 Startups
+Startzeit
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
@@ -788,6 +803,7 @@ textwizard
 thememanager
 Themenwelten
 ThemeRoller
+Thumbnails
 Ticker
 Tiles
 tiles
@@ -811,6 +827,7 @@ Umkreissuche
 Unified
 Unternehmensdaten
 Unterpaletten
+updatesicher
 upgraden
 Uploader
 Uploads
@@ -862,6 +879,7 @@ Wrapper
 Währungsfeld
 yes
 youtube
+YouTube
 Zahlungsarten
 Zahlungsmethoden
 Zahlungsmodul
@@ -870,6 +888,7 @@ zeitintensiven
 zeitintensiver
 Zeitstrahl
 Zielseiten
+Zugänglichkeitserklärung
 Zugangsdaten
 Zugangstoken
 Übersetzungsfelder

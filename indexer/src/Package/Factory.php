@@ -77,6 +77,7 @@ class Factory
         $package->setReleased($data['time'] ?? null);
         $package->setUpdated($data['time'] ?? null);
         $package->setSuggest($data['suggest'] ?? null);
+        $package->setAbandoned($data['abandoned'] ?? false);
 
         $versionConstraint = $data['require']['contao/core-bundle'] ?? $data['require']['contao/manager-bundle'] ?? null;
 

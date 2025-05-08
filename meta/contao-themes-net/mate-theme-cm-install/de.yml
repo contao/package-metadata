@@ -5,6 +5,25 @@ de:
         Contao 5 und 4 kompatibel. MATE ist updatesicher und bereits für Contao 5.5 verfügbar!
 
 
+        Sie können die folgenden Versionen direkt über den Contao Manager Theme Installer nutzen:
+
+        - „5.5“ mit allen Core-Erweiterungen wie Kalender, Kommentare, FAQ, Listen, News und Newsletter
+
+        - „5.5-p“ für die Minimalversion
+
+        - „5.4“ mit allen Core-Erweiterungen
+
+        - „5.4-p“ für die Minimalversion
+
+        - „5.3“ mit allen Core-Erweiterungen
+
+        - „5.3-p“ für die Minimalversion
+
+        - „4.13“ mit allen Core-Erweiterungen
+
+        - „4.13-p“ für die Minimalversion
+
+
         Das MATE Theme ist nun barrierefrei, es gibt neue Farben und es enthält eine Zugänglichkeitserklärung.
 
         ✓ BFSG
@@ -34,7 +53,7 @@ de:
 
 
         Das MATE Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (ohne Copyright Hinweis)
-        erhältlich. Das Theme kann auch über den Contao Manager Theme Installer installiert werden, suche einfach nach 'MATE'.
+        erhältlich.
     keywords:
         - Theme
         - Materialize
@@ -60,7 +79,6 @@ de:
         - Kontrastmodus
         - Vorschau
         - Demo
-        - Rehabilitationsgesetz
     homepage: https://contao-themes.net/theme-detail/mate.html
     support:
         docs: https://pdir.de/docs/de/contao/themes/mate/

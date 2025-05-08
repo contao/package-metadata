@@ -1,0 +1,4 @@
+de:
+    title: Auto Delete Files
+    description: >
+        Erlaubt es Dateien in bestimmten Ordnern der Dateiverwaltung automatisch löschen zu lassen. Entweder nach Zeit (alle älteren Dateien werden gelöscht) oder Anzahl (alle älteren Dateien, die die Anzahl übersteigen, werden gelöscht).

@@ -46,6 +46,7 @@ css
 CustomContao
 customizable
 Customizer
+CustomSwiper
 DC
 de
 debug
@@ -56,6 +57,7 @@ dismissable
 Dismissable
 dlh
 EasyThemes
+Embed
 error
 etc
 eventlist
@@ -82,6 +84,7 @@ helpdesk
 hotspot
 hovercard
 http
+IconInsertTags
 ics
 infos
 Insert
@@ -96,6 +99,7 @@ Libraries
 lightboxes
 LinkedIn
 listWizard
+LiteSpeed
 LiveValidation
 login
 logout
@@ -204,6 +208,7 @@ Watchlist
 webfonts
 with
 youtube
+YouTube
 Github
 Changelog
 EasyRechtssicher

@@ -1,8 +1,27 @@
 en:
     title: MATE Theme
     description: >
-        MATE is a theme that uses the Materialize frontend framework based on Material Design. It is compatible with
-        Contao 5 and 4. MATE is update-proof and already available for Contao 5.5!
+        MATE is a theme that uses the Materialize front end framework based on Material Design. It is compatible
+        with Contao 5 and 4. MATE is update-proof and already available for Contao 5.5!
+
+
+        You can use the following versions directly via the Contao Manager Theme Installer:
+
+        - "5.5" with all core extensions like calendar, comments, FAQ, listing, news and newsletter
+
+        - "5.5-p" for minimal version
+
+        - "5.4" with all core extensions
+
+        - "5.4-p" for minimal version
+
+        - "5.3" with all core extensions
+
+        - "5.3-p" for minimal version
+
+        - "4.13" with all core extensions
+
+        - "4.13-p" for minimal version
 
 
         The MATE theme is now accessible (a11y), there are new colors and it contains an accessibility statement.
