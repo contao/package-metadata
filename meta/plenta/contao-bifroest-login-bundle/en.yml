@@ -1,0 +1,16 @@
+en:
+    title: Social Login for Contao – Google, Apple & LinkedIn (Single Sign-On)
+    description: >
+        Make it easier for your users: This content element extends the standard Contao login with the option to sign in using Google, Apple, or LinkedIn. No passwords to remember, no hassle – just click and you’re in.
+    keywords:
+        - Login
+        - Apple
+        - Google
+        - Linkedin
+        - SSO
+        - Single Sign-On
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-bifroest-login-bundle/issues
+        source: https://github.com/plenta/contao-bifroest-login-bundle
+        docs: https://plenta.io/contao-erweiterungen/contao-social-login
