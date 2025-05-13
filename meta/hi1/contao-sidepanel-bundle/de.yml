@@ -1,0 +1,17 @@
+de:
+    title: "Hi1 SidePanel Bundle"
+    description: >
+        Das Hi1 SidePanel Bundle fügt deinem Contao-Frontend eine vollständig konfigurierbare
+        Seitenleiste hinzu. Du kannst ganze Artikel, Event-Listen und News-Beiträge direkt im
+        Sidepanel anzeigen lassen – ideal für Teaser, verwandte Inhalte oder Highlights.
+    keywords:
+        - sidepanel
+        - seitenleiste
+        - frontend
+        - artikel
+        - events
+        - news
+    support:
+        issues: "https://gitlab.hione.at/hi1/contaobundles/contao-sidepanel-bundle/issues"
+        source: "https://gitlab.hione.at/hi1/contaobundles/contao-sidepanel-bundle#"
+    homepage: "https://hi1.at/"
