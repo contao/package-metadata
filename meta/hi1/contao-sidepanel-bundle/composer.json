@@ -1,0 +1,67 @@
+{
+  "name": "hi1/contao-sidepanel-bundle",
+  "description": "Contao sidepanel bundle",
+  "license": "LGPL-3.0-or-later",
+  "type": "contao-bundle",
+  "authors": [
+    {
+      "name": "Shabbir Islam",
+      "homepage": "https://github.com/shabbirislam802/"
+    }
+  ],
+  "homepage": "https://hi1.at/",
+  "support": {
+    "issues": "https://gitlab.hione.at/hi1/contaobundles/contao-sidepanel-bundle/issues",
+    "source": "https://gitlab.hione.at/hi1/contaobundles/contao-sidepanel-bundle#"
+  },
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "contao/core-bundle": "^4.13 || ^5.0",
+    "symfony/config": "^5.4 || ^6.4",
+    "symfony/dependency-injection": "^5.4 || ^6.4",
+    "symfony/http-kernel": "^5.4 || ^6.4"
+  },
+  "require-dev": {
+    "bamarni/composer-bin-plugin": "^1.5",
+    "contao/manager-plugin": "^2.0",
+    "phpunit/phpunit": "^9.5",
+    "symfony/phpunit-bridge": "^6.1"
+  },
+  "conflict": {
+    "contao/manager-plugin": "<2.0 || >=3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hi1\\SidePanelBundle\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Hi1\\SidePanelBundle\\Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "bamarni/composer-bin-plugin": true,
+      "contao-components/installer": true,
+      "contao/manager-plugin": true
+    }
+  },
+  "extra": {
+    "bamarni-bin": {
+      "bin-links": false,
+      "target-directory": "tools"
+    },
+    "contao-manager-plugin": "Hi1\\SidePanelBundle\\ContaoManager\\Plugin"
+  },
+  "scripts": {
+    "all": [
+      "@unit-tests",
+      "@ecs",
+      "@phpstan"
+    ],
+    "ecs": "@php tools/ecs/vendor/bin/ecs check src tests --config ecs.php --fix --ansi",
+    "phpstan": "@php tools/phpstan/vendor/bin/phpstan analyze --ansi",
+    "unit-tests": "@php vendor/bin/phpunit --colors=always"
+  }
+}
