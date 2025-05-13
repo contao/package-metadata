@@ -219,6 +219,4 @@ tooltip
 tooltips
 selectable
 checkboxes
-zvoove
-Zvoove
 Sign-On

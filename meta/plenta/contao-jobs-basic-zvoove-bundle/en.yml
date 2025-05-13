@@ -1,7 +1,7 @@
 en:
     title: zvoove Connector for Contao Jobs Basic
     description: >
-        Jobs are periodically imported from zvoove, while applications are sent directly from Contao to the corresponding job ad in Zvoove.
+        Jobs are periodically imported from zvoove, while applications are sent directly from Contao to the corresponding job ad in zvoove.
     keywords:
         - zvoove
         - Import

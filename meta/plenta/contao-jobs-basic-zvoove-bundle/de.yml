@@ -1,7 +1,7 @@
 de:
     title: zvoove Connector für Contao Jobs Basic
     description: >
-        Stellenanzeigen werden regelmäßig von zvoove importiert, während Bewerbungen direkt aus Contao an die entsprechende Stellenanzeige in Zvoove gesendet werden.
+        Stellenanzeigen werden regelmäßig von zvoove importiert, während Bewerbungen direkt aus Contao an die entsprechende Stellenanzeige in zvoove gesendet werden.
     keywords:
         - zvoove
         - Import

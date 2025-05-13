@@ -912,7 +912,4 @@ Funnel
 Funnels
 Kontrollkästchen
 Nutzererfahrung
-zvoove
-Zvoove
 Sign-On
-On
