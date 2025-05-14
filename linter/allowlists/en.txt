@@ -160,7 +160,7 @@ Search
 selectbox
 Serverhint
 Shortlinks
-SidePanel
+Sidepanel
 Slider
 Slide
 Social
