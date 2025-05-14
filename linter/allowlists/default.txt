@@ -523,7 +523,6 @@ Schwalm
 PRONEGO
 Ritter
 zvoove
-Zvoove
 Apple
 Google
 LinkedIn
