@@ -522,3 +522,7 @@ Odenwerk
 Schwalm
 PRONEGO
 Ritter
+zvoove
+Apple
+Google
+LinkedIn
