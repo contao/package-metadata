@@ -26,6 +26,8 @@ Anbieterseiten
 Anfahrtskarten
 Animated
 Animations
+Anmeldesystem
+Anmeldeprozess
 Anpassungsmöglichkeiten
 AntiSpam
 anwaltlich
@@ -80,6 +82,7 @@ Benutzereinstellungen
 Benutzergruppen
 Benutzernamen
 Berechnungsarten
+Bestätigungsmails
 Besuchererweiterung
 Betreiberseiten
 Bewertungsarchive
@@ -231,6 +234,7 @@ endgeräteübergreifenden
 Energieausweis
 Energieskala
 Engine
+Erinnerungsschreiben
 error
 Erstberatungsgespräch
 Ersteinrichtung
@@ -404,6 +408,7 @@ Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
 Kennworts
 Kernfunktionalität
+Kernfunktionen
 Key
 Keys
 Keywords
@@ -426,6 +431,7 @@ Konnektors
 Konsolenaufrufe
 Kontaktdaten
 Kontextmenü
+Kontingentverwaltung
 Kopfbereich
 Kreuztabelle
 Kreuztabellen
@@ -685,6 +691,7 @@ Seiteneigenschaften
 Seiteninformation
 Seitenlayout
 Seitenlayouts
+Seitenleiste
 Seitenstruktur
 Seitentitel
 Seitentyp
@@ -706,6 +713,7 @@ Shopsystem
 Short
 Sibling
 Sichtbarkeiten
+Sidepanel
 Sitemap
 Sitemaps
 Slave
@@ -787,6 +795,7 @@ Teaserbox
 Teaserboxen
 Tech
 Teilnehmerregistrierung
+Teilnehmerverwaltung
 Telematik
 template
 Templatehint
@@ -837,6 +846,7 @@ Validierung
 Varone
 Veranstaltungsbuchung
 Veranstaltungsorte
+Veranstaltungssystem
 Verification
 Verkaufsobjekte
 verkaufsstarker

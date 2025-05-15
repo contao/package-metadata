@@ -1,0 +1,19 @@
+en:
+    title: "HI¹ Event Management Bundle"
+    description: >
+        The HI¹ Event Management Bundle adds a fully configurable event registration system
+        to your Contao frontend. It guides your users through the sign-up process
+        and offers core features like quota management, participant administration,
+        confirmation emails and automated reminder mails.
+        If you're interested, please contact us at https://hi1.at/kontakt.
+    keywords:
+        - event management
+        - events
+        - registration
+        - quota management
+        - participant management
+        - email delivery
+    support:
+        issues: "https://gitlab.hione.at/hi1/contaobundles/Contao-Event-Management-Bundle/issues"
+        source: "https://gitlab.hione.at/hi1/contaobundles/Contao-Event-Management-Bundle.git"
+    homepage: "https://hi1.at/"
