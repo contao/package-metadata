@@ -298,6 +298,7 @@ pdf
 PDFs
 pdir
 Perview
+Personio
 Pexels
 PhotoSwipe
 PHP
