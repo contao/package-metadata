@@ -1,0 +1,4 @@
+en:
+    title: Personio
+    description: >
+        This extension allows a connection between Contao and Personio. Job listings can be pulled from the Personio XML feed and applications can be sent automatically into Personio's API.
