@@ -1,0 +1,17 @@
+de:
+    title: AI alt descriptions for images
+    description: >
+        Automatic generation of alt descriptions for better SEO and BFSG security directly during upload.
+    keywords:
+        - contao
+        - bundle
+        - uploader
+        - ki
+        - ai
+        - alt
+        - bilder
+        - image
+        - bfsg
+    support:
+        issues: https://github.com/BlueBranch-GmbH/bilder-alt-contao/issues
+        docs: https://github.com/BlueBranch-GmbH/bilder-alt-contao
