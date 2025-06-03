@@ -1,8 +1,8 @@
 de:
     title: SEO Alt Text Generator
     description: >
-        Erstelle automatisch barrierefreie und suchmaschinenfreundliche Alt-Texte direkt beim Bildupload in Contao – mit Hilfe von KI und optionalen SEO-Keywords.
-        Unsere Erweiterung für das Contao CMS spart Zeit, verbessert deine Bildbeschreibungen und lässt sich nahtlos in deinen bestehenden Workflow integrieren.
+        Erstelle automatisch barrierefreie und SEO optimierte Alt-Texte direkt beim Hochladen der Bilder in Contao – mit Hilfe von KI und optionalen SEO-Keywords.
+        Unsere Erweiterung für das Contao CMS spart Zeit, verbessert Deine Beschreibungen der Bilder und lässt sich nahtlos in Deinen bestehenden Arbeitsablauf integrieren.
     keywords:
         - contao
         - bundle
