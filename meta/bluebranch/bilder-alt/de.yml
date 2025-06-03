@@ -1,7 +1,8 @@
 de:
-    title: KI Alt Beschreibung für Bilder
+    title: SEO Alt Text Generator
     description: >
-        Automatische Generierung von Alt-Beschreibungen für ein besseres SEO und BFSG Sicherheit direkt beim Upload.
+        Erstelle automatisch barrierefreie und SEO optimierte Alt-Texte direkt beim Hochladen der Bilder in Contao – mit Hilfe von KI und optionalen SEO-Keywords.
+        Unsere Erweiterung für das Contao CMS spart Zeit, verbessert Deine Beschreibungen der Bilder und lässt sich nahtlos in Deinen bestehenden Arbeitsablauf integrieren.
     keywords:
         - contao
         - bundle
@@ -12,6 +13,7 @@ de:
         - bilder
         - image
         - bfsg
+        - alt-texte
     support:
         issues: https://github.com/BlueBranch-GmbH/bilder-alt-contao/issues
         docs: https://github.com/BlueBranch-GmbH/bilder-alt-contao
