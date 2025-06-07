@@ -230,6 +230,7 @@ LDAP
 Leadlabs
 Leaflet
 leaflet
+lightbox
 Lightbox
 Lightcase
 lightGallery
