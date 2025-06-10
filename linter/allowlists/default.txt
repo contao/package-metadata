@@ -164,6 +164,7 @@ getlaw
 GIS
 gis
 GitHub
+GLightbox
 Go
 Google
 google
@@ -229,6 +230,7 @@ LDAP
 Leadlabs
 Leaflet
 leaflet
+lightbox
 Lightbox
 Lightcase
 lightGallery
@@ -298,6 +300,7 @@ pdf
 PDFs
 pdir
 Perview
+Personio
 Pexels
 PhotoSwipe
 PHP
