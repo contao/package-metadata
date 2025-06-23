@@ -13,6 +13,7 @@ en:
         - alt-texts
         - accessibility
         - seo
+    homepage: https://www.bilder-alt.de/contao-erweiterung
     support:
         issues: https://github.com/BlueBranch-GmbH/bilder-alt-contao/issues
         docs: https://github.com/BlueBranch-GmbH/bilder-alt-contao
