@@ -1,0 +1,12 @@
+de:
+    title: Contao EstateManager Google Autocomplete
+    description: >
+        Die Google Autocomplete-Erweiterung für den Contao EstateManager ermöglicht die Autovervollständigung für
+        Adressen innerhalb des Immobilien-Filters sowie eine Umkreissuche.
+    keywords:
+        - immobilien
+        - google
+        - autocomplete
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/google-autocomplete.html
+    support:
+        docs: https://docs.contao-estatemanager.com/
