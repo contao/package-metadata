@@ -10,5 +10,6 @@ en:
         - import
         - interface
     homepage: https://www.contao-estatemanager.com/
+    discoverable: false
     support:
         docs: https://docs.contao-estatemanager.com/
