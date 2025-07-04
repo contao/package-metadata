@@ -1,0 +1,3 @@
+en:
+    title: Export for Contao newsletter subscribers
+    description: This bundle adds an export function for newsletter subscribers to Contao CMS – e.g. as CSV.
