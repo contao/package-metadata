@@ -1,0 +1,19 @@
+en:
+    title: OpenAI Assistant
+    description: >
+        Integrate OpenAI Assistants into your Contao CMS with a modern chatbot interface and secure API management.
+
+        This extension provides a seamless integration of OpenAI's Assistant API with Contao CMS, offering a powerful AI chatbot solution with secure API key management, customizable chat interfaces, and comprehensive backend administration.
+    keywords:
+        - openai
+        - assistant
+        - ai
+        - chatbot
+        - artificial intelligence
+        - machine learning
+        - contao
+        - cms
+    support:
+        issues: https://github.com/juhe-it-solutions/contao-openai-assistant/issues
+        source: https://github.com/juhe-it-solutions/contao-openai-assistant
+        docs: https://github.com/juhe-it-solutions/contao-openai-assistant/tree/main/docs 
