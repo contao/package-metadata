@@ -1,0 +1,15 @@
+en:
+    title: Contao EstateManager Import
+    description: >
+        Allows you to import and synchronize properties via the OpenImmo standard.
+    keywords:
+        - realestate
+        - estate
+        - import
+        - open immo
+        - onoffice
+        - propstack
+        - ammon
+    homepage: https://www.contao-estatemanager.com/de/store/openimmo-import.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

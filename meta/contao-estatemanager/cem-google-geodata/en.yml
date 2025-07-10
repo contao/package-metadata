@@ -1,0 +1,12 @@
+en:
+    title: Contao EstateManager Google Geodata
+    description: >
+        The Google Geodata extension for Contao EstateManager enables automatic data completion of geo-information.
+    keywords:
+        - realestate
+        - estate
+        - google
+        - geo
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/google-geodata.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

@@ -1,0 +1,28 @@
+{
+    "name": "contao-estatemanager/cem-project",
+    "description": "Projects Extension for Contao EstateManager",
+    "keywords": ["contao", "immobilien", "manager", "property", "realestate", "project"],
+    "homepage": "https://www.contao-estatemanager.com/de/erweiterungen/projekte-neubau.html",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Oveleon",
+            "homepage": "https://www.oveleon.de/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "contao/core-bundle": "^5.3",
+        "contao-estatemanager/core": "^3.0",
+        "symfony/http-foundation": "^6.4 || ^7.1",
+        "symfony/http-kernel": "^6.4 || ^7.1"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.3.1"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}
