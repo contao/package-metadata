@@ -1,8 +1,8 @@
 de:
     title: SEO Alt Text Generator
     description: >
-        Erstelle automatisch barrierefreie und SEO-optimierte Alt-Texte direkt beim Hochladen von Bildern in Contao – unterstützt durch KI und optionale SEO-Keywords.
-        Unsere Erweiterung für Contao spart Zeit, verbessert die Bildbeschreibungen und integriert sich nahtlos in Deinen bestehenden Workflow.
+        Erstelle barrierefreie, SEO-optimierte Alt-Texte in Contao – automatisch beim Upload oder für ganze Ordner, mit KI und SEO-Keywords.
+        Unsere Erweiterung für Contao spart viel Zeit, verbessert die Bildbeschreibung und integriert sich nahtlos in Deinen bestehenden Workflow.
 
         Wie es funktioniert:
           1. Installation der Erweiterung `$ composer require bluebranch/bilder-alt` oder über den Contao Manager
