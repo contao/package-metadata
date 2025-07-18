@@ -1,19 +1,25 @@
 en:
     title: SEO Alt Text Generator
     description: >
-        Automatically create accessible and SEO-friendly alt texts directly when uploading images in Contao – powered by AI and optional SEO keywords.
-        Our extension for the Contao CMS saves time, improves your image descriptions, and integrates seamlessly into your existing workflow.
+        Generate accessible, SEO-optimized alt texts in Contao – automatically on upload or for entire folders, using AI and SEO keywords.
+        Our Contao extension saves time, improves image descriptions, and integrates seamlessly into your existing workflow.
+
+        How it works:
+          1. Install the extension via `$ composer require bluebranch/bilder-alt` or use the Contao Manager
+          2. Claim 25 free credits and register at https://app.bilder-alt.de/login
+          3. Generate an API key and enter it in the Contao settings
     keywords:
         - contao
-        - bundle
-        - uploader
         - ai
         - alt
+        - alt-text
+        - alt-tag
+        - tag
         - images
-        - alt-texts
         - accessibility
         - seo
+        - text
     homepage: https://www.bilder-alt.de/contao-erweiterung
     support:
         issues: https://github.com/BlueBranch-GmbH/bilder-alt-contao/issues
-        docs: https://github.com/BlueBranch-GmbH/bilder-alt-contao
+        docs: https://www.bilder-alt.de/contao-erweiterung
