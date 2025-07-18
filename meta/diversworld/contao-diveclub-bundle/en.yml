@@ -1,0 +1,10 @@
+en:
+    title: Diveclub Manager
+    description: >
+        Modules for managing a Diveclub. First Part ist equipment rental. more will follow
+    keywords:
+        - contao
+        - back end
+        - frontend
+        - diveclub
+        - environment

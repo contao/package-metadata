@@ -1,0 +1,10 @@
+de:
+    title: Diveclub Managerr
+    description: >
+        Module für die Verwaltung Eines Tauchclubs. Erstes Modul ist der Verleih von Equipment. Weitere folgen.
+    keywords:
+        - contao
+        - back end
+        - frontend
+        - diveclub
+        - environment
