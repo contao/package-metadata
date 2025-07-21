@@ -1,7 +1,8 @@
 de:
     title: Calendar Editor
     description: >
-        Dies ist eine Überarbeitung des Moduls für Contao 3. Grundsätzlich sollte alles wie in Contao 3 funktionieren. Die einzige Änderung ist die direkte Integration der Erweiterung "CalendarField",
+        Dies ist eine Überarbeitung des Moduls für Contao 3. Grundsätzlich sollte alles
+        wie in Contao 3 funktionieren. Die einzige Änderung ist die direkte Integration der Erweiterung "CalendarField",
         die die Nutzung eines jQuery-Kalenders für Datumsfelder ermöglicht.
     keywords:
         - contao

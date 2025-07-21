@@ -1,8 +1,13 @@
 de:
-    title: Diveclub Manager
+    title: Diveclub-Manager
     description: >
-        Module für die Verwaltung eines Tauchclubs. Erstes Modul ist der Verleih von Equipment. Weitere folgen.
-        Mit dem Diveclub Manager kann ein Verein seine Ausrüstung verwalten. Mitglieder können Ausrüstung ausleihen und es gibt ein Modul zur Verwaltung der TÜV Termine der Tauchgeräte.
+        Module für die Verwaltung eines Tauchclubs. Erstes Modul ist der Verleih
+        von Equipment. Weitere folgen.
+
+        Mit dem Diveclub Manager kann ein Verein seine Ausrüstung verwalten.
+        Mitglieder können Ausrüstung ausleihen und es gibt ein Modul zur
+        Verwaltung der TÜV Termine der Tauchgeräte.
+
         Eine Erweiterung, um die angebotenen Kurse zu verwalten, ist in Arbeit.
     keywords:
         - contao
