@@ -1,4 +1,4 @@
 de:
     title: Back End Documentation
     description: >
-        Diese Erweiterung zeigt eine einfache Backend Dokumentation welche von Markdown generiert wird. Erzeuge dir dein eigenes "be_documentation_markdown" Template und befülle es mit der gewünschten Dokumentation.
+        Diese Erweiterung zeigt eine einfache Backend Dokumentation welche aus Markdown generiert wird. Erzeuge dir dein eigenes "be_documentation_markdown" Template und befülle es mit der gewünschten Dokumentation.
