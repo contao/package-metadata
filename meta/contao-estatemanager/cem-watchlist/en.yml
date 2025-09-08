@@ -1,0 +1,11 @@
+en:
+    title: Contao EstateManager Watchlist
+    description: >
+        The watchlist extension for Contao EstateManager integrates the possibility to save properties in a watchlist.
+    keywords:
+        - realestate
+        - estate
+        - notepad
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/merkzettel.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

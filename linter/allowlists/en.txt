@@ -57,6 +57,7 @@ dismissable
 Dismissable
 dlh
 EasyThemes
+Embed
 error
 etc
 eventlist
@@ -98,6 +99,7 @@ Libraries
 lightboxes
 LinkedIn
 listWizard
+LiteSpeed
 LiveValidation
 login
 logout
@@ -131,6 +133,7 @@ optimised
 OR
 Panel
 params
+Personio's
 Picker
 playout
 Plenta
@@ -158,6 +161,7 @@ Search
 selectbox
 Serverhint
 Shortlinks
+Sidepanel
 Slider
 Slide
 Social
@@ -206,6 +210,7 @@ Watchlist
 webfonts
 with
 youtube
+YouTube
 Github
 Changelog
 EasyRechtssicher
@@ -216,3 +221,5 @@ tooltip
 tooltips
 selectable
 checkboxes
+Sign-On
+OpenAI's

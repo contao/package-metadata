@@ -36,6 +36,8 @@ BFV
 BFSG
 Bing
 BITV
+BlueBranch
+bluebranch
 Bootstrap
 Breadcrumb
 BROCKHAUS
@@ -66,6 +68,7 @@ com
 Command
 Community
 Composer
+composer
 Config
 Connector
 Consent
@@ -80,6 +83,7 @@ COPPA
 Corona
 Cowegis
 Crawler
+Credits
 CRM
 Cron
 cronjobs
@@ -164,6 +168,7 @@ getlaw
 GIS
 gis
 GitHub
+GLightbox
 Go
 Google
 google
@@ -229,6 +234,7 @@ LDAP
 Leadlabs
 Leaflet
 leaflet
+lightbox
 Lightbox
 Lightcase
 lightGallery
@@ -298,6 +304,7 @@ pdf
 PDFs
 pdir
 Perview
+Personio
 Pexels
 PhotoSwipe
 PHP
@@ -332,6 +339,7 @@ Recruitee
 Reddit
 Reload
 Request
+require
 reset
 REST
 RGAA
@@ -458,6 +466,7 @@ Wizard
 WMS
 Wodis
 WordPress
+Workflow
 WorkMATE
 Workspace
 WYSIWYG
@@ -478,6 +487,7 @@ Exception
 Workspace
 WorldOfImages
 Unsplash
+bilder
 Bilddatenbanken
 Bilderwelten
 Benutzerverwaltung
@@ -522,4 +532,10 @@ Odenwerk
 Schwalm
 PRONEGO
 Ritter
+zvoove
+Apple
+Google
+LinkedIn
+Nested
+ZUGFeRD
 UX

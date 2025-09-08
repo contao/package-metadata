@@ -1,0 +1,12 @@
+de:
+    title: Contao EstateManager Top-Objekte
+    description: >
+        Die Top-Objekte-Erweiterung für den Contao EstateManager ermöglicht die Darstellung ausgewählter Objekte, wie
+        Top-Objekt oder Objekt der Woche.
+    keywords:
+        - immobilien
+        - top
+        - highlight
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/top-objekte.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

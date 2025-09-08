@@ -1,0 +1,12 @@
+de:
+    title: Zufällig angeordnete Inhaltselemente
+    description: >
+        Bringe frischen Wind auf deine Website: Dieses Wrapper-Element (verschachteltes Fragment / Nested Fragment) mischt bei jedem Laden der Seite alle enthaltenen Inhaltselemente in eine neue, zufällige Reihenfolge.
+    keywords:
+        - Zufall
+        - zufällig
+        - mischen
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-random-content-elements-bundle/issues
+        source: https://github.com/plenta/contao-random-content-elements-bundle

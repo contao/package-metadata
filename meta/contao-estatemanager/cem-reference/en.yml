@@ -1,0 +1,11 @@
+en:
+    title: Contao EstateManager Reference
+    description: >
+        The Reference extension for Contao EstateManager allows you to display and filter reference properties.
+    keywords:
+        - realestate
+        - estate
+        - reference
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/

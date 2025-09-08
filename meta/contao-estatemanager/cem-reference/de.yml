@@ -1,0 +1,12 @@
+de:
+    title: Contao EstateManager Referenzen
+    description: >
+        Die Referenzen-Erweiterung für den Contao EstateManager ermöglicht die Darstellung und Filterung von
+        Referenz-Objekten.
+    keywords:
+        - immobilien
+        - projekt
+        - referenz
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/referenzen.html
+    support:
+        docs: https://docs.contao-estatemanager.com/
