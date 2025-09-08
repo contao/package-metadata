@@ -1,0 +1,4 @@
+en:
+    title: Backend Documentation
+    description: >
+        This extension shows a simple back end documentation page generated from markdown. Simply create your own template and fill it with the documentation you want.

@@ -1,0 +1,10 @@
+de:
+    title: ZUGFeRD für Isotope eCommerce
+    description: >
+        ZUGFeRD definiert den europäischen Standard für elektronische Rechnungen, nach welchem maschinenlesbare
+        XML-Daten in eine PDF-Datei integriert werden. Mit dieser Erweiterung kannst du eine XML-Datei an PDF-Dokumente
+        aus Isotope eCommerce anhängen. Der Inhalt dieser Datei wird flexibel aus Contao Templates generiert,
+        lässt sich also an alle beliebigen Bedürfnisse anpassen.
+
+        Mitgeliefert wird eine Vorlage für ZUGFeRD-Rechnungen, womit eine einfache Umsetzung von elektronischen
+        Rechnungen in Isotope eCommerce möglich ist.

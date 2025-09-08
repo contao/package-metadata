@@ -1,0 +1,14 @@
+en:
+    title: Contao EstateManager Exposé-Social-Tags
+    description: >
+        The Expose Social Tags extension adds OpenGraph meta-tags within an exposé / detail page.
+    keywords:
+        - realestate
+        - estate
+        - expose
+        - detail
+        - opengraph
+        - meta
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/expose-social-meta.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

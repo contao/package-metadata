@@ -1,0 +1,20 @@
+en:
+    title: zvoove Connector for Contao Jobs Basic
+    description: >
+        Jobs are periodically imported from zvoove, while applications are sent directly from Contao to the corresponding job ad in zvoove.
+    keywords:
+        - zvoove
+        - Import
+        - Contact
+        - Job
+        - Jobs
+        - Vacancy
+        - Career
+        - Occupation
+        - Apply
+        - Workplace
+        - Recruiting
+        - Basic
+    homepage: https://plenta.io/contao-jobs-basic/add-ons
+    support:
+        docs: https://plenta.io/contao-jobs-basic/add-ons

@@ -1,0 +1,13 @@
+en:
+    title: Contao EstateManager Featured
+    description: >
+        The Featured extension for Contao EstateManager allows you to display selected properties, such as Top Property
+        or Property of the Week.
+    keywords:
+        - realestate
+        - estate
+        - highlight
+        - top
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/top-objekte.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

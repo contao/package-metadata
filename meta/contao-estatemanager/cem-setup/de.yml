@@ -1,0 +1,13 @@
+de:
+    title: Contao EstateManager Einrichtungsassistent
+    description: >
+        Der Einrichtungsassistent für den Contao EstateManager hilft bei der Ersteinrichtung und Grundkonfiguration
+        neuer Projekte. Des Weiteren können DEMO-Immobilien importiert werden.
+    keywords:
+        - immobilien
+        - einrichtung
+        - assistent
+        - konfigurator
+    homepage: https://www.contao-estatemanager.com/
+    support:
+        docs: https://docs.contao-estatemanager.com/
