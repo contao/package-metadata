@@ -1,0 +1,13 @@
+de:
+    title: Contao UX Icons bundle
+    description: >
+        Rendert lokale und entfernte SVG Icons in Ihren Contao Twig-Vorlagen. Fügt Contao ein Widget für die Icon-Auswahl hinzu.
+    keywords:
+        - Contao
+        - Symfony UX Icons
+        - Twig
+        - Icon Widget
+        - Icons
+    homepage: https://github.com/pdir/contao-ux-icons-bundle
+    support:
+        email: support@pdir.de
