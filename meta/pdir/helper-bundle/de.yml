@@ -8,3 +8,4 @@ de:
     homepage: https://pdir.de/
     support:
         email: support@pdir.de
+    dependency: true
