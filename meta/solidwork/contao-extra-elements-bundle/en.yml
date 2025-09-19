@@ -1,0 +1,12 @@
+en:
+    title: SolidWork Contao Extra Elements
+    description: >
+        This bundle extends Contao 5.3 with additional content elements (and in the future, frontend modules) based on Twig templates.
+        The goal is to provide frequently needed building blocks in a slim, consistent, and update-friendly way.
+        Currently included: Title + Subtitle.
+    keywords:
+        - contao
+        - content-element
+        - twig
+        - custom-elements
+        - extra-elements
