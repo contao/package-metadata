@@ -11,15 +11,15 @@ empfohlen, das Logo beispielsweise mittels [SVGO][6] bzw. dem GUI-Tool [SVGOMG][
 
 ## Beispiel einer Paketstruktur
 
-```
+<pre>
 meta/[vendor]/[paket-name]
     - de.yml
     - en.yml
     - ru.yml
     - ...
     - logo.svg (optional)
-    - composer.json (nur für private Pakete und optional. [Details](#öffentliche-vs-privateproprietäre-pakete))
-```
+    - composer.json (nur für private Pakete und optional. <a href="#öffentliche-vs-privateproprietäre-pakete">Details</a>)
+</pre>
 
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
 dieses `[vendor]` verwendet, sofern kein Logo für das explizite Paket angegeben wurde.
