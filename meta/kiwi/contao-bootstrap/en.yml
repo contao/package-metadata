@@ -1,0 +1,17 @@
+en:
+    title: KIWI. Contao Bootstrap Bundle
+    description: >
+        This Contao bundle implements the possibility to assign bootstrap (css-framework) grid classes to contents and therefore flexibly align them via the CMS.
+    keywords:
+        - bootstrap
+        - grid
+        - flex
+        - layout
+        - css framework
+        - responsive
+        - columns
+        - rows
+        - container
+        - frontend
+        - alignment
+        - structure
