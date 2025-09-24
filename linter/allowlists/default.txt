@@ -220,6 +220,7 @@ js
 JSON
 JWT
 Ken
+KIWI
 Klarna
 Klaro
 KlickTipp
