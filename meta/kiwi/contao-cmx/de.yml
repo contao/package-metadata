@@ -3,10 +3,12 @@ de:
     description: >
         Dieses Contao-Bundle stellt verschiedene Funktionen zur Verbesserung der Benutzerfreundlichkeit im CMS zur Verfügung.
     keywords:
-        - Frontendediting
-        - Contentmanagement
+        - Frontend
+        - Editing
+        - Content
+        - Management
         - Anchor
         - Anker
-        - Anchorpicker 
-        - Iconselect
-
+        - Picker
+        - Icon
+        - Select
