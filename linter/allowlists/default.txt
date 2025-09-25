@@ -38,6 +38,7 @@ Bing
 BITV
 BlueBranch
 bluebranch
+Blueprints
 Bootstrap
 Breadcrumb
 BROCKHAUS
@@ -63,7 +64,9 @@ Clickskeks
 Cloud
 CMACE
 CMS
+CMX
 codefog
+colorschemes
 com
 Command
 Community
@@ -151,6 +154,7 @@ Footer
 FOSSGIS
 Foundation
 Framework
+Frameworks
 Franchise
 Fred
 Freunde
@@ -240,6 +244,7 @@ Lightbox
 Lightcase
 lightGallery
 Like
+linkdesigns
 LocalStorage
 Login
 Lottie
