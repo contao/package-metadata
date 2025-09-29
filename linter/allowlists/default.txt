@@ -178,7 +178,6 @@ GPX
 Graphhopper
 grid
 gtag
-Guide
 gutes
 gutes.io
 gutesio
