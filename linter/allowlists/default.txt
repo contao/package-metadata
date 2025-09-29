@@ -178,6 +178,7 @@ GPX
 Graphhopper
 grid
 gtag
+Guide
 gutes
 gutes.io
 gutesio
@@ -441,6 +442,7 @@ updatePersonalData
 Usability
 Usage
 Usercentrics
+UserGuide
 UUID
 UUIDs
 Valhalla
