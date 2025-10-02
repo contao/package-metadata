@@ -1,0 +1,45 @@
+{
+    "name": "christianbargon/contao-xliff-translations",
+    "type": "contao-bundle",
+    "description": "Ex- and Import of XLIFF Translation Files for Contao Open Source CMS",
+    "keywords": ["contao", "xliff", "import", "export", "translation"],
+    "homepage": "https://contao2xliff.de",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Christian Bargon Multimediadesign",
+            "homepage": "https://christianbargon.de",
+            "role": "Support and Sales"
+        },
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminl42.ch",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@contao2xliff.de",
+        "docs": "https://contao2xliff.de/dokumentation.html",
+        "issues": "https://contao2xliff.de/support.html"
+    },
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "ext-dom": "*",
+        "ext-libxml": "*",
+        "contao/core-bundle": "^4.9 || ^5.0"
+    },
+    "conflict": {
+        "madeyourday/contao-rocksolid-custom-elements": "<2.2 || >=3.0",
+        "alnv/catalog-manager": "<1.28 || >=2.0",
+        "alnv/catalog-manager-bundle": "<2.0 || >=3.0",
+        "terminal42/contao-changelanguage": "<3.2 || >=4.0",
+        "terminal42/notification_center": "<1.5 || >=3.0",
+        "terminal42/dc_multilingual": "<3.0 || >=5.0",
+        "wangaz/xliff-translations-bundle": "*",
+        "wangaz/xliff-translations-custom-elements-bundle": "*",
+        "wangaz/xliff-translations-catalog-manager-bundle": "*",
+        "wangaz/xliff-translations-dc-multilingual-bundle": "*",
+        "wangaz/xliff-translations-notification-center-bundle": "*"
+    }
+}

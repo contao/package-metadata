@@ -1,0 +1,29 @@
+{
+    "name": "christianbargon/contao-i18n-duplication",
+    "type": "contao-bundle",
+    "description": "Duplicate Content while Adjusting the References for Contao Open Source CMS",
+    "keywords": ["contao", "duplicate", "language"],
+    "homepage": "https://contao2xliff.de",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Christian Bargon Multimediadesign",
+            "homepage": "https://christianbargon.de",
+            "role": "Support and Sales"
+        },
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminl42.ch",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@contao2xliff.de",
+        "docs": "https://contao2xliff.de"
+    },
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "contao/core-bundle": "^4.9 || ^5.0"
+    }
+}
