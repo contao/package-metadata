@@ -1,0 +1,14 @@
+de:
+  title: Contao UserGuide
+  description: >
+    UserGuide ermöglicht es Administratoren, hilfreiche Anleitungen direkt im Backend bereitzustellen. Die Inhalte können in Kategorien organisiert, übersichtlich gegliedert und mit Icons versehen werden.
+  keywords:
+    - Handbuch
+    - Anleitung
+    - Backend
+    - Information
+  homepage: https://www.netgroup.de
+  support:
+    email: info@netgroup.de
+    issues: https://github.com/netgroupgmbh/contao-userguide/issues
+    source: https://github.com/netgroupgmbh/contao-userguide
