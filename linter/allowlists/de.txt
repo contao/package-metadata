@@ -1,3 +1,4 @@
+
 Ablaufzeit
 Abweisbares
 abweisbares
@@ -79,6 +80,7 @@ Benachrichtigungstypen
 Benachrichtigungszentrum
 Benutzerdaten
 Benutzereinstellungen
+Benutzerfreundlichkeit
 Benutzergruppen
 Benutzernamen
 Berechnungsarten
@@ -256,6 +258,7 @@ Fahrzeugmanager
 Fallback
 Farbanpassungen
 Farbschemen
+Farbschemata
 Favicons
 FE
 Feed
@@ -700,6 +703,7 @@ Seitenstruktur
 Seitentitel
 Seitentyp
 seitenübergreifend
+selbstkonfigurierten
 Select
 Selectbox
 Selects
@@ -930,4 +934,5 @@ Nutzererfahrung
 Sign-On
 On
 Schlüsselverwaltung
-Helpful
+updatefreundlich
+SolidWork
