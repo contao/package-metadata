@@ -1,0 +1,14 @@
+en:
+    title: Diveclub Manager
+    description: >
+        With the Diveclub Manager a Dicveclub kan manage the owned Eqipment of the Club. Posibility for Clubmembers to rent Equipoment. Managing of the anual check of the Tanks. 
+        A funnctionality to plan and manage the offerd courses is in pnalnning. 
+    keywords:
+        - contao
+        - bundle
+        - Diveclub
+        - Equipment
+        - rental
+        - Courses
+        - lists
+        - checks
