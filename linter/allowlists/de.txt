@@ -937,3 +937,4 @@ Schlüsselverwaltung
 updatefreundlich
 SolidWork
 Helpful
+Konsolenbefehl

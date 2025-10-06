@@ -546,3 +546,5 @@ LinkedIn
 Nested
 ZUGFeRD
 UX
+Loki
+Prompts
