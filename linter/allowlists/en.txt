@@ -90,6 +90,7 @@ infos
 Insert
 inserttags
 Install
+integrations
 io
 IO
 IOTravelCostsBundle
@@ -138,6 +139,7 @@ Picker
 playout
 Plenta
 Plugin
+POS
 pre
 prebuilt
 preconfigured
