@@ -211,6 +211,7 @@ InsertTags
 Instagram
 Inszenium
 Integrator
+iOS
 IPs
 IPTC
 IT
