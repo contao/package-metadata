@@ -3,7 +3,7 @@ en:
     description: >
         This plugin adds a professional online shop for gift cards, experience vouchers and tickets to Contao.
         Sell directly on your website with flexible promotions using discount codes and cart rules. Redemption takes
-        place on-site in your business via the gurado webapp, the mobile apps (iOS/Android) or existing POS integrations.
+        place on-site in your business via the gurado Website, the mobile app (iOS/Android) or existing POS integrations.
         Supported payment methods include credit card, PayPal, direct debit and invoice direct debit.
     keywords:
         - gift

@@ -182,6 +182,7 @@ GPX
 Graphhopper
 grid
 gtag
+gurado
 gutes
 gutes.io
 gutesio
@@ -305,6 +306,7 @@ Overpass
 packagist
 packagist.com
 Pay
+PayPal
 PDF
 pdf
 PDFs

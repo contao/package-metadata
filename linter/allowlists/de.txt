@@ -392,6 +392,7 @@ Invalidation
 invalidiert
 IO
 io
+iOS
 IOTravelCostsBundle
 Items
 Jobbörse
@@ -408,6 +409,7 @@ Karteneditor
 Kartenlayern
 Kartentechnik
 Kassenbereich
+Kassenschnittstellen
 Kaufprozess
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
@@ -445,6 +447,7 @@ Kundenstimmen
 Kurzlinks
 Landingpages
 Language
+Lastschrift
 Latitude
 Layoutvorlage
 Lazy
@@ -452,6 +455,7 @@ lazy
 Lead
 Leads
 Leadstrecken
+Leistungsgutscheine
 Lesemodul
 Leserseite
 Leuchtkästen
@@ -875,6 +879,7 @@ Vorlagedatei
 Vorschaubild
 Wallets
 Warenkorbfunktionen
+Warenkorbregeln
 Webanwendungen
 Webentwicklung
 Webseite
@@ -924,6 +929,7 @@ Zusatzinfos
 editorfreundliche
 Modals
 Random
+Rabattcodes
 Zufallsnachricht
 Kontaktbemühungen
 ca
