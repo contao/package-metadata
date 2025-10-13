@@ -1,0 +1,4 @@
+de:
+    title: Unique Fields for Leads
+    description: >
+        Allows you to define fields to be unique for storing them in leads. The comparison is case-insensitive.
