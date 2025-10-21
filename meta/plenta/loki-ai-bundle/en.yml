@@ -11,7 +11,8 @@ en:
         - ai
         - artificial intelligence
         - machine learning
-    homepage: https://plenta.io
+    homepage: https://plenta.io/contao-loki-ai-bundle
     support:
         issues: https://github.com/plenta/loki-ai-bundle/issues
         source: https://github.com/plenta/loki-ai-bundle
+        docs: https://plenta.io/contao-loki-ai-bundle
