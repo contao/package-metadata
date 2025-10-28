@@ -1,0 +1,12 @@
+de:
+    title: "News Pull"
+    description: >
+        Contao‑Erweiterung zum Import von Nachrichten (News) aus externen Quellen.
+        Über Konfigurationen im Backend können mehrere News‑Archive automatisch befüllt werden.
+    keywords:
+      - news
+      - import
+      - contao
+    support:
+      issues: "https://github.com/PhilTenno/news-pull/issues"
+    homepage: "https://github.com/PhilTenno/news-pull"
