@@ -1,0 +1,8 @@
+title: "News Pull"
+description: "Contao-Erweiterung zum Import von Nachrichten (News) aus externen Quellen."
+keywords:
+  - news
+  - import
+  - contao
+links:
+  repository: "https://github.com/PhilTenno/news-pull"
