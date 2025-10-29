@@ -551,3 +551,5 @@ ZUGFeRD
 UX
 Loki
 Prompts
+SkynetAccessibility
+Scanner
