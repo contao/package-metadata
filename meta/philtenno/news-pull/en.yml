@@ -1,12 +1,14 @@
 en:
     title: "News Pull"
     description: >
-        Contao extension to import news items from external sources.
-        Via backend configuration multiple news archives can be populated automatically.
+      Contao extension for importing news from external sources such as N8N and other automated workflows.
+      Multiple news archives can be individually populated via backend configurations. It is also possible to display related articles.
     keywords:
       - news
       - import
       - contao
+      - N8N
+      - workflow automation
     support:
       issues: "https://github.com/PhilTenno/news-pull/issues"
     homepage: "https://github.com/PhilTenno/news-pull"
