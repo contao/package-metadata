@@ -90,6 +90,7 @@ infos
 Insert
 inserttags
 Install
+integrations
 io
 IO
 IOTravelCostsBundle
@@ -133,10 +134,12 @@ optimised
 OR
 Panel
 params
+Personio's
 Picker
 playout
 Plenta
 Plugin
+POS
 pre
 prebuilt
 preconfigured
@@ -220,3 +223,6 @@ tooltip
 tooltips
 selectable
 checkboxes
+Sign-On
+OpenAI's
+SolidWork

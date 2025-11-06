@@ -1,0 +1,18 @@
+en:
+    title: Loki AI - Contao OpenAI assistant
+    description: >
+        Create custom prompts directly from DCA fields.
+        Combine multiple fields for fully dynamic content generation.
+        Trigger prompts via backend, console command, or manually.
+    keywords:
+        - openai
+        - chatgpt
+        - assistant
+        - ai
+        - artificial intelligence
+        - machine learning
+    homepage: https://plenta.io/contao-loki-ai-bundle
+    support:
+        issues: https://github.com/plenta/loki-ai-bundle/issues
+        source: https://github.com/plenta/loki-ai-bundle
+        docs: https://plenta.io/contao-loki-ai-bundle

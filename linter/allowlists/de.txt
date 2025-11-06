@@ -1,3 +1,4 @@
+
 Ablaufzeit
 Abweisbares
 abweisbares
@@ -79,6 +80,7 @@ Benachrichtigungstypen
 Benachrichtigungszentrum
 Benutzerdaten
 Benutzereinstellungen
+Benutzerfreundlichkeit
 Benutzergruppen
 Benutzernamen
 Berechnungsarten
@@ -88,6 +90,7 @@ Betreiberseiten
 Bewertungsarchive
 Bewertungssystem
 Bezahlungsmethode
+Bildbeschreibung
 Bilddatenbank
 Bildergalerie
 Bildergalerien
@@ -200,6 +203,7 @@ Detection
 direction
 Directory
 dlh
+Documentation
 Documents
 Down
 Drag
@@ -254,6 +258,7 @@ Fahrzeugmanager
 Fallback
 Farbanpassungen
 Farbschemen
+Farbschemata
 Favicons
 FE
 Feed
@@ -403,6 +408,7 @@ Karteneditor
 Kartenlayern
 Kartentechnik
 Kassenbereich
+Kassenschnittstellen
 Kaufprozess
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
@@ -440,6 +446,7 @@ Kundenstimmen
 Kurzlinks
 Landingpages
 Language
+Lastschrift
 Latitude
 Layoutvorlage
 Lazy
@@ -447,6 +454,7 @@ lazy
 Lead
 Leads
 Leadstrecken
+Leistungsgutscheine
 Lesemodul
 Leserseite
 Leuchtkästen
@@ -478,6 +486,7 @@ mailto
 Maklermodul
 Maklersoftware
 Maps
+Markdown
 Markerclustern
 Markup
 Markups
@@ -655,6 +664,7 @@ Releases
 Remember
 Rendereinstellungen
 Rendering
+Rendert
 Replace
 Repository
 reservierbare
@@ -696,6 +706,7 @@ Seitenstruktur
 Seitentitel
 Seitentyp
 seitenübergreifend
+selbstkonfigurierten
 Select
 Selectbox
 Selects
@@ -834,12 +845,14 @@ UItoTop
 Umgebungshinweis
 Umkreissuche
 Unified
+Unique
 Unternehmensdaten
 Unterpaletten
 updatesicher
 upgraden
 Uploader
 Uploads
+Upload
 usw
 uvm
 Validierung
@@ -866,6 +879,7 @@ Vorlagedatei
 Vorschaubild
 Wallets
 Warenkorbfunktionen
+Warenkorbregeln
 Webanwendungen
 Webentwicklung
 Webseite
@@ -915,9 +929,18 @@ Zusatzinfos
 editorfreundliche
 Modals
 Random
+Rabattcodes
 Zufallsnachricht
 Kontaktbemühungen
 ca
 Funnel
 Funnels
 Kontrollkästchen
+Nutzererfahrung
+Sign-On
+On
+Schlüsselverwaltung
+updatefreundlich
+SolidWork
+Helpful
+Konsolenbefehl
