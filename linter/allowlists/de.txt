@@ -176,6 +176,7 @@ Customizer
 CustomSwiper
 Dark
 Data
+Date
 Dateiauswahl
 Dateibaum
 Dateireferenzen
