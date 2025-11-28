@@ -1,0 +1,13 @@
+en:
+    title: Contao Tailwind CSS Bundle
+
+    description: >
+        A bundle for integrating Tailwind CSS into Contao projects. It provides the necessary bundle structure and Composer configuration so that Tailwind CSS can be used conveniently with Contao.
+
+    keywords:
+        - Tailwind
+        - Tailwind CSS
+        - TailwinwCSS
+    support:
+        issues: https://github.com/NicoEnevoldsen/contao_tailwindcss/issues
+        source: https://github.com/NicoEnevoldsen/contao_tailwindcss
