@@ -405,6 +405,7 @@ Swiper
 Symfony
 Symfony's
 SysCara
+Tailwind
 Tangerine
 tawk
 TCPDF
