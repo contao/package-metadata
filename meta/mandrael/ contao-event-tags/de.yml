@@ -12,6 +12,8 @@ de:
       - calendar
       - filter
       - termin
+      - event
+      - kalender
     support:
         issues: https://github.com/mandrael/contao-event-tags/issues
         docs: https://github.com/mandrael/contao-event-tags
