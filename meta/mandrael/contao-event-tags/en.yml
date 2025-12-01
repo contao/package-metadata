@@ -12,6 +12,7 @@ en:
     - calendar
     - filter
     - event
+  homepage: https://github.com/mandrael/contao-event-tags
   support:
     issues: https://github.com/mandrael/contao-event-tags/issues
     docs: https://github.com/mandrael/contao-event-tags
