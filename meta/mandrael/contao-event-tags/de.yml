@@ -1,0 +1,21 @@
+de:
+  title: Contao Event Tags
+  description: >
+    Dieses Bundle erweitert Contao (ab 4.13 und 5.x) um die Möglichkeit,
+    Veranstaltungen mit zentral verwalteten Tags zu versehen und Listen
+    im Frontend nach diesen Tags zu filtern.
+  keywords:
+    - contao
+    - events
+    - event-tags
+    - tags
+    - calendar
+    - filter
+    - termin
+    - event
+    - kalender
+  homepage: https://github.com/mandrael/contao-event-tags
+  support:
+    issues: https://github.com/mandrael/contao-event-tags/issues
+    docs: https://github.com/mandrael/contao-event-tags
+    source: https://github.com/mandrael/contao-event-tags
