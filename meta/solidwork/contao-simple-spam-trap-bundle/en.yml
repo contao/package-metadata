@@ -1,0 +1,18 @@
+en:
+  title: Contao Simple Spam Trap Bundle
+  description: >
+    This bundle adds two simple yet effective spam protection mechanisms to Contao 4.13 forms:
+    a time trap (minimum time, default 8 seconds, validated server-side) and a honeypot field (invisible, accessible).
+    It provides German default error messages and automatically includes a lightweight CSS file.
+    The goal is lean, reliable anti-spam protection without complex configuration.
+  keywords:
+    - contao
+    - spam
+    - spam-protection
+    - form
+    - form-field
+    - honeypot
+    - timestamp
+    - time-trap
+    - antispam
+    - security
