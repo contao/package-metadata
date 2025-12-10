@@ -182,6 +182,7 @@ GPX
 Graphhopper
 grid
 gtag
+gurado
 gutes
 gutes.io
 gutesio
@@ -210,6 +211,7 @@ InsertTags
 Instagram
 Inszenium
 Integrator
+iOS
 IPs
 IPTC
 IT
@@ -305,6 +307,7 @@ Overpass
 packagist
 packagist.com
 Pay
+PayPal
 PDF
 pdf
 PDFs
@@ -402,6 +405,7 @@ Swiper
 Symfony
 Symfony's
 SysCara
+Tailwind
 Tangerine
 tawk
 TCPDF
@@ -546,3 +550,7 @@ LinkedIn
 Nested
 ZUGFeRD
 UX
+Loki
+Prompts
+SkynetAccessibility
+Scanner

@@ -176,6 +176,7 @@ Customizer
 CustomSwiper
 Dark
 Data
+Date
 Dateiauswahl
 Dateibaum
 Dateireferenzen
@@ -408,6 +409,7 @@ Karteneditor
 Kartenlayern
 Kartentechnik
 Kassenbereich
+Kassenschnittstellen
 Kaufprozess
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
@@ -445,6 +447,7 @@ Kundenstimmen
 Kurzlinks
 Landingpages
 Language
+Lastschrift
 Latitude
 Layoutvorlage
 Lazy
@@ -452,6 +455,7 @@ lazy
 Lead
 Leads
 Leadstrecken
+Leistungsgutscheine
 Lesemodul
 Leserseite
 Leuchtkästen
@@ -842,6 +846,7 @@ UItoTop
 Umgebungshinweis
 Umkreissuche
 Unified
+Unique
 Unternehmensdaten
 Unterpaletten
 updatesicher
@@ -875,6 +880,7 @@ Vorlagedatei
 Vorschaubild
 Wallets
 Warenkorbfunktionen
+Warenkorbregeln
 Webanwendungen
 Webentwicklung
 Webseite
@@ -924,6 +930,7 @@ Zusatzinfos
 editorfreundliche
 Modals
 Random
+Rabattcodes
 Zufallsnachricht
 Kontaktbemühungen
 ca
@@ -941,3 +948,4 @@ Trap
 Mindestzeit
 Honeypot
 barrierearm
+Konsolenbefehl

@@ -1,0 +1,4 @@
+de:
+    title: Newslist Date Groups
+    description: >
+        Stellt Template-Variablen zur Verfügung, mit denen Nachrichtenlisten nach Datum gruppiert werden können, ähnlich wie in Event-Listen.

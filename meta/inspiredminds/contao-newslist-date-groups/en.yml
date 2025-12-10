@@ -1,0 +1,4 @@
+en:
+    title: Newslist Date Groups
+    description: >
+        Provides date grouping parameters in news templates, similar to event lists.
