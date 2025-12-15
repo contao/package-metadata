@@ -1,0 +1,10 @@
+de:
+  title: Contao IconToolkit
+  description: >
+    Diese Software bietet Werkzeuge zur Verwendung von [Font Awesome](https://fontawesome.com/). Unter anderem stellt sie ein IconPicker für das Backend und ein Modul zur Einbindung der Assets für das Frontend zur Verfügung.
+  keywords:
+    - Font Awesome
+    - Icon
+    - Backend
+    - Frontend
+
