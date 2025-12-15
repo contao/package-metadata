@@ -1,0 +1,18 @@
+de:
+  title: Contao Simple Spam Trap Bundle
+  description: >
+    Dieses Bundle ergänzt Contao 4.13 um zwei einfache, aber effektive Spam-Schutzmechanismen für Formulare:
+    eine Zeitfalle (Mindestzeit, Standard 8 Sekunden, serverseitig geprüft) und ein Honeypot-Feld (unsichtbar, barrierearm).
+    Es liefert deutsche Standard-Fehlermeldungen und bindet ein leichtes CSS automatisch ein.
+    Ziel ist ein schlanker, zuverlässiger Anti‑Spam‑Schutz ohne komplexe Konfiguration.
+  keywords:
+    - contao
+    - spam
+    - spam-schutz
+    - formular
+    - formularfeld
+    - honeypot
+    - timestamp
+    - zeitfalle
+    - antispam
+    - security
