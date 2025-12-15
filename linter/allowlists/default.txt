@@ -198,6 +198,7 @@ HTML
 html
 Hugin
 iCal
+IconToolkit
 id
 ID
 iFrame
