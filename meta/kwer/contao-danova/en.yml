@@ -1,0 +1,9 @@
+en:
+    title: Danova Accessibility
+    description: >
+        Automatically injects the danova accessibility script into your Contao website when enabled in the system settings.
+    keywords:
+        - accessibility
+        - script
+        - Contao
+        - integration
