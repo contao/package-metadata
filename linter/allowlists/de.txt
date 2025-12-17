@@ -791,6 +791,7 @@ Synchronisierungszeit
 Syndikation
 system
 System-Information
+Systemeinstellungen
 Systemlast
 Systemwartung
 Tab
