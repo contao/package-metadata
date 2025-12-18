@@ -1,9 +1,10 @@
 de:
     title: Danova Barrierefreiheit
     description: >
-        Bindet das danova-Accessibility-Script automatisch in deiner Contao-Website ein, sobald es in den Systemeinstellungen aktiviert ist.
+        Bindet das Danova-Skript zur Barrierefreiheit automatisch in deiner Contao-Website ein, sobald es in den Systemeinstellungen aktiviert ist.
     keywords:
         - Barrierefreiheit
         - Accessibility
         - Script
         - Contao
+    homepage: https://github.com/madebykwer/package-metadata
