@@ -556,3 +556,4 @@ Loki
 Prompts
 SkynetAccessibility
 Scanner
+Loupe

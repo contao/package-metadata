@@ -1,0 +1,13 @@
+de:
+    title: Loupe-Integration
+    discoverable: false
+    description: >
+        Integriert die Loupe Suchmaschine in Contao, der einfachste Weg um die Suchfunktion im Backend zu nutzen.
+
+        Dieses Paket wird nicht benötigt, wenn eine eigene Suchmaschine (z.B. Meilisearch, Elasticsearch, etc.)
+        konfiguriert ist.
+    keywords:
+        - suchen
+        - SEAL
+        - integration
+        - backend
