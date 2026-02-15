@@ -1,0 +1,16 @@
+﻿en:
+    title: Theme Ultimate Bundle
+    description: >
+        Base bundle for Theme Ultimate on Contao 5.3+.
+        Includes frontend theme assets, templates, RSCE configurations,
+        Font Awesome 5/6/7 (parallel usage) and project defaults.
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Theme
+        - RSCE
+        - Font Awesome
+    support:
+        docs: https://www.tu4.theme-ultimate.de/
+        issues: https://www.tu4.theme-ultimate.de/kontakt
+    homepage: https://www.theme-ultimate.de/

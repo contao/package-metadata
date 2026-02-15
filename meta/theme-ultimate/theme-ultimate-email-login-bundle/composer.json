@@ -1,0 +1,11 @@
+﻿{
+  "name": "theme-ultimate/theme-ultimate-email-login-bundle",
+  "description": "Theme Ultimate E-Mail-Login (E-Mail statt Benutzername) fuer Contao [Contao 5.3+]",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "homepage": "https://www.theme-ultimate.de/",
+  "require": {
+    "php": "^8.1",
+    "contao/core-bundle": "^5.3"
+  }
+}

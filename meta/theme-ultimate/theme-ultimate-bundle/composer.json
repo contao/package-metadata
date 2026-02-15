@@ -1,0 +1,14 @@
+﻿{
+  "name": "theme-ultimate/theme-ultimate-bundle",
+  "description": "Theme Ultimate Bundle fuer Contao [Contao 5.3+]",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "homepage": "https://www.theme-ultimate.de/",
+  "require": {
+    "php": "^8.1",
+    "contao/core-bundle": "^5.3",
+    "madeyourday/contao-rocksolid-custom-elements": "^2.0",
+    "terminal42/contao-changelanguage": "^3.0",
+    "oveleon/contao-cookiebar": "^2.2"
+  }
+}
