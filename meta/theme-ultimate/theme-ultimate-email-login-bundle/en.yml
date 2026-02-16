@@ -1,8 +1,7 @@
 en:
     title: Theme Ultimate Email Login Bundle
     description: >
-        Enables email-based backend login (instead of username)
-        for Contao 5.3+.
+        Enables email-based backend login instead of username for Contao 5.3+.
     keywords:
         - Theme Ultimate
         - Contao
