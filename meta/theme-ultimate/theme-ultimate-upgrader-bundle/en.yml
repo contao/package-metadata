@@ -1,14 +1,9 @@
 en:
     title: Theme Ultimate Upgrader Bundle
     description: >
-        Handles migration from Theme Ultimate 3.2.4 to 4.x for Contao 5.3+,
-        including filesystem/template cleanup and technical migrations.
+        Handles migration from Theme Ultimate 3.2.4 to 4.x for Contao 5.3+.
     keywords:
         - Theme Ultimate
         - Contao
         - Migration
         - Upgrade
-    support:
-        docs: https://www.tu4.theme-ultimate.de/
-        issues: https://www.tu4.theme-ultimate.de/kontakt
-    homepage: https://www.theme-ultimate.de/
