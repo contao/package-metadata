@@ -2,6 +2,7 @@ en:
     title: Theme Ultimate Bundle
     description: >
         Base bundle for Theme Ultimate on Contao 5.3+.
+    homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
         - Contao
