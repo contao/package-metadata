@@ -1,0 +1,11 @@
+de:
+    title: Theme Ultimate Language Tool (Installer)
+    description: >
+        Installiert das Theme-Ultimate-Language-Tool aus dem privaten Theme-Ultimate-Repository.
+        Erfordert vorab das Paket theme-ultimate/repository-license.
+    homepage: https://www.theme-ultimate.de
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Installer
+        - Language
