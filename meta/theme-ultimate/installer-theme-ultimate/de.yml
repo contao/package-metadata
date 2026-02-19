@@ -1,8 +1,8 @@
 de:
     title: Theme Ultimate (Installer)
     description: >
-        Installiert Theme Ultimate aus dem privaten Theme-Ultimate-Repository.
-        Erfordert vorab das Paket theme-ultimate/repository-license.
+        Installiert das Basispaket aus dem privaten Paketarchiv.
+        Erfordert vorab das Zugangspaket fuer den Archivzugriff.
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate

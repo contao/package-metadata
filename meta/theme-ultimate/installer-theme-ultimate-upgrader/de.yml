@@ -1,8 +1,8 @@
 de:
     title: Theme Ultimate Upgrader (Installer)
     description: >
-        Installiert den Theme Ultimate Upgrader aus dem privaten Theme-Ultimate-Repository.
-        Erfordert vorab das Paket theme-ultimate/repository-license.
+        Installiert den Upgrader aus dem privaten Paketarchiv.
+        Erfordert vorab das Zugangspaket fuer den Archivzugriff.
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
