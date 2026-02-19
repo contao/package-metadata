@@ -1,0 +1,11 @@
+de:
+    title: Theme Ultimate Upgrader (Installer)
+    description: >
+        Installiert den Upgrader aus dem privaten Paketarchiv.
+        Erfordert vorab das Zugangspaket für den Archivzugriff.
+    homepage: https://www.theme-ultimate.de
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Installer
+        - Upgrade

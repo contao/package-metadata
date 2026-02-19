@@ -558,3 +558,5 @@ SkynetAccessibility
 Scanner
 Loupe
 Meilisearch
+Ultimate
+Upgrader
