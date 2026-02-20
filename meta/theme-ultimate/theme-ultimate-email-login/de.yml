@@ -3,6 +3,8 @@ de:
     description: >
         Stellt den Login mit E-Mail-Adresse statt Benutzername bereit
         für Contao 5.3+.
+    dependency: true
+    discoverable: false
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
