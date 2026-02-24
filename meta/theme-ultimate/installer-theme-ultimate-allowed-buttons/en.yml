@@ -1,0 +1,11 @@
+en:
+    title: Theme Ultimate Allowed Buttons (Installer)
+    description: >
+        Installs Theme Ultimate Allowed Buttons from the private Theme Ultimate repository.
+        Requires the package theme-ultimate/repository-license first.
+    homepage: https://www.theme-ultimate.de
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Installer
+        - Permissions

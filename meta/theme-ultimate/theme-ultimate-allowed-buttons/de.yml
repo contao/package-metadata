@@ -1,0 +1,13 @@
+de:
+    title: Theme Ultimate Allowed Buttons
+    description: >
+        Steuert erlaubte Bearbeitungs-Buttons in tl_content per Benutzer- und Gruppenrechten
+        für Contao 5.3+ und 6.x.
+    dependency: true
+    discoverable: false
+    homepage: https://www.theme-ultimate.de
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Berechtigungen
+        - Backend
