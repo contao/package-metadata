@@ -1,7 +1,7 @@
 de:
     title: Theme Ultimate Language Tool
     description: >
-        Theme Ultimate Language-Tool für Contao [Contao 5.3+].
+        Theme Ultimate Language-Tool für Contao [Contao 5.3+ / 6.x].
     dependency: true
     discoverable: false
     homepage: https://www.theme-ultimate.de
