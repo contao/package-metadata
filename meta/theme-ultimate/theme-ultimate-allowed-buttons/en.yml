@@ -1,7 +1,7 @@
 en:
     title: Theme Ultimate Allowed Buttons
     description: >
-        Controls allowed tl_content action buttons by backend user/group permissions
+        Controls allowed content action buttons by backend user/group permissions
         for Contao 5.3+ and 6.x.
     dependency: true
     discoverable: false

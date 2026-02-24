@@ -1,7 +1,7 @@
 de:
-    title: Theme Ultimate Allowed Buttons
+    title: Theme Ultimate Rechte für Schaltflächen
     description: >
-        Steuert erlaubte Bearbeitungs-Buttons in tl_content per Benutzer- und Gruppenrechten
+        Steuert erlaubte Schaltflächen zur Bearbeitung von Inhalten pro Benutzer und Gruppe
         für Contao 5.3+ und 6.x.
     dependency: true
     discoverable: false
