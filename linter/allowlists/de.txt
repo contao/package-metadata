@@ -681,6 +681,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 Schaltfläche
+Schaltflächen
 Schaufensterlisten
 Scheduler
 Schieberegler
