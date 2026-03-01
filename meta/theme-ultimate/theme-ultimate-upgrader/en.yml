@@ -1,7 +1,9 @@
 en:
     title: Theme Ultimate Upgrader
     description: >
-        Handles migration from Theme Ultimate 3.2.4 to 4.x for Contao 5.3+.
+        Handles migration from Theme Ultimate 3.2.4 to 4.x for Contao 5.3+ and 6.x.
+    dependency: true
+    discoverable: false
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
