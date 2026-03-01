@@ -3,8 +3,8 @@ de:
     description: >
         Steuert erlaubte Schaltflächen zur Bearbeitung von Inhalten pro Benutzer und Gruppe
         für Contao 5.3+ und 6.x.
-    dependency: true
-    discoverable: false
+    dependency: false
+    discoverable: true
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
