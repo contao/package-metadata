@@ -1,0 +1,13 @@
+de:
+    title: Theme Ultimate Rechte für Buttons
+    description: >
+        Steuert erlaubte Buttons zur Bearbeitung von Inhalten pro Benutzer und Gruppe
+        für Contao 5.3+ und 6.x.
+    dependency: false
+    discoverable: true
+    homepage: https://www.theme-ultimate.de
+    keywords:
+        - Theme Ultimate
+        - Contao
+        - Berechtigungen
+        - Backend
