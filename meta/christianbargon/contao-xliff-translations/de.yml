@@ -1,7 +1,7 @@
 de:
     title: Contao2xliff
     description: >
-        Contao-Inhalte einfach als XLIFF-Datei (v1.2 & v2.0) exportieren und reimportieren – kompatibel mit Deepl und gängigen Übersetzungsbüros. Unterstützt alle Core-Module sowie viele Drittanbieter-Erweiterungen, Isotope-Produktdaten und berücksichtigt Benutzerrechte & Versionierung. Neu: Export/Import von Modulen, Überspringen ausgeblendeter Inhalte beim Export.
+        Contao-Inhalte einfach als XLIFF-Datei (v1.2 & v2.0) exportieren und reimportieren – kompatibel mit DeepL und gängigen Übersetzungsbüros. Unterstützt alle Core-Module sowie viele Drittanbieter-Erweiterungen, Isotope-Produktdaten und berücksichtigt Benutzerrechte & Versionierung. Neu: Export/Import von Modulen, Überspringen ausgeblendeter Inhalte beim Export.
     keywords:
         - Übersetzungsbüro
         - XLIFF
