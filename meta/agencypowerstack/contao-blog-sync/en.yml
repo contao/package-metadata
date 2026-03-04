@@ -1,7 +1,7 @@
 en:
-    title: Agency Powerstack Blog Sync
+    title: Blog Synchronization
     description: >
-        This extension synchronizes blog entries from Agency Powerstack.
+        This extension synchronizes blog entries.
     keywords:
         - Agency Powerstack
-        - Blog Sync
+        - Blog Synchronization
