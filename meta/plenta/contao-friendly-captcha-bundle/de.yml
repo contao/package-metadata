@@ -1,6 +1,6 @@
 de:
     title: Friendly Captcha für Contao Formulare
-description: >
+    description: >
         DSGVO-konformer Bot-Schutz für Contao-Formulare mit Friendly Captcha
         (https://friendlycaptcha.com). Unsichtbares, barrierefreies CAPTCHA
         ohne Nutzerinteraktion – schützt zuverlässig vor Spam und respektiert
