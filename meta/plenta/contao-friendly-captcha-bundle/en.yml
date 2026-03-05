@@ -2,7 +2,7 @@ en:
     title: Friendly Captcha for Contao Forms
     description: >
         GDPR-compliant bot protection for Contao forms using Friendly Captcha
-        (https://friendlycaptcha.com). Invisible, accessible CAPTCHA without
+        (https://friendlycaptcha.com). Invisible, accessible Captcha without
         user interaction – reliably protects against spam while respecting
         your visitors' privacy.
     keywords:

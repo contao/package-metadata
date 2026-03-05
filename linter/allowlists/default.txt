@@ -560,3 +560,4 @@ Loupe
 Meilisearch
 Ultimate
 Upgrader
+Friendly
