@@ -3,8 +3,8 @@ en:
     description: >
         Controls allowed content action buttons by backend user/group permissions
         for Contao 5.3+ and 6.x.
-    dependency: false
-    discoverable: true
+    dependency: true
+    discoverable: false
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
