@@ -955,3 +955,6 @@ Benutzername
 Paketarchiv
 Zugangspaket
 Archivzugriff
+Produktdaten
+Benutzerrechte
+Versionierung
