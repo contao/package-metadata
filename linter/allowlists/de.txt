@@ -681,6 +681,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 Schaltfläche
+Schaltflächen
 Schaufensterlisten
 Scheduler
 Schieberegler
@@ -955,6 +956,7 @@ Benutzername
 Paketarchiv
 Zugangspaket
 Archivzugriff
+Nutzerinteraktion
 Produktdaten
 Benutzerrechte
 Versionierung

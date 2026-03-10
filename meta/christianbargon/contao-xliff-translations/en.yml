@@ -1,13 +1,13 @@
 en:
     title: Contao2xliff
     description: >
-        Easily export and reimport Contao content as XLIFF files (v1.2 & v2.0) – compatible with DeepL and popular translation agencies.
-        Supports all core modules as well as many third-party extensions, Isotope product data, and takes user rights and versioning into account.
-        New: Export/import of modules, skip hidden content during export.
+        Easily export and reimport Contao content as XLIFF files (v1.2 & v2.0) – compatible with DeepL and common translation agencies.
+        Supports all core modules as well as many third-party extensions, Isotope product data, and respects user permissions & versioning.
+        New: export/import of modules, skip hidden content during export.
     keywords:
-        - translation-agency
+        - translation agency
         - XLIFF
-        - translation
+        - translate
         - export
         - import
         - Isotope
