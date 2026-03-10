@@ -561,3 +561,9 @@ Meilisearch
 Ultimate
 Upgrader
 Friendly
+AVH
+AEO
+Agentic
+agentic
+Structured
+Optimization
