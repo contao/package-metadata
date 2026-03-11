@@ -1,0 +1,18 @@
+de:
+    title: Belegungsplan
+    description: >
+        Erstelle Belegungspläne für Contao 5. Das Bundle zeigt ein Kalenderraster
+        mit Buchungen über mehrere Objekte (z. B. Mieträume oder Ferienwohnungen)
+        an, gruppiert nach Kategorien, mit konfigurierbaren Farben, Anreise-
+        und Abreisetagen sowie verschiedenen Anzeigemodi (manuell, automatisch,
+        benutzerdefinierter Zeitraum).
+    keywords:
+        - belegungsplan
+        - belegung
+        - buchung
+        - kalender
+        - verfügbarkeit
+        - mietobjekte
+        - ferienwohnung
+        - vermietung
+        - räume
