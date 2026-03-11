@@ -957,3 +957,6 @@ Paketarchiv
 Zugangspaket
 Archivzugriff
 Nutzerinteraktion
+Produktdaten
+Benutzerrechte
+Versionierung
