@@ -1,5 +1,6 @@
 
 Ablaufzeit
+Abreisetagen
 Abweisbares
 abweisbares
 Academy
@@ -30,8 +31,10 @@ Animations
 Anmeldesystem
 Anmeldeprozess
 Anpassungsmöglichkeiten
+Anreisetagen
 AntiSpam
 anwaltlich
+Anzeigemodi
 Anzeigeregeln
 Api
 Archiving
@@ -83,6 +86,7 @@ Benutzereinstellungen
 Benutzerfreundlichkeit
 Benutzergruppen
 Benutzernamen
+benutzerdefinierter
 Berechnungsarten
 Bestätigungsmails
 Besuchererweiterung
@@ -399,6 +403,7 @@ Jobbörse
 Jobletter
 Jobposting
 Kalenderformate
+Kalenderraster
 Kameratyp
 Karriereseite
 Karriereseiten
@@ -433,6 +438,7 @@ Konfigurationsaufwand
 Konfigurationsbaum
 Konfigurationsoberfläche
 Konfigurator
+konfigurierbaren
 Konnektor
 Konnektors
 Konsolenaufrufe
@@ -511,6 +517,7 @@ Metadaten
 Metatags
 Mietangebote
 Mieteinheiten
+Mieträume
 Migrationshinweise
 Mindestlänge
 Minimalversion
