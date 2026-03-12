@@ -1,7 +1,7 @@
 de:
     title: Inhalte Duplizieren
     description: >
-        Contao-Inhalte mit einem Klick duplizieren. Insert-Tags, Weiterleitungsseiten und Hauptsprache (bei der Verwendung von ChangeLanguage) werden automatisch angepasst. Geeignet für Vorarbeiten zur Übersetzung der Internetseite mit z. B. Contao2xliff.
+        Contao-Inhalte mit einem Klick duplizieren – Seitenbaum, Events, FAQ, Nachrichten, Formulare & Module inkl. aller Inhaltselemente. Neu: Ausgeblendete Inhaltselemente überspringen, Isotope-Unterstützung (Kategorien inkl. Duplizierung & automatischer Kategoriezuweisung). Insert-Tags, IDs, Weiterleitungsseiten und Hauptsprache werden automatisch aktualisiert. Ideal als Vorbereitung für Übersetzungen, z. B. mit Contao2xliff.
     keywords:
         - Duplizieren
         - Inhalte
@@ -11,4 +11,6 @@ de:
         - Nachrichten
         - Formulare
         - ChangeLanguage
+        - Isotope
+        - Module
     homepage: https://www.contao2xliff.de/inhalte-duplizieren.html
