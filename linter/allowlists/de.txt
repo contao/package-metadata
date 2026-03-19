@@ -272,6 +272,7 @@ Fehlerprotokoll
 Fehlerseite
 Feldeigenschaft
 Felderguppen
+Ferienwohnungen
 Fields
 File
 Files
