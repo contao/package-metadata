@@ -4,85 +4,15 @@
    fill="none"
    version="1.1"
    id="svg10"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="../../../Bilder/GitHupProfile.png"
-   inkscape:export-xdpi="1600"
-   inkscape:export-ydpi="1600"
    width="1125"
    height="1125"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs14" />
-  <sodipodi:namedview
-     id="namedview12"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-<<<<<<< HEAD
-     inkscape:zoom="32"
-     inkscape:cx="12.546875"
-     inkscape:cy="16"
-=======
-     inkscape:zoom="0.35355339"
-     inkscape:cx="466.69047"
-     inkscape:cy="395.9798"
->>>>>>> d1a8bdd (Logo.svg aktualisiert)
-     inkscape:window-width="2560"
-     inkscape:window-height="1408"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
-<<<<<<< HEAD
-  <rect
-     x="4"
-     y="5"
-     width="11"
-     height="9"
-     rx="2"
-     stroke="#1f2937"
-     stroke-width="2"
-     id="rect2" />
-  <rect
-     x="18"
-     y="5"
-     width="11"
-     height="9"
-     rx="2"
-     stroke="#1f2937"
-     stroke-width="2"
-     opacity="0.55"
-     id="rect4" />
-  <rect
-     x="4"
-     y="18"
-     width="11"
-     height="9"
-     rx="2"
-     stroke="#1f2937"
-     stroke-width="2"
-     opacity="0.55"
-     id="rect6" />
-  <path
-     d="m 19,22.5 h 9 m -4,-4 4,4 -4,4"
-     stroke="#0f766e"
-     stroke-width="2.5"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     id="path8" />
-=======
   <g
-     id="g540"
-     transform="matrix(41.663563,0,0,46.857852,-124.90853,-187.23229)">
+     id="g294"
+     transform="matrix(41.663019,0,0,46.870854,-124.49004,-186.98126)">
     <rect
        x="4"
        y="5"
@@ -120,5 +50,4 @@
        stroke-linejoin="round"
        id="path8" />
   </g>
->>>>>>> d1a8bdd (Logo.svg aktualisiert)
 </svg>
