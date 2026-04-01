@@ -2,7 +2,7 @@ de:
     title: Theme Ultimate Button Controler
     description: >
         Steuert erlaubte Buttons zur Bearbeitung von Inhalten pro Benutzer und Gruppe
-        für Contao 5.3+ und 6.x.
+        für Contao 5.7+ und 6.x.
     dependency: true
     discoverable: false
     homepage: https://www.theme-ultimate.de
