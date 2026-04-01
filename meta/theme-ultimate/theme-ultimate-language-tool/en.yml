@@ -3,7 +3,6 @@ en:
     description: >
         Theme Ultimate language tool for Contao [Contao 5.3+ / 6.x].
     dependency: true
-    discoverable: false
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate

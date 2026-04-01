@@ -3,7 +3,6 @@ de:
     description: >
         Theme Ultimate Basis-Bundle für Contao 5.3+ und 6.x.
     dependency: true
-    discoverable: false
     homepage: https://www.theme-ultimate.de
     keywords:
         - Theme Ultimate
