@@ -1,8 +1,9 @@
 en:
     title: Theme Ultimate Button Controler
     description: >
-        Controls allowed content action buttons by backend user/group permissions
-        for Contao 5.7+ and 6.x.
+        Controls allowed content action buttons by backend user/group permissions.
+        Additionally, each user can define which buttons are always shown
+        (not hidden) for Contao 5.7+ and 6.x.
     dependency: true
     homepage: https://www.theme-ultimate.de
     keywords:

@@ -1,8 +1,9 @@
 de:
     title: Theme Ultimate Button Controler
     description: >
-        Steuert erlaubte Buttons zur Bearbeitung von Inhalten pro Benutzer und Gruppe
-        für Contao 5.7+ und 6.x.
+        Steuert erlaubte Buttons zur Bearbeitung von Inhalten pro Benutzer und Gruppe.
+        Zusätzlich kann je Benutzer festgelegt werden, welche Buttons immer angezeigt werden
+        (nicht ausgeblendet) für Contao 5.7+ und 6.x.
     dependency: true
     homepage: https://www.theme-ultimate.de
     keywords:
