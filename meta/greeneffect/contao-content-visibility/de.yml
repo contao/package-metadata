@@ -1,0 +1,18 @@
+de:
+    title: Contao Content Visibility
+    description: >
+        Schränkt die Sichtbarkeit von Inhaltselementen (tl_content) im Contao-Backend basierend auf Backend-Benutzergruppen ein.
+
+        Eingeschränkte Elemente werden für betroffene Benutzer aus den Listen ausgeblendet. Administratoren (isAdmin = true) sind immer ausgenommen.
+    keywords:
+        - contao
+        - contao5
+        - backend
+        - tl_content
+        - berechtigungen
+        - benutzergruppen
+        - zugriffskontrolle
+    support:
+        issues: https://github.com/GreenEffect/contao-content-visibility/issues
+        docs: https://github.com/GreenEffect/contao-content-visibility/tree/main/docs/en
+
