@@ -567,5 +567,3 @@ Agentic
 agentic
 Structured
 Optimization
-Visibility
-visibility
