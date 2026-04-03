@@ -386,6 +386,10 @@ SoundCloud
 Source
 Spectre
 Spotify
+Sprite
+sprite
+Sprites
+sprites
 sql
 SSO
 Stanca
