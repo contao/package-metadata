@@ -225,6 +225,7 @@ Edit
 Editing
 Eingabeformulare
 Eingabeprüfung
+Eingabevalidierung
 Einrichtungsassistent
 Einstellungsmöglichkeiten
 Einverständniserklärungen
@@ -907,6 +908,7 @@ Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
 Widerrufsbelehrung
+Wiederherstellungsfunktion
 with
 Wohnparks
 Wohnungsunternehmen

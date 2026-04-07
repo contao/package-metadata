@@ -40,6 +40,10 @@ BlueBranch
 bluebranch
 Blueprints
 Bootstrap
+Branch
+branch
+Branches
+branches
 Breadcrumb
 BROCKHAUS
 Bulma
@@ -69,6 +73,8 @@ codefog
 colorschemes
 com
 Command
+Commit
+commit
 Community
 Composer
 composer
@@ -152,6 +158,8 @@ Flex
 Flower
 Font
 Footer
+Force
+force
 FOSSGIS
 Foundation
 Framework
@@ -172,6 +180,9 @@ getLaw
 getlaw
 GIS
 gis
+GIT
+Git
+git
 GitHub
 GLightbox
 Go
@@ -250,6 +261,8 @@ lightGallery
 Like
 linkdesigns
 LocalStorage
+Locking
+locking
 Login
 Lottie
 LTS
@@ -257,6 +270,8 @@ MailChimp
 Maileon
 Mailer
 mailer
+main
+master
 Managed
 Manager
 manager
@@ -339,6 +354,7 @@ PostFinance
 Preload
 preload
 Prod
+prod
 Propstack
 QR
 Quantitativ
@@ -349,6 +365,8 @@ readme
 Recruitee
 Reddit
 Reload
+Repositories
+repositories
 Request
 require
 reset
@@ -391,11 +409,15 @@ sprite
 Sprites
 sprites
 sql
+SSH
+ssh
 SSO
 Stanca
 Stardate
 Start
 start
+Stash
+stash
 Status
 status
 Sticky
