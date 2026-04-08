@@ -968,6 +968,7 @@ Paketarchiv
 Zugangspaket
 Archivzugriff
 Nutzerinteraktion
+Sprachdateien
 Suchsystemen
 Antwortmaschinen
 agentischen
