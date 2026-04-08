@@ -1,5 +1,6 @@
 
 Ablaufzeit
+Abreisetagen
 Abweisbares
 abweisbares
 Academy
@@ -30,8 +31,10 @@ Animations
 Anmeldesystem
 Anmeldeprozess
 Anpassungsmöglichkeiten
+Anreisetagen
 AntiSpam
 anwaltlich
+Anzeigemodi
 Anzeigeregeln
 Api
 Archiving
@@ -83,6 +86,7 @@ Benutzereinstellungen
 Benutzerfreundlichkeit
 Benutzergruppen
 Benutzernamen
+benutzerdefinierter
 Berechnungsarten
 Bestätigungsmails
 Besuchererweiterung
@@ -221,11 +225,13 @@ Edit
 Editing
 Eingabeformulare
 Eingabeprüfung
+Eingabevalidierung
 Einrichtungsassistent
 Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
+Einwilligungsfunktion
 Einzelbestellungen
 Elementsets
 Elternelement
@@ -268,6 +274,7 @@ Fehlerprotokoll
 Fehlerseite
 Feldeigenschaft
 Felderguppen
+Ferienwohnungen
 Fields
 File
 Files
@@ -399,6 +406,7 @@ Jobbörse
 Jobletter
 Jobposting
 Kalenderformate
+Kalenderraster
 Kameratyp
 Karriereseite
 Karriereseiten
@@ -433,6 +441,7 @@ Konfigurationsaufwand
 Konfigurationsbaum
 Konfigurationsoberfläche
 Konfigurator
+konfigurierbaren
 Konnektor
 Konnektors
 Konsolenaufrufe
@@ -511,6 +520,7 @@ Metadaten
 Metatags
 Mietangebote
 Mieteinheiten
+Mieträume
 Migrationshinweise
 Mindestlänge
 Minimalversion
@@ -898,6 +908,7 @@ Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
 Widerrufsbelehrung
+Wiederherstellungsfunktion
 with
 Wohnparks
 Wohnungsunternehmen
@@ -958,3 +969,9 @@ Zugangspaket
 Archivzugriff
 Nutzerinteraktion
 Sprachdateien
+Suchsystemen
+Antwortmaschinen
+agentischen
+Antwortsystemen
+Visibility
+visibility
