@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "AI Alt-Text Generator",
+    "de": "KI Alt-Text-Generator"
+  },
+  "description": {
+    "en": "Automatically generates AI-powered alt text, titles, and captions for images in the Contao backend.",
+    "de": "Generiert automatisch KI-gestützte Alt-Texte, Titel und Beschreibungen für Bilder im Contao-Backend."
+  },
+  "homepage": "https://www.nc-werbung.at",
+  "authors": [
+    {
+      "name": "NC Werbung",
+      "homepage": "https://www.nc-werbung.at"
+    }
+  ],
+  "support": {
+    "email": "kreativ@nc-werbung.at"
+  }
+}
