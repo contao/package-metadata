@@ -1,0 +1,13 @@
+en:
+    title: Loupe Bridge
+    discoverable: false
+    description: >
+        Contao integration with the Loupe search engine, the most simple way to enable the back end search.
+
+        This package is not needed if you manually configure a search engine (e.g. Meilisearch, Elasticsearch
+        or another SEAL adapter).
+    keywords:
+        - search
+        - SEAL
+        - bridge
+        - backend
