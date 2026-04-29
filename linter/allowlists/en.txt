@@ -160,6 +160,7 @@ Scheduler
 SCR
 scroll
 Search
+search
 selectbox
 Serverhint
 Shortlinks
