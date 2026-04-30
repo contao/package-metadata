@@ -704,6 +704,7 @@ scroll
 Scroll
 scroll
 Search
+search
 Sec
 Seitenaufruf
 Seitenaufrufe
@@ -793,6 +794,7 @@ Suchbegriffen
 Suchergebnisse
 Suchergebnissen
 Suchmoduls
+Suchserver
 Suchtreffer
 Suchvorschläge
 Switcher

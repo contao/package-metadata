@@ -485,6 +485,8 @@ UUIDs
 Valhalla
 var
 Veello
+Venne
+venne
 Verband
 Vimeo
 virtualization
