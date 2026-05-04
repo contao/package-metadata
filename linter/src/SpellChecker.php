@@ -28,6 +28,7 @@ class SpellChecker
             'aspell',
             '-l',
             $language,
+            '--encoding=utf-8',
             'list',
         ], null, null, $text);
 

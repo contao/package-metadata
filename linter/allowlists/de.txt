@@ -346,6 +346,7 @@ Hauptbaustein
 Hauptkonfigurationen
 Hauptseite
 Hauptsprache
+Hauptformular
 Have
 Head
 HeaderFooterCode
@@ -861,6 +862,8 @@ Umgebungshinweis
 Umkreissuche
 Unified
 Unique
+Unterformular
+Unterformularen
 Unternehmensdaten
 Unterpaletten
 updatesicher
