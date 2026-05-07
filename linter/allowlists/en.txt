@@ -228,3 +228,5 @@ Sign-On
 OpenAI's
 SolidWork
 Geocoding
+FA
+TOTP
