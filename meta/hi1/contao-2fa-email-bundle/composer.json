@@ -1,0 +1,60 @@
+{
+    "name": "hi1/contao-2fa-email-bundle",
+    "description": "Adds email-based two-factor authentication for Contao backend users",
+    "license": "LGPL-3.0-or-later",
+    "type": "contao-bundle",
+    "authors": [
+        {
+            "name": "Hi1",
+            "email": "support@hi1.at"
+        }
+    ],
+    "homepage": "https://hi1.at/",
+    "support": {
+        "issues": "https://github.com/hi1-yildiz/contao-2fa-email-bundle/issues",
+        "source": "https://github.com/hi1-yildiz/contao-2fa-email-bundle#"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hi1\\TwoFactorEmailBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Hi1\\TwoFactorEmailBundle\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "contao/core-bundle": "^5.3",
+        "scheb/2fa-bundle": "^7.0 || ^8.0",
+        "scheb/2fa-email": "^7.0 || ^8.0",
+        "symfony/config": "^6.4 || ^7.0 || ^8.0",
+        "symfony/dependency-injection": "^6.4 || ^7.0 || ^8.0",
+        "symfony/http-kernel": "^6.4 || ^7.0 || ^8.0"
+    },
+    "require-dev": {
+        "bamarni/composer-bin-plugin": "^1.5",
+        "contao/manager-plugin": "^2.0",
+        "phpunit/phpunit": "^10.0",
+        "symfony/phpunit-bridge": "^6.4 || ^7.0 || ^8.0"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "bamarni/composer-bin-plugin": true,
+            "contao-components/installer": true,
+            "contao/manager-plugin": true,
+            "php-http/discovery": true
+        }
+    },
+    "extra": {
+        "bamarni-bin": {
+            "bin-links": false,
+            "target-directory": "tools"
+        },
+        "contao-manager-plugin": "Hi1\\TwoFactorEmailBundle\\ContaoManager\\Plugin"
+    }
+}
