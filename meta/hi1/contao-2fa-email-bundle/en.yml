@@ -1,0 +1,14 @@
+2FA Emailen:
+    title: "HI¹ Sidepanel Bundle"
+    description: >
+        The HI¹ 2FA Email Bundle adds the option to receive 2FA codes via email to your Contao backend. You can switch between email and TOTP 2FA at any time. Additionally, in the system settings there is an option to enforce 2FA for all users.
+    keywords:
+        - 2fa
+        - email
+        - backend
+        - login
+        - security
+    support:
+        issues: "https://github.com/hi1-yildiz/contao-2fa-email-bundle/issues"
+        source: "https://github.com/hi1-yildiz/contao-2fa-email-bundle#"
+    homepage: "https://hi1.at/"
