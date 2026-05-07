@@ -595,3 +595,5 @@ Agentic
 agentic
 Structured
 Optimization
+FA
+TOTP

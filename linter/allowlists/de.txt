@@ -980,5 +980,3 @@ agentischen
 Antwortsystemen
 Visibility
 visibility
-FA
-TOTP
