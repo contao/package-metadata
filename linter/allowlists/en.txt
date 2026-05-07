@@ -160,6 +160,7 @@ Scheduler
 SCR
 scroll
 Search
+search
 selectbox
 Serverhint
 Shortlinks
@@ -226,3 +227,4 @@ checkboxes
 Sign-On
 OpenAI's
 SolidWork
+Geocoding

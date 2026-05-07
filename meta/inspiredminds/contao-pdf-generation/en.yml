@@ -1,0 +1,4 @@
+en:
+    title: PDF Generation
+    description: >
+        This extension allows you to generate a PDF from the current page. It also allows you to define a PDF template for the generation.
