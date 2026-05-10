@@ -12,7 +12,6 @@ en:
         - backend
         - iframe
         - hover
-    homepage: https://think-digital.agency/contao-live-preview.html
     support:
         issues: https://github.com/think-digital-agency/contao-live-preview/issues
         docs: https://github.com/think-digital-agency/contao-live-preview#readme
