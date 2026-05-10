@@ -71,6 +71,7 @@ Bannervorlage
 base
 Basisbibliotheken
 Baumstruktur
+Bearbeitungsmaske
 Bearbeitungsmöglichkeiten
 Bedingungsfelder
 Bedingungsfeldern
@@ -367,6 +368,7 @@ History
 Hook
 Hooks
 Hovercard
+hovern
 Höchstbestellmenge
 Iconfont
 IconInsertTags
