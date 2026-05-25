@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Maschinelle Übersetzung (Translator-Bridge)
+    description: >
+        Die Translator-Bridge fügt Schaltflächen für maschinelle Übersetzung (z. B. DeepL, ChatGPT) zu
+        mehrsprachigen MetaModels-Attributfeldern im Contao-Backend hinzu. So können Inhalte bequem automatisch
+        in andere Sprachen übersetzt werden.
+    keywords:
+        - metamodels
+        - translation
+        - übersetzung
+        - deepl
+        - chatgpt
+        - machine translation
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/

@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzter Alias
+    description: >
+        Das Attribut übersetzter Alias ist die mehrsprachige Variante des Alias-Attributs. Es erzeugt einen URL-
+        freundlichen Alias-Wert je Sprachversion.
+    keywords:
+        - metamodels
+        - attribute
+        - alias
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedalias.html

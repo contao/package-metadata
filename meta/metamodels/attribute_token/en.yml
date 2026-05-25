@@ -1,0 +1,15 @@
+en:
+    title: MetaModels Attribute Token
+    description: >
+        The token attribute generates and stores a unique random token for each MetaModels record. Useful for
+        unique identifiers, confirmation codes, and similar use cases.
+    keywords:
+        - metamodels
+        - attribute
+        - token
+        - uuid
+        - unique
+        - random
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/token.html

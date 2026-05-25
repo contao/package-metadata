@@ -1,0 +1,11 @@
+en:
+    title: MetaModels Filter Range
+    description: >
+        The range filter allows filtering MetaModels items over a configured value range.
+    keywords:
+        - metamodels
+        - filter
+        - range
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/range.html

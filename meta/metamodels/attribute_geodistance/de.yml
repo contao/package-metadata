@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Geo-Entfernung
+    description: >
+        Das Attribut Geo-Entfernung speichert Geokoordinaten (Längen- und Breitengrad) in MetaModels-Items.
+        Zusammen mit dem Filter Umkreissuche kann nach Items in einem bestimmten Umkreis gefiltert werden.
+    keywords:
+        - metamodels
+        - attribute
+        - geo
+        - geodistance
+        - umkreissuche
+        - perimeter
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/geodistance.html

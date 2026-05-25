@@ -1,0 +1,14 @@
+en:
+    title: MetaModels CoWegis Layer
+    description: >
+        The CoWegis layer allows MetaModels data to be embedded as a layer in CoWegis maps (Leaflet-based map
+        solution for Contao). This enables georeferenced MetaModels items to be displayed on interactive maps.
+    keywords:
+        - metamodels
+        - cowegis
+        - map
+        - leaflet
+        - layer
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/

@@ -1,0 +1,12 @@
+en:
+    title: MetaModels Attribute Country
+    description: >
+        The country attribute offers a selection of all countries in the world in a drop-down list. The country
+        names are displayed in multiple languages.
+    keywords:
+        - metamodels
+        - attribute
+        - country
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/country.html

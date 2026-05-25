@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte Multi-Tabelle (MCW)
+    description: >
+        Das Attribut übersetzte Multi-Tabelle ist die mehrsprachige Variante des Multi-Tabelle-Attributs (MCW).
+    keywords:
+        - metamodels
+        - attribute
+        - tablemulti
+        - MCW
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedtablemulti.html

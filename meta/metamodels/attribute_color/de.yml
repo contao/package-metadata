@@ -1,0 +1,13 @@
+de:
+    title: MetaModels Attribut Farbe
+    description: >
+        Das Attribut Farbe ermöglicht die Eingabe und Speicherung von Farbwerten (Hex-Farben) in MetaModels.
+    keywords:
+        - metamodels
+        - attribute
+        - color
+        - farbe
+        - hex
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/color.html

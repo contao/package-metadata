@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Dropzone-Datei-Upload
+    description: >
+        Die Dropzone-Erweiterung ermöglicht den komfortablen Drag-und-Drop-Upload von Dateien für das
+        MetaModels-Datei-Attribut. Besonders nützlich im Frontend-Editing, wo Benutzer Dateien per Drag-und-Drop
+        hochladen können.
+    keywords:
+        - metamodels
+        - dropzone
+        - upload
+        - drag drop
+        - datei
+        - file
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/

@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Filter Loupe (Suche)
+    description: >
+        Der Loupe-Filter bietet eine Volltextsuche für MetaModels-Items, die durch die Loupe-Suchmaschine
+        unterstützt wird.
+    keywords:
+        - metamodels
+        - filter
+        - loupe
+        - search
+        - suche
+        - fulltext
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/loupe.html
