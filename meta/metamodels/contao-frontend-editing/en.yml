@@ -6,7 +6,7 @@ en:
         container.
 
         More about the installation and working with frontend editing in our manual at
-        https://metamodels.readthedocs.io/de/latest/manual/extended/frontend_editing.html
+        https://metamodels.readthedocs.io/en/latest/manual/extended/frontend_editing.html
     keywords:
         - metamodels
         - frontend-editing
@@ -15,4 +15,4 @@ en:
         - edit
     homepage: https://now.metamodel.me
     support:
-        docs: https://metamodels.readthedocs.io/de/latest/manual/extended/cowegis-layer-marker.html
+        docs: https://metamodels.readthedocs.io/en/latest/manual/extended/frontend_editing.html
