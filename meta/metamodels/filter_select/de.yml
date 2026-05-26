@@ -1,0 +1,13 @@
+de:
+    title: MetaModels Filter Einfachauswahl
+    description: >
+        Der Einfachauswahl-Filter stellt eine Dropdown-Auswahl zur Filterung von MetaModels-Items bereit.
+    keywords:
+        - metamodels
+        - filter
+        - select
+        - einfachauswahl
+        - dropdown
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/select.html

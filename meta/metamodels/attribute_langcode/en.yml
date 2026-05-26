@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Language Code
+    description: >
+        The language code attribute provides a selection of all language/country codes (ISO 639). It is suitable
+        for storing language identifiers in MetaModels items.
+    keywords:
+        - metamodels
+        - attribute
+        - langcode
+        - language code
+        - ISO 639
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/langcode.html

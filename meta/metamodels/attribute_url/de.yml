@@ -1,0 +1,13 @@
+de:
+    title: MetaModels Attribut URL
+    description: >
+        Das Attribut URL ermöglicht die Eingabe und Speicherung von URLs (Links) in MetaModels-Items. Es kann
+        optional ein Linktext gespeichert werden.
+    keywords:
+        - metamodels
+        - attribute
+        - url
+        - link
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/url.html

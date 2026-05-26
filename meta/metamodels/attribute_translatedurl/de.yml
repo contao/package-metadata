@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte URL
+    description: >
+        Das Attribut übersetzte URL ist die mehrsprachige Variante des URL-Attributs. Die URL kann je Sprache
+        unterschiedlich sein.
+    keywords:
+        - metamodels
+        - attribute
+        - url
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedurl.html

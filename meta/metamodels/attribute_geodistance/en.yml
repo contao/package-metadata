@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Geo Distance
+    description: >
+        The geo distance attribute stores geocoordinates (longitude and latitude) in MetaModels items. Together
+        with the perimeter search filter, items within a defined radius can be filtered.
+    keywords:
+        - metamodels
+        - attribute
+        - geo
+        - geodistance
+        - perimeter search
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/geodistance.html

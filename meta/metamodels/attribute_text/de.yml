@@ -1,0 +1,12 @@
+de:
+    title: MetaModels Attribut Text
+    description: >
+        Das Attribut Text ist das einfachste Eingabeattribut in MetaModels. Es ermöglicht die Eingabe und
+        Speicherung von einfachen einzeiligen Texten.
+    keywords:
+        - metamodels
+        - attribute
+        - text
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/text.html

@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Datei
+    description: >
+        Das Attribut Datei ermöglicht das Hochladen und Verwalten von Dateien in MetaModels-Items. Es können
+        einzelne Dateien oder Ordner aus dem Contao-Dateisystem referenziert werden.
+    keywords:
+        - metamodels
+        - attribute
+        - file
+        - datei
+        - upload
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/file.html
