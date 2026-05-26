@@ -1,5 +1,5 @@
 en:
-    title: Loki AI - Contao OpenAI assistant
+    title: Loki AI - Contao AI assistant
     description: >
         Create custom prompts directly from DCA fields.
         Combine multiple fields for fully dynamic content generation.
@@ -13,6 +13,10 @@ en:
         - ai
         - artificial intelligence
         - machine learning
+        - Claude
+        - Anthropic
+        - Mistral
+        - Gemini
     homepage: https://plenta.io/contao-loki-ai-bundle
     support:
         issues: https://github.com/plenta/loki-ai-bundle/issues
