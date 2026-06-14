@@ -1,17 +1,21 @@
 en:
     title: Contao Live Preview
     description: >
-        Live preview panel and frontend editor for the Contao 5 backend – view, hover and edit articles, content elements and frontend modules directly in an iFrame.
+        No more switching tabs. Contao Live Preview brings a direct frontend preview as a collapsible sidebar right into the Contao 5 backend — always matching exactly what you are editing. A workflow feeling you have never experienced in Contao before.
 
-        Open a page, article or content element and the panel immediately shows the matching frontend page – no configuration, no extra click. Save a record and only that article is swapped live inside the running iFrame: no reload, no scroll jump, native feel. Hover over any element in the preview and a badge shows its type and name – click the pencil to open the edit form directly.
+        Open an article or content element in the backend — and immediately see how it looks on the frontend. Save — only the edited section updates live in the preview, no reload, no scroll loss. Hover over any element in the preview — a label shows you type and name, one click opens the edit form directly.
+
+        No builder. No compromise. Just Contao the way it should be.
     keywords:
         - preview
         - live preview
         - frontend editor
         - frontend edit helper
+        - frontend helper
+        - sidebar
         - backend
-        - iframe
         - hover
+        - Contao 5
     support:
         issues: https://github.com/think-digital-agency/contao-live-preview/issues
         docs: https://github.com/think-digital-agency/contao-live-preview#readme
