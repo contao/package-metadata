@@ -178,6 +178,7 @@ Flex
 Flickr
 Flower
 Font
+FontAwesome
 Footer
 force
 Force
@@ -422,6 +423,7 @@ require
 reset
 REST
 RGAA
+RSCE
 Ritter
 Roboto
 robots
@@ -581,6 +583,7 @@ Workspace
 WorldOfImages
 WYSIWYG
 XING
+XSS
 xliff
 XLIFF
 XLS
