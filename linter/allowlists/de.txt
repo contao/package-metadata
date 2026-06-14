@@ -132,6 +132,7 @@ Bspw
 bspw
 Buchnavigation
 Buchungsformular
+Builder
 Buttongenerator
 bzw
 ca
@@ -148,6 +149,8 @@ Changelog
 Chatbot
 ChatGPT
 checkbox
+check
+circle
 Checkout
 Choice
 Chrome
@@ -396,6 +399,7 @@ History
 Honeypot
 Hook
 Hooks
+Hover
 Hovercard
 hovern
 Höchstbestellmenge
@@ -496,6 +500,7 @@ Langtexten
 Language
 Lastschrift
 Latitude
+Label
 Layer
 Layoutvorlage
 lazy
@@ -576,6 +581,7 @@ Mitgliedseinstellungen
 mobilfähig
 mobilfähige
 Modal
+Modifier
 Modals
 Model
 Moduleinstellungen
@@ -602,6 +608,7 @@ native
 navbar
 Navbar
 Navigationselementes
+Navigationen
 Navigationsmenü
 Neubauprojekten
 news
@@ -739,6 +746,7 @@ Rewrite
 Rewriting
 Rich
 Richtlinienregeln
+rocket
 Rocksolid
 Root
 Routenplaner
@@ -792,6 +800,7 @@ Shopsystem
 Short
 Sibling
 Sichtbarkeiten
+Sidebar
 Sidepanel
 Sign-On
 Sitemap
@@ -815,6 +824,8 @@ Spaltenset
 Spam
 Speed
 Speisenpläne
+spin
+spinner
 Spiders
 splitter
 Sportler

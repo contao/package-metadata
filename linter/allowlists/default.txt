@@ -164,7 +164,11 @@ EXIF
 Exposé
 exposé
 Extassets
+fa
 FA
+fab
+far
+fas
 Facebook
 facebook
 facebook wall
@@ -178,6 +182,7 @@ Flex
 Flickr
 Flower
 Font
+FontAwesome
 Footer
 force
 Force
@@ -208,6 +213,7 @@ git
 GIT
 Git
 GitHub
+github
 GLightbox
 Go
 google
@@ -422,6 +428,7 @@ require
 reset
 REST
 RGAA
+RSCE
 Ritter
 Roboto
 robots
@@ -581,6 +588,7 @@ Workspace
 WorldOfImages
 WYSIWYG
 XING
+XSS
 xliff
 XLIFF
 XLS
