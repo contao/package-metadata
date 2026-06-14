@@ -3,7 +3,7 @@ en:
     description: >
         No more copying HTML tags. FontAwesome icons belong directly in Contao fields — via insert tag, everywhere, without an HTML module.
 
-        Simply type {{fas::rocket}}, {{far::circle-check}} or {{fab::github}} into any text field, headline, navigation label or RSCE template — done. Optional modifiers directly in the tag: {{fas::spinner::spin::2x}} produces a spinning, double-sized icon. All four FontAwesome styles are supported: Solid, Regular, Brands and the generic fa tag for v4 compatibility. All inputs are regex-validated and XSS-safe.
+        Simply add an insert tag to any text field, headline, navigation label or RSCE template — done. Solid, Regular and Brands styles are all supported. Optional modifier classes can be added directly in the insert tag. All inputs are validated and XSS-safe.
     keywords:
         - fontawesome
         - fontawesome 6

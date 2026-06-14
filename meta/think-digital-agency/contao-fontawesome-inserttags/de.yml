@@ -3,7 +3,7 @@ de:
     description: >
         Schluss mit dem Kopieren von HTML-Tags. FontAwesome-Icons gehören direkt in Contao-Felder — per Insert Tag, überall, ohne HTML-Modul.
 
-        Einfach {{fas::rocket}}, {{far::circle-check}} oder {{fab::github}} in beliebige Textfelder, Überschriften, Navigationen oder RSCE-Templates tippen — fertig. Optionale Modifier direkt im Tag: {{fas::spinner::spin::2x}} ergibt ein drehendes, doppelt großes Icon. Alle vier FontAwesome-Stile werden unterstützt: Solid, Regular, Brands und der generische fa-Tag für v4-Kompatibilität. Alle Eingaben sind Regex-validiert und XSS-sicher.
+        Einfach einen Insert Tag in beliebige Textfelder, Überschriften, Navigationen oder RSCE-Templates eintippen — fertig. Alle FontAwesome-Stile werden unterstützt. Optionale Modifier-Klassen lassen sich direkt im Insert Tag ergänzen. Alle Eingaben sind validiert und XSS-sicher.
     keywords:
         - fontawesome
         - fontawesome 6

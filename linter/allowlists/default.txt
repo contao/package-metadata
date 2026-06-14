@@ -164,11 +164,7 @@ EXIF
 Exposé
 exposé
 Extassets
-fa
 FA
-fab
-far
-fas
 Facebook
 facebook
 facebook wall
@@ -213,7 +209,6 @@ git
 GIT
 Git
 GitHub
-github
 GLightbox
 Go
 google

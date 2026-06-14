@@ -149,8 +149,6 @@ Changelog
 Chatbot
 ChatGPT
 checkbox
-check
-circle
 Checkout
 Choice
 Chrome
@@ -746,7 +744,6 @@ Rewrite
 Rewriting
 Rich
 Richtlinienregeln
-rocket
 Rocksolid
 Root
 Routenplaner
@@ -824,8 +821,6 @@ Spaltenset
 Spam
 Speed
 Speisenpläne
-spin
-spinner
 Spiders
 splitter
 Sportler
