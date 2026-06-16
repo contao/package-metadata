@@ -13,7 +13,7 @@ de:
         - Workflow
         - Redaktionsworkflow
         - Seitenstruktur
-        - Publishing
+        - Veröffentlichung
     homepage: https://plenta.io
     support:
         issues: https://github.com/plenta/contao-page-status-bundle/issues
