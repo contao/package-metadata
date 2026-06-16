@@ -1,0 +1,21 @@
+de:
+    title: Seiten- und Artikelstatus für Redakteure
+    description: >
+        Weise Seiten und Artikeln einen farbigen Status zu – direkt sichtbar in der
+        Seitenstruktur und Artikelübersicht. Start- und Stopdatum werden ebenfalls
+        hervorgehoben.
+    keywords:
+        - Status
+        - Redaktion
+        - Backend
+        - Seiten
+        - Artikel
+        - Workflow
+        - Redaktionsworkflow
+        - Seitenstruktur
+        - Publishing
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/plenta/contao-page-status-bundle/issues
+        source: https://github.com/plenta/plenta/contao-page-status-bundle
+        email: hallo@plenta.io
