@@ -16,6 +16,6 @@ de:
         - Publishing
     homepage: https://plenta.io
     support:
-        issues: https://github.com/plenta/plenta/contao-page-status-bundle/issues
-        source: https://github.com/plenta/plenta/contao-page-status-bundle
+        issues: https://github.com/plenta/contao-page-status-bundle/issues
+        source: https://github.com/plenta/contao-page-status-bundle
         email: hallo@plenta.io
