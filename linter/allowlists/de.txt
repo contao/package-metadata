@@ -1026,3 +1026,6 @@ Zugänglichkeitserklärung
 Zusatzinfos
 Übersetzungsfelder
 Übersetzungstools
+Artikelstatus
+Artikelübersicht
+Stopdatum
