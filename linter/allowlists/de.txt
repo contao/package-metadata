@@ -110,6 +110,7 @@ Bildergalerie
 Bildergalerien
 Bilderslider
 Bildformaten
+Bildgröße
 Bildgrößen
 Bildgrößeneinstellung
 Bildreferenzen
@@ -1017,6 +1018,7 @@ zeitintensiven
 zeitintensiver
 Zeitstrahl
 Zeitwerten
+Zielseite
 Zielseiten
 Zufallsnachricht
 Zugangsdaten
