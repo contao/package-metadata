@@ -1,0 +1,40 @@
+{
+    "name": "contao-estatemanager/cem-import",
+    "description": "OpenImmo import for Contao EstateManager",
+    "keywords": ["contao", "estatemanager", "real estate", "property", "import", "open immo", "onoffice", "propstack", "ammon"],
+    "homepage": "https://www.contao-estatemanager.com/de/store/openimmo-import.html",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Oveleon",
+            "homepage": "https://www.oveleon.de/"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "ext-libxml": "*",
+        "ext-openssl": "*",
+        "ext-simplexml": "*",
+        "contao/core-bundle": "^5.3",
+        "contao-estatemanager/core": "^3.0",
+        "doctrine/dbal": "^3.6",
+        "psr/cache": "^3.0",
+        "psr/log": "^1.1 || 2.0 || ^3.0",
+        "symfony/cache-contracts": "^3.0",
+        "symfony/config": "^6.4 || ^7.1",
+        "symfony/dependency-injection": "^6.4 || ^7.1",
+        "symfony/event-dispatcher-contracts": "^3.0",
+        "symfony/http-client": "^6.4 || ^7.0",
+        "symfony/http-client-contracts": "^3.1",
+        "symfony/http-foundation": "^6.4 || ^7.1",
+        "symfony/http-kernel": "^6.4 || ^7.1",
+        "symfony/security-core": "^6.4 || ^7.0"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.3.1"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}

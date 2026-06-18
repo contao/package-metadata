@@ -1,0 +1,18 @@
+de:
+    title: Contao FontAwesome Insert Tags
+    description: >
+        Schluss mit dem Kopieren von HTML-Tags. FontAwesome-Icons gehören direkt in Contao-Felder — per Insert Tag, überall, ohne HTML-Modul.
+
+        Einfach einen Insert Tag in beliebige Textfelder, Überschriften, Navigationen oder RSCE-Templates eintippen — fertig. Alle FontAwesome-Stile werden unterstützt. Optionale Modifier-Klassen lassen sich direkt im Insert Tag ergänzen. Alle Eingaben sind validiert und XSS-sicher.
+    keywords:
+        - fontawesome
+        - fontawesome 6
+        - font awesome
+        - icons
+        - insert tag
+        - svg icons
+        - fa icons
+        - icon
+    support:
+        issues: https://github.com/think-digital-agency/contao-fontawesome-inserttags/issues
+        docs: https://github.com/think-digital-agency/contao-fontawesome-inserttags#readme

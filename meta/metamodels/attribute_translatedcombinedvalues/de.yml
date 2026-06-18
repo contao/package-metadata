@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte kombinierte Werte
+    description: >
+        Das Attribut übersetzte kombinierte Werte ist die mehrsprachige Variante des Attributs Kombinierte
+        Werte.
+    keywords:
+        - metamodels
+        - attribute
+        - combined values
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedcombinedvalues.html

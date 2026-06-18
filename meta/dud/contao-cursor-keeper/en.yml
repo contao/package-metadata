@@ -1,0 +1,18 @@
+en:
+    title: Cursor Keeper
+    description: >
+        This small free extension helps you avoid losing focus when working with the built-in code editor.
+        After saving a file, the cursor stays where it was and no longer jumps back to the beginning of the file.
+        No configuration is required — installing is enough.
+        If you like this extension, feel free to support the development with a cup of coffee. Thank you!
+    keywords:
+        - cursor
+        - editor
+        - ace
+        - backend
+        - code-editor
+        - position
+    support:
+        issues: https://github.com/drum-und-dran/contao-cursor-keeper/issues
+        source: https://github.com/drum-und-dran/contao-cursor-keeper
+        docs: https://github.com/drum-und-dran/contao-cursor-keeper#readme

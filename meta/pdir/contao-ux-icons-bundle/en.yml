@@ -1,0 +1,14 @@
+en:
+    title: Contao UX Icons bundle
+    description: >
+        Renders local and remote SVG icons in your Contao Twig templates. Adds a icon picker widget to Contao.
+        Find the perfect icon among 200,000 choices from the most popular icon sets.
+    keywords:
+        - Contao
+        - Symfony UX Icons
+        - Twig
+        - Icon picker
+        - Icons
+    homepage: https://github.com/pdir/contao-ux-icons-bundle
+    support:
+        email: support@pdir.de

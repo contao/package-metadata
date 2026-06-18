@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Translated Text
+    description: >
+        The translated text attribute is the multilingual variant of the text attribute. The text value can
+        differ per language.
+    keywords:
+        - metamodels
+        - attribute
+        - text
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedtext.html

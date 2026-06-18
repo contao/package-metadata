@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Multiple Selection [tags]
+    description: >
+        The multiple selection (tags) attribute allows selecting multiple values from a linked MetaModels table
+        or a custom table. It represents an m:n relationship.
+    keywords:
+        - metamodels
+        - attribute
+        - tags
+        - multiple selection
+        - m:n
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/tags.html

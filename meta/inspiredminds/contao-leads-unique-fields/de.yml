@@ -1,0 +1,4 @@
+de:
+    title: Unique Fields for Leads
+    description: >
+        Erlaubt es die Daten eines Feldes nur einmal vorkommen zu lassen. Der Vergleich passiert unabhängig von Groß- und Kleinschreibung.

@@ -1,0 +1,18 @@
+de:
+    title: Friendly Captcha für Contao Formulare
+    description: >
+        DSGVO-konformer Bot-Schutz für Contao-Formulare mit Friendly Captcha
+        (https://friendlycaptcha.com). Unsichtbares, barrierefreies Captcha
+        ohne Nutzerinteraktion – schützt zuverlässig vor Spam und respektiert
+        die Privatsphäre Ihrer Besucher.
+    keywords:
+        - Spam
+        - Captcha
+        - Formular
+        - Bot-Schutz
+        - DSGVO
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-friendly-captcha-bundle/issues
+        source: https://github.com/plenta/contao-friendly-captcha-bundle
+        email: hallo@plenta.io

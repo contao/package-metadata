@@ -1,0 +1,12 @@
+de:
+    title: Contao EstateManager Projekte / Neubau
+    description: >
+        Die Projekte / Neubau-Erweiterung für den Contao EstateManager ermöglicht die Darstellung von Neubauprojekten,
+        Objekten mit mehreren Wohneinheiten oder ganzer Wohnparks.
+    keywords:
+        - immobilien
+        - projekt
+        - neubau
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/projekte-neubau.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

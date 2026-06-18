@@ -1,13 +1,40 @@
 en:
     title: MATE Theme
     description: >
-        MATE is a theme that uses the Materialize front end framework based on Material Design. It is compatible
-        with Contao 4 and 5.
+        MATE is a theme that uses the Materialize frontend framework based on Material Design. It is compatible with
+        Contao 5 and 4. MATE is update-proof and already available for Contao 5.5!
 
-        The theme is optimized for all devices and browsers. All modules and elements from the contao core are styled.
-        Header, footer, content and the layout can be easily adapted and changed according to your wishes.
 
-        The MATE Theme is available for free (with copyright notice) or for a fee (without copyright notice).
+        The MATE theme is now accessible (a11y), there are new colors and it contains an accessibility statement.
+
+        ✓ BFSG
+
+        ✓ BITV
+
+        ✓ WCAG
+
+        ✓ ADA
+
+        ✓ EAA
+
+        ✓ Section 508
+
+        ✓ AODA
+
+        ✓ DDA
+
+        ✓ RGAA
+
+        ✓ ACA
+
+
+        The theme is optimized for all end devices and common browsers and already provides all modules and elements
+        of the Contao core already styled. Header, footer and content as well as colors and the layout can be easily
+        adapted and adapted and changed according to your wishes.
+
+
+        The MATE theme is available free of charge (with copyright notice) or for a fee (without copyright notice)
+        available. The theme can also be installed via the Contao Manager Theme Installer, just search for 'MATE'.
     keywords:
         - theme
         - materialize
@@ -17,6 +44,22 @@ en:
         - scss
         - style
         - layout
+        - a11y
+        - accessibility
+        - European Accessibility Directive (EAA)
+        - Accessibility Reinforcement Act (BFSG)
+        - Web Content Accessibility Guidelines (WCAG)
+        - ADA
+        - EAA
+        - Section 508
+        - AODA
+        - DDA
+        - RGAA
+        - ACA
+        - BITV
+        - contrast mode
+        - preview
+        - demo
     homepage: https://contao-themes.net/theme-detail/mate.html
     support:
-        docs: https://docs.contao-themes.net/
+        docs: https://pdir.de/docs/de/contao/themes/mate/

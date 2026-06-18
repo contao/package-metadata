@@ -1,0 +1,29 @@
+{
+    "name": "contao-estatemanager/cem-google-geodata",
+    "description": "Google Geodata extension for Contao EstateManager",
+    "keywords": ["contao", "estatemanager", "real estate", "estate", "property", "google", "geo"],
+    "homepage": "https://www.contao-estatemanager.com/de/erweiterungen/google-geodata.html",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Oveleon",
+            "homepage": "https://www.oveleon.de/"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "contao/core-bundle": "^5.3",
+        "contao-estatemanager/core": "^3.0",
+        "contao-estatemanager/cem-google-services": "^3.0",
+        "symfony/http-kernel": "^6.4 || ^7.1"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.3.1"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}

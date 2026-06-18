@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Attribut Multi-Tabelle (MCW)
+    description: >
+        Das Attribut Multi-Tabelle (MCW) ermöglicht die Eingabe von tabellarischen Daten mit mehreren Spalten
+        und Zeilen direkt in einem MetaModels-Item. Geeignet für strukturierte Daten wie z. B. technische
+        Spezifikationen.
+    keywords:
+        - metamodels
+        - attribute
+        - tablemulti
+        - multi table
+        - MCW
+        - tabelle
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/tablemulti.html

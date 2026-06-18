@@ -1,0 +1,12 @@
+en:
+    title: Contao EstateManager Similar
+    description: >
+        The Similar extension for the Contao EstateManager allows the display and configuration of similar properties
+        within an exposé / detail page.
+    keywords:
+        - realestate
+        - estate
+        - similar
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/aehnliche-objekte.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

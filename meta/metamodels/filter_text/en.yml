@@ -1,0 +1,12 @@
+en:
+    title: MetaModels Filter Text Search
+    description: >
+        The text search filter allows filtering MetaModels items based on text input.
+    keywords:
+        - metamodels
+        - filter
+        - text
+        - search
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/text.html

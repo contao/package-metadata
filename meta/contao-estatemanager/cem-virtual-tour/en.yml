@@ -1,0 +1,14 @@
+en:
+    title: Contao EstateManager Virtual-Tour
+    description: >
+        The Virtual Tour extension for the Contao EstateManager allows the integration of virtual tours of various
+        providers.
+    keywords:
+        - realestate
+        - estate
+        - virtual
+        - tour
+        - 3D
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/virtuelle-tour.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

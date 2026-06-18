@@ -1,0 +1,20 @@
+en:
+    title: Page and Article Status for Editors
+    description: >
+        Assign a colored status to pages and articles – visible directly in the
+        page tree and article overview. Start and stop dates are also highlighted.
+    keywords:
+        - Status
+        - Editorial
+        - Backend
+        - Pages
+        - Articles
+        - Workflow
+        - Editorial workflow
+        - Page tree
+        - Publishing
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-page-status-bundle/issues
+        source: https://github.com/plenta/contao-page-status-bundle
+        email: hallo@plenta.io

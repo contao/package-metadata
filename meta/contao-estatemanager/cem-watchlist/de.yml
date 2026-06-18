@@ -1,0 +1,11 @@
+de:
+    title: Contao EstateManager Merkzettel
+    description: >
+        Die Merkzettel-Erweiterung für den Contao EstateManager integriert die Möglichkeit, als Besucher der Webseite,
+        einzelne Immobilien in einem Merkzettel zu speichern.
+    keywords:
+        - immobilien
+        - merkzettel
+    homepage: https://www.contao-estatemanager.com/de/erweiterungen/merkzettel.html
+    support:
+        docs: https://docs.contao-estatemanager.com/

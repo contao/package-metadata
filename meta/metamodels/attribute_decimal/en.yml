@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Attribute Decimal
+    description: >
+        The decimal attribute allows entering and storing decimal numbers (floating point numbers) in
+        MetaModels.
+    keywords:
+        - metamodels
+        - attribute
+        - decimal
+        - float
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/decimal.html

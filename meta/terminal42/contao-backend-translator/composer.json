@@ -1,0 +1,32 @@
+{
+    "name": "terminal42/contao-backend-translator",
+    "type": "contao-bundle",
+    "description": "Backend translations for Contao Open Source CMS",
+    "keywords": ["contao", "translator", "backend"],
+    "homepage": "https://extensions.terminal42.ch/p/backend-translator",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminal42.ch"
+        }
+    ],
+    "support": {
+        "email": "info@terminal42.ch"
+    },
+    "require": {
+        "php": "^8.1",
+        "contao/core-bundle": "^5.3",
+        "twig/intl-extra": "^3.24"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0",
+        "terminal42/contao-build-tools": "dev-main"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "suggest": {
+        "numero2/contao-deepl": "Translate content and translations using the DeepL API."
+    }
+}
