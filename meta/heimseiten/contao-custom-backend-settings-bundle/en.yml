@@ -1,0 +1,6 @@
+en:
+    title: Custom Backend Settings (heimseiten.de)
+    description: >
+        Handy backend enhancements for Contao 5: per-user appearance options, global
+        functions (publish on create, real copying of news/events …) and overridable
+        front end labels (read more, pagination).
