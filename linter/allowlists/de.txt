@@ -156,6 +156,7 @@ class
 Classes
 Click
 Coaches
+Codebasis
 coded
 Collapse
 Collect
@@ -357,6 +358,7 @@ Geschäftsabläufe
 Geschütztes
 gestylt
 gestylten
+gestyltes
 Get
 Github
 Glossarbegriffe
@@ -760,6 +762,7 @@ Scroll
 Search
 search
 Sec
+Secret
 Seitenaufruf
 Seitenaufrufe
 Seitenbaum
@@ -794,6 +797,7 @@ Sibling
 Sichtbarkeiten
 Sidepanel
 Sign-On
+Site
 Sitemap
 Sitemaps
 Slave
@@ -813,6 +817,7 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
+span
 Speed
 Speisenpläne
 Spiders
@@ -852,6 +857,7 @@ Subvendoren
 Suchabos
 Suchbar
 Suchbegriff
+Suchbegriffe
 Suchbegriffen
 Suchergebnisse
 Suchergebnissen

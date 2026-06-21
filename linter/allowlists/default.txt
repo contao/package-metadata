@@ -27,6 +27,7 @@ Austrian
 AuthCode
 Authenticator
 Autocomplete
+Autolink
 AVH
 AWC
 Awesome
@@ -65,6 +66,7 @@ Bundles
 Burns
 Bynder
 Captcha
+CAPTCHA
 Catalog
 Categories
 Category
@@ -78,6 +80,7 @@ ChurchDesk
 Clickpress
 Clickskeks
 Cloud
+Cloudflare
 CMACE
 CMS
 CMX
@@ -525,6 +528,7 @@ trilobit
 Trusted
 TTL
 tumblr
+Turnstile
 Tweets
 Twig
 Twitter
