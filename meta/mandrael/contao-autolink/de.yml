@@ -1,0 +1,15 @@
+de:
+  title: Contao Autolink
+  description: >
+    Definiert im Contao-Backend Suchbegriffe, die im Frontend automatisch
+    verlinkt werden – als interne Links auf eine Contao-Seite, externe Links
+    auf eine URL oder ein gestyltes <span>. Eine Codebasis für die
+    Contao-LTS-Versionen 4.13, 5.3 und 5.7.
+  keywords:
+    - contao
+    - autolink
+    - links
+    - verlinkung
+    - seo
+    - suchbegriffe
+    - keywords
