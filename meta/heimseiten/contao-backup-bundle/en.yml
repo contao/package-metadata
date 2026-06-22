@@ -1,0 +1,14 @@
+en:
+    title: Backup – database and files
+    homepage: https://github.com/heimseiten/contao-backup-bundle
+    description: >
+        Adds a "Backup" entry under "System" in the back end and downloads the database and
+        all relevant files and folders as a ZIP – separately or together. The archive is
+        streamed directly (no temporary storage, even several gigabytes) and shows a progress
+        bar in Chrome and Edge. Administrators only and protected against CSRF.
+    keywords:
+        - backup
+        - database
+        - download
+        - ZIP
+        - files
