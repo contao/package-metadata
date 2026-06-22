@@ -1,6 +1,15 @@
 en:
-    title: Custom Backend Settings (heimseiten.de)
+    title: Custom Backend Settings
     description: >
-        Handy backend enhancements for Contao 5: per-user appearance options, global
-        functions (publish on create, real copying of news/events …) and overridable
-        front end labels (read more, pagination).
+        Handy backend enhancements for Contao 5 – mostly configurable per backend user
+        (User ▸ Edit user), grouped in the functions, behaviour and appearance legends.
+
+        Functions: publish pages, articles, news and events on create; copy news and
+        events with all their details; copies without the (copy) suffix.
+
+        Behaviour: clicking the row of an article, a content element or a page opens its
+        contents or settings directly; in an empty list the first element is inserted
+        automatically.
+
+        Plus a few global settings (System ▸ Settings) and, per page layout, overridable
+        front-end labels (read more, pagination).

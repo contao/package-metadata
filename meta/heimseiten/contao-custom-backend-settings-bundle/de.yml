@@ -1,7 +1,16 @@
 de:
-    title: Custom Backend Settings (heimseiten.de)
+    title: Custom Backend Settings
     description: >
-        Praktische Backend-Erweiterungen für Contao 5: Komfort-Optionen pro Benutzer
-        (Erscheinungsbild), globale Funktionen (direkt veröffentlichen, echtes Kopieren
-        von News/Events …) und überschreibbare Frontend-Beschriftungen (Weiterlesen,
-        Pagination).
+        Praktische Backend-Erweiterungen für Contao 5 – das meiste pro Backend-Benutzer
+        einstellbar (Benutzer ▸ Benutzer bearbeiten), gruppiert in die Legenden Funktionen,
+        Verhalten und Erscheinungsbild.
+
+        Funktionen: Seiten, Artikel, News und Events beim Anlegen direkt veröffentlichen;
+        News und Events mit allen Details kopieren; Kopien ohne den Zusatz (Kopie).
+
+        Verhalten: Ein Klick auf eine Artikel-, Inhaltselement- oder Seiten-Zeile öffnet
+        direkt deren Inhalte bzw. Einstellungen; in einer noch leeren Liste wird das erste
+        Element automatisch eingefügt.
+
+        Dazu globale Einstellungen (System ▸ Einstellungen) sowie – je Seitenlayout –
+        überschreibbare Frontend-Beschriftungen (Weiterlesen, Pagination).
