@@ -1,0 +1,15 @@
+de:
+    title: Sicherung – Datenbank und Dateien
+    homepage: https://github.com/heimseiten/contao-backup-bundle
+    description: >
+        Fügt im Backend unter „System" den Punkt „Sicherung" hinzu und lädt die Datenbank
+        sowie alle relevanten Dateien und Ordner als ZIP herunter – einzeln oder zusammen.
+        Das Archiv wird direkt ausgeliefert (kein Zwischenspeicher, auch mehrere Gigabyte) und
+        zeigt in Chrome und Edge den Fortschritt an. Nur für Administratoren und gegen CSRF
+        abgesichert.
+    keywords:
+        - Sicherung
+        - Backup
+        - Datenbank
+        - Download
+        - ZIP
