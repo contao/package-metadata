@@ -1035,3 +1035,5 @@ Zusatzinfos
 Artikelstatus
 Artikelübersicht
 Stopdatum
+Stoppdatum
+Formularliste
