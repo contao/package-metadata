@@ -1,14 +1,16 @@
 en:
-    title: Page and Article Status for Editors
+    title: Status display for editors
     description: >
-        Assign a colored status to pages and articles – visible directly in the
-        page tree and article overview. Start and stop dates are also highlighted.
+        Assign a colored status to pages, articles and forms, visible directly in the
+        page structure, article overview and form list. For pages and articles, start
+        and stop dates are also highlighted.
     keywords:
         - Status
         - Editorial
         - Backend
         - Pages
         - Articles
+        - Forms
         - Workflow
         - Editorial workflow
         - Page tree

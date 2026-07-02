@@ -1,15 +1,16 @@
 de:
-    title: Seiten- und Artikelstatus für Redakteure
+    title: Statusanzeige für Redakteure
     description: >
-        Weise Seiten und Artikeln einen farbigen Status zu – direkt sichtbar in der
-        Seitenstruktur und Artikelübersicht. Start- und Stopdatum werden ebenfalls
-        hervorgehoben.
+        Weise Seiten, Artikeln und Formularen einen farbigen Status zu, direkt sichtbar in der
+        Seitenstruktur, Artikelübersicht und Formularliste. Bei Seiten und Artikeln werden zusätzlich
+        Start- und Stoppdatum hervorgehoben.
     keywords:
         - Status
         - Redaktion
         - Backend
         - Seiten
         - Artikel
+        - Formulare
         - Workflow
         - Redaktionsworkflow
         - Seitenstruktur
