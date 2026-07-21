@@ -113,6 +113,7 @@ Bildformaten
 Bildgröße
 Bildgrößen
 Bildgrößeneinstellung
+Bildpipeline
 Bildreferenzen
 Bildschirmpräsentation
 Bildslider
@@ -303,6 +304,7 @@ Fields
 File
 Filemanager
 Files
+files
 Filtereinstellungen
 Filterfunktionalität
 Filterfunktionen
@@ -563,6 +565,7 @@ Merger
 Merkzettel
 Messenger
 Meta
+metadata
 Metadaten
 Metatags
 Mietangebote
@@ -634,6 +637,8 @@ Open
 OpenAI
 Opt
 OR
+Ordnerbasierte
+Ordnerstruktur
 Overlay
 Overlays
 Override
@@ -974,6 +979,7 @@ Versandmodul
 Versandmoduls
 Verschlüsselungsklasse
 Videohandbuch
+Viewer
 Visibility
 visibility
 visits
