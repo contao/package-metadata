@@ -1,0 +1,6 @@
+de:
+    title: plakart CSS Helfer
+    homepage: https://plakart.de
+    description: >
+        Internes Bundle CSS-Helfer Klassen
+    dependency: true
