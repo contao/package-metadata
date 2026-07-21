@@ -1,0 +1,5 @@
+en:
+    title: plakart CSS Utilities
+    description: >
+        Internal utility class bundle.
+    dependency: true
