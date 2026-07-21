@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 395 395" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <g stroke-linejoin="round" stroke-miterlimit="1">
+        <g fill="none">
+            <g stroke="#fd6f0c" stroke-linecap="round" stroke-width="10.583">
+                <path d="m91.928 35.13s0-21.167 21.167-21.167l63.5 2e-6 21.167 31.75s63.5-1e-6 95.25-1e-6c4.989 0 10.583 5.5943 10.583 10.583-2e-5 31.75-1e-5 93.281 0 127 0 10.583-2e-5 10.583-10.583 10.583-63.5-1e-5 -148.17 0-190.5 0-10.583 0-10.583 0-10.583-10.583v-148.17z" style="paint-order:normal"/>
+                <path d="m92.08 71.354h210.93" style="paint-order:normal"/>
+                <path d="m98.788 20.672h79.004" style="paint-order:normal"/>
+            </g>
+            <path d="m199.04 199.08v89.037" stroke="#535353" stroke-width="8.0072" style="paint-order:normal"/>
+            <path transform="translate(-56.238 -38.953)" d="m111.68 327.58v-24.489c0-7.5055 0-14.025 4.5033-17.268 4.5033-3.2434 13.51-3.2109 58.844-3.0477s126.99 0.45722 170.14 0.61256 47.779 0.172 50.138 2.625 2.4446 7.3423 2.4446 14.633-0.0858 16.984-0.17155 26.677" stroke="#535353" stroke-width="7.9375" style="paint-order:normal"/>
+        </g>
+        <ellipse cx="198.91" cy="244.88" rx="9.65" ry="9.5213" fill="#fff" stroke="#535353" stroke-width="7.9375" style="paint-order:normal"/>
+        <g transform="translate(-56.238 -38.953)" fill="#fff" stroke="#535353">
+            <rect x="71.539" y="330.67" width="89.552" height="89.552" rx="6.6146" ry="6.6146" stroke-width="6.6146" style="paint-order:normal"/>
+            <circle cx="99.588" cy="360.14" r="9.2604" stroke-width="5.2917" style="paint-order:normal"/>
+            <path d="m72.053 410.7 26.248-23.675 9.5213 11.58 26.248-27.277 26.248 27.535" stroke-width="5.2917" style="paint-order:normal"/>
+        </g>
+        <g transform="translate(80.92 -38.953)" fill="#fff" stroke="#535353">
+            <rect x="71.539" y="330.67" width="89.552" height="89.552" rx="6.6146" ry="6.6146" stroke-width="6.6146" style="paint-order:normal"/>
+            <circle cx="99.588" cy="360.14" r="9.2604" stroke-width="5.2917" style="paint-order:normal"/>
+            <path d="m72.053 410.7 26.248-23.675 9.5213 11.58 26.248-27.277 26.248 27.535" stroke-width="5.2917" style="paint-order:normal"/>
+        </g>
+        <g transform="translate(220.14 -38.953)" fill="#fff" stroke="#535353">
+            <rect x="71.539" y="330.67" width="89.552" height="89.552" rx="6.6146" ry="6.6146" stroke-width="6.6146" style="paint-order:normal"/>
+            <circle cx="99.588" cy="360.14" r="9.2604" stroke-width="5.2917" style="paint-order:normal"/>
+            <path d="m72.053 410.7 26.248-23.675 9.5213 11.58 26.248-27.277 26.248 27.535" stroke-width="5.2917" style="paint-order:normal"/>
+        </g>
+    </g>
+</svg>
