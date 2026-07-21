@@ -1,0 +1,5 @@
+de:
+    title: plakart CSS Utilities
+    description: >
+        Internes Bundle CSS-Utilities Klassen
+    dependency: true
