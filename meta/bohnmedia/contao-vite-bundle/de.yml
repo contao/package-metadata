@@ -1,0 +1,19 @@
+de:
+    title: Vite-Integration für Contao
+    description: >
+        Integriert Vite in Contao 5, basierend auf dem Symfony-Bundle pentatrion/vite-bundle.
+
+        Die Link- und Skript-Tags der Vite-Einstiegspunkte lassen sich mit den gewohnten
+        Twig-Funktionen oder als Insert-Tags einbinden, zum Beispiel im Seitenlayout.
+        Versionierte Assets werden über ein automatisch registriertes Asset-Paket
+        aufgelöst.
+
+        In der Entwicklungsumgebung registriert das Bundle die Proxy-Routen für den
+        Vite-Entwicklungsserver automatisch, sodass Änderungen ohne weitere Einrichtung
+        sofort im Browser erscheinen. Mehrere Vite-Konfigurationen werden unterstützt.
+    keywords:
+        - vite
+        - assets
+        - javascript
+        - css
+        - hot module replacement
