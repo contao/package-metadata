@@ -1,14 +1,14 @@
 en:
-    title: Backup – database and files
+    title: Backup and Restore
     homepage: https://github.com/heimseiten/contao-backup-bundle
     description: >
-        Adds a "Backup" entry under "System" in the back end and downloads the database and
-        all relevant files and folders as a ZIP – separately or together. The archive is
-        streamed directly (no temporary storage, even several gigabytes) and shows a progress
-        bar in Chrome and Edge. Administrators only and protected against CSRF.
+        Adds a "Backup" entry under "System" in the back end: download the database and all
+        relevant files as a ZIP (streamed, even several gigabytes, with a progress bar) and
+        restore backups – from var/backups or by uploading an archive, also into another
+        installation. Administrators only and protected against CSRF.
     keywords:
         - backup
+        - restore
         - database
         - download
         - ZIP
-        - files
