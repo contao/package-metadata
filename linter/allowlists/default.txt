@@ -379,6 +379,7 @@ pdf
 PDF
 PDFs
 pdir
+pentatrion
 persistiert
 Personio
 Perview
@@ -562,6 +563,8 @@ venne
 Verband
 Vimeo
 virtualization
+Vite
+vite
 vivenio
 VR
 Walsercard
