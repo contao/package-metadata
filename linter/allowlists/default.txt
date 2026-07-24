@@ -34,6 +34,7 @@ AWS
 Back end
 back end
 Backend
+backups
 barcode
 Barcode
 Bard
