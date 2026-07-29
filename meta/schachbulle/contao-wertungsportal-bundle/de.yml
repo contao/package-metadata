@@ -1,0 +1,17 @@
+de:
+    title: Wertungsportal - DWZ-Abfrage des Deutschen Schachbundes
+    description: >
+        Bindet das Wertungsportal des Deutschen Schachbundes (DSB) über dessen REST-Schnittstelle in die DSB-Website ein
+        und löst damit die ältere DeWIS-SOAP-Schnittstelle ab.
+
+        Es stehen Frontend-Module für Spieler, Vereine, Verbände, Turniere und Bestenlisten bereit.
+        Im Backend werden Vereine und Spieler verwaltet.
+    keywords:
+        - Schach
+        - DWZ
+        - Wertungszahl
+        - Wertungsportal
+        - Schachbund
+    support:
+        issues: https://github.com/Samson1964/contao-wertungsportal-bundle/issues
+        source: https://github.com/Samson1964/contao-wertungsportal-bundle

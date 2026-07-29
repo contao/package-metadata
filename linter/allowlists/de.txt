@@ -195,6 +195,7 @@ CustomSwiper
 Dark
 Data
 Date
+Dateianhänge
 Dateiauswahl
 Dateibaum
 Dateireferenzen
@@ -299,6 +300,7 @@ Feed
 Feeds
 Fehlerprotokoll
 Fehlerseite
+Feinwertungen
 Feldeigenschaft
 Felderguppen
 Ferienwohnungen
@@ -321,6 +323,7 @@ Folder
 Fonts
 foo
 for
+Forensuche
 Forms
 Formularausgaben
 Formulardaten
@@ -337,6 +340,7 @@ Formularwidget
 Formvalidation
 formvalidation
 Fortschrittsanzeige
+Fortschrittstabellen
 Fremdschlüssel
 Frontend
 Frontendformular
@@ -583,6 +587,8 @@ Mitarbeiterlisten
 Mitgliederbereichen
 Mitgliedergruppe
 Mitgliedergruppen
+Mitgliederprofile
+Mitgliedersperren
 Mitgliederverwaltung
 Mitgliedseinstellungen
 mobilfähig
@@ -646,6 +652,7 @@ Ordnerstruktur
 Overlay
 Overlays
 Override
+Paarungsgenerator
 padding
 page
 Page
@@ -742,6 +749,7 @@ rel
 Related
 Release
 Releases
+Relegationsplätze
 Remember
 Rendereinstellungen
 Rendering
@@ -761,6 +769,10 @@ Root
 Routenplaner
 Routenplanung
 Röntgenaufnahmen
+Schachbund
+Schachbundes
+Schachturnier
+Schachturniere
 Schaltfläche
 Schaltflächen
 Schaufensterlisten
@@ -768,6 +780,7 @@ Scheduler
 Schieberegler
 Schiebereglers
 Schlüsselverwaltung
+Schreibrechte
 Schriftpositionierung
 SCR
 Scripte
@@ -835,6 +848,7 @@ Spam
 Speed
 Speisenpläne
 Spiders
+Spielersuche
 splitter
 Sportler
 Sprachcode
@@ -907,6 +921,7 @@ Teaserbild
 Teaserbox
 Teaserboxen
 Tech
+Teilnehmerlisten
 Teilnehmerregistrierung
 Teilnehmerverwaltung
 Telematik
@@ -1013,11 +1028,13 @@ Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
+Wertungszahl
 Widerrufsbelehrung
 Wiederherstellungsfunktion
 with
 Wohnparks
 Wohnungsunternehmen
+Wortfilter
 WOW
 Wrapper
 Währungsfeld
@@ -1038,6 +1055,7 @@ Zufallsnachricht
 Zugangsdaten
 Zugangspaket
 Zugangstoken
+Zugriffsschutz
 Zugänglichkeitserklärung
 Zusatzinfos
 überschreibbare

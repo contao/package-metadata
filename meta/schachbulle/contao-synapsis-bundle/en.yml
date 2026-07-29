@@ -1,0 +1,24 @@
+en:
+    title: Synapsis Forum
+    description: >
+        A full-featured forum for Contao. User management is handled entirely by the Contao members.
+
+        You can run several separate forums on a single installation, organized in a tree structure like the site structure.
+        Access control is inherited via member groups, with separate read and write permissions for guests.
+        Topics and posts offer an editor, smileys, file attachments, an image lightbox, quotes, signatures and polls.
+
+        On top of that there are member profiles, ranks, a forum search, RSS feeds, notifications in the forum and by email,
+        subscriptions, a word filter, statistics and five color schemes. Moderation covers inherited roles,
+        pinning, closing, moving, reports, bulk moderation and member bans.
+
+        This extension was developed entirely with Claude Code, using the Opus 4.8/5 and Fable 5 models.
+    keywords:
+        - forum
+        - community
+        - discussion
+        - posts
+        - moderation
+        - poll
+    support:
+        issues: https://github.com/Samson1964/contao-synapsis-bundle/issues
+        source: https://github.com/Samson1964/contao-synapsis-bundle
