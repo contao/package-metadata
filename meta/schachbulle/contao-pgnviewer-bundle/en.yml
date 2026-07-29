@@ -1,0 +1,14 @@
+en:
+    title: PGN viewer
+    description: >
+        Provides a content element that lets you replay chess games in PGN format on your website.
+
+        The display engine is the PGN viewer by Chesstempo, adapted for use in Contao.
+    keywords:
+        - chess
+        - PGN
+        - games
+        - chessboard
+    support:
+        issues: https://github.com/Samson1964/contao-pgnviewer-bundle/issues
+        source: https://github.com/Samson1964/contao-pgnviewer-bundle

@@ -1,0 +1,16 @@
+en:
+    title: Wertungsportal
+    description: >
+        Integrates the rating portal of the German Chess Federation into your website via its REST interface,
+        replacing the older DeWIS SOAP interface.
+
+        Front end modules are available for players, clubs, federations, tournaments and top lists.
+        In the back end you manage the clubs and players whose data should be displayed.
+    keywords:
+        - chess
+        - rating
+        - DWZ
+        - German Chess Federation
+    support:
+        issues: https://github.com/Samson1964/contao-wertungsportal-bundle/issues
+        source: https://github.com/Samson1964/contao-wertungsportal-bundle

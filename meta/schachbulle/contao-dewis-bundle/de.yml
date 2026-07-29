@@ -1,0 +1,19 @@
+de:
+    title: DeWIS - DWZ-Abfrage
+    description: >
+        Fragt die Deutsche Wertungszahl (DWZ) über die DeWIS-Schnittstelle des Deutschen Schachbundes ab
+        und zeigt sie auf deiner Website an.
+
+        Es stehen Frontend-Module für Spieler, Vereine, Verbände, Turniere, die Spielersuche und Bestenlisten bereit.
+        Im Backend verwaltest du die Vereine und Spieler, deren Daten angezeigt werden sollen.
+    keywords:
+        - Schach
+        - DWZ
+        - DeWIS
+        - Wertungszahl
+        - Spielersuche
+    support:
+        issues: https://github.com/Samson1964/contao-dewis-bundle/issues
+        source: https://github.com/Samson1964/contao-dewis-bundle
+    suggest:
+        schachbulle/contao-wertungsportal-bundle: Der Nachfolger, der statt der SOAP-Schnittstelle die neuere REST-Schnittstelle des Wertungsportals nutzt

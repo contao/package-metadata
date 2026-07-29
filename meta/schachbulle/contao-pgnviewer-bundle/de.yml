@@ -1,0 +1,14 @@
+de:
+    title: PGN-Betrachter
+    description: >
+        Stellt ein Inhaltselement bereit, mit dem du Schachpartien im PGN-Format auf deiner Website abspielen lassen kannst.
+
+        Als Anzeige-Engine dient der PGN-Viewer von Chesstempo, der für den Einsatz in Contao angepasst wurde.
+    keywords:
+        - Schach
+        - PGN
+        - Partien
+        - Schachbrett
+    support:
+        issues: https://github.com/Samson1964/contao-pgnviewer-bundle/issues
+        source: https://github.com/Samson1964/contao-pgnviewer-bundle
