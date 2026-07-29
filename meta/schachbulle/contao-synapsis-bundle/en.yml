@@ -10,6 +10,8 @@ en:
         On top of that there are member profiles, ranks, a forum search, RSS feeds, notifications in the forum and by email,
         subscriptions, a word filter, statistics and five color schemes. Moderation covers inherited roles,
         pinning, closing, moving, reports, bulk moderation and member bans.
+
+        This extension was developed entirely with Claude Code, using the Opus 4.8/5 and Fable 5 models.
     keywords:
         - forum
         - community

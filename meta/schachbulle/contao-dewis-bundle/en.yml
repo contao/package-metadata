@@ -1,11 +1,10 @@
 en:
     title: DeWIS - German chess rating lookup
     description: >
-        Looks up the German chess rating (DWZ) via the DeWIS interface of the German Chess Federation
-        and displays it on your website.
+        Looks up the German chess rating (DWZ) via the DeWIS interface of the German Chess Federation (DSB)
+        and displays it on the DSB website. This bundle is no longer maintained; it was in use at the DSB until 25 July 2026.
 
         Front end modules are available for players, clubs, federations, tournaments, player search and top lists.
-        In the back end you manage the clubs and players whose data should be displayed.
     keywords:
         - chess
         - rating

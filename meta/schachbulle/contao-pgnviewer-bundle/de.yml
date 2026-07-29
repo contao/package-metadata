@@ -4,6 +4,8 @@ de:
         Stellt ein Inhaltselement bereit, mit dem du Schachpartien im PGN-Format auf deiner Website abspielen lassen kannst.
 
         Als Anzeige-Engine dient der PGN-Viewer von Chesstempo, der für den Einsatz in Contao angepasst wurde.
+        
+        Diese Erweiterung wurde ursprünglich von Wilfried Krebbers entwickelt. Frank Binding übernahm die Weiterentwicklung.
     keywords:
         - Schach
         - PGN

@@ -1,5 +1,5 @@
 de:
-    title: Synapsis Forum
+    title: Synapsis-Forum
     description: >
         Ein vollwertiges Forum für Contao. Die Benutzerverwaltung läuft komplett über die Contao-Mitglieder.
 
@@ -10,6 +10,8 @@ de:
         Dazu kommen Mitgliederprofile, Rangstufen, Forensuche, RSS-Feeds, Benachrichtigungen im Forum und per E-Mail,
         Abonnements, Wortfilter, Statistiken und fünf Farbschemata. Für die Moderation gibt es vererbte Rollen,
         Anpinnen, Schließen, Verschieben, Meldungen, Massen-Moderation und Mitgliedersperren.
+        
+        Diese Erweiterung wurde komplett mit Claude Code und den Modellen Opus 4.8/5 und Fable 5 entwickelt.
     keywords:
         - Forum
         - Community

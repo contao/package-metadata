@@ -1,11 +1,11 @@
 de:
-    title: Wertungsportal
+    title: Wertungsportal - DWZ-Abfrage des Deutschen Schachbundes
     description: >
-        Bindet das Wertungsportal des Deutschen Schachbundes über dessen REST-Schnittstelle in deine Website ein
+        Bindet das Wertungsportal des Deutschen Schachbundes (DSB) über dessen REST-Schnittstelle in die DSB-Website ein
         und löst damit die ältere DeWIS-SOAP-Schnittstelle ab.
 
         Es stehen Frontend-Module für Spieler, Vereine, Verbände, Turniere und Bestenlisten bereit.
-        Im Backend verwaltest du die Vereine und Spieler, deren Daten angezeigt werden sollen.
+        Im Backend werden Vereine und Spieler verwaltet.
     keywords:
         - Schach
         - DWZ

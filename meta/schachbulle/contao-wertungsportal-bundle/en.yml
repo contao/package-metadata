@@ -1,11 +1,11 @@
 en:
-    title: Wertungsportal
+    title: Wertungsportal - German chess rating lookup
     description: >
-        Integrates the rating portal of the German Chess Federation into your website via its REST interface,
+        Integrates the rating portal of the German Chess Federation (DSB) into the DSB website via its REST interface,
         replacing the older DeWIS SOAP interface.
 
         Front end modules are available for players, clubs, federations, tournaments and top lists.
-        In the back end you manage the clubs and players whose data should be displayed.
+        Clubs and players are managed in the back end.
     keywords:
         - chess
         - rating

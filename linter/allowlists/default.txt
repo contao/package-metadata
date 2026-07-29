@@ -48,6 +48,7 @@ BFV
 Bilddatenbanken
 bilder
 Bilderwelten
+Binding
 Bing
 BITV
 bluebranch
@@ -79,6 +80,7 @@ chatbot
 Checkbox
 Chesstempo
 ChurchDesk
+Claude
 Clickpress
 Clickskeks
 Cloud
@@ -142,6 +144,7 @@ DOMPDF
 DownloadMail
 Dr
 Dropzone
+DSB
 DSGVO
 DWZ
 EAA
@@ -172,6 +175,7 @@ Exposé
 exposé
 Extassets
 FA
+Fable
 Facebook
 facebook
 facebook wall
@@ -282,6 +286,7 @@ Klarna
 Klaro
 KlickTipp
 KML
+Krebbers
 krpano
 KuteJS
 Labelcenter
@@ -371,6 +376,7 @@ OpenLayers
 OpenStreetMap
 OpenStreetMaps
 Optimization
+Opus
 org
 OriginalFileName
 OSM
@@ -588,6 +594,7 @@ WhatsApp
 WIB
 Widget
 Widgets
+Wilfried
 Wimer
 Wizard
 WMS
