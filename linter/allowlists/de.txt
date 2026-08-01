@@ -868,6 +868,7 @@ Standortermittlung
 Startbildschirm
 Startups
 Startzeit
+Statistics
 Statistikübersicht
 Stellenanzeigen
 Sternzeit
@@ -1002,6 +1003,7 @@ Videohandbuch
 Viewer
 Visibility
 visibility
+Visitor
 visits
 Visualization
 visuell
