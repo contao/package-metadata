@@ -1,0 +1,17 @@
+en:
+    title: Meta maintenance
+    description: >
+        Central SEO meta maintenance: manage page titles, meta descriptions, robots
+        settings and image alt texts of the entire website in a single table view —
+        with traffic-light rating, live character counters, filters and search. The
+        built-in image audit crawls your own website (via backend button or console
+        command) and shows which images are delivered without alt text on which
+        pages. All changes go through Contao versioning and can be rolled back.
+    keywords:
+        - SEO
+        - meta description
+        - page title
+        - robots
+        - alt text
+        - accessibility
+        - audit

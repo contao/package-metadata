@@ -1,0 +1,18 @@
+de:
+    title: Metapflege
+    description: >
+        Zentrale SEO-Metapflege: Seitentitel, Meta-Descriptions, Robots-Einstellungen
+        und Bild-Alt-Texte der ganzen Website in einer Tabellenansicht pflegen — mit
+        Ampel-Logik, Live-Zeichenzählern, Filter und Suche. Das eingebaute Bild-Audit
+        crawlt die eigene Website (per Backend-Button oder Konsolen-Befehl) und zeigt,
+        welche Bilder wo ohne Alt-Text ausgeliefert werden. Änderungen laufen über die
+        Contao-Versionierung und sind rückrollbar.
+    keywords:
+        - SEO
+        - Meta-Description
+        - Seitentitel
+        - Robots
+        - Alt-Texte
+        - Barrierefreiheit
+        - Accessibility
+        - Audit
