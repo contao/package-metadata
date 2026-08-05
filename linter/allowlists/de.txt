@@ -1068,3 +1068,7 @@ Artikelübersicht
 Stopdatum
 Stoppdatum
 Formularliste
+cookiebar
+Zustimmungsabfragen
+Sichtbarkeits
+Platzhaltertext
