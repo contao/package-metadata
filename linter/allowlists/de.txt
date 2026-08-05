@@ -1072,3 +1072,9 @@ cookiebar
 Zustimmungsabfragen
 Sichtbarkeits
 Platzhaltertext
+Markerverwaltung
+Kartenfarbe
+Markerfarbe
+Zoomstufe
+Darstellungsoptionen
+Graustufen

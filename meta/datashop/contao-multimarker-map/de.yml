@@ -1,0 +1,6 @@
+de:
+    title: Multimarker Map
+    description: >
+        Contao-Content-Element für eine interaktive Karte mit mehreren Markern - wahlweise mit OpenStreetMap (Leaflet) oder Google Maps, bei identischer Markerverwaltung im Backend.
+
+        Jeder Marker erhält Titel, Position und einen frei gestaltbaren Tooltip-Text sowie automatisch einen Routing-Link, der auf Mobilgeräten die installierte Maps-App und auf dem Desktop die Maps-Website öffnet. Kartenfarbe (inkl. Graustufen-Modus), Markerfarbe, Zoomstufe und weitere Darstellungsoptionen sind im Backend konfigurierbar.
