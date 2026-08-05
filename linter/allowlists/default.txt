@@ -627,3 +627,5 @@ Multimarker
 Leaflet
 OpenStreetMap
 Tooltip
+Map
+grayscale
