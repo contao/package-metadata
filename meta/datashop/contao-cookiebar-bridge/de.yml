@@ -1,0 +1,17 @@
+de:
+    title: Cookiebar Bridge
+    description: >
+        Erweitert oveleon/contao-cookiebar um serverseitige Zustimmungsabfragen: Twig-Funktionen und InsertTags, mit denen sich Inhalte je nach Cookie-Zustimmung ein- oder ausblenden lassen.
+
+        Zusätzlich bekommt jedes Content-Element und jedes Frontend-Modul eine eigene Sichtbarkeits-Option ("Anzeigen nach Cookie-Zustimmung"), inklusive Mehrfachauswahl der relevanten Cookies, Bedingung (akzeptiert/nicht akzeptiert) und einem frei gestaltbaren Platzhaltertext mit InsertTag-Unterstützung.
+    keywords:
+        - cookiebar
+        - cookie
+        - consent
+        - datenschutz
+        - dsgvo
+        - twig
+        - insert-tag
+    support:
+        issues: https://github.com/datashop-cc/contao-cookiebar-bridge/issues
+        docs: https://github.com/datashop-cc/contao-cookiebar-bridge#readme
