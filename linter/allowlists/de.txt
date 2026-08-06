@@ -1021,6 +1021,7 @@ Vollbildmodus
 Volltextsuche
 Vorlagedatei
 Vorschaubild
+Vorschauleiste
 Wallets
 Warenkorbfunktionen
 Warenkorbregeln
