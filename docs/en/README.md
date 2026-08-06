@@ -114,6 +114,12 @@ This way you will be notified of any changes to that folder, so you can check if
 your namespace.
 
 
+## Package Indexer
+
+The metadata is automatically indexed every 30 minutes and published both at https://extensions.contao.org and
+in the Contao Manager. You can find an overview of the system status at https://contao-package-list.cronitorstatus.com/.
+
+
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
 [3]: https://github.com/contao/contao-manager

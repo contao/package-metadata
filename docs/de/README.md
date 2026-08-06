@@ -112,6 +112,12 @@ Benutzer in der Datei CODEOWNERS entsprechend eintragen. Du wirst dann automatis
 Ordner informiert und kannst diese freigeben oder ablehnen.
 
 
+## Package Indexer
+
+Die Metadaten werden alle 30 Minuten automatisch indexiert und sowohl unter https://extensions.contao.org als auch
+im Contao Manager veröffentlicht. Eine Übersicht über den Systemstatus findest du unter https://contao-package-list.cronitorstatus.com/.
+
+
 [1]: https://getcomposer.org
 [2]: https://docs.transifex.com/formats/yaml
 [3]: https://github.com/contao/contao-manager
