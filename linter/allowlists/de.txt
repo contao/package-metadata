@@ -128,6 +128,7 @@ Blätterfunktion
 Blätterkataloge
 Body
 body
+Bonuspunkten
 Bootstrapper
 Bordmittel
 Bots
@@ -264,6 +265,7 @@ Einwilligungsdaten
 Einwilligungseinstellungen
 Einwilligungsfunktion
 Einzelbestellungen
+Einzelturniere
 Elementsets
 Elternelement
 Elterntabelle
@@ -370,6 +372,7 @@ Geokodierungsdienste
 Geokoordinaten
 georeferenzierte
 gerendert
+Gesamtstand
 gescannten
 Geschäftsabläufe
 Geschütztes
@@ -724,6 +727,7 @@ Properties
 Protocol
 Pull
 Pulse
+Punktgleichheit
 Push
 PWA
 Pwned
@@ -787,6 +791,7 @@ Scheduler
 Schieberegler
 Schiebereglers
 Schlüsselverwaltung
+Schnellschach
 Schreibrechte
 Schriftpositionierung
 SCR
@@ -1019,6 +1024,7 @@ Vollbild
 Vollbildkarte
 Vollbildmodus
 Volltextsuche
+Vorjahressieger
 Vorlagedatei
 Vorschaubild
 Vorschauleiste
@@ -1039,6 +1045,7 @@ Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
+Wertungspunkten
 Wertungszahl
 Widerrufsbelehrung
 Wiederherstellungsfunktion

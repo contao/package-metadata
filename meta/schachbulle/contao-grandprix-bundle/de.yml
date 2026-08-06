@@ -1,0 +1,15 @@
+de:
+    title: Berliner Schnellschach-Grand-Prix
+    description: >
+        Berechnet den Gesamtstand einer Grand-Prix-Serie aus den CSV-Tabellen der Einzelturniere und stellt ihn im Frontend dar.
+
+        Mit Wertungspunkten je Platz, Begrenzung auf die besten x Turniere, Feinwertungen bei Punktgleichheit und Bonuspunkten für den Vorjahressieger.
+    keywords:
+        - Schach
+        - Schnellschach
+        - Grand-Prix
+        - Wertung
+        - Turnier
+    support:
+        issues: https://github.com/Samson1964/contao-grandprix-bundle/issues
+        source: https://github.com/Samson1964/contao-grandprix-bundle
