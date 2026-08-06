@@ -4,3 +4,6 @@ en:
         Contao content element for an interactive map with multiple markers - using either OpenStreetMap (Leaflet) or Google Maps, with identical marker management in the backend.
 
         Each marker has a title, position and a freely editable tooltip text, plus an automatic routing link that opens the installed maps app on mobile devices and the maps website on desktop. Map color (including a grayscale mode), marker color, zoom level and further display options are configurable in the backend.
+    support:
+        issues: https://github.com/datashop-cc/contao-multimarker-map/issues
+        docs: https://github.com/datashop-cc/contao-multimarker-map#readme
