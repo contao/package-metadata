@@ -626,3 +626,9 @@ ZUGFeRD
 zvoove
 oveleon
 InsertTag
+Multimarker
+Leaflet
+OpenStreetMap
+Tooltip
+Map
+grayscale
