@@ -60,6 +60,7 @@ branch
 Branches
 branches
 Breadcrumb
+Breitbart
 BROCKHAUS
 Buchholz
 Bulma
@@ -136,6 +137,7 @@ DHL
 DICOM
 Digistore
 Digistore24
+DigiViewer
 DMS
 DOC
 DOCX
@@ -271,6 +273,7 @@ IT
 iTunes
 JavaScript
 JIS
+Joerg
 JointForms
 JPEG
 jpg
