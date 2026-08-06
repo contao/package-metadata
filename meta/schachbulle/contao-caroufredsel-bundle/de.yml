@@ -1,0 +1,18 @@
+de:
+    title: carouFredSel-Bildkarussell
+    description: >
+        Bildkarussell auf Basis des jQuery-Plugins carouFredSel: Galerie mit synchronisierter Vorschauleiste, Newsticker, Hintergrund-Slideshow im Vollbild und ein Wrapper, der beliebige Inhaltselemente in ein Karussell verpackt.
+
+        Die Karussell-Einstellungen (Abspielverhalten, Übergänge, Größen, Navigation, Paginierung, Touch- und Mausrad-Steuerung) werden zentral gepflegt und von beliebig vielen Elementen und Modulen wiederverwendet.
+
+        Portierung der Contao-3-Erweiterung von Dirk Klemmt für Contao 4.13 und Contao 5.
+    keywords:
+        - Karussell
+        - Slider
+        - Slideshow
+        - Galerie
+        - Newsticker
+        - jQuery
+    support:
+        issues: https://github.com/Samson1964/contao-caroufredsel-bundle/issues
+        source: https://github.com/Samson1964/contao-caroufredsel-bundle
