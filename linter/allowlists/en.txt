@@ -9,6 +9,7 @@ autocomplete
 autocompleted
 autocompletion
 automator
+autoplay
 Autowrap
 Avatar
 backend
