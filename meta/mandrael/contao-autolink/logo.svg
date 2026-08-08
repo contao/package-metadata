@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title desc">
+  <title id="title">Autolink logo</title>
+  <desc id="desc">A document with highlighted text, a search loupe, and an automatically generated chain link.</desc>
+  <rect width="256" height="256" rx="48" fill="#F4F7FB"/>
+  <path d="M66 33h78l45 45v68c0 39.2-31.8 71-71 71H66V33Z" fill="#FFFFFF"/>
+  <path d="M66 33h78l45 45v68c0 39.2-31.8 71-71 71H66V33Z" fill="none" stroke="#2F3A45" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M144 33v45h45" fill="#E8EEF5"/>
+  <path d="M144 33v45h45" fill="none" stroke="#2F3A45" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="87" y="94" width="67" height="14" rx="7" fill="#AAB5C2"/>
+  <rect x="87" y="124" width="66" height="14" rx="7" fill="#F6C84C"/>
+  <rect x="87" y="154" width="48" height="14" rx="7" fill="#AAB5C2"/>
+  <circle cx="184" cy="70" r="25" fill="#FFFFFF" stroke="#1473E6" stroke-width="10"/>
+  <path d="m202 88 26 26" fill="none" stroke="#1473E6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M215 39v9M215 62v9M199 55h9M222 55h9" fill="none" stroke="#F6C84C" stroke-width="7" stroke-linecap="round"/>
+  <path d="M179 188h-10a18 18 0 0 1 0-36h10" fill="none" stroke="#1473E6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M201 152h10a18 18 0 0 1 0 36h-10" fill="none" stroke="#1473E6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M174 170h32" fill="none" stroke="#1473E6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
