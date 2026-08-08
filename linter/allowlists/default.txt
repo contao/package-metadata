@@ -70,6 +70,7 @@ Bundles
 Burns
 Bynder
 Captcha
+carouFredSel
 Catalog
 Categories
 Category
@@ -287,6 +288,7 @@ Kindelemente
 KIWI
 Klarna
 Klaro
+Klemmt
 KlickTipp
 KML
 Krebbers
