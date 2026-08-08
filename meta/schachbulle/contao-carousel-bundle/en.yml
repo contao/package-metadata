@@ -1,5 +1,5 @@
 en:
-    title: carouFredSel image carousel
+    title: Image carousel
     description: >
         Image carousel based on Swiper: gallery with a synchronized thumbnail bar, news ticker, full-screen background slideshow and a wrapper that turns any content elements into a carousel.
 
@@ -14,5 +14,5 @@ en:
         - newsticker
         - swiper
     support:
-        issues: https://github.com/Samson1964/contao-caroufredsel-bundle/issues
-        source: https://github.com/Samson1964/contao-caroufredsel-bundle
+        issues: https://github.com/Samson1964/contao-carousel-bundle/issues
+        source: https://github.com/Samson1964/contao-carousel-bundle

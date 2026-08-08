@@ -1,5 +1,5 @@
 de:
-    title: carouFredSel-Bildkarussell
+    title: Bildkarussell
     description: >
         Bildkarussell auf Swiper-Basis: Galerie mit synchronisierter Vorschauleiste, Newsticker, Hintergrund-Slideshow im Vollbild und ein Wrapper, der beliebige Inhaltselemente in ein Karussell verpackt.
 
@@ -14,5 +14,5 @@ de:
         - Newsticker
         - Swiper
     support:
-        issues: https://github.com/Samson1964/contao-caroufredsel-bundle/issues
-        source: https://github.com/Samson1964/contao-caroufredsel-bundle
+        issues: https://github.com/Samson1964/contao-carousel-bundle/issues
+        source: https://github.com/Samson1964/contao-carousel-bundle
