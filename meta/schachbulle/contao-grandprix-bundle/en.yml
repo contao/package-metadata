@@ -1,0 +1,16 @@
+en:
+    title: Berlin Rapid Chess Grand Prix
+    description: >
+        Calculates the overall standings of a grand prix series from the CSV tables of the individual tournaments and displays them in the front end.
+
+        With rating points per place, a limit to the best x tournaments, tie-breaks on equal points and bonus points for the previous year's winner.
+    keywords:
+        - Berlin
+        - chess
+        - rapid chess
+        - grand prix
+        - rating
+        - tournament
+    support:
+        issues: https://github.com/Samson1964/contao-grandprix-bundle/issues
+        source: https://github.com/Samson1964/contao-grandprix-bundle
