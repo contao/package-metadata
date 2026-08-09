@@ -97,6 +97,7 @@ Benutzerfreundlichkeit
 Benutzergruppen
 Benutzername
 Benutzernamen
+Benutzerrechte
 Berechnungsarten
 Bestätigungscodes
 Bestätigungsmails
@@ -708,6 +709,7 @@ Preview
 Privacy
 Product
 production
+Produktdaten
 Produktdetails
 Produkteigenschaften
 Produktkatalogen
@@ -1010,6 +1012,7 @@ Versandmodul
 Versandmoduls
 Verschlüsselungsklasse
 Versionierte
+Versionierung
 Videohandbuch
 Viewer
 Visibility
