@@ -1,0 +1,14 @@
+de:
+    title: Bootstrap Builder
+    description: >
+        Erstelle responsive Contao-Seiten mit Bereichen, Containern, Zeilen und Spalten auf Basis von Bootstrap 5. Hintergründe, Abstände und Raster lassen sich für große und kleine Bildschirme im Backend konfigurieren. Eine Verwaltung für installierbare Theme-Pakete und ein kostenloses Beispiel sind enthalten.
+    keywords:
+        - Bootstrap
+        - Layout
+        - Raster
+        - Theme
+        - Spalten
+        - Seitenaufbau
+    support:
+        issues: https://github.com/silbersaiten/contao-bootstrap-builder/issues
+        docs: https://github.com/silbersaiten/contao-bootstrap-builder/tree/main/docs/manual
