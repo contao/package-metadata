@@ -97,6 +97,7 @@ Benutzerfreundlichkeit
 Benutzergruppen
 Benutzername
 Benutzernamen
+Benutzerrechte
 Berechnungsarten
 Bestätigungscodes
 Bestätigungsmails
@@ -130,6 +131,7 @@ Blätterfunktion
 Blätterkataloge
 Body
 body
+Bonuspunkten
 Bootstrapper
 Bordmittel
 Bots
@@ -266,6 +268,7 @@ Einwilligungsdaten
 Einwilligungseinstellungen
 Einwilligungsfunktion
 Einzelbestellungen
+Einzelturniere
 Elementsets
 Elternelement
 Elterntabelle
@@ -372,6 +375,7 @@ Geokodierungsdienste
 Geokoordinaten
 georeferenzierte
 gerendert
+Gesamtstand
 gescannten
 Geschäftsabläufe
 Geschütztes
@@ -708,6 +712,7 @@ Preview
 Privacy
 Product
 production
+Produktdaten
 Produktdetails
 Produkteigenschaften
 Produktkatalogen
@@ -727,6 +732,7 @@ Properties
 Protocol
 Pull
 Pulse
+Punktgleichheit
 Push
 PWA
 Pwned
@@ -790,6 +796,7 @@ Scheduler
 Schieberegler
 Schiebereglers
 Schlüsselverwaltung
+Schnellschach
 Schreibrechte
 Schriftpositionierung
 SCR
@@ -1010,6 +1017,7 @@ Versandmodul
 Versandmoduls
 Verschlüsselungsklasse
 Versionierte
+Versionierung
 Videohandbuch
 Viewer
 Visibility
@@ -1022,6 +1030,7 @@ Vollbild
 Vollbildkarte
 Vollbildmodus
 Volltextsuche
+Vorjahressieger
 Vorlagedatei
 Vorschaubild
 Vorschauleiste
@@ -1042,6 +1051,7 @@ Weiterleitungsseite
 Weiterleitungsseiten
 Weiterleitungszielen
 Weiterlesen
+Wertungspunkten
 Wertungszahl
 Widerrufsbelehrung
 Wiederherstellungsfunktion
