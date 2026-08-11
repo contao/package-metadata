@@ -97,6 +97,7 @@ Benutzerfreundlichkeit
 Benutzergruppen
 Benutzername
 Benutzernamen
+Benutzerprofil
 Benutzerrechte
 Berechnungsarten
 Bestätigungscodes
