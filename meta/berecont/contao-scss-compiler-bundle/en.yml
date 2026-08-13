@@ -1,0 +1,10 @@
+de:
+    title: SCSS Compiler
+    description: >
+        Compiles SCSS files to CSS directly from the Contao backend.
+        Supports multiple configurations, source maps and manual compilation of individual or all SCSS files. 
+    keywords:
+        - SCSS
+        - CSS
+        - compiler
+        - stylesheet
