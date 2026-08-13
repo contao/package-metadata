@@ -1,4 +1,4 @@
-de:
+en:
     title: SCSS Compiler
     description: >
         Compiles SCSS files to CSS directly from the Contao backend.
