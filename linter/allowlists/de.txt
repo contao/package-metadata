@@ -1107,4 +1107,5 @@ Mobilgeräten
 Kartenanbieter-spezifische
 Konsolenbefehle
 Spielverlauf
-SpielerstatistikenKartenanbieter
+Spielerstatistiken
+Kartenanbieter
