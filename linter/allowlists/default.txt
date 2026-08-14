@@ -632,3 +632,7 @@ OpenStreetMap
 Tooltip
 Map
 grayscale
+OpenFreeMap
+MapLibre
+Map-ID
+Style-JSON
