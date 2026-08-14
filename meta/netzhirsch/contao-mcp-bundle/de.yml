@@ -12,8 +12,7 @@ de:
         der bestehenden Contao-Installation. Ein eigener Dienst oder ein zusätzlicher Port sind nicht nötig.
 
         Kommerzielle Erweiterung: 30 Tage kostenlos testen, danach 49 € pro Monat und Contao-Installation.
-        Testphase und Abonnement werden im Contao-Backend gestartet, die Zahlung läuft über gesicherte
-        Stripe-Seiten.
+        Gestartet wird beides direkt im Contao-Backend, die Zahlung läuft über gesicherte Stripe-Seiten.
     keywords:
         - MCP
         - Claude
