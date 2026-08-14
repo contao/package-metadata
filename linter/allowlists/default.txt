@@ -339,6 +339,7 @@ mar-ke
 master
 Matomo
 MaxMind
+MCP
 MCW
 Meilisearch
 MetaModel
