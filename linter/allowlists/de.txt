@@ -1104,3 +1104,6 @@ Graustufen
 Markern
 Marker
 Mobilgeräten
+Konsolenbefehle
+Spielverlauf
+Spielerstatistiken
