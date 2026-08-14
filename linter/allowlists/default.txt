@@ -70,6 +70,7 @@ Bundles
 Burns
 Bynder
 Captcha
+carouFredSel
 Catalog
 Categories
 Category
@@ -106,6 +107,7 @@ Contao
 ContaoDMS
 ContaoMonitoring
 contents
+Context
 CONVERT
 COPPA
 Corona
@@ -229,6 +231,7 @@ Google
 googlemaps
 GPT
 GPX
+Grand
 Graphhopper
 grid
 gtag
@@ -236,6 +239,7 @@ gurado
 gutes
 gutes.io
 gutesio
+handball
 Hazenberg
 Heiko
 heimrichhannot
@@ -287,6 +291,7 @@ Kindelemente
 KIWI
 Klarna
 Klaro
+Klemmt
 KlickTipp
 KML
 Krebbers
@@ -335,6 +340,7 @@ mar-ke
 master
 Matomo
 MaxMind
+MCP
 MCW
 Meilisearch
 MetaModel
@@ -354,6 +360,7 @@ My
 Nahati
 NATURE
 Nested
+net
 Netzhirsch
 Netzmacht
 netzmacht
@@ -420,6 +427,7 @@ POIs
 PostFinance
 Preload
 preload
+Prix
 Prod
 prod
 Prompts
