@@ -1,0 +1,16 @@
+en:
+    title: Handball Schedules and Standings
+    description: >
+        Integrate schedules, results and standings for your handball club.
+
+        Clubs, seasons and teams are managed in the back end. 
+        Content elements for schedules and standings as well as the official handball.net widgets are available for the front end. 
+        Games can also be imported into Contao calendars. Cron jobs and console commands keep games, results, seasons and teams up to date automatically.
+    keywords:
+        - handball
+        - handball.net
+        - schedule
+        - standings
+        - results
+        - club
+        - calendar

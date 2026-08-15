@@ -1,0 +1,4 @@
+en:
+    title: Page teaser
+    description: >
+        Shows a teaser (image, headline, text) linking to another page, as a native content element. Headline and text come from the target page settings; image size and whether text is shown are set in the page layout.

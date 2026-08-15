@@ -1,0 +1,25 @@
+de:
+    title: Ordnerbasierte Bildergalerien
+
+    description: >
+        Mit dieser Erweiterung lassen sich Bildergalerien direkt aus der
+        Ordnerstruktur der Contao-Dateiverwaltung erzeugen. Statt für jede
+        Galerie Seiten und Inhaltselemente anzulegen, genügt eine sinnvolle
+        Ordnerstruktur unterhalb des files/-Verzeichnisses.
+
+        Optionale Metadaten werden in einer _metadata.yml gespeichert und
+        können entweder direkt bearbeitet oder komfortabel über einen
+        integrierten Metadaten-Editor gepflegt werden.
+
+        Die Erweiterung nutzt vollständig die Contao-Bildpipeline und
+        unterstützt responsive Bilder, individuelle Bildgrößen sowie
+        verschiedene Galerie-Viewer wie die Contao-Lightbox oder PhotoSwipe.
+
+    keywords:
+        - Galerie
+        - Bilder
+        - Fotos
+        - Ordner
+        - YAML
+        - PhotoSwipe
+        - Lightbox

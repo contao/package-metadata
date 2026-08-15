@@ -1,0 +1,4 @@
+en:
+    title: Show CSS in lists
+    description: >
+        Shows the CSS ID and CSS class of articles and content elements in all back end list views (can be enabled per user).

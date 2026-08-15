@@ -1,0 +1,17 @@
+en:
+    title: Backend icon size
+    description: >
+        This extension lets you change the size of the backend icons in your user profile.
+
+        Contao draws them at 16 pixels, which some find too small. Sizes from 14 to 24 pixels are
+        on offer. The setting belongs to you alone, everyone else carries on unchanged.
+
+        It covers the icons throughout the backend: listings, page and file tree, navigation and
+        the header bar. A project can narrow the list of sizes down by configuration.
+    keywords:
+        - contao
+        - backend
+        - icon
+        - size
+        - accessibility
+        - e-spin
