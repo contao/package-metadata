@@ -1,0 +1,14 @@
+en:
+  title: Contao Turnstile
+  description: >
+    Replaces the default Contao CAPTCHA (the security question) globally with
+    Cloudflare Turnstile. Site key and secret key are entered in the Contao
+    back-end settings. One code base for the Contao LTS versions 4.13, 5.3 and 5.7.
+  keywords:
+    - contao
+    - captcha
+    - cloudflare
+    - turnstile
+    - spam
+    - security
+    - form
