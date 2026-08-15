@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#F6821F"/>
-      <stop offset="1" stop-color="#FB9A3C"/>
-    </linearGradient>
-  </defs>
-  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
-  <!-- Verifikations-Bogen (ca. 270 Grad); gerader Abschluss, damit die Spitze nahtlos ansetzt -->
-  <path d="M71.47 106.35 A43 43 0 1 1 106.35 71.47"
-        fill="none" stroke="#ffffff" stroke-opacity="0.85" stroke-width="7" stroke-linecap="butt"/>
-  <!-- gefuellte Pfeilspitze: Basis quer zur Tangente, Spitze entlang der Tangente (freigegebene Version) -->
-  <path d="M96.5 69.7 L116.2 73.2 L103.2 89.2 Z" fill="#ffffff" fill-opacity="0.85"/>
-  <!-- Checkbox -->
-  <rect x="39" y="39" width="50" height="50" rx="13" fill="#ffffff"/>
-  <path d="M50.5 65 L60 74.5 L78.5 52.5"
-        fill="none" stroke="#F6821F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="a" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#f6821f"/><stop offset="1" stop-color="#fb9a3c"/></linearGradient></defs><rect width="128" height="128" fill="url(#a)" rx="28"/><path fill="none" stroke="#fff" stroke-opacity=".85" stroke-width="7" d="M71.47 106.35a43 43 0 1 1 34.88-34.88"/><path fill="#fff" fill-opacity=".85" d="m96.5 69.7 19.7 3.5-13 16Z"/><rect width="50" height="50" x="39" y="39" fill="#fff" rx="13"/><path fill="none" stroke="#f6821f" stroke-linecap="round" stroke-linejoin="round" stroke-width="9" d="m50.5 65 9.5 9.5 18.5-22"/></svg>
