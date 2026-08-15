@@ -362,6 +362,7 @@ Frontendmodule
 Funnel
 Funnels
 für
+Galerieansicht
 Gallery
 general
 Geo
@@ -704,6 +705,7 @@ Plenta
 Plugin
 Plugins
 point
+Point
 Popups
 Positionierung
 Positionsverfolgung
