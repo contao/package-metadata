@@ -1,7 +1,7 @@
 en:
-    title: Contao 4 HeaderFooterCode Bundle
+    title: HeaderFooterCode Bundle for Contao 4 / Contao 5
     description: >
-        With this bundle for [Contao CMS] [1] (version 4.4.x), you can embed additional and individual header and footer codes on each page and, if necessary, inherit them on subpages.
+        With the HeaderFooterCode bundle you can embed additional and individual header and footer codes on each page and, if necessary, inherit them on subpages.
         The additional header and footer code extend the page properties.
     keywords:
         - header

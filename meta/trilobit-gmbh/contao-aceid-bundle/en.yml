@@ -1,0 +1,10 @@
+en:
+    title: Aceid Bundle for Contao 4 / Contao 5
+    description: >
+        With the Aceid bundle more information is shown in the Contao backend listviews.
+        E.g. number and IDs of child elements or the used layout.
+    keywords:
+        - page IDs
+        - article IDs
+        - content elements
+        - extended listviews for backend

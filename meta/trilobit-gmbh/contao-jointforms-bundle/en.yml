@@ -1,0 +1,10 @@
+en:
+    title: JointForms Bundle for Contao 4 / Contao 5
+    description: >
+        Use the JointForms bundle to merge several forms to a multi-stage form process, e.g. a multi-page application form.
+        Form data will be persisted in the members' section. Use Symfony Expression Language to define dependencies of forms.
+        The member may pause the form process and may login later to continue.
+        Use config.yml for configuration.
+    keywords:
+        - mulit-page forms
+

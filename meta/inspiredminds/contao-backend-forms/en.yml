@@ -1,0 +1,4 @@
+en:
+    title: Backend Forms
+    description: >
+        Extension of codefog/contao-haste to quickly build a form for the back end, in the same style as the regular edit forms of Contao.

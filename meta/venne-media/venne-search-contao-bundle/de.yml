@@ -1,0 +1,25 @@
+de:
+    title: Venne Search
+    description: >
+        Die schnelle, intelligente Suche für Contao. Findet Inhalte in Seiten, Artikeln und sogar in PDFs, Word- und anderen Office-Dokumenten. Tippfehler werden verziehen, Umlaute und Akzente sind egal — Besucher finden, was sie suchen, auch wenn sie es nicht ganz richtig schreiben.
+
+        7 Tage kostenlos testen, danach 20 €/Monat — monatlich kündbar. Anmeldung und Details auf venne-search.de.
+
+        Die Suche läuft auf einem externen, dafür optimierten Suchserver. Das Ergebnis: blitzschnelle Treffer, ohne dass die eigene Website darunter leidet. Geschützte Mitglieder-Bereiche bleiben sicher — Inhalte erscheinen nur in den Suchergebnissen, wenn der Benutzer auch wirklich Zugriff darauf hat.
+
+        Einrichtung in wenigen Minuten über das Contao-Backend. Ein fertiges Frontend-Modul lässt sich per Drag & Drop einbauen, eigene Such-Oberflächen sind ebenfalls möglich.
+    keywords:
+        - Suche
+        - Volltextsuche
+        - Suchmaschine
+        - Meilisearch
+        - PDF
+        - schnell
+        - Tippfehler
+        - mehrsprachig
+        - Contao
+    homepage: https://venne-search.de
+    support:
+        email: support@venne-media.de
+        issues: https://github.com/Venne-Media-GmbH/venne-search-contao-bundle/issues
+        source: https://github.com/Venne-Media-GmbH/venne-search-contao-bundle

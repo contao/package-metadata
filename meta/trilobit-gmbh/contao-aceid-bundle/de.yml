@@ -1,0 +1,10 @@
+de:
+    title: Aceid Bundle für Contao 4 / Contao 5
+    description: >
+        Mit dem Aceid Bundle werden dir zusätzliche Informationen im Contao Backend bei den Listenansichten angezeigt.
+        Dies sind z. B. die IDs der einzelnen Elemente. Aber auch die Anzahl der Kindelemente wird mit ausgegeben oder das verwendete Layout von Seiten.
+    keywords:
+        - Seiten-IDs
+        - Artikel-IDs
+        - Inhaltselemente
+        - erweiterte Listenansicht Backend

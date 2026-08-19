@@ -1,0 +1,8 @@
+de:
+    title: JointForms Bundle für Contao 4 / Contao 5
+    description: >
+        Mit dem JointForms Bundle können mehrere Formulare dynamisch miteinander verkettet werden, um z. B. einen mehrstufigen Bewerbungsprozess abzubilden.
+        Die Formulardaten werden dabei beim eingeloggten Mitglied persistiert. Abhängigkeiten unter den Formularen können mit der Symfony Expression Language definiert werden. Das Mitglied kann den Prozess jederzeit unterbrechen und zu einem späteren Zeitpunkt fortführen sowie alte Eingaben anpassen.
+        Die Konfiguration erfolgt über die config.yml
+    keywords:
+        - mehrseitige Formulare

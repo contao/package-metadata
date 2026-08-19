@@ -1,7 +1,8 @@
 de:
-    title: Contao 4 Tiles Bundle
+    title: Tiles Bundle für Contao 4 / Contao 5
     description: >
-        trilobit_tiles kann unter Contao automatisch aus einem einzigen auszuwählenden Bild Favicons, Kacheln und Touch Icons für verschiedene Geräte erzeugen und in den Quellcode einbinden.
+        Mit dem Tiles Bundle kannst du automatisch aus einem einzigen auszuwählenden Bild Favicons, Kacheln und Touch Icons für verschiedene Geräte erzeugen lassen und in den Quellcode einbinden.
+        Dies ist für Seitenbäume möglich, aber auch für einzelne Unterseiten.
     keywords:
         - Favicons
         - Kacheln

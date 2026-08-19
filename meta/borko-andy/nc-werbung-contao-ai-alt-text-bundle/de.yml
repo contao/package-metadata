@@ -1,0 +1,14 @@
+de:
+    title: KI Alt-Text-Generator
+    description: >
+        Generiert automatisch KI-gestützte Alt-Texte, Titel und Beschreibungen für Bilder im Contao-Backend.
+    keywords:
+        - ki
+        - alt
+        - text
+        - titel
+        - beschreibung
+        - bild
+    support:
+        issues: https://github.com/BorkoAndy/nc-werbung-contao-ai-alt-text-bundle/issues
+        docs: https://github.com/BorkoAndy/nc-werbung-contao-ai-alt-text-bundle

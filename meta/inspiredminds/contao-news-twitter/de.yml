@@ -12,3 +12,4 @@ de:
         - posten
         - posts
         - tweet
+    discoverable: false

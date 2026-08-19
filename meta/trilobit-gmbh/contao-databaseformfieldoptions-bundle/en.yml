@@ -1,0 +1,14 @@
+en:
+    title: DatabaseFormFieldOptions Bundle for Contao 4 / Contao 5
+    description: >
+        The DatabaseFormFieldOptions bundle adds new form field types to Contao
+        * Country-Select
+        * Language-Select
+        * Gender-Select
+        * Database-Select (specifying which table, which column outputs the options and which column is for the labels)
+        * Database-Radio - see Database-Select
+        * Database-Checkbox - see Database-Select
+    keywords:
+        - form fields
+        - country selection form field
+        - language selection form field

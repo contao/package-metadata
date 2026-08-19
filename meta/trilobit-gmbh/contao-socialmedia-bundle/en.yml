@@ -1,13 +1,14 @@
 en:
-    title: Contao 4 Socialmedia Bundle
+    title: Socialmedia Bundle for Contao 4
     description: >
-        The Social Media Bundle is basically a wrapper that allows you to bundle different link collections.
-        In addition, images can be included in the links. To create some comfort, it is possible to attach parameters via Wizard.
+        The SocialMedia bundle is basically a wrapper that allows you to bundle different link collections.
+        In addition, images can be included in the links. To create some comfort, it is possible to attach parameters via wizard.
         After a collection or a wrapper has been created, you can create a module for it and integrate this on any page.
         The HTML structure used is that of a navigation element.
     keywords:
+        - social media
         - wrapper
         - link collections
         - parameters
-        - Wizard
+        - wizard
         - navigation element

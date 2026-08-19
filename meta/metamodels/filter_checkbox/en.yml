@@ -1,0 +1,11 @@
+en:
+    title: MetaModels Filter Checkbox
+    description: >
+        The checkbox filter allows filtering MetaModels items using a checkbox selection.
+    keywords:
+        - metamodels
+        - filter
+        - checkbox
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/checkbox.html

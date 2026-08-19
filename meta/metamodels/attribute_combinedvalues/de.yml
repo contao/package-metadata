@@ -1,0 +1,13 @@
+de:
+    title: MetaModels Attribut kombinierte Werte
+    description: >
+        Das Attribut Kombinierte Werte erzeugt einen kombinierten Wert aus anderen Attributen des MetaModels. Es
+        können mehrere Attribute über ein konfigurierbares Muster zusammengefasst werden.
+    keywords:
+        - metamodels
+        - attribute
+        - kombinierte werte
+        - combined values
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/combinedvalues.html

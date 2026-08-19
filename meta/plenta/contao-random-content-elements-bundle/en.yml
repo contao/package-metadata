@@ -1,0 +1,11 @@
+en:
+    title: Random Content Elements
+    description: >
+        Freshen up your site: This wrapper element (nested fragment) shuffles all contained content elements into a new random order on every page load.
+    keywords:
+        - random
+        - shuffle
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-random-content-elements-bundle/issues
+        source: https://github.com/plenta/contao-random-content-elements-bundle

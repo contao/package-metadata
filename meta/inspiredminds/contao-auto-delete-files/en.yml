@@ -1,0 +1,4 @@
+en:
+    title: Auto Delete Files
+    description: >
+        Lets you delete files in the file manager automatically depending on certain criteria. You can either set a time frame (all older files will be deleted) or a maximum file count (all older files exceeding this count will be deleted).

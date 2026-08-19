@@ -1,0 +1,6 @@
+en:
+    title: plakart CSS Utilities
+    homepage: https://plakart.de
+    description: >
+        Internal utility class bundle.
+    dependency: true

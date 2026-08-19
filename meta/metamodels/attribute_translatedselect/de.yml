@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte Einfachauswahl [select]
+    description: >
+        Das Attribut übersetzte Einfachauswahl ist die mehrsprachige Variante des Select-Attributs. Die Auswahl
+        kann je Sprache variieren.
+    keywords:
+        - metamodels
+        - attribute
+        - select
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedselect.html

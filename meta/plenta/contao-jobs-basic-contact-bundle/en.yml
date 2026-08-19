@@ -1,0 +1,22 @@
+en:
+    title: Contact persons for Contao Jobs Basic
+    description: >
+        Optimize the Jobs Bundle by integrating contact persons. Capture contact details and assign them to job postings so that, for example, inquiries can be sent directly to the appropriate contact person.
+
+        An additional content element for displaying the contact person and numerous insert tags enhance the functionality in this context.
+    keywords:
+        - Contact persons
+        - Contact details
+        - Contact
+        - Job
+        - Jobs
+        - Vacancy
+        - Career
+        - Occupation
+        - Apply
+        - Workplace
+        - Recruiting
+        - Basic
+    homepage: https://plenta.io/contao-jobs-basic/add-ons
+    support:
+        docs: https://plenta.io/contao-jobs-basic/add-ons/dokumentation-contact-bundle

@@ -1,0 +1,9 @@
+en:
+    title: X-Invoice/ZUGFeRD for Isotope eCommerce
+    description: >
+        X-Invoice (also called ZUGFeRD in Germany) defines the European standard for electronic invoices,
+        according to which machine-readable XML data is integrated into a PDF file. With this extension, you can
+        attach an XML file to PDF documents from Isotope eCommerce. The content of this file is flexibly generated
+        from Contao templates, so it can be adapted to any requirements.
+
+        A template for X-Invoice/ZUGFeRD documents is included, enabling easy implementation of electronic invoices in Isotope eCommerce.

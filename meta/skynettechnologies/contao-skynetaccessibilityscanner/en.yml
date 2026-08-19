@@ -1,0 +1,16 @@
+en:
+    title: SkynetAccessibility Scanner
+    description: > 
+        Scan, monitor, and identify website accessibility issues across WCAG 2.0, 2.1, 2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA, and Canada ACA. Get simple issue highlights with recommended fixes.
+    keywords:
+        - contao
+        - WCAG
+        - ATAG
+        - ADA
+        - AODA
+        - ACA
+        - BITV
+        - RGAA
+        - LBI
+        - UNE
+        - JIS

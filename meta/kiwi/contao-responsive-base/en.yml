@@ -1,0 +1,21 @@
+en:
+    title: KIWI. Contao Responsive Base Bundle
+    description: >
+        This Contao bundle enables you to place contents within a self configured responsive grid system within Contao CMS.
+    keywords:
+        - responsive
+        - grid
+        - layout
+        - css grid
+        - flexbox
+        - columns
+        - rows
+        - container
+        - frontend
+        - module
+        - template
+        - theme
+        - mobile first
+        - grid system
+        - grid layout
+        - page layout

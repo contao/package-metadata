@@ -1,0 +1,18 @@
+en:
+    title: DeWIS - German chess rating lookup
+    description: >
+        Looks up the German chess rating (DWZ) via the DeWIS interface of the German Chess Federation (DSB)
+        and displays it on the DSB website. This bundle is no longer maintained; it was in use at the DSB until 25 July 2026.
+
+        Front end modules are available for players, clubs, federations, tournaments, player search and top lists.
+    keywords:
+        - chess
+        - rating
+        - DWZ
+        - DeWIS
+        - player search
+    support:
+        issues: https://github.com/Samson1964/contao-dewis-bundle/issues
+        source: https://github.com/Samson1964/contao-dewis-bundle
+    suggest:
+        schachbulle/contao-wertungsportal-bundle: The successor, which uses the newer REST interface of the rating portal instead of SOAP

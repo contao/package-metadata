@@ -1,0 +1,24 @@
+en:
+    title: KIWI. Contao Designer Bundle
+    description: >
+        This Contao bundle enables you to manage design settings and their assignment to contents within Contao CMS (e.g. colors and colorschemes, backgrounds and linkdesigns).
+    keywords:
+        - design
+        - colors
+        - color scheme
+        - color schemes
+        - background
+        - backgrounds
+        - links
+        - link styling
+        - typography
+        - fonts
+        - styles
+        - css
+        - theme
+        - layout
+        - styling
+        - frontend design
+        - style options
+        - color customization
+        - design settings

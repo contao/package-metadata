@@ -1,0 +1,27 @@
+de:
+    title: Ansprechpartner für Contao Jobs Basic
+    description: >
+        Optimiere das Jobs Bundle, indem du Ansprechpartner integrierst. Erfasse Kontaktdaten und weise diese den Stellenanzeigen zu, sodass z.B. Anfragen direkt an den entsprechenden Ansprechpartner gesendet werden können.
+
+        Ein zusätzliches Inhaltselement zur Ausgabe des Ansprechpartners und viele Insert-Tags erweitern hier den Funktionsumfang.
+    keywords:
+        - Ansprechpartner
+        - Kontaktdaten
+        - Kontakt
+        - Job
+        - Jobs
+        - Stellenanzeigen
+        - Stellenausschreibung
+        - Karriere
+        - Beruf
+        - Bewerbung
+        - Bewerben
+        - Arbeitsstelle
+        - Arbeitsplatz
+        - Arbeit
+        - Stelle
+        - Recruiting
+        - Basic
+    homepage: https://plenta.io/contao-jobs-basic/add-ons
+    support:
+        docs: https://plenta.io/contao-jobs-basic/add-ons/dokumentation-contact-bundle

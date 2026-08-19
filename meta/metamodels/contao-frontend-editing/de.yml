@@ -1,0 +1,18 @@
+de:
+    title: MetaModels Frontend-Editing
+    description: >
+        Mit dem Frontend-Editing-Modul können MetaModels-Datensätze direkt im Contao-Frontend erstellt,
+        bearbeitet und gelöscht werden. Das Modul integriert sich nahtlos in MetaModels und nutzt den dc-general
+        als Datenbehälter.
+
+        Mehr zur Installation und die Arbeit mit dem Frontend-Editing in unserem Handbuch unter
+        https://metamodels.readthedocs.io/de/latest/manual/extended/frontend_editing.html
+    keywords:
+        - metamodels
+        - frontend-editing
+        - FEE
+        - frontend
+        - edit
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/extended/frontend_editing.html

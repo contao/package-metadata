@@ -1,0 +1,15 @@
+en:
+    title: MetaModels Filter Register [A-Z]
+    description: >
+        The register filter displays an alphabetical navigation (A-Z) and allows filtering MetaModels items by
+        the initial letter of an attribute value.
+    keywords:
+        - metamodels
+        - filter
+        - register
+        - alphabet
+        - A-Z
+        - abc
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/register.html

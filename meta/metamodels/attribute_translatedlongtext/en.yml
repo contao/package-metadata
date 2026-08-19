@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Translated Longtext
+    description: >
+        The translated longtext attribute is the multilingual variant of the longtext attribute. The longtext
+        can differ per language.
+    keywords:
+        - metamodels
+        - attribute
+        - longtext
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedlongtext.html

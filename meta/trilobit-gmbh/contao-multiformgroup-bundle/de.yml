@@ -1,0 +1,7 @@
+de:
+    title: MultiFormGroups Bundle für Contao 4 / Contao 5
+    description: >
+        Mit dem MultiFormGroups Bundle können Gruppen von Formularfelder dynamisch wiederholt werden, z. B. unterschiedlich viele bisherige Arbeitsstellen mit Beschreibung und Datum für ein Bewerbungsformular.
+    keywords:
+        - Formulare
+        - Wiederholung von Formularfeldgruppen

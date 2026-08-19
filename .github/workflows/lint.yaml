@@ -25,7 +25,7 @@ jobs:
             - run: git fetch --prune --unshallow
 
             - name: Cache Composer vendor
-              uses: actions/cache@v1
+              uses: actions/cache@v4
               with:
                   path: linter/vendor/
                   key: ${{ runner.os }}-linter-vendor

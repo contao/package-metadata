@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Bewertung
+    description: >
+        Das Attribut Bewertung ermöglicht es Besuchern, MetaModels-Items im Frontend zu bewerten (Sterne-
+        Bewertung). Die Bewertungen werden gespeichert und können ausgewertet werden.
+    keywords:
+        - metamodels
+        - attribute
+        - rating
+        - bewertung
+        - sterne
+        - stars
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/rating.html

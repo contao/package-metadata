@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Attribut übersetzte Datei
+    description: >
+        Das Attribut übersetzte Datei ist die mehrsprachige Variante des Datei-Attributs. Je Sprache kann eine
+        andere Datei referenziert werden.
+    keywords:
+        - metamodels
+        - attribute
+        - file
+        - datei
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedfile.html

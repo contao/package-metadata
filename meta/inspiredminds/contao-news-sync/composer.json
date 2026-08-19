@@ -1,0 +1,21 @@
+{
+    "name": "inspiredminds/contao-news-sync",
+    "description": "Contao extension to synchronize news between different installations.",
+    "keywords": ["contao", "news", "sync"],
+    "type": "contao-bundle",
+    "homepage": "http://www.inspiredminds.at/contao-news-sync",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "INSPIRED MINDS",
+            "homepage": "http://www.inspiredminds.at"
+        }
+    ],
+    "support": {
+        "email": "office@inspiredminds.at"
+    },
+    "require": {
+        "php": ">=7.4",
+        "contao/core-bundle": "^4.13 || ^5.0"
+    }
+}

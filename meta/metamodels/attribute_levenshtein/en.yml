@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Levenshtein Text Search
+    description: >
+        The Levenshtein text search attribute maintains a search index with Levenshtein support. This enables
+        fuzzy text searches that also account for typos and similar spellings.
+    keywords:
+        - metamodels
+        - attribute
+        - levenshtein
+        - fuzzy search
+        - text search
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/levenshtein.html

@@ -1,0 +1,9 @@
+de:
+    title: Onepage Bundle für Contao 5
+    description: >
+        Mit diesem Paket können Sie ganz einfach eine Onepage Navigation zu Ihrer Website
+        hinzufügen. Kein jQuery erforderlich!
+    homepage: https://github.com/cgoIT/contao-megamenu-bundle
+    keywords:
+        - Navigation
+        - Menü

@@ -1,0 +1,12 @@
+de:
+    title: MetaModels Filter Bereich
+    description: >
+        Der Bereichs-Filter ermöglicht das Filtern von MetaModels-Items über einen konfigurierten Wertebereich.
+    keywords:
+        - metamodels
+        - filter
+        - bereich
+        - range
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/range.html

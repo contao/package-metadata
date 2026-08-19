@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Filter Mehrfachauswahl
+    description: >
+        Der Mehrfachauswahl-Filter ermöglicht das Filtern von MetaModels-Items über mehrere auswählbare Werte
+        (Tags/Mehrfachauswahl-Attribut).
+    keywords:
+        - metamodels
+        - filter
+        - tags
+        - mehrfachauswahl
+        - multiple selection
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/tags.html

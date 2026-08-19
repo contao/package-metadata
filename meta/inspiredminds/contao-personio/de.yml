@@ -1,0 +1,4 @@
+de:
+    title: Personio
+    description: >
+        Diese Extension stellt eine Verbindung zwischen Contao und Personio her. Stellenangebote können aus dem XML-Feed angezeigt und Bewerbungen automatisch in die Personio API gesendet werden.

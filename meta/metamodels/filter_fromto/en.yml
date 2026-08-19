@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Filter From/To
+    description: >
+        The from/to filter allows filtering MetaModels items over a defined value range (from ... to ...).
+        Suitable for numbers, date/time, and similar attributes.
+    keywords:
+        - metamodels
+        - filter
+        - from to
+        - range
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/fromto.html

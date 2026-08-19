@@ -1,7 +1,8 @@
 en:
-    title: Contao 4 Pexels Bundle
+    title: Pexels Bundle for Contao 4
     description: >
-        With the Pexels extension you can download images or photos from the free image database Pexels via the file management of Contao.
+        Replacement Bundle: WorldOfImages Bundle for Contao 4 / Contao 5
+        With the Pexels bundle you can download images or photos from the free image database Pexels via the file management of Contao.
     keywords:
         - pexels
         - image database

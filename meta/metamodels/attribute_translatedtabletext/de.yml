@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut übersetzter Tabellentext
+    description: >
+        Das Attribut übersetzter Tabellentext ist die mehrsprachige Variante des Tabellentext-Attributs.
+    keywords:
+        - metamodels
+        - attribute
+        - tabletext
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedtabletext.html

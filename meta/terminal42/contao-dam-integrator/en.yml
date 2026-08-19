@@ -1,0 +1,15 @@
+en:
+    title: Bynder Assets Management
+    description: >
+        This bundle integrates Digital Asset Management providers directly into your Contao back end.
+        It works by adding a new tab next to the regular file picker tab for every integration where you can search,
+        filter and download your assets and then select them right from the file tree widget.
+    keywords:
+        - bynder
+        - celum,
+        - assets
+        - collaborate
+        - maintain
+        - brand
+        - DAM
+        - webdam

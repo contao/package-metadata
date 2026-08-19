@@ -1,0 +1,14 @@
+en:
+    title: Contao Redirects
+    description: >
+        Allows internal and external redirects to be set within Contao.
+    keywords:
+        - redirect
+        - bright
+        - cloud
+        - studio
+    support:
+        email: mark@brightcloudstudio.com
+        issues: https://github.com/bright-cloud-studio/contao_redirects/issues
+        source: https://github.com/bright-cloud-studio/contao_redirects
+        

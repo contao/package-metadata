@@ -1,8 +1,8 @@
 en:
-    title: Contao 4 MonitoringClientSensorGoogleMaps Module
+    title: MonitoringClientSensorGoogleMaps Module for Contao 4
     description: >
-        The MonitoringClientSensorGoogleMaps module adds a sensor for the Contao-Monitoring extension with which Google Maps data can be read out.
-        The module only works with the Google maps extension dlh_googlemaps and reads out if the extension is installed,
+        The MonitoringClientSensorGoogleMaps bundle adds a sensor for the Contao-Monitoring extension with which use of Google Maps data can be read.
+        The bundle only works with the Google maps extension dlh_googlemaps and lists, when the extension is installed,
         how many maps exist and returns the API key together with the domain of the website root on which they are registered.
     keywords:
         - module

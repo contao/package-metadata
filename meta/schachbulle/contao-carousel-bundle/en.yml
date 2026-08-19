@@ -1,0 +1,18 @@
+en:
+    title: Image carousel
+    description: >
+        Image carousel based on Swiper: gallery with a synchronized thumbnail bar, news ticker, full-screen background slideshow and a wrapper that turns any content elements into a carousel.
+
+        The carousel settings (playback, transitions, sizes, navigation, pagination, keyboard and mouse wheel control) are managed centrally and can be reused by any number of elements and modules. A pause button and an autoplay progress indicator are included.
+
+        Port of the Contao 3 extension by Dirk Klemmt; Swiper has replaced jQuery as of version 3.0.0.
+    keywords:
+        - carousel
+        - slider
+        - slideshow
+        - gallery
+        - newsticker
+        - swiper
+    support:
+        issues: https://github.com/Samson1964/contao-carousel-bundle/issues
+        source: https://github.com/Samson1964/contao-carousel-bundle

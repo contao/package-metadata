@@ -1,0 +1,18 @@
+en:
+    title: Manage company data
+    description: >
+        This extension can be used to manage company data.
+        Content elements and modules for contact data, imprint or the logo are available. People can also be added.
+        A signature or tokens can be used in the form generator.
+    keywords:
+        - Company data
+        - Personal data
+        - form
+        - e-mail
+        - Notifications
+        - Imprint
+        - Logo
+        - Contact details
+    support:
+        issues: https://github.com/biankakriege/contao-company-data/issues
+        source: https://github.com/biankakriege/contao-company-data

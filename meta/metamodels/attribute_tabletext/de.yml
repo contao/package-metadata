@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Tabellentext
+    description: >
+        Das Attribut Tabellentext ermöglicht die Eingabe von Textdaten in einer Tabellenstruktur (Zeilen und
+        Spalten) direkt in einem MetaModels-Item.
+    keywords:
+        - metamodels
+        - attribute
+        - tabletext
+        - tabellentext
+        - tabelle
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/tabletext.html

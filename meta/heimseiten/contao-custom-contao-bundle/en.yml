@@ -1,8 +1,5 @@
 en:
     title: CustomContao
     description: >
-        Adds a template for a fade effect to the Contao content slider and much more. For example: Font Awesome Insert Tags, horizontal slide animation for the gallery, scroll to error, body class with scroll direction, ...
-    keywords:
-        - slider
-        - fader
+        horizontal slide animation for the gallery, scroll to error, body class with scroll direction, ...
         

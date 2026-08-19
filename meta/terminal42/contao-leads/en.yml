@@ -1,7 +1,7 @@
 en:
     title: Leads
     description: >
-        This extension allows you to store and manage form data within Leads. Each Lead consists of a master form and optional slave forms. The master form defines which fields are available. This approach helps you e.g. to implement multilingual forms and store all data in the same Lead.
+        This extension allows you to store and manage form data within Leads. Each Lead consists of a main form and optional child forms. The main form defines which fields are available. This approach helps you e.g. to implement multilingual forms and store all data in the same Lead.
 
         All configuration can be done in the form generator from Contao. Additionally you can set a label for the
         back end module of your Lead and define the listing of the form data using simple tags.

@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Translated Alias
+    description: >
+        The translated alias attribute is the multilingual variant of the alias attribute. It generates a URL-
+        friendly alias value per language version.
+    keywords:
+        - metamodels
+        - attribute
+        - alias
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedalias.html

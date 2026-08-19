@@ -1,0 +1,15 @@
+en:
+    title: Content boxes
+    description: >
+        Manages content in boxes that are maintained independently of the articles of a single page — a note in the sidebar, for example.
+
+        Each box decides where and when it appears: on selected pages including their subpages, on certain weekdays or in certain months, or only for certain news items.
+
+        The boxes are rendered by a front end module in the page layout. Back end permissions are granted per category.
+    keywords:
+        - boxes
+        - content boxes
+        - sidebar
+        - news
+    support:
+        source: https://github.com/Samson1964/contao-boxes4ward-bundle

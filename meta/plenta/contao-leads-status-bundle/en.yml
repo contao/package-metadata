@@ -1,0 +1,14 @@
+en:
+    title: Status for Terminal42/leads
+    description: >
+        This extension adds a status to leads. This gives you a better overview.
+    keywords:
+        - Lead
+        - Leads
+        - status
+        - form
+        - form data
+        - store
+    support:
+        issues: https://github.com/plenta/contao-leads-status-bundle/issues
+        source: https://github.com/plenta/contao-leads-status-bundle

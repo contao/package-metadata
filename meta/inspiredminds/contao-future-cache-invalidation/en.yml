@@ -1,0 +1,4 @@
+en:
+    title: Future Cache Invalidation
+    description: >
+        One caveat of using the shared HTTP cache within Contao is that pages with elements that have a stop time - or especially a start time - will not get invalidated automatically at that time. This extension can alleviate this problem via Symfony's Messenger queue when using a messenger transport that supports the "DelayStamp".

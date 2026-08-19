@@ -1,0 +1,22 @@
+{
+    "name": "terminal42/contao-notification-center-pro",
+    "description": "Notification Center Pro extension for Contao Open Source CMS",
+    "keywords": ["contao", "notification", "center", "pro"],
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "terminal42 gmbh",
+            "homepage": "https://www.terminal42.ch"
+        }
+    ],
+    "homepage": "https://extensions.terminal42.ch/p/nc-pro",
+    "support": {
+        "email": "info@terminal42.ch",
+        "forum": "https://community.contao.org"
+    },
+    "require": {
+        "php": "^8.1",
+        "contao/core-bundle": "^4.13 || ^5.0"
+    }
+}

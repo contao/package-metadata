@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Mehrfachauswahl [tags]
+    description: >
+        Das Attribut Mehrfachauswahl (tags) ermöglicht die Auswahl mehrerer Werte aus einer verknüpften
+        MetaModels-Tabelle oder einer eigenen Tabelle. Es handelt sich um eine m:n-Beziehung.
+    keywords:
+        - metamodels
+        - attribute
+        - tags
+        - mehrfachauswahl
+        - multiple selection
+        - m:n
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/tags.html

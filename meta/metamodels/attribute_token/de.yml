@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Token
+    description: >
+        Das Attribut Token generiert und speichert einen eindeutigen Zufalls-Token für jeden MetaModels-
+        Datensatz. Nützlich für eindeutige Bezeichner, Bestätigungscodes und ähnliche Anwendungsfälle.
+    keywords:
+        - metamodels
+        - attribute
+        - token
+        - uuid
+        - unique
+        - random
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/token.html

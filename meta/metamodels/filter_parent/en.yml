@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Filter Parent
+    description: >
+        The parent filter allows filtering items of a child table based on properties of the parent table.
+
+        More about the installation and working with MetaModels Filter Parent in our manual at
+        https://metamodels.readthedocs.io/en/latest/manual/component/filter/parent.html
+    keywords:
+        - metamodels
+        - filter
+        - parent
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/parent.html

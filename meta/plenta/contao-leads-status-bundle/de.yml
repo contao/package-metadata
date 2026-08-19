@@ -1,0 +1,15 @@
+de:
+    title: Status für Terminal42/Leads
+    description: >
+        Diese Erweiterung fügt den Terminal42/Leads einen Status hinzu, sodass du einen besseren Überblick erhältst.
+    keywords:
+        - Formular
+        - Daten
+        - speichern
+        - Lead
+        - Leads
+        - Leadgenerierung
+        - Status
+    support:
+        issues: https://github.com/plenta/contao-leads-status-bundle/issues
+        source: https://github.com/plenta/contao-leads-status-bundle

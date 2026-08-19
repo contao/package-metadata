@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut übersetzter Content-Artikel
+    description: >
+        Das Attribut übersetzter Content-Artikel ist die mehrsprachige Variante des Content-Artikel-Attributs.
+    keywords:
+        - metamodels
+        - attribute
+        - content article
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedcontentarticle.html

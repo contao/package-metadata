@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Filter by Related Model
+    description: >
+        The filter by related model allows filtering items of a MetaModel based on properties of a linked
+        MetaModel.
+    keywords:
+        - metamodels
+        - filter
+        - related
+        - join
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/by-related.html

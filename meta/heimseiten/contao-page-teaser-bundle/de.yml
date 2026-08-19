@@ -1,0 +1,4 @@
+de:
+    title: Seiten-Teaser
+    description: >
+        Zeigt als natives Inhaltselement einen Teaser (Bild, Überschrift, Text) zu einer anderen Seite. Überschrift und Text stammen aus den Einstellungen der Zielseite; Bildgröße und Textanzeige werden im Seitenlayout festgelegt.
