@@ -2,15 +2,15 @@ de:
     title: Contao Domain Manager
     description: >
         Verwalte, synchronisiere und überwache mehrere Contao-Installationen zentral.
-        Der Contao Domain Manager bündelt technische Systeminformationen, Statusmeldungen
-        und Synchronisationen in einer eigenen Verwaltungsoberfläche und unterstützt
-        die schnelle Ersteinrichtung einer separaten Domainverwaltung.
+        Der Contao Domain Manager bündelt technische Daten, Statusmeldungen
+        und Synchronisationen in einer eigenen Oberfläche und unterstützt
+        die schnelle Einrichtung einer separaten Lösung für die Verwaltung mehrerer Domains.
     keywords:
-        - Domainverwaltung
+        - Domains
         - Monitoring
-        - Contao-Installationen
+        - Contao
         - Synchronisation
-        - Systeminformationen
+        - Systemdaten
         - Hosting
         - Agentur
     support:
