@@ -3,7 +3,7 @@ de:
     description: >
         Stellt geschützte technische Daten einer Contao-Installation
         für den Contao Domain Manager bereit. Über eine gesicherte Schnittstelle
-        können unter anderem Contao-Version, PHP-Version, Datenbank und Webroot
+        können unter anderem Contao-Version, PHP-Version, Datenbank und öffentliches Verzeichnis
         zentral abgefragt und synchronisiert werden.
     keywords:
         - Contao
