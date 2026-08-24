@@ -1,0 +1,19 @@
+de:
+    title: Contao System Info
+    description: >
+        Stellt geschützte technische Daten einer Contao-Installation
+        für den Contao Domain Manager bereit. Über eine gesicherte Schnittstelle
+        können unter anderem Contao-Version, PHP-Version, Datenbank und Webroot
+        zentral abgefragt und synchronisiert werden.
+    keywords:
+        - Contao
+        - Systemdaten
+        - Monitoring
+        - Synchronisation
+        - Domain Manager
+        - PHP
+        - Datenbank
+    support:
+        issues: https://github.com/lebensbaum-gmbh/contao-system-info-bundle/issues
+        docs: https://github.com/lebensbaum-gmbh/contao-system-info-bundle
+        source: https://github.com/lebensbaum-gmbh/contao-system-info-bundle
