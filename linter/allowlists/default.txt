@@ -644,6 +644,8 @@ OpenStreetMap
 Tooltip
 Map
 grayscale
+Asyntai
+generatePage
 OpenFreeMap
 MapLibre
 Map-ID
