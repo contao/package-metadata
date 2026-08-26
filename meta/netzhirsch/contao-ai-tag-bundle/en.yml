@@ -1,0 +1,29 @@
+en:
+    title: Contao AI Tag Bundle
+    homepage: https://github.com/Netzhirsch/contao-ai-tag-bundle
+    description: >
+        Marks AI generated images in Contao so that the notice survives every image size Contao creates. An
+        editor marks a file or a whole folder in the file manager, and the bundle burns the notice into every
+        image size: at the edge of the image, outside the important part where possible, with automatic
+        contrast and in the language of the website. The notice is also added to the alternative text of the
+        image, because pixels are not read out by a screen reader.
+
+        Nothing is marked automatically. Article 50 of the EU AI Act does not ask for a notice on every
+        image, and that decision belongs to the operator, so the bundle only marks what an editor has
+        selected. A dedicated permission controls who may do that, and a log under System records who marked
+        which file and when. The log can be exported as CSV, on request without user names.
+
+        Commercial extension: a licence is needed for burning the notice into the images. Marking, the log,
+        the export and the notice in the alternative text keep working without a licence, because access to
+        your own records must not depend on a subscription. Test it for free first, then subscribe: both are
+        started in the Contao backend, and payment is handled on the secure pages of Stripe.
+    keywords:
+        - AI
+        - AI Act
+        - labelling
+        - images
+        - compliance
+    support:
+        issues: https://github.com/Netzhirsch/contao-ai-tag-bundle/issues
+        source: https://github.com/Netzhirsch/contao-ai-tag-bundle
+        docs: https://github.com/Netzhirsch/contao-ai-tag-bundle#readme

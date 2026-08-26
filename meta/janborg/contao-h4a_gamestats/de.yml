@@ -1,0 +1,13 @@
+de:
+    title: Handball Statistiken
+    description: >
+        Integriere Statistiken zu Spielen und Teams von handball.net in dein Contao CMS.
+
+        Das Bundle erweitert die Spiele um detaillierte Auswertungen: 
+        Du kannst zu einem Spiel die Spielerstatistiken je Team mit Toren, Strafen, Karten) als Inhaltselement einbinden, den Spielverlauf grafisch darstellen und eine Statistik einer Mannschaft für eine Saison anzeigen. 
+    keywords:
+        - Handball
+        - handball.net
+        - Spielbericht
+        - Statistik
+        - Spielverlauf
