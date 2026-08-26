@@ -1104,3 +1104,7 @@ Graustufen
 Markern
 Marker
 Mobilgeräten
+Dashboard
+Datenbanktabellen
+Load
+Snippet
