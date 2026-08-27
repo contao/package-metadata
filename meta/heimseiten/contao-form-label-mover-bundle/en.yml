@@ -1,0 +1,4 @@
+en:
+    title: Floating form labels
+    description: >
+        Places the label of a form field inside the field itself. As soon as the field receives focus or contains a value, the label moves to the top edge of the field and shrinks, so it remains readable at all times. It is enabled with the CSS class move_labels on the form or on the module. Single-line and multi-line text fields as well as password fields are covered; fields filled in by the browser, fields with an existing value and date fields are taken into account as well. The spacing above the field, the padding inside it and the font colour can be adjusted with CSS variables.

@@ -1,0 +1,4 @@
+de:
+    title: flexImages-Galerie
+    description: >
+        Erweitert das Inhaltselement Galerie um die Option „flexImages verwenden“. Die Bilder werden dann zeilenweise angeordnet: Innerhalb einer Zeile behalten alle Bilder das Verhältnis von Breite und Höhe, werden auf eine gemeinsame Höhe gebracht und füllen die verfügbare Breite bündig aus. Die Höhe einer Zeile ergibt sich aus dem ersten Bild der Galerie. Der Abstand zwischen den Bildern lässt sich über die CSS-Variable image-gap anpassen. Grundlage ist die Bibliothek flexImages von Pixabay, die lokal mitgeliefert wird.

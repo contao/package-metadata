@@ -1,0 +1,4 @@
+de:
+    title: In verschachtelte Elemente einfügen
+    description: >
+        Ergänzt die Übersicht eines Artikels um einen Knopf, mit dem sich ein Inhaltselement aus der Zwischenablage direkt in eine Elementgruppe einfügen lässt, ohne deren Kindansicht zu öffnen. Der Knopf erscheint an allen Elementen, die Kindelemente aufnehmen — im Kern sind das Elementgruppe, Akkordeon und Slider, ebenso Elemente aus anderen Erweiterungen. Ein Element lässt sich dabei nicht in sich selbst oder in eines seiner Kindelemente verschieben. An der Darstellung der Listen ändert sich nichts. Die Erweiterung stellt eine Funktion von Contao 6 bereits unter Contao 5.7 bereit; eingefügt wird dort am Anfang der Gruppe, weil Contao 5.7 das Anhängen am Ende noch nicht kennt.

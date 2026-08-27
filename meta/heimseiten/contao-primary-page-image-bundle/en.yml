@@ -1,0 +1,4 @@
+en:
+    title: Page image
+    description: >
+        Adds an image to the page settings, which is written to the structured data of the page as primaryImageOfPage. This controls which image search engines associate with the page. The image is also available in the page layout, for example to display it in the header. The extension makes a Contao 6 feature available under Contao 5.7 and uses the same field as the core. From Contao 6 onwards the core takes over and the extension stays out of the way, so an upgrade needs no preparation and the existing data is kept.
