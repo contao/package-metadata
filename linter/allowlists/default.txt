@@ -27,6 +27,7 @@ Austrian
 AuthCode
 Authenticator
 Autocomplete
+Autolink
 AVH
 AWC
 Awesome
@@ -70,6 +71,7 @@ Bundles
 Burns
 Bynder
 Captcha
+CAPTCHA
 carouFredSel
 Catalog
 Categories
@@ -86,6 +88,7 @@ Claude
 Clickpress
 Clickskeks
 Cloud
+Cloudflare
 CMACE
 CMS
 CMX
@@ -107,6 +110,7 @@ Contao
 ContaoDMS
 ContaoMonitoring
 contents
+Context
 CONVERT
 COPPA
 Corona
@@ -238,6 +242,7 @@ gurado
 gutes
 gutes.io
 gutesio
+handball
 Hazenberg
 Heiko
 heimrichhannot
@@ -338,6 +343,7 @@ mar-ke
 master
 Matomo
 MaxMind
+MCP
 MCW
 Meilisearch
 MetaModel
@@ -357,6 +363,7 @@ My
 Nahati
 NATURE
 Nested
+net
 Netzhirsch
 Netzmacht
 netzmacht
@@ -553,6 +560,7 @@ trilobit
 Trusted
 TTL
 tumblr
+Turnstile
 Tweets
 Twig
 Twitter
@@ -636,3 +644,9 @@ OpenStreetMap
 Tooltip
 Map
 grayscale
+Asyntai
+generatePage
+OpenFreeMap
+MapLibre
+Map-ID
+Style-JSON
