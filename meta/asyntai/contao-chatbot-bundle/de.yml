@@ -1,0 +1,40 @@
+de:
+    title: Asyntai KI-Chatbot
+    description: >
+        Fügt Ihrer Contao-Website einen KI-Chat-Assistenten hinzu. Besucher stellen ihre Frage
+        in einer Chat-Blase und erhalten sofort eine Antwort, rund um die Uhr und in ihrer
+        eigenen Sprache.
+
+        Der Assistent antwortet aus Ihren eigenen Inhalten: den Seiten, die Asyntai auf Ihrer
+        Website liest, den Dokumenten, die Sie hochladen, und den Anweisungen, die Sie
+        schreiben. Wo Ihre Inhalte nichts hergeben, sagt er, dass er es nicht weiß, statt eine
+        Antwort zu erfinden.
+
+        Die Einrichtung besteht aus zwei Feldern. Installieren Sie die Erweiterung, öffnen Sie
+        dann System, Einstellungen und fügen Sie das Snippet aus Ihrem Asyntai-Dashboard in das
+        Feld „Asyntai Widget-ID“ ein. Die Chat-Blase erscheint danach auf jeder Seite im
+        Frontend. Sie bearbeiten weder Template noch Layout oder Artikel, denn das Skript wird
+        über den generatePage-Hook eingefügt. Leeren Sie das Feld wieder, ist der Chat weg.
+
+        Das Skript wartet auf das Load-Ereignis der Seite, bevor es etwas lädt. Ihre eigenen
+        Inhalte werden also immer zuerst angezeigt. Die Beschriftungen im Backend gibt es auf
+        Deutsch und Englisch. Es werden keine Datenbanktabellen angelegt, bei einer
+        Deinstallation bleibt also nichts zurück.
+
+        Die Erweiterung ist kostenlos und Open Source unter der MIT-Lizenz. Sie benötigt ein
+        kostenloses Asyntai-Konto, in dem jede Antwort als eine Nachricht Ihres Tarifs zählt.
+    keywords:
+        - Chatbot
+        - Chat
+        - KI
+        - Assistent
+        - Support
+        - Live-Chat
+        - Kundenservice
+        - Widget
+        - FAQ
+    support:
+        email: hello@asyntai.com
+        issues: https://github.com/asyntai/contao-chatbot-bundle/issues
+        source: https://github.com/asyntai/contao-chatbot-bundle
+        docs: https://asyntai.com/documentation/integrations/contao/

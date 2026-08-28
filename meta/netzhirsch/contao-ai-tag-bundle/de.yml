@@ -1,0 +1,32 @@
+de:
+    title: Contao AI Tag Bundle
+    homepage: https://github.com/Netzhirsch/contao-ai-tag-bundle
+    description: >
+        Kennzeichnet KI-generierte Bilder in Contao so, dass die Kennzeichnung jede erzeugte Bildgröße
+        überlebt. Die Redaktion markiert eine Datei oder einen ganzen Ordner in der Dateiverwaltung, das
+        Bundle brennt den Hinweis beim Erzeugen jeder Bildgröße ein: am Rand des Bildes, möglichst außerhalb
+        des wichtigen Bereichs, mit automatisch passendem Kontrast und im Wortlaut der jeweiligen Sprache
+        der Website. Zusätzlich steht der Hinweis im alternativen Text des Bildes, weil eingebrannte Pixel
+        nicht vorgelesen werden.
+
+        Automatisch gekennzeichnet wird nichts. Artikel 50 der KI-Verordnung der EU verlangt die
+        Kennzeichnung nicht für jedes Bild, und diese Entscheidung trifft der Betreiber. Das Bundle
+        kennzeichnet deshalb nur, was die Redaktion markiert hat. Wer das darf, steuert ein eigenes Recht.
+        Ein Protokoll unter System hält fest, wer wann welche Datei markiert hat, und lässt sich als CSV
+        ausgeben, auf Wunsch ohne Namen.
+
+        Kommerzielle Erweiterung: Eine Lizenz braucht allein das Einbrennen in die Bilder. Markieren,
+        Protokoll, Export und der Hinweis im alternativen Text funktionieren dauerhaft ohne Lizenz, denn der
+        Zugriff auf die eigenen Nachweise darf nicht an einem Abonnement hängen. Zuerst kostenlos testen,
+        danach abonnieren: beides wird im Contao-Backend gestartet, bezahlt wird auf den gesicherten Seiten
+        von Stripe.
+    keywords:
+        - KI
+        - AI Act
+        - Kennzeichnung
+        - Bilder
+        - Barrierefreiheit
+    support:
+        issues: https://github.com/Netzhirsch/contao-ai-tag-bundle/issues
+        source: https://github.com/Netzhirsch/contao-ai-tag-bundle
+        docs: https://github.com/Netzhirsch/contao-ai-tag-bundle#readme

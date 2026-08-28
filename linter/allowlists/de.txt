@@ -97,6 +97,7 @@ Benutzerfreundlichkeit
 Benutzergruppen
 Benutzername
 Benutzernamen
+Benutzerprofil
 Benutzerrechte
 Berechnungsarten
 Bestätigungscodes
@@ -167,6 +168,7 @@ class
 Classes
 Click
 Coaches
+Codebasis
 coded
 Collapse
 Collect
@@ -360,6 +362,7 @@ Frontendmodule
 Funnel
 Funnels
 für
+Galerieansicht
 Gallery
 general
 Geo
@@ -382,6 +385,7 @@ Geschütztes
 gestreamt
 gestylt
 gestylten
+gestyltes
 Get
 Github
 Glossarbegriffe
@@ -701,6 +705,7 @@ Plenta
 Plugin
 Plugins
 point
+Point
 Popups
 Positionierung
 Positionsverfolgung
@@ -807,6 +812,7 @@ Scroll
 Search
 search
 Sec
+Secret
 Seitenaufruf
 Seitenaufrufe
 Seitenbaum
@@ -843,6 +849,7 @@ Sichtbarkeiten
 Sidebar
 Sidepanel
 Sign-On
+Site
 Sitemap
 Sitemaps
 Slave
@@ -862,6 +869,7 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
+span
 Speed
 Speisenpläne
 Spiders
@@ -903,6 +911,7 @@ Subvendoren
 Suchabos
 Suchbar
 Suchbegriff
+Suchbegriffe
 Suchbegriffen
 Suchergebnisse
 Suchergebnissen
@@ -1103,3 +1112,12 @@ Graustufen
 Markern
 Marker
 Mobilgeräten
+Dashboard
+Datenbanktabellen
+Load
+Snippet
+Kartenanbieter-spezifische
+Konsolenbefehle
+Spielverlauf
+Spielerstatistiken
+Kartenanbieter
