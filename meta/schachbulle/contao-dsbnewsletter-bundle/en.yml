@@ -1,0 +1,15 @@
+en:
+    title: DSB Newsletter
+    description: >
+        Extends the newsletter with content elements that can be put in any order. A newsletter is built from separate sections instead of one single text field.
+
+        Each section carries a headline, an optional image and a text. The image can be placed above, below, left or right of the text, can have a caption and can link to an address. Single sections can be hidden without deleting them.
+
+        The sections appear where the insert tag is placed within the content. It is added automatically when the feature is switched on and can be moved freely.
+    keywords:
+        - newsletter
+        - content element
+        - DSB
+        - chess
+    support:
+        source: https://github.com/Samson1964/contao-dsbnewsletter-bundle
