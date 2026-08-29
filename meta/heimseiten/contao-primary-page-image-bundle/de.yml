@@ -1,0 +1,4 @@
+de:
+    title: Seitenbild
+    description: >
+        Ergänzt die Seiteneinstellungen um ein Bild, das als primaryImageOfPage in die strukturierten Daten der Seite geschrieben wird. Damit lässt sich steuern, welches Bild Suchmaschinen der Seite zuordnen. Im Seitenlayout steht das Bild zusätzlich zur Verfügung und lässt sich zum Beispiel im Kopfbereich ausgeben. Die Erweiterung stellt eine Funktion von Contao 6 bereits unter Contao 5.7 bereit und verwendet dasselbe Feld wie der Kern. Ab Contao 6 übernimmt der Kern diese Aufgabe und die Erweiterung hält sich zurück, sodass ein Update ohne Vorarbeit möglich ist und die vorhandenen Daten erhalten bleiben.

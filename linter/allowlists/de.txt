@@ -271,6 +271,7 @@ Einwilligungseinstellungen
 Einwilligungsfunktion
 Einzelbestellungen
 Einzelturniere
+Elementgruppe
 Elementsets
 Elternelement
 Elterntabelle
@@ -491,6 +492,7 @@ Key
 Keys
 Keywords
 KI
+Kindansicht
 Klartextwerte
 Klassenbasierte
 Klassensammlung
@@ -817,7 +819,9 @@ Seitenaufruf
 Seitenaufrufe
 Seitenbaum
 Seitenbeschreibung
+Seitenbild
 Seiteneigenschaften
+Seiteneinstellungen
 Seiteninformation
 Seitenlayout
 Seitenlayouts
