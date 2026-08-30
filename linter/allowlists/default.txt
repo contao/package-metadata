@@ -162,6 +162,7 @@ Edition
 EFG
 Einzelhandelsgeschäfte
 Elasticsearch
+Elo
 Email
 eMail
 eps
