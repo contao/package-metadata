@@ -1,0 +1,13 @@
+en:
+    title: Squad lists
+    description: >
+        Manages squad lists of chess players and outputs them as a content element in the front end. Each list holds a year, a period of validity and the players with their squad level, regional association, DWZ and Elo rating.
+
+        Players are created once and can then be used in any number of lists; they can optionally be linked to the player register. The output also shows each player's squad level from the previous year. Which levels appear and whether DWZ and Elo are visible is set per content element.
+    keywords:
+        - chess
+        - squad
+        - list
+        - players
+    support:
+        source: https://github.com/Samson1964/contao-kaderlisten-bundle
