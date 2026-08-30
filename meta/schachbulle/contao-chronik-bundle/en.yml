@@ -1,0 +1,17 @@
+en:
+    title: Chess Chronicle
+    description: >
+        Manages a chronicle and renders its events in chronological order in the front end.
+
+        Every event carries a place, a period, a title, a text and a source with its address. A year is enough as a point in time; month and day as well as periods spanning several years are equally possible.
+
+        A menu splits long chronicles into sections of a configurable length, decades for instance. People taken from the player register appear by name and link to their detail page; the clubs come from the club register.
+
+        The chronicle is rendered as a front end module in the page layout.
+    keywords:
+        - chronicle
+        - history
+        - chess
+        - club
+    support:
+        source: https://github.com/Samson1964/contao-chronik-bundle

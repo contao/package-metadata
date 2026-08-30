@@ -797,6 +797,7 @@ Röntgenaufnahmen
 Scans
 Schachbund
 Schachbundes
+Schachchronik
 Schachspielern
 Schachturnier
 Schachturniere
@@ -1026,6 +1027,7 @@ Varone
 Veranstaltungsbuchung
 Veranstaltungsorte
 Veranstaltungssystem
+Vereinsregister
 Verification
 Verkaufsobjekte
 verkaufsstarker
