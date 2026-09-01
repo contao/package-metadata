@@ -1,7 +1,7 @@
 en:
     title: Duplicate Content
     description: >
-        Duplicate Contao contents with just one click. Insert tags, forwarding pages, and main language (as used by ChangeLanguage) are adjusted automatically. Works perfectly for preparatory work to translate the website with, for example, Contao2xliff.
+        Duplicate Contao content with a single click – page tree, events, FAQ, news, forms & modules including all content elements. New: skip hidden content elements, Isotope support (categories including duplication & automatic category assignment). Insert tags, IDs, forwarding pages, and the main language are updated automatically. Ideal as preparation for translations, for example with Contao2xliff.
     keywords:
         - duplicate
         - content
@@ -11,4 +11,6 @@ en:
         - news
         - forms
         - ChangeLanguage
+        - Isotope
+        - modules
     homepage: https://www.contao2xliff.de/inhalte-duplizieren.html
