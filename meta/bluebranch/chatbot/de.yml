@@ -1,0 +1,24 @@
+de:
+    title: BlueBranch Chatbot
+    description: >
+        KI-Chatbot und KI-Suche für Contao: Die Erweiterung übergibt deine Seiteninhalte beim Lauf des Suchindex an eine Chatbot-API und beantwortet Besucherfragen daraus – als Chat-Widget und als Zusammenfassung über der Trefferliste der Suche.
+        Die KI antwortet ausschließlich aus deinen eigenen Inhalten und nennt die verwendeten Seiten als Quelle. Der API-Key bleibt dabei auf dem Server und wird nie an den Browser übertragen.
+
+        Einzelne Seiten und ganze Bereiche kannst du von den Antworten ausnehmen. Ein Modul im Backend zeigt dir, was der Chatbot gelernt hat, und lässt dich Einträge wieder löschen.
+
+        Wie es funktioniert:
+          1. Installation der Erweiterung `$ composer require bluebranch/chatbot` oder über den Contao Manager
+          2. Registriere Dich auf https://chatbot.bluebranch.de und erstelle einen API-Key
+          3. API-Key am Startpunkt der Website hinterlegen und den Suchindex neu aufbauen
+    keywords:
+        - contao
+        - ki
+        - chatbot
+        - suche
+        - assistent
+        - support
+        - faq
+    homepage: https://github.com/BlueBranch-GmbH/chatbot-contao
+    support:
+        issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
+        docs: https://github.com/BlueBranch-GmbH/chatbot-contao
