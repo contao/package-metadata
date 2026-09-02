@@ -6,6 +6,8 @@ en:
 
         Single pages and entire sections can be excluded from the answers. A back end module shows you what the chatbot has learned and lets you delete entries again.
 
+        On data protection: all data is processed in Germany only, the AI runs on our own servers, and your content is never used to train models. An agreement under Art. 28 GDPR is available on request.
+
         How it works:
           1. Install the extension via `$ composer require bluebranch/chatbot` or use the Contao Manager
           2. Register at https://chatbot.bluebranch.de and create an API key

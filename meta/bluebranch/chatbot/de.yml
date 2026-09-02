@@ -6,6 +6,8 @@ de:
 
         Einzelne Seiten und ganze Bereiche kannst du von den Antworten ausnehmen. Ein Modul im Backend zeigt dir, was der Chatbot gelernt hat, und lässt dich Einträge wieder löschen.
 
+        Zum Datenschutz: Die Daten werden ausschließlich in Deutschland verarbeitet, die KI läuft auf eigenen Servern, und deine Inhalte werden nicht zum Training von Modellen genutzt. Ein Vertrag nach Art. 28 DSGVO ist auf Anfrage möglich.
+
         Wie es funktioniert:
           1. Installation der Erweiterung `$ composer require bluebranch/chatbot` oder über den Contao Manager
           2. Registriere Dich auf https://chatbot.bluebranch.de und erstelle einen API-Key
