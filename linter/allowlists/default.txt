@@ -82,6 +82,8 @@ ChangeLanguage
 ChangeNewsMore
 chatbot
 Checkbox
+chess
+ChessResults
 Chesstempo
 ChurchDesk
 Claude
@@ -458,6 +460,7 @@ Request
 require
 reset
 REST
+results
 RGAA
 RSCE
 Ritter

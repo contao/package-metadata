@@ -1,0 +1,16 @@
+en:
+    title: ChessResults
+    description: >
+        Embeds the tables of a tournament from chess-results.com into your own page as a content element. The tournament number from the address is all it takes.
+
+        Available lists are the players by name or by rating, the standings after a given round, the progress table and the pairings of a round. Which columns appear can be set for each element.
+
+        The retrieved data is kept in the element itself, so that not every page view requires a request to ChessResults. Below the table you see the time that ChessResults reports as the last change.
+    keywords:
+        - chess
+        - tournament
+        - Chess-Results
+        - standings
+        - pairings
+    support:
+        source: https://github.com/Samson1964/contao-chessresults-bundle
