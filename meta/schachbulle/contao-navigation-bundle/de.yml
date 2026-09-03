@@ -1,0 +1,15 @@
+de:
+    title: Seiten- und Artikel-Navigation
+    description: >
+        Fügt über ein Inserttag eine Navigation über die Artikel einer Seite ein. Aufgeführt werden die veröffentlichten Artikel in ihrer Reihenfolge; der gerade aufgerufene Eintrag steht als Text da, die übrigen als Verweise.
+
+        Der erste Eintrag trägt den Titel der Seite, denn wer die Seite ohne Angabe eines Artikels aufruft, landet beim ersten Artikel. Wahlweise lässt sich auch die Navigation einer anderen Seite einfügen.
+
+        Die Navigation erscheint je Aufruf nur einmal, selbst wenn das Inserttag in mehreren Artikeln der Seite steht.
+    keywords:
+        - Navigation
+        - Seiten
+        - Artikel
+        - Inserttag
+    support:
+        source: https://github.com/Samson1964/contao-navigation-bundle
