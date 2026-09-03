@@ -1,0 +1,26 @@
+en:
+    title: BlueBranch Chatbot
+    description: >
+        AI chat and AI search for Contao: the extension hands your page content to a chatbot API while the search index is built and answers visitor questions from it – as a chat widget and as a summary above the search results.
+        The AI answers from your own content only and names the pages it used as sources. The API key stays on the server and is never sent to the browser.
+
+        Single pages and entire sections can be excluded from the answers. A back end module shows you what the chatbot has learned and lets you delete entries again.
+
+        On data protection: all data is processed in Germany only, the AI runs on our own servers, and your content is never used to train models. An agreement under Art. 28 GDPR is available on request.
+
+        How it works:
+          1. Install the extension via `$ composer require bluebranch/chatbot` or use the Contao Manager
+          2. Register at https://chatbot.bluebranch.de and create an API key
+          3. Store the API key on the website root page and rebuild the search index
+    keywords:
+        - contao
+        - ai
+        - chatbot
+        - search
+        - assistant
+        - support
+        - faq
+    homepage: https://github.com/BlueBranch-GmbH/chatbot-contao
+    support:
+        issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
+        docs: https://github.com/BlueBranch-GmbH/chatbot-contao
