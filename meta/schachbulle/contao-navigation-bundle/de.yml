@@ -1,0 +1,16 @@
+de:
+    title: Seiten- und Artikel-Navigation
+    description: >
+        Stellt zwei InsertTags bereit. Das eine listet die untergeordneten Seiten einer Seite auf, das andere die Artikel einer Seite.
+
+        Aufgeführt wird in der Reihenfolge, die der Seitenbaum vorgibt; der gerade aufgerufene Eintrag steht als Text da, die übrigen als Verweise. Bei Seiten gelten dieselben Regeln wie in der Navigation von Contao: im Menü versteckte, nicht veröffentlichte und geschützte Seiten bleiben draußen.
+
+        Die Ausgabe läuft über ein Template und lässt sich damit frei gestalten.
+    keywords:
+        - Navigation
+        - Seiten
+        - Artikel
+        - Inserttag
+        - Untermenü
+    support:
+        source: https://github.com/Samson1964/contao-navigation-bundle
