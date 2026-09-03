@@ -354,6 +354,7 @@ Formularwidget
 Formvalidation
 formvalidation
 Fortschrittsanzeige
+Fortschrittstabelle
 Fortschrittstabellen
 Fremdschlüssel
 Frontend
