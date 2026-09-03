@@ -1,0 +1,16 @@
+en:
+    title: SkynetAccessibility Video Subtitle
+    description: > 
+        SkynetAccessibility Video Subtitle is an AI-powered video accessibility plugin for Contao that automatically generates synchronized subtitles for website videos using advanced speech recognition. Improve the accessibility of website videos by automatically generating synchronized subtitles using AI-powered speech recognition. It integrates with Contao, making it easier to publish accessible multimedia content without manually creating captions. Supports accessibility initiatives aligned with WCAG 2.1, 2.2, ADA, Section 508, and EAA EN 301 549, where applicable.
+    keywords:
+        - contao
+        - WCAG
+        - ATAG
+        - ADA
+        - AODA
+        - ACA
+        - BITV
+        - RGAA
+        - LBI
+        - UNE
+        - JIS
