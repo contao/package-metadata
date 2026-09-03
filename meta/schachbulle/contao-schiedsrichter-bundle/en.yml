@@ -1,0 +1,14 @@
+en:
+    title: Referee Licenses
+    description: >
+        Manages the licenses of chess referees: level, term and renewal.
+
+        The records can be taken over from a second database. Anyone already on file is updated, anyone missing is added; anyone who no longer appears there is kept and merely hidden.
+
+        A front end module lists all referees holding a valid license as a table. On request the extension also maintains a newsletter with their addresses.
+    keywords:
+        - referee
+        - license
+        - chess
+    support:
+        source: https://github.com/Samson1964/contao-schiedsrichter-bundle
