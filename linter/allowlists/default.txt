@@ -660,3 +660,9 @@ OpenFreeMap
 MapLibre
 Map-ID
 Style-JSON
+xs
+xl
+col
+offset
+Overhead
+Script

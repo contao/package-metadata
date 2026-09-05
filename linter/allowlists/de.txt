@@ -1134,3 +1134,13 @@ Konsolenbefehle
 Spielverlauf
 Spielerstatistiken
 Kartenanbieter
+The
+Vollbildansicht
+Konfigurationsseite
+durchblätterbaren
+mitschleppen
+Breakpoint
+Inhaltselements
+Auswahlfelder
+Zusatzbibliothek
+Wahlmenü
