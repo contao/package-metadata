@@ -235,3 +235,6 @@ with
 youtube
 YouTube
 Chatbot
+fullsize
+browsable
+breakpoint
