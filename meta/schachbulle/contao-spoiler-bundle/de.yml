@@ -1,0 +1,14 @@
+de:
+    title: Spoiler
+    description: >
+        Inhaltselemente, die Inhalte hinter einer Überschrift verbergen und erst nach einem Klick zeigen. Entweder als einzelnes Element mit Text oder als Klammer um beliebige andere Inhaltselemente.
+
+        Die Ausgabe kommt ohne JavaScript aus; das Öffnen und Schließen übernimmt der Browser selbst.
+    keywords:
+        - Spoiler
+        - Akkordeon
+        - Inhaltselement
+        - Aufklappen
+        - Details
+    support:
+        source: https://github.com/Samson1964/contao-spoiler-bundle
