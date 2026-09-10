@@ -880,7 +880,6 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
-Spoiler
 span
 Speed
 Speisenpläne
@@ -888,6 +887,7 @@ Spiders
 Spielerregister
 Spielersuche
 splitter
+Spoiler
 Sportler
 Sprachcode
 Sprachdateien
