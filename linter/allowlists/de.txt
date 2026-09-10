@@ -118,6 +118,7 @@ Bildgrößen
 Bildgrößeneinstellung
 Bildinhalte
 Bildkarussell
+Bildnavigation
 Bildpipeline
 Bildreferenzen
 Bildsammlung

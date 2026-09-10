@@ -1,0 +1,19 @@
+en:
+    title: Image Navigation
+    description: >
+        An animated image navigation for Contao 5 and 6. Several image panels sit
+        side by side; the one you point at expands to reveal a headline, a short
+        text and a button. It responds to hover, to tapping on touch devices and
+        to the keyboard. Layout, height, frame and colours are configurable, and
+        a panel can start out open or stay open after the pointer leaves. On
+        narrow screens the panels stack vertically. Built entirely with Twig
+        templates.
+    keywords:
+        - image
+        - navigation
+        - panels
+        - teaser
+        - hover
+        - animation
+        - showcase
+        - bildnavigation

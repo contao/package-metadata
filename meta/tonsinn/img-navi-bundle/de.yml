@@ -1,0 +1,19 @@
+de:
+    title: Bildnavigation
+    description: >
+        Animierte Bildnavigation für Contao 5 und 6. Mehrere Bild-Panels liegen
+        nebeneinander; das angesteuerte Panel klappt auf und zeigt Überschrift,
+        kurzen Text und einen Button. Bedient wird per Mouseover, auf Touch-Geräten
+        durch Tippen und über die Tastatur. Anordnung, Höhe, Rahmen und Farben
+        lassen sich einstellen, ein Panel kann beim Laden bereits geöffnet sein
+        oder nach dem Verlassen geöffnet bleiben. Auf schmalen Bildschirmen
+        stapeln sich die Panels untereinander. Reine Twig-Templates.
+    keywords:
+        - bildnavigation
+        - bilder
+        - navigation
+        - panel
+        - teaser
+        - hover
+        - animation
+        - startseite
