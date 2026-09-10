@@ -880,6 +880,7 @@ Source
 Spaltenbreite
 Spaltenset
 Spam
+Spoiler
 span
 Speed
 Speisenpläne
