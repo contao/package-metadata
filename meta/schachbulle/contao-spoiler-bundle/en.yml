@@ -1,0 +1,14 @@
+en:
+    title: Spoiler
+    description: >
+        Content elements that hide content behind a heading and reveal it after a click. Either as a single element with text or as a wrapper around any other content elements.
+
+        The output works without JavaScript; opening and closing is handled by the browser itself.
+    keywords:
+        - spoiler
+        - accordion
+        - content element
+        - collapsible
+        - details
+    support:
+        source: https://github.com/Samson1964/contao-spoiler-bundle
