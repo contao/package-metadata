@@ -1,7 +1,7 @@
 en:
     title: Occupancy Plan
     description: >
-        Create occupancy and booking schedules in Contao 5. The bundle renders
+        Create occupancy and booking schedules in Contao 5 and 6. The bundle renders
         a calendar grid showing bookings across multiple objects (e.g. rental
         rooms or holiday apartments), grouped by categories, with configurable
         colors, arrival and departure days, and multiple display modes (manual,
