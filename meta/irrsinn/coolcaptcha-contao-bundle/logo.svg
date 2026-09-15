@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">CoolCaptcha</title>
+  <rect x="1" y="1" width="98" height="98" rx="10" fill="#f5f5f5" stroke="#b8b8b8" stroke-width="2"/>
+  <path d="M55 35c8-8 21-8 29 0 9 9 9 23 0 32-8 8-21 8-29 0L42 55" fill="none" stroke="#202a35" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 67c-8 8-21 8-29 0-9-9-9-23 0-32 8-8 21-8 29 0l13 12" fill="none" stroke="#3478ed" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 55 56 38l-5 10 15-3-22 19 5-12z" fill="#202a35"/>
+</svg>
