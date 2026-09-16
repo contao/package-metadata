@@ -20,7 +20,7 @@ en:
         - assistant
         - support
         - faq
-    homepage: https://github.com/BlueBranch-GmbH/chatbot-contao
+    homepage: https://chatbot.bluebranch.de/
     support:
         issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
-        docs: https://github.com/BlueBranch-GmbH/chatbot-contao
+        docs: https://chatbot.bluebranch.de/anleitung/contao
