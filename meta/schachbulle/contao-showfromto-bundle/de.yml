@@ -1,0 +1,12 @@
+de:
+    title: Showfromto
+    description: >
+        Zeigt in der Liste der Inhaltselemente und Nachrichten im Backend einen Hinweis, wenn „Anzeigen ab“ noch nicht erreicht oder „Anzeigen bis“ schon vorbei ist. So fällt sofort auf, warum ein veröffentlichtes Element im Frontend nicht erscheint.
+    keywords:
+        - Backend
+        - Inhaltselement
+        - Nachrichten
+        - Anzeigezeitraum
+        - Veröffentlichung
+    support:
+        source: https://github.com/Samson1964/contao-showfromto-bundle
