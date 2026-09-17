@@ -82,6 +82,7 @@ ChangeLanguage
 ChangeNewsMore
 chatbot
 Checkbox
+Chess
 chess
 ChessResults
 Chesstempo
@@ -533,6 +534,7 @@ Survey
 svg
 SVG
 Swiper
+Swiss
 Symfony
 Symfony's
 Synapsis

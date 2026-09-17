@@ -1,0 +1,16 @@
+de:
+    title: Schachturnier-Betrachter
+    description: >
+        Gibt die Dateien der Programme Swiss-Chess und Swiss-Manager als Inhaltselement oder als InsertTag aus: die Daten des Turniers, Teilnehmer, Rangliste, Kreuztabelle, Fortschrittstabelle, Paarungen und Ergebnisse. Bei Turnieren mit Mannschaften kommen die Tabelle der Mannschaften, ihre Wettkämpfe und die Kreuztabelle der Mannschaften hinzu.
+
+        Mehrere Listen erscheinen als Reiter. Läuft unter Contao 4.13 und Contao 5.
+    keywords:
+        - Schach
+        - Turnier
+        - Kreuztabelle
+        - Rangliste
+        - Swiss-Chess
+        - Swiss-Manager
+        - SWT
+    support:
+        source: https://github.com/Samson1964/contao-chesstournamentviewer-bundle
