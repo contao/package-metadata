@@ -1,0 +1,16 @@
+en:
+    title: Chess tournament viewer
+    description: >
+        Displays the files of the tournament programs Swiss-Chess and Swiss-Manager as a content element or as an insert tag: tournament data, players, standings, cross table, progress table, pairings and results. For team tournaments, the team standings, the matches and the team cross table are added.
+
+        Several lists are shown as tabs. Runs on Contao 4.13 and Contao 5.
+    keywords:
+        - chess
+        - tournament
+        - cross table
+        - standings
+        - Swiss-Chess
+        - Swiss-Manager
+        - SWT
+    support:
+        source: https://github.com/Samson1964/contao-chesstournamentviewer-bundle
