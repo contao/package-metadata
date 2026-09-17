@@ -82,6 +82,7 @@ ChangeLanguage
 ChangeNewsMore
 chatbot
 Checkbox
+Chess
 chess
 ChessResults
 Chesstempo
@@ -488,6 +489,7 @@ serverabhängig
 Sharepoint
 Shariff
 Shops
+Showfromto
 Sign
 SimpleTokens
 SINEOS
@@ -533,6 +535,7 @@ Survey
 svg
 SVG
 Swiper
+Swiss
 Symfony
 Symfony's
 Synapsis
