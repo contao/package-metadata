@@ -1,0 +1,18 @@
+en:
+    title: CoolCaptcha for Contao 6
+    description: >
+        Integrates the GDPR-compliant CoolCaptcha spam and bot protection as a
+        selectable field in the Contao form generator. Verification is
+        performed server-side without intrusive image or number puzzles.
+
+        The license key, API address, timeout, failure behavior and all error
+        messages can be configured in the Contao system settings.
+    keywords:
+        - captcha
+        - spam protection
+        - bot protection
+        - GDPR
+        - forms
+    homepage: https://cool-captcha.de
+    support:
+        docs: https://cool-captcha.de
