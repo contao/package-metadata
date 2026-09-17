@@ -1,0 +1,12 @@
+en:
+    title: Showfromto
+    description: >
+        Shows a note in the back end list of content elements and news items when "Show from" has not been reached yet or "Show until" has already passed, so it is obvious at a glance why a published element does not appear in the front end.
+    keywords:
+        - back end
+        - content element
+        - news
+        - show from
+        - show until
+    support:
+        source: https://github.com/Samson1964/contao-showfromto-bundle
