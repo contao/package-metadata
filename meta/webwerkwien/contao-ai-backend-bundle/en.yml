@@ -1,0 +1,26 @@
+en:
+    title: 'ConpAI Backend – AI agent in the Contao back end'
+    description: |
+        An AI chat right inside the back end: editors and administrators say in their own words what should change, and the agent reads and edits pages, articles, content elements, news, events and FAQ. No SSH, no command line.
+
+        The agent works with the permissions of the logged-in user and through the commands of ConpAI Core. Every change therefore leaves a version, an undo entry when deleting, and a line in the system log.
+
+        Good to know:
+
+        - You choose the AI provider, a self-hosted model works too
+        - Each user stores their own access in their profile, the bundle ships none
+        - Requires ConpAI Core, which is installed along with it
+        - Runs on Contao 5.3 to 6.0
+    keywords:
+        - conpai
+        - contao-ai
+        - ai
+        - agent
+        - ai agent
+        - chat
+        - assistant
+        - editor
+        - automation
+        - backend
+    support:
+        docs: https://conpai.eu/en/
