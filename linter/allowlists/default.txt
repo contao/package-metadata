@@ -5,6 +5,7 @@ adwords
 AEO
 agentic
 Agentic
+ai
 Ajax
 ajax
 Akeneo
@@ -88,6 +89,7 @@ ChessResults
 Chesstempo
 ChurchDesk
 Claude
+cli
 Clickpress
 Clickskeks
 Cloud
@@ -106,6 +108,7 @@ composer
 Composer
 Config
 Connector
+ConpAI
 consent
 Consent
 contao
