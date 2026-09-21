@@ -1,0 +1,29 @@
+en:
+    title: 'ConpAI Core – control Contao with AI agents'
+    description: |
+        ConpAI gives Contao a command layer: more than 120 console commands for pages, articles, content elements, news, events, FAQ, files, forms, layouts, members, users and settings. JSON in, JSON out – so an AI agent can run your installation over SSH without bypassing Contao.
+
+        Every write goes through the DCA and leaves what a click in the back end leaves: a version, an undo entry when deleting, and a line in the system log. What the back end refuses, the command refuses too.
+
+        Recommended with it: the command line tool contao-ai-cli. It connects your AI agent to the installation over SSH and hands it a guide to every command. How to set it up is in the documentation.
+
+        Good to know:
+
+        - The bundle needs no AI model and sends no data anywhere
+        - The backend bundle adds an AI chat right inside the back end
+        - Runs on Contao 5.3 to 6.0, stable since version 1.0
+    keywords:
+        - conpai
+        - contao-ai
+        - contao-ai-cli
+        - ai
+        - agent
+        - ai agent
+        - automation
+        - command line
+        - console
+        - ssh
+        - json
+        - editor
+    support:
+        docs: https://conpai.eu/en/
