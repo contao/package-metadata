@@ -1,0 +1,13 @@
+de:
+    title: Reservierung für Veranstaltungen
+    description: >
+        Ergänzt das Contao-Kalendermodul um ein Reservierungssystem für Veranstaltungen. Besucher melden sich über
+        ein Frontend-Formular für einen Termin an; die Erweiterung verwaltet Plätze und Status und verschickt die
+        Benachrichtigungen über das Notification Center.
+    keywords:
+        - Veranstaltung
+        - Reservierung
+        - Anmeldung
+        - Kalender
+        - Termin
+        - Notification Center

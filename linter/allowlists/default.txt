@@ -477,11 +477,13 @@ Rocksolid
 rocksolid
 rss
 RSS
+Ruudt
 Sans
 Scanner
 schubwerk
 Schubwerk
 Schwalm
+Schwarmalarm
 scss
 SCSS
 Seitenbäume
@@ -517,6 +519,7 @@ Sprite
 Sprites
 sprites
 sql
+srhinow
 SSH
 ssh
 SSO

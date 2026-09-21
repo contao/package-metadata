@@ -1,0 +1,12 @@
+de:
+    title: Einfacher Nachrichtentext
+    description: >
+        Stellt das Verhalten älterer Contao-Versionen wieder her: ein Textfeld direkt in der Nachrichtenmaske,
+        dessen Inhalt ohne zusätzliche Inhaltselemente in der Detailansicht erscheint. Praktisch für kurze
+        Meldungen und für die Übernahme älterer Installationen.
+    keywords:
+        - Nachrichten
+        - News
+        - Textfeld
+        - Detailansicht
+        - Migration

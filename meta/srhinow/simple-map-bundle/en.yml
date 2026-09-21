@@ -1,0 +1,13 @@
+en:
+    title: Simple Maps
+    description: >
+        Interactive maps with markers, maintained centrally in the back end and embedded as a content element or
+        front end module. Based on OpenStreetMap, optionally Mapbox, the Leaflet library and the Nominatim
+        interface for automatic geocoding.
+    keywords:
+        - map
+        - marker
+        - location
+        - openstreetmap
+        - leaflet
+        - mapbox

@@ -1,0 +1,11 @@
+en:
+    title: Teaser Manager
+    description: >
+        Manages teaser boxes centrally, grouped into teaser groups and categories. Create a teaser once, combine
+        teasers into groups and publish them on selected pages through an allow or block list.
+    keywords:
+        - teaser
+        - box
+        - group
+        - category
+        - content element
