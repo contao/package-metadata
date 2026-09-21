@@ -1,0 +1,12 @@
+de:
+    title: Seitenbilder
+    description: >
+        Zentrale Verwaltung von Seitenbildern. Du konfigurierst die Bilder einmal im Seitenbaum, danach erben
+        Unterseiten sie automatisch — bis eine Seite eine eigene Zuweisung erhält oder die Vererbung ausdrücklich
+        gesperrt wird. Fork von Ruudt/contao-page_images, neu geschrieben für Contao 5.
+    keywords:
+        - Seitenbild
+        - Bild
+        - Seite
+        - Vererbung
+        - Kopfbild

@@ -1,0 +1,11 @@
+en:
+    title: Simple News Text
+    description: >
+        Restores the behaviour of older Contao versions: a text field right in the news form whose content appears
+        in the detail view without additional content elements. Handy for short news items and when migrating older
+        installations.
+    keywords:
+        - news
+        - text field
+        - detail view
+        - migration

@@ -1,0 +1,11 @@
+en:
+    title: Theme Content
+    description: >
+        Manages content elements that belong to the theme — such as header and footer — in a dedicated back end
+        section instead of the page tree. This keeps layout building blocks separate from page content.
+    keywords:
+        - theme
+        - layout
+        - content element
+        - footer
+        - header

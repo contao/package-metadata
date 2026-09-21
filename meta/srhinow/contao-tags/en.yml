@@ -1,0 +1,10 @@
+en:
+    title: Tags
+    description: >
+        Provides the foundation to tag arbitrary records. Other extensions hook into it through an input field; in
+        the front end the tags can be output as a tag cloud and used as a filter.
+    keywords:
+        - tags
+        - tag cloud
+        - filter
+        - categorisation

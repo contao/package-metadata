@@ -1,0 +1,11 @@
+de:
+    title: Layer und Popups
+    description: >
+        Frontend-Modul für Layer und Popups ohne jQuery und ohne weitere Abhängigkeiten — reines JavaScript.
+        Anzeigezeitpunkt, Häufigkeit und Gestaltung legst du im Backend fest.
+    keywords:
+        - Layer
+        - Popup
+        - Overlay
+        - Hinweis
+        - Einblendung

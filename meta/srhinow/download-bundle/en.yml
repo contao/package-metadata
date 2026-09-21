@@ -1,0 +1,13 @@
+en:
+    title: Download Manager
+    description: >
+        Manages downloads centrally in hierarchical categories and outputs them flexibly in the front end. Supports
+        file attachments, preview images, tags via srhinow/contao-tags, full text search, category filters and a
+        configurable link to a detail page.
+    keywords:
+        - download
+        - files
+        - category
+        - list
+        - search
+        - attachment

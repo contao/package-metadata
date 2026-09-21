@@ -1,0 +1,12 @@
+de:
+    title: Linkverwaltung
+    description: >
+        Schlanke Verwaltung von Links in hierarchischen Kategorien. Du pflegst die Links kategorisiert im Backend
+        und gibst sie über zwei Frontend-Module aus — einmal als flache Kategorienliste, einmal mit
+        Unterkategorien.
+    keywords:
+        - Link
+        - Linkliste
+        - Kategorie
+        - Verweis
+        - Sammlung

@@ -1,0 +1,13 @@
+de:
+    title: Karten mit Markern
+    description: >
+        Interaktive Karten mit Markern, zentral im Backend gepflegt und per Inhaltselement oder Frontend-Modul
+        eingebunden. Basiert auf OpenStreetMap, wahlweise Mapbox, der Leaflet-Bibliothek und der
+        Nominatim-Schnittstelle für die automatische Ermittlung der Koordinaten.
+    keywords:
+        - Karte
+        - Marker
+        - Standort
+        - OpenStreetMap
+        - Leaflet
+        - Mapbox
