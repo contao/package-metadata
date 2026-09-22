@@ -1,0 +1,13 @@
+en:
+    title: Google Reviews Widget
+    description: >
+        Displays a Google reviews widget with rating, stars and review
+        count. Usable as a frontend module or content element, including
+        Schema.org markup and local caching.
+    keywords:
+        - google
+        - reviews
+        - widget
+        - seo
+    support:
+        issues: https://github.com/S-Punkt-Online/Google-Bewertungen-Widget/issues
