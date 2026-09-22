@@ -1187,3 +1187,4 @@ Befehlsebene
 Schreibvorgang
 mitinstalliert
 vorbeizuschreiben
+Spaltenanzahl
