@@ -1,0 +1,8 @@
+de:
+    title: Video-Thumbnails
+    description: Ermöglicht es Redakteuren, direkt in der Dateiverwaltung ein beliebiges Einzelbild aus einem Video als Vorschaubild (Poster) festzulegen - ganz ohne FFmpeg oder andere Programme auf dem Server. Das Vorschaubild wird im Frontend automatisch im Video-Player verwendet, sofern kein eigenes Poster gesetzt ist.
+    keywords:
+        - video
+        - thumbnail
+        - poster
+        - vorschaubild
