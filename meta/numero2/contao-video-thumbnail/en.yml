@@ -1,6 +1,6 @@
 en:
     title: Video Thumbnails
-    description: Allows editors to capture any frame of a video as thumbnail/poster image directly in the file manager - no ffmpeg or other server-side binary required. The thumbnail is automatically used as poster in the frontend video player unless an explicit poster has been set.
+    description: Allows editors to capture any frame of a video as thumbnail/poster image directly in the file manager - no FFmpeg or other server-side binary required. The thumbnail is automatically used as poster in the frontend video player unless an explicit poster has been set.
     keywords:
         - video
         - thumbnail
