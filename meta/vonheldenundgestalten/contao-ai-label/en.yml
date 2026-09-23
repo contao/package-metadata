@@ -1,4 +1,4 @@
-de:
+en:
     title: Contao AI Label
     description: >
         Offers the officially recommeded AI label for images and videos as a selectable option in the Contao file manager. The label will be placed over image or video and marks the content AI generated or AI enhanced following the EU AI Act.
