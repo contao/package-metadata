@@ -1,0 +1,16 @@
+de:
+    title: Grid – Spalten per Klick
+    description: >
+        Visuelles 12-Spalten-Grid: Lege über „Neues Grid“ Reihen mit 1 bis 4
+        Spalten an und passe die Breite der Spalten direkt in der Liste der
+        Inhaltselemente mit + und − an – die benachbarten Spalten gleichen
+        sich automatisch aus. Die Abstände zwischen den Spalten (L/M/S) und
+        „Gleiche Höhe“ stellst du pro Reihe ein. Basiert auf verschachtelten
+        Inhaltselementen, ohne CSS-Framework.
+    keywords:
+        - grid
+        - spalten
+        - layout
+        - raster
+    support:
+        issues: https://github.com/S-Punkt-Online/contao-grid-bundle/issues
