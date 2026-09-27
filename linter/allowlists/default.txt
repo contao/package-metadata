@@ -323,6 +323,7 @@ Leadlabs
 Leaflet
 leaflet
 Levenshtein
+Lichess
 Lightbox
 lightbox
 Lightcase

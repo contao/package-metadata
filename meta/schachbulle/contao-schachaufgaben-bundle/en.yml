@@ -1,0 +1,17 @@
+en:
+    title: Chess puzzles
+    description: >
+        Chess puzzle training like on Lichess. Members and guests solve puzzles taken from real games on a board in the browser. A personal rating keeps adjusting the difficulty, and no puzzle is ever shown twice.
+
+        Includes a ranking of members and an import of the free Lichess puzzle collection, both in the back end and on the command line.
+    keywords:
+        - chess
+        - puzzles
+        - tactics
+        - training
+        - Lichess
+        - ranking
+        - Glicko
+    support:
+        source: https://github.com/Samson1964/contao-schachaufgaben-bundle
+        issues: https://github.com/Samson1964/contao-schachaufgaben-bundle/issues

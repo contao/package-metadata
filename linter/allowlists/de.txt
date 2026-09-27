@@ -821,6 +821,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 Scans
+Schachaufgaben
 Schachbund
 Schachbundes
 Schachchronik
