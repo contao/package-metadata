@@ -1,0 +1,18 @@
+en:
+    title: FeatValue
+    description: >
+        FeatValue embeds the client portal in your Contao website. Clients stay on your domain, sign in, follow projects and create tasks. Your team keeps working in the tools you already use, for example Jira, Asana or ClickUp.
+
+        After installation, open System, FeatValue and click "Connect with FeatValue". The "FeatValue dashboard" content element and the frontend module of the same name place the portal in an article. Members can optionally sign in with their Contao account.
+
+        Install with composer require featvalue/contao, then run vendor/bin/contao-console contao:migrate. Contao 5.3 or newer, PHP 8.1 with the sodium extension.
+    keywords:
+        - client portal
+        - tasks
+        - dashboard
+        - agency
+        - approval
+    support:
+        docs: https://www.featvalue.com/contao
+        email: hello@featvalue.io
+        source: https://github.com/FeatValue/contao-bundle
