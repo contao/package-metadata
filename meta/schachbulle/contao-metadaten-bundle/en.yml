@@ -1,0 +1,19 @@
+en:
+    title: Metadata
+    description: >
+        Back end module that edits the metadata of many files from the file manager at once: title, alternative text, link, caption and license can be searched and replaced or set to fixed values — for all files or for a folder and everything below it.
+
+        A preview shows every change before it is saved, and every changed file gets a new version.
+
+        Images without an important part get their own editor: it detects faces right in the browser, suggests the section around the heads and lets you adjust it with the mouse.
+    keywords:
+        - metadata
+        - file manager
+        - caption
+        - alternative text
+        - search and replace
+        - important part
+        - face detection
+    support:
+        issues: https://github.com/Samson1964/contao-metadaten-bundle/issues
+        source: https://github.com/Samson1964/contao-metadaten-bundle

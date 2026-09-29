@@ -1,0 +1,19 @@
+de:
+    title: Metadaten
+    description: >
+        Backend-Modul, das die Metadaten vieler Dateien aus der Dateiverwaltung auf einmal bearbeitet: Titel, alternativer Text, Link, Beschriftung und Lizenz lassen sich suchen und ersetzen oder mit festen Werten setzen — für alle Dateien oder für einen Ordner mit allem, was darunter liegt.
+
+        Eine Vorschau zeigt jede Änderung vor dem Speichern, und jede geänderte Datei erhält eine neue Version.
+
+        Für Bilder ohne wichtigen Teil gibt es einen eigenen Editor: Er erkennt Gesichter direkt im Browser, schlägt den Ausschnitt um die Köpfe vor und lässt ihn mit der Maus anpassen.
+    keywords:
+        - Metadaten
+        - Dateiverwaltung
+        - Bildunterschrift
+        - Alternativtext
+        - Suchen und Ersetzen
+        - wichtiger Bildteil
+        - Gesichtserkennung
+    support:
+        issues: https://github.com/Samson1964/contao-metadaten-bundle/issues
+        source: https://github.com/Samson1964/contao-metadaten-bundle
