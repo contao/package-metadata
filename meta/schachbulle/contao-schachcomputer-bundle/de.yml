@@ -1,0 +1,20 @@
+de:
+    title: Schach gegen den Computer
+    description: >
+        Gewertete Partien gegen eine Engine, die im Browser rechnet. Mitglieder und Gäste wählen eine Zeit aus dem Backend und eine Stärke; der Server prüft jeden Zug und führt die Uhr. Die Wertung wird für Blitz, Schnellschach und lange Partien getrennt berechnet.
+
+        Dazu eine aktuelle Rangliste, eine Liste der höchsten je erreichten Wertungen und eine Rangliste, die jeden Monat gespeichert wird. Mitglieder finden ihre Partien als PGN und den Verlauf ihrer Wertung als Kurve. Partien zum Üben ohne Uhr sind ebenfalls möglich. Eine Statistik im Backend zeigt Aufrufe und Partien nach Tag, Monat und Jahr.
+    keywords:
+        - Schach
+        - Schachcomputer
+        - Stockfish
+        - Engine
+        - Blitz
+        - Rangliste
+        - Bestenliste
+        - Glicko
+        - PGN
+        - Statistik
+    support:
+        source: https://github.com/Samson1964/contao-schachcomputer-bundle
+        issues: https://github.com/Samson1964/contao-schachcomputer-bundle/issues
