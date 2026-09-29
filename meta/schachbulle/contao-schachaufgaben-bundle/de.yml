@@ -1,9 +1,9 @@
 de:
     title: Schachaufgaben
     description: >
-        Training mit Aufgaben aus echten Partien wie bei Lichess. Mitglieder und Gäste lösen die Aufgaben auf einem Brett im Browser. Eine eigene Wertung passt die Schwierigkeit laufend an, und keine Aufgabe wird zweimal gestellt.
+        Training mit Aufgaben aus echten Partien wie bei Lichess. Mitglieder und Gäste lösen die Aufgaben auf einem Brett im Browser. Eine eigene Wertung passt die Schwierigkeit laufend an, und keine Aufgabe wird nach dem ersten Zug ein zweites Mal gestellt. Jede Aufgabe lässt sich nach dem Lösen bewerten.
 
-        Dazu eine Rangliste der Mitglieder und der Import der freien Sammlung von Lichess im Backend oder auf der Konsole.
+        Dazu eine Rangliste der Mitglieder, eine Liste der höchsten je erreichten Wertungen und eine Rangliste, die jeden Monat gespeichert wird. Die freie Sammlung von Lichess lässt sich im Backend oder auf der Konsole importieren, eigene Aufgaben kommen als PGN-Datei hinzu. Eine Statistik im Backend zeigt Aufrufe, gespielte und gelöste Aufgaben nach Tag, Monat und Jahr.
     keywords:
         - Schach
         - Schachaufgaben
@@ -11,7 +11,9 @@ de:
         - Training
         - Lichess
         - Rangliste
+        - Bestenliste
         - Glicko
+        - Statistik
     support:
         source: https://github.com/Samson1964/contao-schachaufgaben-bundle
         issues: https://github.com/Samson1964/contao-schachaufgaben-bundle/issues
