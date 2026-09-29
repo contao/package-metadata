@@ -1,0 +1,19 @@
+de:
+    title: Widget für Barrierefreiheit
+    description: >
+        Schwebender Button mit einem Panel, in dem Besucherinnen und Besucher
+        die Darstellung deiner Website anpassen: Schriftgröße, Links
+        hervorheben, einfache Schrift, Text-Abstände, hoher Kontrast und ein
+        Modus ohne Ablenkungen. Die Einstellungen gelten für die ganze Website
+        und werden im Browser gespeichert. Das Widget selbst ist barrierefrei
+        umgesetzt. Position, helle oder dunkle Darstellung, Farben und alle
+        Texte stellst du im Frontend-Modul ein.
+    keywords:
+        - barrierefreiheit
+        - accessibility
+        - a11y
+        - schriftgröße
+        - kontrast
+        - widget
+    support:
+        issues: https://github.com/S-Punkt-Online/contao-a11y-widget/issues
