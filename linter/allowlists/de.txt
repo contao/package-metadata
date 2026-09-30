@@ -667,6 +667,7 @@ Navbar
 Navigationselementes
 Navigationen
 Navigationsmenü
+Navigationsmodul
 Neubauprojekten
 news
 Newsbeiträge
@@ -885,6 +886,7 @@ Share
 Shopsystem
 Short
 Sibling
+Sicherheitsdreieck
 Sichtbarkeiten
 Sidebar
 Sidepanel
@@ -1046,6 +1048,7 @@ Unique
 Unterformular
 Unterformularen
 Unterkategorien
+Untermenüs
 Unternehmensdaten
 Unterpaletten
 updatefreundlich
