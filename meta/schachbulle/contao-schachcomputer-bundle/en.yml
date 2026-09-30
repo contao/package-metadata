@@ -1,0 +1,19 @@
+en:
+    title: Chess against the computer
+    description: >
+        Rated games against a chess engine that runs in the browser. Members and guests pick a time control from the back end and a playing strength; the server checks every move and keeps the clock. Ratings are calculated separately for blitz, rapid and classical games.
+
+        Includes a current ranking, a list of the highest ratings ever reached and a ranking saved every month. Members find their games as PGN and their rating history as a chart. Practice games without a clock are possible as well. A statistics page in the back end shows visits and games by day, month and year.
+    keywords:
+        - chess
+        - computer
+        - Stockfish
+        - engine
+        - blitz
+        - ranking
+        - Glicko
+        - PGN
+        - statistics
+    support:
+        source: https://github.com/Samson1964/contao-schachcomputer-bundle
+        issues: https://github.com/Samson1964/contao-schachcomputer-bundle/issues
