@@ -1,0 +1,15 @@
+en:
+    title: Team tournaments
+    description: >
+        Manages chess tournaments played by teams: teams, players, matches, pairings and results. The standings are calculated from the results on the boards.
+
+        There are content elements for team rosters, rounds, standings and a cross table, plus a viewer for games in PGN format. Runs on Contao 4.13 and Contao 5.
+    keywords:
+        - chess
+        - team
+        - tournament
+        - cross table
+        - standings
+        - PGN
+    support:
+        source: https://github.com/Samson1964/contao-teamtournament-bundle

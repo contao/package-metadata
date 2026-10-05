@@ -593,6 +593,7 @@ Ländernamen
 mailto
 Maklermodul
 Maklersoftware
+Mannschaftsturniere
 Maps
 Markdown
 Markerclustern
