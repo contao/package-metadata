@@ -507,6 +507,7 @@ SINEOS
 Sineos
 SiteID
 Skrill
+Skynet
 SkynetAccessibility
 Slack
 Slideshow
