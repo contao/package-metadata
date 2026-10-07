@@ -465,6 +465,7 @@ Recruitee
 Reddit
 Refresh
 Reload
+Remediation
 repositories
 Repositories
 Request
@@ -507,6 +508,9 @@ SINEOS
 Sineos
 SiteID
 Skrill
+Skynet
+SkynetA
+SkynetA11y
 SkynetAccessibility
 Slack
 Slideshow
