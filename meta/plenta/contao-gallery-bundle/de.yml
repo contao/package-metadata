@@ -1,0 +1,26 @@
+de:
+    title: Fotoalben aus Ordnern für Contao
+    description: >
+        Erstelle Fotoalben direkt aus der Ordnerstruktur deiner Contao-Dateiverwaltung.
+        Ein Inhaltselement genügt: Titel, Text und Titelbild sowie ein Ordner mit den Fotos.
+
+        Im Frontend zeigt das Element zunächst einen Teaser mit Titelbild.
+        Ein Klick öffnet auf derselben Seite die Bildergalerie des gewählten Ordners, inklusive Lightbox,
+        Sortierung, Spaltenanzahl und Seitennummerierung. Nutzt vollständig die Contao-Bildpipeline.
+    keywords:
+        - Galerie
+        - Galerien
+        - Fotoalbum
+        - Fotoalben
+        - Bildergalerie
+        - Bilder
+        - Fotos
+        - Ordner
+        - Verzeichnis
+        - Album
+        - Lightbox
+        - Bildergalerie erstellen
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-gallery-bundle/issues
+        source: https://github.com/plenta/contao-gallery-bundle

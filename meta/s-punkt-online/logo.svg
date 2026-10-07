@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.7 51.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a0cc40;
+      }
+
+      .cls-2 {
+        fill: #7bad0e;
+      }
+
+      .cls-4 {
+        fill: #87bd27;
+      }
+
+      .cls-5 {
+        fill: #690;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="2.92 1.31 0 15.99 25.85 49.88 2.92 1.31"/>
+    <polygon class="cls-1" points="2.92 1.31 25.85 49.88 28.7 35.62 2.92 1.31"/>
+    <polygon class="cls-1" points="24.12 51.34 13.36 37.02 12.84 49.09 24.12 51.34"/>
+    <polyline class="cls-2" points="3.94 47.32 12.84 49.09 13.36 37.02"/>
+    <polyline class="cls-5" points="13.36 37.02 .04 42.36 3.94 47.32"/>
+    <polygon class="cls-5" points="4.56 0 15.32 14.32 15.84 2.25 4.56 0"/>
+    <polyline class="cls-1" points="15.32 14.32 28.64 8.98 24.74 4.02"/>
+    <polyline class="cls-4" points="24.74 4.02 15.84 2.25 15.32 14.32"/>
+  </g>
+</svg>

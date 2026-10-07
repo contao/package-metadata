@@ -1,0 +1,26 @@
+en:
+    title: Photo albums from folders for Contao
+    description: >
+        Create photo albums directly from the folder structure of your Contao file manager.
+        One content element is all it takes: title, text and cover image, plus a folder with the photos.
+
+        On the front end, the element first shows a teaser with a cover image.
+        A click opens the image gallery of the chosen folder on the same page, including lightbox,
+        sorting, column count and pagination. Fully built on the Contao image pipeline.
+    keywords:
+        - Gallery
+        - Galleries
+        - Photo album
+        - Photo albums
+        - Image gallery
+        - Images
+        - Photos
+        - Folder
+        - Directory
+        - Album
+        - Lightbox
+        - Create a gallery
+    homepage: https://plenta.io
+    support:
+        issues: https://github.com/plenta/contao-gallery-bundle/issues
+        source: https://github.com/plenta/contao-gallery-bundle

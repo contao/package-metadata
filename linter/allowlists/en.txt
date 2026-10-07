@@ -193,6 +193,8 @@ staging
 stardate
 stylable
 StyleManager
+submenu
+submenus
 subnets
 subpages
 subtemplates

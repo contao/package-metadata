@@ -667,6 +667,7 @@ Navbar
 Navigationselementes
 Navigationen
 Navigationsmenü
+Navigationsmodul
 Neubauprojekten
 news
 Newsbeiträge
@@ -821,6 +822,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 Scans
+Schachaufgaben
 Schachbund
 Schachbundes
 Schachchronik
@@ -884,6 +886,7 @@ Share
 Shopsystem
 Short
 Sibling
+Sicherheitsdreieck
 Sichtbarkeiten
 Sidebar
 Sidepanel
@@ -1045,6 +1048,7 @@ Unique
 Unterformular
 Unterformularen
 Unterkategorien
+Untermenüs
 Unternehmensdaten
 Unterpaletten
 updatefreundlich
@@ -1187,3 +1191,7 @@ Befehlsebene
 Schreibvorgang
 mitinstalliert
 vorbeizuschreiben
+Spaltenanzahl
+zeitbasierte
+Zeitstempel
+Silent

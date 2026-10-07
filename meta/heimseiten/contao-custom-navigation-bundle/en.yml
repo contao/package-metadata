@@ -1,0 +1,17 @@
+en:
+    title: Safe triangle for submenus
+    description: >
+        Adds a safe triangle to the accessible navigation menu of Contao (template mod_navigation_accessible): when the mouse moves diagonally towards an open submenu and brushes past other menu items on the way, the submenu stays open instead of switching to the wrong item. The triangle works on every level, for submenus below, to the right and to the left of the menu item. The navigation module also provides settings for reopening a submenu when the mouse returns shortly after leaving it, opening side submenus to the left when space runs out, fading submenus in and out with an adjustable duration, their shadow and the icon for menu items with a submenu (chevron, arrow, triangle, plus and minus, no icon or a custom SVG file). All settings apply to the desktop view; keyboard, touch and the mobile view keep the behavior of Contao. For Contao 5.7 and 6.0.
+    keywords:
+        - navigation
+        - menu
+        - submenu
+        - dropdown
+        - flyout
+        - hover
+        - safe triangle
+        - menu aim
+        - accessibility
+        - sicherheitsdreieck
+        - untermenü
+        - barrierefrei

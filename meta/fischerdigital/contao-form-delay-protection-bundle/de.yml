@@ -1,13 +1,18 @@
 de:
     title: Formular-Verzögerungsschutz
     description: >
-        Zeitbasierter Spam-Schutz für Contao-Formulare. Fügt eine
-        Mindestverzögerung zwischen dem Laden und dem Absenden des
-        Formulars hinzu, basierend auf HMAC-signierten Zeitstempeln.
-        Session-unabhängig und kompatibel mit HTTP-Caching und AJAX-Formularen.
+        Mehrstufiger Spam-Schutz für Contao-Formulare: zeitbasierte
+        Mindestverzögerung über HMAC-signierte Zeitstempel, Prüfung der
+        Eingaben auf typische Spam-Muster (Regex) und optionaler Silent Drop
+        mit Protokollierung im System-Protokoll. Erkannter Spam wird
+        stillschweigend verworfen – auch der Versand über das Notification
+        Center wird unterdrückt. Session-unabhängig und kompatibel mit
+        HTTP-Caching und AJAX-Formularen.
     keywords:
         - spam
         - schutz
         - formular
         - verzögerung
         - hmac
+        - regex
+        - silent drop
