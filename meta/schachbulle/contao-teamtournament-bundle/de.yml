@@ -1,0 +1,15 @@
+de:
+    title: Mannschaftsturniere
+    description: >
+        Verwaltet Turniere mit Mannschaften im Schach: Mannschaften, Spieler, Wettkämpfe, Paarungen und Ergebnisse. Die Tabelle wird aus den Ergebnissen der Bretter gerechnet.
+
+        Für das Frontend gibt es Inhaltselemente für Aufstellung, Runden, Tabelle und Kreuztabelle sowie einen Betrachter für Partien im PGN-Format. Läuft unter Contao 4.13 und Contao 5.
+    keywords:
+        - Schach
+        - Mannschaft
+        - Turnier
+        - Kreuztabelle
+        - Rangliste
+        - PGN
+    support:
+        source: https://github.com/Samson1964/contao-teamtournament-bundle
