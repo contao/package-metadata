@@ -509,6 +509,7 @@ Sineos
 SiteID
 Skrill
 Skynet
+SkynetA
 SkynetA11y
 SkynetAccessibility
 Slack
