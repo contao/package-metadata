@@ -1,0 +1,22 @@
+de:
+    title: Zielseite nach dem Login
+    description: >
+        Mit dieser Erweiterung wählen Mitglieder im Frontend selbst, auf welcher Seite sie nach
+        dem Login landen, zum Beispiel auf der Seite "Mein Konto".
+
+        Dafür gibt es ein Frontend-Modul, das du auf der Seite einbindest, auf der Mitglieder ihre
+        Einstellungen ändern. Im Backend legst du in den Einstellungen des Moduls eine Liste
+        möglicher Zielseiten an, optional mit eigener Bezeichnung, und markierst eine davon als
+        Standard. Der Standard ist die Vorauswahl für Mitglieder, die noch nichts gewählt haben.
+        Dieselbe Seite darf mehrfach in der Liste stehen.
+
+        Pro Liste gibt es ein Modul, so lassen sich verschiedene Logins, Mitgliedergruppen und
+        Sprachen getrennt bedienen. Seiten, die nicht mehr existieren oder für das Mitglied
+        nicht zugänglich sind, werden übergangen.
+    keywords:
+        - contao
+        - mitglieder
+        - login
+        - weiterleitung
+        - zielseite
+        - e-spin
