@@ -1,0 +1,58 @@
+de:
+    title: Plenta Casa - Immobilien-Websites für Contao 5.7+
+    description: >
+        Plenta Casa bringt deine Immobilien direkt in Contao. Objekte zur Miete und zum Kauf anlegen, filtern und schön präsentieren, ohne Fremdsystem.
+        
+        Für Makler, Wohnungsunternehmen, Genossenschaften und Agenturen.
+
+        Von Grund auf für Contao 5.7 und Symfony 7 entwickelt: Objektlisten mit Live Components, Filter und Pagination ohne Seitenreload, Detailseiten mit Galerie, Schema.org JSON-LD für Suchmaschinen und Twig-Templates, die du leicht anpassen kannst.
+
+        Open Source und kostenlos. Du brauchst mehr? Das Pro Bundle bringt OpenImmo-Import, CSV-Import und -Export sowie Suchabos, damit Interessenten neue Objekte automatisch per E-Mail bekommen.
+
+        Demo und Infos auf plentacasa.com
+    keywords:
+        - immo
+        - immobilien
+        - immobiliensoftware
+        - immobilienmakler
+        - immobiliensuche
+        - immobilienverkauf
+        - makler
+        - vermietung
+        - vermieter
+        - verkauf
+        - mietobjekt
+        - kaufobjekt
+        - mietangebot
+        - wohnungsunternehmen
+        - wohnungswirtschaft
+        - wohnungsbaugenossenschaft
+        - genossenschaft
+        - wowi
+        - hausverwaltung
+        - expose
+        - objektliste
+        - wohnung
+        - eigentumswohnung
+        - haus
+        - einfamilienhaus
+        - mehrfamilienhaus
+        - reihenhaus
+        - grundstück
+        - gewerbe
+        - stellplatz
+        - garage
+        - wg
+        - openimmo
+        - open immo
+        - import
+        - export
+        - csv
+        - suchabo
+        - schema.org
+        - live components
+    homepage: https://plentacasa.com
+    support:
+        issues: https://github.com/plenta/plenta-casa-core-bundle/issues
+        source: https://github.com/plenta/plenta-casa-core-bundle
+        docs: https://plentacasa.com/dokumentation

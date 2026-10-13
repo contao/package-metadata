@@ -1,0 +1,58 @@
+en:
+    title: Plenta Casa - Real estate websites for Contao 5.7+
+    description: >
+        Plenta Casa brings your properties right into Contao. Create, filter and showcase properties for rent and sale, no third-party system needed.
+
+        Built for real estate agents, housing companies, cooperatives and agencies.
+
+        Built from the ground up for Contao 5.7 and Symfony 7: property listings with Live Components, filters and pagination without page reloads, detail pages with gallery, Schema.org JSON-LD for search engines and Twig templates you can easily customize.
+
+        Open source and free. Need more? The Pro Bundle adds OpenImmo import, CSV import and export, plus saved searches so interested buyers and tenants get new listings by email automatically.
+
+        Demo and info at plentacasa.com
+    keywords:
+        - real estate
+        - real estate software
+        - real estate agent
+        - realtor
+        - property search
+        - property sale
+        - property
+        - properties
+        - rental
+        - landlord
+        - for sale
+        - rental property
+        - property for sale
+        - rental listing
+        - housing company
+        - housing industry
+        - housing cooperative
+        - cooperative
+        - property management
+        - expose
+        - listings
+        - apartment
+        - condominium
+        - house
+        - single-family house
+        - apartment building
+        - townhouse
+        - land
+        - commercial
+        - parking space
+        - garage
+        - shared flat
+        - openimmo
+        - open immo
+        - import
+        - export
+        - csv
+        - saved search
+        - schema.org
+        - live components
+    homepage: https://plentacasa.com
+    support:
+        issues: https://github.com/plenta/plenta-casa-core-bundle/issues
+        source: https://github.com/plenta/plenta-casa-core-bundle
+        docs: https://plentacasa.com/dokumentation
