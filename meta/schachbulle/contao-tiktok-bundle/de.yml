@@ -1,0 +1,14 @@
+de:
+    title: TikTok
+    description: >
+        Inhaltselement, das ein einzelnes Video von TikTok anzeigt. Es genügt der Link zum Video, ein kurzer Link oder die Nummer des Videos; ein API-Schlüssel ist nicht nötig.
+
+        Das Video erscheint sofort im Player von TikTok. Läuft unter Contao 4.13 und Contao 5.
+    keywords:
+        - Inhaltselement
+        - TikTok
+        - Video
+        - Einbetten
+        - Social Media
+    support:
+        source: https://github.com/Samson1964/contao-tiktok-bundle
