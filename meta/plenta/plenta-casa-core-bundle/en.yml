@@ -51,6 +51,8 @@ en:
         - saved search
         - schema.org
         - live components
+        - propstack
+        - onoffice
     homepage: https://plentacasa.com
     support:
         issues: https://github.com/plenta/plenta-casa-core-bundle/issues
