@@ -1196,3 +1196,6 @@ Spaltenanzahl
 zeitbasierte
 Zeitstempel
 Silent
+Casa
+plentacasa
+LD

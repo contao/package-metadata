@@ -240,3 +240,6 @@ Chatbot
 fullsize
 browsable
 breakpoint
+Casa
+plentacasa
+LD
