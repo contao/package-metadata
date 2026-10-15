@@ -1,0 +1,25 @@
+{
+  "name": "bngmnn/contao-live-edit",
+  "description": "An in-page visual editor for Contao websites",
+  "type": "contao-bundle",
+  "license": "LGPL-3.0-or-later",
+  "require": {
+    "php": "^8.2",
+    "contao/core-bundle": "^5.3 || ^6.0",
+    "contao-components/ace": "^1.0",
+    "contao-components/hugerte": "^1.0",
+    "contao/manager-plugin": "^2.13",
+    "symfony/filesystem": "^6.4 || ^7.0"
+  },
+  "suggest": {
+    "contao/news-bundle": "Enables inline editing for Contao news headlines and teasers."
+  },
+  "autoload": {
+    "psr-4": {
+      "ContaoLiveEdit\\": "src/"
+    }
+  },
+  "extra": {
+    "contao-manager-plugin": "ContaoLiveEdit\\ContaoManager\\Plugin"
+  }
+}
