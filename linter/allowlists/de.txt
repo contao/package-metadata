@@ -954,6 +954,7 @@ Styling
 Subnetze
 Subvendoren
 Suchabos
+Suchanfragen
 Suchbar
 Suchbegriff
 Suchbegriffe
@@ -1083,6 +1084,7 @@ visibility
 Visitor
 visits
 Visualization
+Vitals
 visuell
 Vollbild
 Vollbildkarte
