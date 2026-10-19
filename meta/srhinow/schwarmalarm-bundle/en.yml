@@ -1,0 +1,12 @@
+en:
+    title: Swarm Alert
+    description: >
+        Manages beekeepers and swarm collectors. Entries are stored with coordinates; a public search by postcode
+        or place helps people find the nearest contact, including a map view.
+    keywords:
+        - beekeeper
+        - bees
+        - swarm
+        - map
+        - search
+        - club

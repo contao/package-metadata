@@ -1,0 +1,16 @@
+de:
+    title: MetaModels CoWegis-Layer
+    description: >
+        Der CoWegis-Layer ermöglicht es, MetaModels-Daten als Layer in CoWegis-Karten (Leaflet-basierte
+        Kartenlösung für Contao) einzubinden. So können georeferenzierte MetaModels-Items auf interaktiven
+        Karten dargestellt werden.
+    keywords:
+        - metamodels
+        - cowegis
+        - karte
+        - map
+        - leaflet
+        - layer
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/extended/cowegis-layer-marker.html

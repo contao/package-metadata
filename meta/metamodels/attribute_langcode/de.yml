@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Sprachcode
+    description: >
+        Das Attribut Sprachcode bietet eine Auswahl aller Sprach-/Ländercodes (ISO 639) an. Es eignet sich zur
+        Speicherung von Sprachkennungen in MetaModels-Items.
+    keywords:
+        - metamodels
+        - attribute
+        - langcode
+        - sprachcode
+        - language code
+        - ISO 639
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/langcode.html

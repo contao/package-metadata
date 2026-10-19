@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte Mehrfachauswahl [tags]
+    description: >
+        Das Attribut übersetzte Mehrfachauswahl ist die mehrsprachige Variante des Tags-Attributs. Die Auswahl
+        kann je Sprache variieren.
+    keywords:
+        - metamodels
+        - attribute
+        - tags
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedtags.html

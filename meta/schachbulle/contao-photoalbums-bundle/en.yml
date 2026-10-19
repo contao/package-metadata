@@ -1,0 +1,17 @@
+en:
+    title: Photo albums
+    description: >
+        Manages photo albums in archives and renders them in the front end. An album holds its images, a date or period of exposure and details about the event, the location and the photographer.
+
+        The output consists of an overview of the albums and a view of the images of a single album, either on one page, on separate pages or without a second page at all by using a lightbox. A content element additionally places a single album in the middle of the text.
+
+        Images and albums can be dragged into an order of your own; the preview image of a tile is chosen, picked at random or omitted. Each archive can provide a feed. As the successor of photoalbums2 the package keeps its tables and fields, so switching over needs no data migration.
+    keywords:
+        - photo album
+        - gallery
+        - images
+        - lightbox
+        - archive
+    support:
+        source: https://github.com/Samson1964/contao-photoalbums-bundle
+        issues: https://github.com/Samson1964/contao-photoalbums-bundle/issues

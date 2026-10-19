@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Translated Single Selection [select]
+    description: >
+        The translated single selection attribute is the multilingual variant of the select attribute. The
+        selection can vary per language.
+    keywords:
+        - metamodels
+        - attribute
+        - select
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedselect.html

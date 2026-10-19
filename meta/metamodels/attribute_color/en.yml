@@ -1,0 +1,12 @@
+en:
+    title: MetaModels Attribute Color
+    description: >
+        The color attribute allows entering and storing color values (hex colors) in MetaModels.
+    keywords:
+        - metamodels
+        - attribute
+        - color
+        - hex
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/color.html

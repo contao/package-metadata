@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzter Langtext
+    description: >
+        Das Attribut übersetzter Langtext ist die mehrsprachige Variante des Langtext-Attributs. Der Langtext
+        kann je Sprache unterschiedlich sein.
+    keywords:
+        - metamodels
+        - attribute
+        - longtext
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedlongtext.html

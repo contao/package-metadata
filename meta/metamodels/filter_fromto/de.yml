@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Filter Von/Bis
+    description: >
+        Der Von/Bis-Filter ermöglicht das Filtern von MetaModels-Items über einen definierten Wertebereich (von
+        ... bis ...). Geeignet für Zahlen, Datum/Zeit und ähnliche Attribute.
+    keywords:
+        - metamodels
+        - filter
+        - von bis
+        - from to
+        - bereich
+        - range
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/fromto.html

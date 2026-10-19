@@ -1,0 +1,11 @@
+de:
+    title: Contao SVG Sprite Bundle
+    description: >
+        Mit diesem Paket können SVG-Sprites direkt im Contao-Theme verwaltet und verwendet werden.
+    keywords:
+        - contao
+        - svg
+        - insert tag
+    support:
+        issues: https://github.com/plakart/contao-svg-sprite-bundle/issues
+        docs: https://github.com/plakart/contao-svg-sprite-bundle

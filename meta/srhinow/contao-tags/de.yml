@@ -1,0 +1,12 @@
+de:
+    title: Schlagwörter
+    description: >
+        Stellt eine Grundlage bereit, um beliebige Datensätze mit Schlagwörtern zu versehen. Andere Erweiterungen
+        binden die Schlagwörter über ein Eingabefeld ein; im Frontend lassen sie sich als Schlagwortwolke und als
+        Filter ausgeben.
+    keywords:
+        - Schlagwort
+        - Tags
+        - Schlagwortwolke
+        - Filter
+        - Kategorisierung

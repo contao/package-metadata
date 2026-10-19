@@ -1,0 +1,22 @@
+en:
+    title: Target page after login
+    description: >
+        With this extension, members choose in the frontend which page they land on after logging
+        in, for example the "My account" page.
+
+        It provides a frontend module that you place on the page where members change their
+        settings. In the module settings in the backend, you create a list of possible target
+        pages, optionally with a label of their own, and mark one of them as the default. The
+        default is the option that is selected for members until they have chosen. The same page
+        may appear in the list several times.
+
+        There is one module per list, so different logins, member groups and languages can be
+        served separately. Pages that no longer exist or that the member cannot access are
+        skipped.
+    keywords:
+        - contao
+        - member
+        - login
+        - redirect
+        - target page
+        - e-spin

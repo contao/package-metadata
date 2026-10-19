@@ -1,0 +1,13 @@
+en:
+    title: Training Plan Manager
+    description: >
+        Weekly training schedule for clubs and schools: weekday, start and end time, group — without the detour via
+        recurring calendar events. Built for a fixed weekly rhythm, for example in martial arts or fitness. The
+        calendar stays responsible for actual single events such as exams, trips and workshops.
+    keywords:
+        - training
+        - schedule
+        - weekly
+        - club
+        - course
+        - group

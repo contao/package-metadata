@@ -1,0 +1,11 @@
+de:
+    title: Theme-Inhalte
+    description: >
+        Verwaltet Inhaltselemente, die zum Theme gehören — etwa Kopf- und Fußbereich — in einem eigenen
+        Backend-Bereich statt im Seitenbaum. So bleiben Layoutbausteine von den Seiteninhalten getrennt.
+    keywords:
+        - Theme
+        - Layout
+        - Inhaltselement
+        - Fußbereich
+        - Kopfbereich

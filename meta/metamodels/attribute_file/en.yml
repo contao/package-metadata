@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Attribute File
+    description: >
+        The file attribute allows uploading and managing files in MetaModels items. Single files or folders from
+        the Contao file system can be referenced.
+    keywords:
+        - metamodels
+        - attribute
+        - file
+        - upload
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/file.html

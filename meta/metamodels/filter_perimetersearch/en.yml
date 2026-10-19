@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Filter Perimeter Search
+    description: >
+        The perimeter search filter allows searching and filtering MetaModels items within a defined radius
+        around a location. Requires the geo distance attribute.
+    keywords:
+        - metamodels
+        - filter
+        - perimeter search
+        - geo
+        - radius
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/filter/perimeter-search.html

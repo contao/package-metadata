@@ -1,0 +1,15 @@
+de:
+    title: Schiedsrichter-Lizenzen
+    description: >
+        Verwaltet die Lizenzen der Schiedsrichter im Schach: Stufe, Laufzeit und Verlängerung.
+
+        Die Daten lassen sich aus einer zweiten Datenbank übernehmen. Wer dort schon erfasst ist, wird aktualisiert, wer fehlt, neu aufgenommen; wer nicht mehr auftaucht, bleibt erhalten und wird nur verborgen.
+
+        Ein Frontendmodul gibt alle Schiedsrichter mit gültiger Lizenz als Tabelle aus. Auf Wunsch pflegt die Erweiterung zusätzlich einen Newsletter mit ihren Adressen.
+    keywords:
+        - Schiedsrichter
+        - Lizenz
+        - Schach
+        - DSB
+    support:
+        source: https://github.com/Samson1964/contao-schiedsrichter-bundle

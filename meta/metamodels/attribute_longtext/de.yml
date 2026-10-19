@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Langtext
+    description: >
+        Das Attribut Langtext ermöglicht die Eingabe und Speicherung von Langtexten (mehrzeilige Texteingabe) in
+        MetaModels. Das Attribut unterstützt optional auch einen Rich-Text-Editor.
+    keywords:
+        - metamodels
+        - attribute
+        - longtext
+        - langtext
+        - textarea
+        - richtext
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/longtext.html

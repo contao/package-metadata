@@ -1,0 +1,17 @@
+de:
+    title: Fotoalben
+    description: >
+        Verwaltet Fotoalben in Archiven und gibt sie im Frontend aus. Ein Album führt seine Bilder, das Datum der Aufnahme — auch als Zeitraum über mehrere Tage — sowie Angaben zu Ereignis, Ort und Fotograf.
+
+        Die Ausgabe erfolgt als Übersicht der Alben und als Ansicht der Bilder eines Albums, wahlweise auf einer Seite, auf getrennten Seiten oder ganz ohne zweite Seite über eine Lightbox. Ein Inhaltselement stellt außerdem ein einzelnes Album mitten im Text dar.
+
+        Bilder und Alben lassen sich mit der Maus in eine eigene Reihenfolge ziehen; das Vorschaubild einer Kachel wird gewählt, zufällig gezogen oder weggelassen. Je Archiv ist ein Feed möglich. Als Nachfolger von photoalbums2 behält das Paket dessen Tabellen und Felder bei, sodass beim Umstieg keine Daten umziehen müssen.
+    keywords:
+        - Fotoalbum
+        - Galerie
+        - Bilder
+        - Lightbox
+        - Archiv
+    support:
+        source: https://github.com/Samson1964/contao-photoalbums-bundle
+        issues: https://github.com/Samson1964/contao-photoalbums-bundle/issues

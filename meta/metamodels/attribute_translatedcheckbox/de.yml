@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzte Checkbox
+    description: >
+        Das Attribut übersetzte Checkbox ist die mehrsprachige Variante des Checkbox-Attributs. Der Ja/Nein-Wert
+        kann je Sprache unterschiedlich sein.
+    keywords:
+        - metamodels
+        - attribute
+        - checkbox
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedcheckbox.html

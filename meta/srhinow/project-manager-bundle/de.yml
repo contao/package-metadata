@@ -1,0 +1,15 @@
+de:
+    title: Projektmanager
+    description: >
+        Projektverwaltung für Contao mit Angeboten, Rechnungen, Gutschriften, Verträgen, Erinnerungen und
+        Projekten. Du pflegst Kunden und Projekte im Backend, erstellst daraus Angebote und Rechnungen und gibst
+        sie als PDF aus. Wiederkehrende Positionen lassen sich als Vorlagen hinterlegen.
+    keywords:
+        - Projekt
+        - Projektverwaltung
+        - Rechnung
+        - Angebot
+        - Gutschrift
+        - Vertrag
+        - Erinnerung
+        - PDF

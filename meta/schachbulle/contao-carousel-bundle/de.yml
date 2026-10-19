@@ -1,0 +1,18 @@
+de:
+    title: Bildkarussell
+    description: >
+        Bildkarussell auf Swiper-Basis: Galerie mit synchronisierter Vorschauleiste, Newsticker, Hintergrund-Slideshow im Vollbild und ein Wrapper, der beliebige Inhaltselemente in ein Karussell verpackt.
+
+        Die Karussell-Einstellungen (Abspielverhalten, Übergänge, Größen, Navigation, Paginierung, Tastatur- und Mausrad-Steuerung) werden zentral gepflegt und von beliebig vielen Elementen und Modulen wiederverwendet. Zusätzlich gibt es einen Pause-Schalter und eine Fortschrittsanzeige.
+
+        Portierung der Contao-3-Erweiterung von Dirk Klemmt; seit Version 3.0.0 mit Swiper statt jQuery.
+    keywords:
+        - Karussell
+        - Slider
+        - Slideshow
+        - Galerie
+        - Newsticker
+        - Swiper
+    support:
+        issues: https://github.com/Samson1964/contao-carousel-bundle/issues
+        source: https://github.com/Samson1964/contao-carousel-bundle

@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Dezimal
+    description: >
+        Das Attribut Dezimal ermöglicht die Eingabe und Speicherung von Dezimalzahlen (Fließkommazahlen) in
+        MetaModels.
+    keywords:
+        - metamodels
+        - attribute
+        - decimal
+        - dezimal
+        - float
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/decimal.html

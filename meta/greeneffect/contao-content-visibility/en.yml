@@ -1,0 +1,17 @@
+en:
+    title: Contao Content Visibility
+    description: >
+        Restrict the visibility of content elements in the Contao back end based on the current back end user's groups.
+        Restricted elements are hidden from the listing for targeted users. Admin users are always excluded from the restriction.
+    keywords:
+        - contao
+        - contao5
+        - backend
+        - tl_content
+        - permissions
+        - user groups
+        - access control
+    support:
+        issues: https://github.com/GreenEffect/contao-content-visibility/issues
+        docs: https://github.com/GreenEffect/contao-content-visibility/tree/main/docs/en
+

@@ -1,0 +1,13 @@
+en:
+    title: Handball Statistics
+    description: >
+        Integrate statistics for games and teams from handball.net into your Contao CMS.
+
+        The bundle enriches games with detailed evaluations: for a game you can embed the per-team player statistics with goals, penalties and cards as a content element, visualise the course of the match and display a team's statistics for a whole season.
+    keywords:
+        - handball
+        - handball.net
+        - match report
+        - statistics
+        - timeline
+

@@ -1,0 +1,20 @@
+en:
+    title: Contao Grid Plugin
+    description: >
+        No more grid bundles that drag along a framework picker, a MultiColumnWizard, or a dozen features nobody uses. Contao Grid Plugin gives every content element exactly what it actually needs: columns and offset, per breakpoint.
+
+        Open the layout settings of any content element — five simple selects (xs to xl) for the column width are waiting, plus offset. For grid rows, add the wrapper element and drop your column elements inside — the output is clean Bootstrap markup (`col-*`, `offset-*`), no extra library on the front end.
+
+        No framework dropdown, no wizard overhead, no baggage. Just the grid Contao layouts actually need.
+    keywords:
+        - grid
+        - layout
+        - columns
+        - offset
+        - bootstrap
+        - responsive
+        - Contao 5
+        - Contao 6
+    support:
+        issues: https://github.com/think-digital-agency/contao-grid-plugin/issues
+        docs: https://github.com/think-digital-agency/contao-grid-plugin#readme

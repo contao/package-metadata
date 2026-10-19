@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Attribute Translated Content Article
+    description: >
+        The translated content article attribute is the multilingual variant of the content article attribute.
+    keywords:
+        - metamodels
+        - attribute
+        - content article
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedcontentarticle.html

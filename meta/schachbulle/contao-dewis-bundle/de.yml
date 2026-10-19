@@ -1,0 +1,18 @@
+de:
+    title: DeWIS - DWZ-Abfrage Deutscher Schachbund
+    description: >
+        Fragt die Deutsche Wertungszahl (DWZ) über die DeWIS-Schnittstelle des Deutschen Schachbundes (DSB) ab
+        und zeigt sie auf der DSB-Website an. Dieses Bundle wird nicht mehr gepflegt und war bis 25.07.2026 beim DSB im Einsatz.
+
+        Es stehen Frontend-Module für Spieler, Vereine, Verbände, Turniere, die Spielersuche und Bestenlisten bereit.
+    keywords:
+        - Schach
+        - DWZ
+        - DeWIS
+        - Wertungszahl
+        - Spielersuche
+    support:
+        issues: https://github.com/Samson1964/contao-dewis-bundle/issues
+        source: https://github.com/Samson1964/contao-dewis-bundle
+    suggest:
+        schachbulle/contao-wertungsportal-bundle: Der Nachfolger, der statt der SOAP-Schnittstelle die neuere REST-Schnittstelle des Wertungsportals nutzt

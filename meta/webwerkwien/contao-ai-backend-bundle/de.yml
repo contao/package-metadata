@@ -1,0 +1,27 @@
+de:
+    title: 'ConpAI Backend – KI-Agent im Contao-Backend'
+    description: |
+        Ein KI-Chat direkt im Backend: Redakteure und Admins sagen in eigenen Worten, was sich ändern soll, und der Agent liest und bearbeitet Seiten, Artikel, Inhaltselemente, News, Termine und FAQ. Kein SSH, keine Kommandozeile.
+
+        Der Agent arbeitet mit den Rechten des angemeldeten Benutzers und über die Befehle von ConpAI Core. Jede Änderung hinterlässt deshalb eine Version, beim Löschen einen Eintrag im Papierkorb, und eine Zeile im System-Log.
+
+        Gut zu wissen:
+
+        - Du wählst den KI-Anbieter selbst, auch ein selbst betriebenes Modell ist möglich
+        - Jeder Benutzer hinterlegt seinen eigenen Zugang im Profil, das Bundle bringt keinen mit
+        - Braucht ConpAI Core, das automatisch mitinstalliert wird
+        - Läuft auf Contao 5.3 bis 6.0
+    keywords:
+        - conpai
+        - contao-ai
+        - ki
+        - ai
+        - agent
+        - ki-agent
+        - chat
+        - assistent
+        - redakteur
+        - automatisierung
+        - backend
+    support:
+        docs: https://conpai.eu/de/

@@ -1,0 +1,12 @@
+de:
+    title: Contao Swiper Extension
+    description: >
+        Erweitert den Standard-Contao Swiper um weitere Optionen.
+    keywords:
+        - contao
+        - swiper
+        - contao-bundle
+        - contao-swiper
+    support:
+        issues: https://github.com/plakart/contao-swiper-extension/issues
+        docs: https://github.com/plakart/contao-swiper-extension  

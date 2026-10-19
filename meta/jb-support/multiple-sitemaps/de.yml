@@ -7,8 +7,10 @@ de:
          - Festlegung von Priorität und Cache-Ablaufzeit für jede Sitemap individuell
          - Filtern indizierter Seiten nach Seitenbaum (Stammknoten oder Unterseiten möglich, sogar mehrere)
          - Erstellung von Indexdateien für vorhandene Sitemaps
+         - Steuerung von Events, News und FAQs in Sitemap (Hinzufügen/Entfernen)
     keywords:
         - Sitemap
+        - Index
         - JB-Support
     support:
         issues: https://github.com/jb-support/multiple-sitemaps/issues

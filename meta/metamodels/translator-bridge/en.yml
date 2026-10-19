@@ -1,0 +1,15 @@
+en:
+    title: MetaModels Machine Translation (Translator Bridge)
+    description: >
+        The translator bridge adds machine-translation buttons (e.g. DeepL, ChatGPT) to MetaModels multilingual
+        attribute fields in the Contao backend. This allows content to be conveniently translated automatically
+        into other languages.
+    keywords:
+        - metamodels
+        - translation
+        - deepl
+        - chatgpt
+        - machine translation
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/extended/translator-bridge.html

@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut Numerisch
+    description: >
+        Das Attribut Numerisch ermöglicht die Eingabe und Speicherung von ganzzahligen numerischen Werten in
+        MetaModels.
+    keywords:
+        - metamodels
+        - attribute
+        - numeric
+        - numerisch
+        - integer
+        - zahl
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/numeric.html

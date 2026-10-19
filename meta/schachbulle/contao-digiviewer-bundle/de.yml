@@ -1,0 +1,16 @@
+de:
+    title: DigiViewer
+    description: >
+        Digitaler Betrachter für Bildsammlungen mit Blätterfunktion, Zoom und Vorschauleiste — etwa für eingescannte Zeitschriften, Chroniken oder Urkunden.
+
+        Hinterlegte OCR-Texte machen die Bildinhalte für die Contao-Suche und für Suchmaschinen durchsuchbar.
+
+        Als Anzeige-Engine dient der DigiViewer von Joerg Breitbart.
+    keywords:
+        - Bilder
+        - Bildsammlung
+        - Viewer
+        - Scans
+    support:
+        issues: https://github.com/Samson1964/contao-digiviewer-bundle/issues
+        source: https://github.com/Samson1964/contao-digiviewer-bundle

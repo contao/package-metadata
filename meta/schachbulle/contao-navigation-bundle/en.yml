@@ -1,0 +1,16 @@
+en:
+    title: Page and article navigation
+    description: >
+        Provides two insert tags. One lists the subpages of a page, the other one the articles of a page.
+
+        Entries appear in the order given by the page tree; the entry currently shown is plain text, the others are links. For pages the same rules apply as in the Contao navigation: pages hidden from the menu, unpublished pages and protected pages are left out.
+
+        The output runs through a template and can therefore be styled freely.
+    keywords:
+        - navigation
+        - pages
+        - articles
+        - insert tag
+        - submenu
+    support:
+        source: https://github.com/Samson1964/contao-navigation-bundle

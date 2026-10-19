@@ -1,0 +1,4 @@
+de:
+    title: Wandernde Beschriftungen in Formularen
+    description: >
+        Legt die Beschriftung eines Formularfeldes zunächst in das Feld selbst. Sobald das Feld den Fokus erhält oder einen Wert enthält, wandert die Beschriftung animiert an den oberen Rand des Feldes und verkleinert sich, bleibt also dauerhaft lesbar. Aktiviert wird das über die CSS-Klasse move_labels am Formular oder am Modul. Erfasst werden ein- und mehrzeilige Textfelder sowie Felder für Passwörter; automatisch ausgefüllte, bereits vorbelegte und Felder für ein Datum werden dabei ebenfalls berücksichtigt. Der Abstand über dem Feld, der Abstand im Feld und die Farbe der Schrift lassen sich über CSS-Variablen anpassen.

@@ -1,0 +1,22 @@
+de:
+    title: Galerie-Downloads als ZIP
+
+    description: >
+        Diese Erweiterung ergänzt das Contao Folder Gallery Bundle um die
+        Möglichkeit, die Bilder einer Galerie als ZIP-Datei herunterzuladen.
+
+        Für jede Galerie wird innerhalb der Galerieansicht automatisch eine
+        Download-Aktion bereitgestellt. Die ZIP-Datei wird serverseitig erzeugt,
+        ohne die enthaltenen Bilder vollständig in den PHP-Speicher zu laden.
+
+        Die Erweiterung nutzt den Extension Point des Folder Gallery Bundles und
+        lässt sich über die vorhandene Action-Struktur sowie CSS und Twig
+        individuell anpassen.
+
+    keywords:
+        - Galerie
+        - Download
+        - ZIP
+        - Bilder
+        - Fotos
+        - Ordner

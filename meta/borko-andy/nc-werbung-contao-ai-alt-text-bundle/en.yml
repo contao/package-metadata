@@ -1,0 +1,14 @@
+en:
+    title: AI Alt-Text Generator
+    description: >
+        Automatically generates AI-powered alt text, titles, and captions for images in the Contao backend.
+    keywords:
+        - ai
+        - alt
+        - text
+        - title
+        - description
+        - image
+    support:
+        issues: https://github.com/BorkoAndy/nc-werbung-contao-ai-alt-text-bundle/issues
+        docs: https://github.com/BorkoAndy/nc-werbung-contao-ai-alt-text-bundle

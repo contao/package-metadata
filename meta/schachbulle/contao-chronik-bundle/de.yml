@@ -1,0 +1,19 @@
+de:
+    title: Schachchronik
+    description: >
+        Verwaltet eine Chronik und gibt die Ereignisse im Frontend in zeitlicher Reihenfolge aus.
+
+        Zu jedem Ereignis gehören ein Ort, ein Zeitraum, ein Titel, ein Text und eine Quelle mit Adresse. Als Datum genügt eine Jahreszahl; ebenso möglich sind Monat und Tag sowie Zeiträume über mehrere Jahre.
+
+        Ein Menü teilt lange Chroniken in Abschnitte einstellbarer Länge auf, etwa in Jahrzehnte. Personen aus dem Spielerregister erscheinen mit ihrem Namen und führen auf ihre Detailseite; die Vereine stammen aus dem Vereinsregister.
+
+        Ausgegeben wird die Chronik als Frontendmodul im Seitenlayout.
+    keywords:
+        - Chronik
+        - Geschichte
+        - Schach
+        - Verein
+        - Spielerregister
+        - Vereinsregister
+    support:
+        source: https://github.com/Samson1964/contao-chronik-bundle

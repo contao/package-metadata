@@ -1,0 +1,13 @@
+de:
+    title: MetaModels Attribut Checkbox
+    description: >
+        Das Attribut Checkbox fügt MetaModels ein einfaches Ja/Nein-Feld hinzu. Damit können boolesche Werte
+        (wahr/falsch) für Items gespeichert werden.
+    keywords:
+        - metamodels
+        - attribute
+        - checkbox
+        - boolean
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/checkbox.html

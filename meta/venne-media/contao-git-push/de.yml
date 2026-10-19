@@ -1,0 +1,19 @@
+de:
+    title: GIT Connect
+    description: >
+        Backend-Modul zur Verwaltung von Git-Repositories direkt aus dem Contao-Backend. Ermöglicht das Zusammenführen von Code-Änderungen der Entwickler mit Content-Änderungen aus dem CMS, ohne den Backend-Bereich verlassen zu müssen.
+
+        Funktionen umfassen Commit, Push und Pull, eine vollständige Branch-Verwaltung mit Erstellen, Wechseln, Umbenennen und Löschen von Branches, eine Commit-Historie mit Wiederherstellungsfunktion sowie eine integrierte SSH-Key-Verwaltung mit automatischer Generierung.
+
+        Schutzmechanismen wie Auto-Stash beim Pull, File-basiertes Locking gegen konkurrierende Operationen, blockiertes Force Push auf geschützte Branches (main, master, prod) sowie eine umfassende Eingabevalidierung sorgen für einen sicheren Einsatz im produktiven Umfeld.
+    keywords:
+        - Git
+        - Repository
+        - Versionskontrolle
+        - Backend
+        - Deployment
+        - SSH
+        - Branch
+        - Commit
+        - Push
+        - Pull

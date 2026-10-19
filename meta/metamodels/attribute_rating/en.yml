@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Attribute Rating
+    description: >
+        The rating attribute allows visitors to rate MetaModels items in the frontend (star rating). The ratings
+        are stored and can be evaluated.
+    keywords:
+        - metamodels
+        - attribute
+        - rating
+        - stars
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/rating.html

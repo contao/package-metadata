@@ -1,0 +1,11 @@
+en:
+    title: Layer and Popups
+    description: >
+        Front end module for layers and popups without jQuery and without further dependencies — plain JavaScript.
+        Display timing, frequency and appearance are configured in the back end.
+    keywords:
+        - layer
+        - popup
+        - overlay
+        - modal
+        - lightbox

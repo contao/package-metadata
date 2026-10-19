@@ -1,0 +1,17 @@
+de:
+    title: ChessResults
+    description: >
+        Bindet die Tabellen eines Turniers von chess-results.com als Inhaltselement in die eigene Seite ein. Es genügt die Nummer des Turniers aus der Adresse.
+
+        Zur Auswahl stehen die Liste der Teilnehmer nach Namen oder nach Elo-Zahl, die Rangliste nach einer bestimmten Runde, die Fortschrittstabelle und die Paarungen einer Runde. Welche Spalten erscheinen, lässt sich für jedes Element einzeln festlegen.
+
+        Die geholten Daten werden im Element selbst hinterlegt, damit nicht bei jedem Aufruf der Seite eine Abfrage bei ChessResults nötig wird. Unter der Tabelle steht der Zeitpunkt, den ChessResults als letzte Änderung meldet.
+    keywords:
+        - Schach
+        - Turnier
+        - Chess-Results
+        - Turniertabelle
+        - Startrangliste
+        - Fortschrittstabelle
+    support:
+        source: https://github.com/Samson1964/contao-chessresults-bundle

@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Filter nach verknüpftem Modell
+    description: >
+        Der Filter nach verknüpftem Modell ermöglicht es, Items eines MetaModels anhand von Eigenschaften eines
+        verknüpften MetaModels zu filtern.
+    keywords:
+        - metamodels
+        - filter
+        - related
+        - verknüpft
+        - join
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/by-related.html

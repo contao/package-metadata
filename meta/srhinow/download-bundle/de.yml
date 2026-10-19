@@ -1,0 +1,13 @@
+de:
+    title: Download-Verwaltung
+    description: >
+        Verwaltet Downloads zentral in hierarchischen Kategorien und gibt sie im Frontend flexibel aus. Unterstützt
+        Dateianhänge, Vorschaubilder, Schlagwörter über srhinow/contao-tags, Volltextsuche, Kategoriefilter und
+        einen konfigurierbaren Link auf eine Detailseite.
+    keywords:
+        - Download
+        - Dateien
+        - Kategorie
+        - Liste
+        - Suche
+        - Anhang

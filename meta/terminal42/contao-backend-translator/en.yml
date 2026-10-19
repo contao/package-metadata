@@ -1,0 +1,5 @@
+en:
+    title: Backend Translator
+    description: >
+        Simplifies editing and managing translations for Symfony translation files straight from the Contao backend.
+    homepage: https://extensions.terminal42.ch/p/backend-translator

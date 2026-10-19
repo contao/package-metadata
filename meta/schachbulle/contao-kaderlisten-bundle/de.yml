@@ -1,0 +1,14 @@
+de:
+    title: Kaderlisten
+    description: >
+        Verwaltet Kaderlisten von Schachspielern und gibt sie als Inhaltselement im Frontend aus. Zu jeder Liste gehören Jahr, Zeitraum und die Spieler mit ihrer Kaderstufe, dem Landesverband, DWZ und Elo.
+
+        Die Spieler werden einmal angelegt und dann in beliebig vielen Listen verwendet; auf Wunsch lassen sie sich mit dem Spielerregister verknüpfen. Die Ausgabe nennt zu jedem Spieler auch seine Kaderstufe im Jahr davor. Welche Stufen erscheinen und ob DWZ und Elo sichtbar sind, legt das Inhaltselement fest.
+    keywords:
+        - Schach
+        - Kader
+        - Kaderliste
+        - Spieler
+        - Liste
+    support:
+        source: https://github.com/Samson1964/contao-kaderlisten-bundle

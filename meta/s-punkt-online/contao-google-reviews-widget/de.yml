@@ -1,0 +1,13 @@
+de:
+    title: Google Bewertungen Widget
+    description: >
+        Zeigt ein Widget für Google-Bewertungen mit Bewertung, Sternen und
+        Anzahl der Rezensionen an. Nutzbar als Frontend-Modul oder
+        Content-Element, inkl. Schema.org-Markup und lokalem Caching.
+    keywords:
+        - google
+        - bewertungen
+        - widget
+        - seo
+    support:
+        issues: https://github.com/S-Punkt-Online/Google-Bewertungen-Widget/issues

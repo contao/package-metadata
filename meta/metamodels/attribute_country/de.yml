@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Land
+    description: >
+        Das Attribut Land bietet eine Auswahl aller Länder der Welt in einer Dropdown-Liste an. Die Ländernamen
+        werden mehrsprachig angezeigt.
+    keywords:
+        - metamodels
+        - attribute
+        - country
+        - land
+        - länder
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/country.html

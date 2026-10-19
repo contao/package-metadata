@@ -1,0 +1,12 @@
+en:
+    title: KIWI. Contao Blueprints Bundle
+    description: >
+        This Contao bundle allows you to create reusable article blueprints with preview when inserting.
+    keywords:
+        - blueprints
+        - reusable
+        - articles
+        - article templates
+        - preview
+        - templates
+        - patterns

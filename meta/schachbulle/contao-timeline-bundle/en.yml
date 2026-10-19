@@ -1,0 +1,14 @@
+en:
+    title: Timeline
+    description: >
+        Presents historical sequences as a timeline. Visitors move through the entries using a navigation bar at the bottom.
+
+        Each entry carries a headline, a text and optionally an image, a video or a quote. A year is enough as a point in time; dates down to the second, periods and a freely chosen label instead of the date are equally possible. Eras group several entries under a single bar.
+
+        The timeline is rendered as a content element or as a front end module in the page layout.
+    keywords:
+        - timeline
+        - chronicle
+        - history
+    support:
+        source: https://github.com/Samson1964/contao-timeline-bundle

@@ -1,0 +1,15 @@
+de:
+    title: Zeitstrahl
+    description: >
+        Stellt geschichtliche Abläufe als Zeitstrahl dar. Der Besucher bewegt sich über eine Leiste am unteren Rand durch die einzelnen Stationen.
+
+        Jede Station trägt eine Überschrift, einen Text und wahlweise ein Bild, ein Video oder ein Zitat. Als Datum genügt eine Jahreszahl; ebenso möglich sind Angaben bis auf die Sekunde, Zeiträume und eine frei gewählte Beschriftung anstelle des Datums. Ganze Epochen fassen mehrere Stationen unter einem Balken zusammen.
+
+        Ausgegeben wird der Zeitstrahl als Inhaltselement oder als Frontendmodul im Seitenlayout.
+    keywords:
+        - Zeitstrahl
+        - Chronik
+        - Epoche
+        - Geschichte
+    support:
+        source: https://github.com/Samson1964/contao-timeline-bundle

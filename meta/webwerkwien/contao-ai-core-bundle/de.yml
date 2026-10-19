@@ -1,0 +1,30 @@
+de:
+    title: 'ConpAI Core – Contao mit KI-Agenten steuern'
+    description: |
+        ConpAI gibt Contao eine Befehlsebene: über 120 Befehle auf der Konsole, für Seiten, Artikel, Inhaltselemente, News, Termine, FAQ, Dateien, Formulare, Layouts, Mitglieder, Benutzer und Einstellungen. JSON rein, JSON raus – damit kann ein KI-Agent deine Installation über SSH bedienen, ohne an Contao vorbeizuschreiben.
+
+        Jeder Schreibvorgang läuft durch die DCA und hinterlässt, was auch ein Klick im Backend hinterlässt: eine Version, beim Löschen einen Eintrag im Papierkorb, und eine Zeile im System-Log. Was das Backend ablehnt, lehnt auch der Befehl ab.
+
+        Empfohlen dazu: das Werkzeug contao-ai-cli für die Kommandozeile. Es verbindet deinen KI-Agenten per SSH mit der Installation und gibt ihm eine Anleitung zu jedem Befehl mit. Wie du es einrichtest, steht in der Dokumentation.
+
+        Gut zu wissen:
+
+        - Das Bundle braucht kein KI-Modell und schickt keine Daten nach außen
+        - Das Backend-Bundle bringt einen KI-Chat direkt ins Backend
+        - Läuft auf Contao 5.3 bis 6.0, stabil seit Version 1.0
+    keywords:
+        - conpai
+        - contao-ai
+        - contao-ai-cli
+        - ki
+        - ai
+        - agent
+        - ki-agent
+        - automatisierung
+        - kommandozeile
+        - konsole
+        - ssh
+        - json
+        - redakteur
+    support:
+        docs: https://conpai.eu/de/

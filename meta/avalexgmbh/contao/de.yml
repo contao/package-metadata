@@ -1,0 +1,12 @@
+de:
+    title: avalex Rechtstexte
+    description: Bindet die automatisch erstellten und laufend aktualisierten Rechtstexte von avalex in eine Contao-Website ein. Impressum und Datenschutzerklärung sowie - sofern gebucht - Widerrufsbelehrung und AGB werden direkt von avalex abgerufen und bleiben so ohne manuelles Zutun auf dem aktuellen Stand.
+    keywords:
+        - avalex
+        - rechtstexte
+        - impressum
+        - datenschutzerklärung
+        - datenschutz
+        - dsgvo
+        - widerrufsbelehrung
+        - agb

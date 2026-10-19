@@ -1,0 +1,19 @@
+en:
+    title: Contao Domain Manager
+    description: >
+        Centrally manage, synchronize and monitor multiple Contao installations.
+        Contao Domain Manager combines technical system information, status messages
+        and synchronization in a dedicated management interface and provides a setup
+        assistant for quickly creating a separate domain management installation.
+    keywords:
+        - domain management
+        - monitoring
+        - Contao installations
+        - synchronization
+        - system information
+        - hosting
+        - agency
+    support:
+        issues: https://github.com/lebensbaum-gmbh/contao-domain-manager-bundle/issues
+        docs: https://github.com/lebensbaum-gmbh/contao-domain-manager-bundle
+        source: https://github.com/lebensbaum-gmbh/contao-domain-manager-bundle

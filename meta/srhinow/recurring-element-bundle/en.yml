@@ -1,0 +1,10 @@
+en:
+    title: Recurring Content Elements
+    description: >
+        Manages recurring and seasonal content elements. Define the period in which an element should appear
+        instead of switching it on and off by hand every year.
+    keywords:
+        - content element
+        - recurring
+        - seasonal
+        - period

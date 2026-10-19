@@ -11,15 +11,15 @@ optimize the logo using [SVGO][6] or the GUI tool [SVGOMG][7], for example.
 
 ## Package structure example
 
-```
+<pre>
 meta/[vendor]/[package]
     - de.yml
     - en.yml
     - ru.yml
     - ...
     - logo.svg (optional)
-    - composer.json (only for private packages and optional. [Details](#public-vs-privateproprietary-packages))
-```
+    - composer.json (only for private packages and optional. <a href="#public-vs-privateproprietary-packages">Details</a>)
+</pre>
 
 Hint: The `logo.svg` can also be place directly within `[vendor]`. It is then used as a fallback logo for all packages of
 `[vendor]` in case there was no specific `logo.svg` defined for the package.
@@ -112,6 +112,12 @@ php linter/lint meta/yourvendor/yourpackage/*.yml
 If you are the owner of a package namespace, make sure to add your GitHub username to the CODEOWNERS file.
 This way you will be notified of any changes to that folder, so you can check if someone tries to modify
 your namespace.
+
+
+## Package Indexer
+
+The metadata is automatically indexed every 30 minutes and published both at https://extensions.contao.org and
+in the Contao Manager. You can find an overview of the system status at https://contao-package-list.cronitorstatus.com/.
 
 
 [1]: https://getcomposer.org

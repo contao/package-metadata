@@ -1,0 +1,19 @@
+de:
+    title: Schachturnier-Verwaltung
+    description: >
+        Verwaltet Schachturniere in Contao: Teilnehmer, Runden, Paarungen, Termine und Ergebnisse.
+        Der eingebaute Paarungsgenerator erstellt dir die Runden.
+
+        Das Inhaltselement gibt Teilnehmerlisten, Paarungen, Ranglisten, Kreuztabellen und Fortschrittstabellen aus,
+        wahlweise einzeln oder gebündelt als Tab-Navigation ohne JavaScript.
+        Die Feinwertungen Sonneborn-Berger, Buchholz und direkter Vergleich werden berechnet und lassen sich
+        in ihrer Reihenfolge frei festlegen. Auf- und Absteiger sowie Relegationsplätze kannst du farbig hervorheben.
+    keywords:
+        - Schach
+        - Turnier
+        - Paarungen
+        - Rangliste
+        - Kreuztabelle
+    support:
+        issues: https://github.com/Samson1964/contao-schachturnier-bundle/issues
+        source: https://github.com/Samson1964/contao-schachturnier-bundle

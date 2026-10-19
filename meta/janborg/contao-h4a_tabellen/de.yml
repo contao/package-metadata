@@ -1,0 +1,16 @@
+de:
+    title: Handball Spielpläne und Tabellen
+    description: >
+        Integriere Spielpläne, Ergebnisse und Tabellen für deinen Handball-Verein mit handball.net.
+
+        Vereine, Saisons und Teams werden im Backend angelegt und verwaltet. 
+        Für die Ausgabe im Frontend stehen Inhaltselemente für Spielpläne und Tabellen sowie die Einbindung der offiziellen handball.net-Widgets bereit. 
+        Spiele lassen sich zudem in Contao-Kalender importieren. Cronjobs und Konsolenbefehle halten Spiele, Ergebnisse, Saisons und Teams automatisch aktuell.
+    keywords:
+        - Handball
+        - handball.net
+        - Spielplan
+        - Tabelle
+        - Ergebnisse
+        - Verein
+        - Kalender

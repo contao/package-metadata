@@ -1,0 +1,4 @@
+de:
+    title: CSS in Listen anzeigen
+    description: >
+        Zeigt die CSS-ID und CSS-Klasse von Artikeln und Inhaltselementen in allen Backend-Listenansichten an (pro Benutzer aktivierbar).

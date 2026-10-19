@@ -1,0 +1,4 @@
+en:
+    title: Paste into nested elements
+    description: >
+        Adds a button to the article overview that pastes a content element from the clipboard straight into an element group, without opening its child view first. The button appears on every element that accepts child elements — in the core these are the element group, the accordion and the slider, and elements from other extensions are covered as well. An element cannot be moved into itself or into one of its own children. The appearance of the lists remains unchanged. The extension makes a Contao 6 feature available under Contao 5.7; it pastes at the beginning of the group, because appending at the end is not yet available in Contao 5.7.

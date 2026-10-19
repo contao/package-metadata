@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Filter Umkreissuche
+    description: >
+        Der Filter Umkreissuche ermöglicht es, MetaModels-Items innerhalb eines definierten Umkreises um einen
+        Standort zu suchen und zu filtern. Voraussetzung ist das Geo-Entfernung-Attribut.
+    keywords:
+        - metamodels
+        - filter
+        - umkreissuche
+        - perimeter search
+        - geo
+        - radius
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/filter/perimeter-search.html

@@ -1,0 +1,19 @@
+en:
+    title: Chess tournament management
+    description: >
+        Manages chess tournaments in Contao: participants, rounds, pairings, dates and results.
+        The built-in pairing generator creates the rounds for you.
+
+        The content element outputs participant lists, pairings, standings, cross tables and progress tables,
+        either individually or combined in a tab navigation that works without JavaScript.
+        Tie-break scores such as Sonneborn-Berger, Buchholz and direct encounter are calculated and their order
+        can be configured freely. Promotion, relegation and playoff places can be highlighted in color.
+    keywords:
+        - chess
+        - tournament
+        - pairings
+        - standings
+        - cross table
+    support:
+        issues: https://github.com/Samson1964/contao-schachturnier-bundle/issues
+        source: https://github.com/Samson1964/contao-schachturnier-bundle

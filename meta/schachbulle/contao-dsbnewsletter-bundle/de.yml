@@ -1,0 +1,15 @@
+de:
+    title: DSB-Newsletter
+    description: >
+        Erweitert den Newsletter um Inhaltselemente, deren Reihenfolge sich frei festlegen lässt. Ein Newsletter entsteht dadurch aus einzelnen Abschnitten und nicht mehr in einem einzigen Textfeld.
+
+        Jeder Abschnitt trägt eine Überschrift, wahlweise ein Bild und einen Text. Das Bild kann über, unter, links oder rechts vom Text stehen, einen erklärenden Text tragen und auf eine Adresse verweisen. Einzelne Abschnitte lassen sich verbergen, ohne sie zu löschen.
+
+        Die Abschnitte erscheinen dort, wo im Inhalt der Insert-Tag steht. Er wird beim Einschalten von selbst gesetzt und lässt sich frei verschieben.
+    keywords:
+        - Newsletter
+        - Inhaltselement
+        - DSB
+        - Schachbund
+    support:
+        source: https://github.com/Samson1964/contao-dsbnewsletter-bundle

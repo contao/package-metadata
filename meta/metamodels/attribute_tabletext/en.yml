@@ -1,0 +1,13 @@
+en:
+    title: MetaModels Attribute Table Text
+    description: >
+        The table text attribute allows entering text data in a table structure (rows and columns) directly in a
+        MetaModels item.
+    keywords:
+        - metamodels
+        - attribute
+        - tabletext
+        - table text
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/tabletext.html

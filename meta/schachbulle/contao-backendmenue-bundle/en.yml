@@ -1,0 +1,19 @@
+en:
+    title: Custom back end menu
+    description: >
+        Adds your own sections to the back end navigation, each with its own name,
+        icon and color. Modules can be moved freely between the sections and their
+        order set with the mouse. Sections apply either to everyone or to selected
+        users only, and each user can hide the shared ones for their own account.
+        The sections that come with Contao remain in place.
+    keywords:
+        - back end
+        - menu
+        - navigation
+        - sections
+        - modules
+        - icon
+        - drag and drop
+    support:
+        source: https://github.com/Samson1964/contao-backendmenue-bundle
+        issues: https://github.com/Samson1964/contao-backendmenue-bundle/issues

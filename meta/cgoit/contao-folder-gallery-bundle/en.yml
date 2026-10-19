@@ -1,0 +1,25 @@
+en:
+    title: Folder-based Image Galleries
+
+    description: >
+        This extension allows you to build image galleries directly from the
+        folder structure of the Contao file manager. Instead of creating pages
+        and gallery content elements for every gallery, all you need is a
+        well-organized folder structure inside the files/ directory.
+
+        Optional metadata is stored in a _metadata.yml file and can either be
+        edited manually or managed conveniently using the integrated metadata
+        editor.
+
+        The extension fully integrates with Contao's native image pipeline and
+        supports responsive images, custom image sizes and different gallery
+        viewers such as the Contao Lightbox or PhotoSwipe.
+
+    keywords:
+        - Gallery
+        - Images
+        - Photos
+        - Folder
+        - YAML
+        - PhotoSwipe
+        - Lightbox

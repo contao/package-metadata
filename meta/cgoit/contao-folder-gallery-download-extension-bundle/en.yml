@@ -1,0 +1,21 @@
+en:
+    title: Gallery Downloads as ZIP
+
+    description: >
+        This extension adds the ability to download the images of a gallery as a
+        ZIP file to the Contao Folder Gallery Bundle.
+
+        A download action is automatically provided within each gallery view.
+        The ZIP file is generated server-side without loading all contained images
+        into PHP memory.
+
+        The extension uses the Folder Gallery Bundle's extension point and can be
+        customized using the existing action structure as well as CSS and Twig.
+
+    keywords:
+        - Gallery
+        - Download
+        - ZIP
+        - Images
+        - Photos
+        - Folder

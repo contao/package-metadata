@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Single Selection [select]
+    description: >
+        The single selection attribute allows selecting a single value from a linked MetaModels table or a
+        custom table. It is to be understood as a foreign key relationship.
+    keywords:
+        - metamodels
+        - attribute
+        - select
+        - single selection
+        - foreign key
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/select.html

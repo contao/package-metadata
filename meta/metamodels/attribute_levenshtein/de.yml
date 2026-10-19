@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Textsuche Levenshtein
+    description: >
+        Das Attribut Textsuche Levenshtein pflegt einen Suchindex mit Levenshtein-Unterstützung. Damit sind
+        unscharfe Textsuchen möglich, die auch Tippfehler und ähnliche Schreibweisen berücksichtigen.
+    keywords:
+        - metamodels
+        - attribute
+        - levenshtein
+        - textsuche
+        - fuzzy search
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/levenshtein.html

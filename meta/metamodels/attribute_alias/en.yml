@@ -1,0 +1,15 @@
+en:
+    title: MetaModels Attribute Alias
+    description: >
+        The alias attribute generates a URL-friendly alias value (slug) from another attribute, e.g. the title
+        attribute. The alias is generated and updated automatically and can be used for creating readable URLs
+        in the detail view.
+    keywords:
+        - metamodels
+        - attribute
+        - alias
+        - slug
+        - url
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/alias.html

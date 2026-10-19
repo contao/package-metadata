@@ -1,0 +1,11 @@
+de:
+    title: SCSS Compiler
+    description: >
+        Kompiliert SCSS-Dateien direkt aus dem Contao-Backend zu CSS.
+        Unterstützt mehrere Konfigurationen, Source Maps und die manuelle Kompilierung einzelner oder aller SCSS-Dateien.  
+    keywords:
+        - SCSS
+        - CSS
+        - compiler
+        - Stylesheet
+        

@@ -1,0 +1,33 @@
+en:
+    title: 'AI Chatbot + Free + DSGVO'
+    description: |
+        Answer your visitors' questions directly on your website – with an AI that knows nothing but your own page content and names the pages it used as sources. There is a free tier, all data is processed in Germany only, and an agreement under Art. 28 GDPR is available on request.
+
+        How it works:
+
+        - Install the extension: composer require bluebranch/chatbot or use the Contao Manager
+        - Register at https://chatbot.bluebranch.de and create an API key
+        - Store the API key on the website root page
+        - Rebuild the search index – this trains your content
+        - Add a front end module: chat widget, AI answer above the search results or question module for your home page
+
+        Good to know:
+
+        - The API key stays on the server and is never sent to the browser
+        - Single pages and entire sections can be excluded from the answers
+        - A back end module shows you what the chatbot has learned and lets you delete entries again
+        - Our own AI model, no training with your content, no sharing with third parties
+    keywords:
+        - contao
+        - ai
+        - chatbot
+        - search
+        - assistant
+        - gdpr
+        - free
+        - support
+        - faq
+    homepage: https://chatbot.bluebranch.de/
+    support:
+        issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
+        docs: https://chatbot.bluebranch.de/anleitung/contao

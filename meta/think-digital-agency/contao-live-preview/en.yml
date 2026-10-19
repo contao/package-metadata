@@ -1,0 +1,21 @@
+en:
+    title: Contao Live Preview
+    description: >
+        No more switching tabs. Contao Live Preview brings a direct frontend preview as a collapsible sidebar right into the Contao 5 backend — always matching exactly what you are editing. A workflow feeling you have never experienced in Contao before.
+
+        Open an article or content element in the backend — and immediately see how it looks on the frontend. Save — only the edited section updates live in the preview, no reload, no scroll loss. Hover over any element in the preview — a label shows you type and name, one click opens the edit form directly.
+
+        No builder. No compromise. Just Contao the way it should be.
+    keywords:
+        - preview
+        - live preview
+        - frontend editor
+        - frontend edit helper
+        - frontend helper
+        - sidebar
+        - backend
+        - hover
+        - Contao 5
+    support:
+        issues: https://github.com/think-digital-agency/contao-live-preview/issues
+        docs: https://github.com/think-digital-agency/contao-live-preview#readme

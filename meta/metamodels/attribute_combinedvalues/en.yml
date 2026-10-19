@@ -1,0 +1,12 @@
+en:
+    title: MetaModels Attribute Combined Values
+    description: >
+        The combined values attribute generates a combined value from other attributes of the MetaModel.
+        Multiple attributes can be joined using a configurable pattern.
+    keywords:
+        - metamodels
+        - attribute
+        - combined values
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/combinedvalues.html

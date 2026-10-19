@@ -1,0 +1,10 @@
+en:
+    title: Simple Link Manager
+    description: >
+        Lean management of links in hierarchical categories. Maintain the links by category in the back end and
+        output them through two front end modules — one as a flat category list, one including subcategories.
+    keywords:
+        - link
+        - link list
+        - category
+        - collection

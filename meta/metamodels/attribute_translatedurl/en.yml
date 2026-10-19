@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Translated URL
+    description: >
+        The translated URL attribute is the multilingual variant of the URL attribute. The URL can differ per
+        language.
+    keywords:
+        - metamodels
+        - attribute
+        - url
+        - translated
+        - multilingual
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/translatedurl.html

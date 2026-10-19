@@ -1,0 +1,12 @@
+de:
+    title: SolidWork Contao Helpful ID
+    description: >
+        Dieses Bundle erweitert Contao um die Anzeige von internen IDs im Backend.
+        Die IDs von Artikeln, Inhaltselementen und Modulen werden direkt in den Listenansichten dargestellt.
+        Besonders hilfreich für Entwickler und Redakteure, die häufig mit Templates oder Referenzen arbeiten.
+    keywords:
+        - contao
+        - backend
+        - id
+        - hilfe
+        - debug

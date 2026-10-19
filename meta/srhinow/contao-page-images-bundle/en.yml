@@ -1,0 +1,12 @@
+en:
+    title: Page Images
+    description: >
+        Central management of page images. Configure the images once in the page tree and child pages inherit them
+        automatically — until a page gets its own assignment or inheritance is explicitly blocked. Fork of
+        Ruudt/contao-page_images, rewritten for Contao 5.
+    keywords:
+        - page image
+        - image
+        - page
+        - inheritance
+        - header image

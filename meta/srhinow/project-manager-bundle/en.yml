@@ -1,0 +1,14 @@
+en:
+    title: Project Manager
+    description: >
+        Project management for Contao with offers, invoices, credit notes, agreements, reminders and projects.
+        Manage clients and projects in the back end, turn them into offers and invoices and export them as PDF.
+        Recurring items can be stored as templates.
+    keywords:
+        - project
+        - invoice
+        - offer
+        - credit note
+        - agreement
+        - reminder
+        - pdf

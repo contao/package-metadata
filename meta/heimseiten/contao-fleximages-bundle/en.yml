@@ -1,0 +1,4 @@
+en:
+    title: flexImages gallery
+    description: >
+        Adds the option “use flexImages” to the gallery content element. The images are then arranged in rows: within a row every image keeps its aspect ratio, is scaled to a common height and the row fills the available width flush to both edges. The row height is derived from the first image of the gallery. The gap between the images can be adjusted with the CSS variable image-gap. It is based on the flexImages library by Pixabay, which is shipped locally.

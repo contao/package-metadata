@@ -1,0 +1,25 @@
+en:
+    title: Contao MCP Bundle
+    homepage: https://www.netzhirsch.de/contao-mcp.html
+    description: >
+        Connects Claude and other AI assistants to the Contao backend through the Model Context Protocol (MCP).
+        Instead of building a separate interface for every task, the AI works with the site directly: pages,
+        articles, news, events, members, forms, newsletters, comments, themes, templates and files. Around 170
+        tools are available, from creating a single news entry to building a complete page structure.
+
+        Every call runs with the permissions of the backend user who authorised it, so an editor can never
+        change more through the AI than by hand. Access is protected with OAuth 2.1, and the server runs inside
+        the existing Contao installation. No separate service and no additional port are required.
+
+        Commercial extension: free for 30 days, afterwards 49 € per month and Contao installation. The trial and
+        the subscription are started in the Contao backend; payment is handled on secure Stripe pages.
+    keywords:
+        - MCP
+        - Claude
+        - AI
+        - automation
+        - OAuth
+    support:
+        issues: https://github.com/Netzhirsch/contao-mcp-bundle/issues
+        source: https://github.com/Netzhirsch/contao-mcp-bundle/releases
+        docs: https://www.netzhirsch.de/contao-mcp.html

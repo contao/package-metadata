@@ -1,0 +1,16 @@
+de:
+    title: MetaModels Attribut Datum/Zeit
+    description: >
+        Das Attribut Datum/Zeit ermöglicht die Eingabe und Speicherung von Datum- und Zeitwerten in MetaModels.
+        Das Format (Datum, Zeit oder Datum+Zeit) ist konfigurierbar.
+    keywords:
+        - metamodels
+        - attribute
+        - timestamp
+        - datum
+        - zeit
+        - date
+        - time
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/timestamp.html

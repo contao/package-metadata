@@ -1,0 +1,37 @@
+en:
+    title: Asyntai AI Chatbot
+    description: >
+        Adds an AI chat assistant to your Contao website. Visitors ask a question in a chat
+        bubble and get an answer straight away, day and night, in their own language.
+
+        The assistant answers from your own material: the pages Asyntai reads on your site,
+        the documents you upload and the instructions you write. Where your content says
+        nothing, it says it does not know instead of inventing an answer.
+
+        Setup is two fields. Install the extension, then open System, Settings and paste the
+        snippet from your Asyntai dashboard into the Asyntai widget ID field. The chat bubble
+        then appears on every front end page. You do not edit a template, a layout or an
+        article, because the script is added through the generatePage hook. Clear the field
+        again and the chat is gone.
+
+        The script waits for the page load event before it fetches anything, so your own
+        content is always drawn first. The back end labels ship in German and English. No
+        database tables are created, so nothing is left behind if you uninstall it.
+
+        The extension is free and open source under the MIT licence. It needs a free Asyntai
+        account, where each answer counts as one message on your plan.
+    keywords:
+        - chatbot
+        - chat
+        - ai
+        - assistant
+        - support
+        - live chat
+        - customer service
+        - widget
+        - faq
+    support:
+        email: hello@asyntai.com
+        issues: https://github.com/asyntai/contao-chatbot-bundle/issues
+        source: https://github.com/asyntai/contao-chatbot-bundle
+        docs: https://asyntai.com/documentation/integrations/contao/

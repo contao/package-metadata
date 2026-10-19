@@ -1,0 +1,14 @@
+en:
+    title: MetaModels Attribute Longtext
+    description: >
+        The longtext attribute allows entering and storing long texts (multi-line text input) in MetaModels. The
+        attribute optionally supports a rich text editor.
+    keywords:
+        - metamodels
+        - attribute
+        - longtext
+        - textarea
+        - richtext
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/en/latest/manual/component/attribute/longtext.html

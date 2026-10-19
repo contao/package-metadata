@@ -1,0 +1,14 @@
+de:
+    title: MetaModels Attribut Content-Artikel
+    description: >
+        Das Attribut Content-Artikel ermöglicht es, Contao-Content-Elemente (Artikel) direkt in einem
+        MetaModels-Item zu verwenden. So können komplexe, in Contao gewohnte Inhaltselemente für MetaModels-
+        Datensätze eingesetzt werden.
+    keywords:
+        - metamodels
+        - attribute
+        - content article
+        - artikel
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/contentarticle.html

@@ -1,0 +1,15 @@
+de:
+    title: MetaModels Attribut übersetzter Text
+    description: >
+        Das Attribut übersetzter Text ist die mehrsprachige Variante des Text-Attributs. Der Textwert kann je
+        Sprache unterschiedlich sein.
+    keywords:
+        - metamodels
+        - attribute
+        - text
+        - translated
+        - übersetzt
+        - mehrsprachig
+    homepage: https://now.metamodel.me
+    support:
+        docs: https://metamodels.readthedocs.io/de/latest/manual/component/attribute/translatedtext.html

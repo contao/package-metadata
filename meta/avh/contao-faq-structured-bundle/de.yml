@@ -1,0 +1,22 @@
+de:
+    title: AVH Contao FAQ Structured Bundle
+    description: >
+        Dieses Bundle erweitert Contao um strukturierte Daten mit Fokus auf AEO
+        (Agentic Engine Optimization). Inhalte werden so aufbereitet, dass sie nicht nur
+        von klassischen Suchmaschinen, sondern auch von KI-gestützten Suchsystemen,
+        Antwortmaschinen und agentischen Assistenten besser erkannt, eingeordnet und
+        für Antworten oder Zusammenfassungen herangezogen werden können.
+
+        Besonders bei News- und Blog-Beiträgen hilft die Erweiterung unkompliziert eine semantisch klarere Auszeichnung
+        dabei, Themen, Fragen, Antworten und inhaltliche Zusammenhänge maschinenlesbar
+        bereitzustellen. So verbessert das Bundle die Chancen, dass redaktionelle Inhalte
+        in modernen Such- und Antwortsystemen sichtbarer, verständlicher und besser
+        wiederverwendbar werden.
+    keywords:
+        - faq
+        - structured data
+        - schema.org
+        - seo
+        - aeo
+    support:
+        issues: https://github.com/avhulst/AvhContaoFaqStructuredBundle/issues

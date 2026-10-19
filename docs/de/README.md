@@ -11,15 +11,15 @@ empfohlen, das Logo beispielsweise mittels [SVGO][6] bzw. dem GUI-Tool [SVGOMG][
 
 ## Beispiel einer Paketstruktur
 
-```
+<pre>
 meta/[vendor]/[paket-name]
     - de.yml
     - en.yml
     - ru.yml
     - ...
     - logo.svg (optional)
-    - composer.json (nur für private Pakete und optional. [Details](#öffentliche-vs-privateproprietäre-pakete))
-```
+    - composer.json (nur für private Pakete und optional. <a href="#öffentliche-vs-privateproprietäre-pakete">Details</a>)
+</pre>
 
 Hinweis: Das `logo.svg` kann auch direkt innerhalb von `[vendor]` liegen, es wird dann als Fallback für alle Pakete
 dieses `[vendor]` verwendet, sofern kein Logo für das explizite Paket angegeben wurde.
@@ -110,6 +110,12 @@ php linter/lint meta/yourvendor/yourpackage/*.yml
 Wenn du Inhaber eines _Namespaces_ bist, also zuständig für einen Ordner der Package-Metadata, kannst du deinen GitHub
 Benutzer in der Datei CODEOWNERS entsprechend eintragen. Du wirst dann automatisch über alle Änderungen an diesem
 Ordner informiert und kannst diese freigeben oder ablehnen.
+
+
+## Package Indexer
+
+Die Metadaten werden alle 30 Minuten automatisch indexiert und sowohl unter https://extensions.contao.org als auch
+im Contao Manager veröffentlicht. Eine Übersicht über den Systemstatus findest du unter https://contao-package-list.cronitorstatus.com/.
 
 
 [1]: https://getcomposer.org

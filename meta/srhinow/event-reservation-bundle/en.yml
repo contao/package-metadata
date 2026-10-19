@@ -1,0 +1,13 @@
+en:
+    title: Event Reservation
+    description: >
+        Extends the Contao calendar module with a reservation system for events. Visitors register for an event
+        through a front end form; the extension manages seats and status and sends notifications through the
+        Notification Center.
+    keywords:
+        - event
+        - reservation
+        - registration
+        - calendar
+        - booking
+        - notification center

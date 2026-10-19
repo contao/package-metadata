@@ -1,0 +1,18 @@
+de:
+    title: Icon-Größe im Backend
+    description: >
+        Hiermit kannst du die Größe der Backend-Icons in deinem Benutzerprofil ändern.
+
+        Contao zeichnet sie mit 16 Pixeln, was manchem zu klein ist. Zur Auswahl stehen 14 bis 24
+        Pixel. Die Einstellung gilt nur für dich, alle anderen arbeiten unverändert weiter.
+
+        Betroffen sind die Icons im gesamten Backend: Listenansichten, Seiten- und Dateibaum,
+        Navigation und Kopfleiste. Per Konfiguration kann ein Projekt die Auswahlliste
+        einschränken.
+    keywords:
+        - contao
+        - backend
+        - icon
+        - größe
+        - barrierefreiheit
+        - e-spin

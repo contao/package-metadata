@@ -1,0 +1,15 @@
+de:
+    title: Inhaltsboxen
+    description: >
+        Verwaltet Inhalte in Inhaltsboxen, die unabhängig von den Artikeln einer einzelnen Seite gepflegt werden — etwa ein Hinweis in der Seitenleiste.
+
+        Jede Box legt selbst fest, wo und wann sie erscheint: auf ausgewählten Seiten samt Unterseiten, nur an bestimmten Wochentagen oder in bestimmten Monaten, oder nur bei bestimmten Nachrichten.
+
+        Ausgegeben werden die Boxen von einem Frontend-Modul im Seitenlayout. Die Rechte im Backend werden je Kategorie vergeben.
+    keywords:
+        - Boxen
+        - Inhaltsboxen
+        - Seitenleiste
+        - Nachrichten
+    support:
+        source: https://github.com/Samson1964/contao-boxes4ward-bundle

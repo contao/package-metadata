@@ -1,17 +1,11 @@
 en:
     title: MetaModels core
     description: >
-        With the extension it is possible to enter a large number of structured data and to display
-        them on the website according to various criteria such as list and detail view, filters,
-        sorting, pagination, multilingual and many more. All this can be configured in the Contao
-        back end without programming.
-                
-        The possibilities of this data content range from product catalogues, events, meal plans,
-        address or employee lists, houses, rental objects to picture galleries or multilingual
-        text/image content - and all this seamlessly integrated into Contao without programming. 
-        
-        More about installation and working with MetaModels in our manual at
-        https://metamodels.readthedocs.io/en/latest/
+        Manage any structured content in Contao — without programming, without external developers.
+
+        Anyone needing custom fields, filtering, sorting, and multilingual output will find a
+        ready-made solution in MetaModels: data model and output are configured in the back end,
+        not in code.
     keywords:
         - metamodels
         - core
@@ -23,6 +17,7 @@ en:
     suggest:
         metamodels/bundle_start: Attributes and filters for the start - see manual!
         metamodels/bundle_all: Attributes and filters for the start incl. multilingualism - see manual!
+        metamodels/bundle_frontend_editing: All packages for Frontend-Editing
         metamodels/attribute_alias: Attribute alias
         metamodels/attribute_checkbox: Attribute checkbox
         metamodels/attribute_color: Attribute Color
@@ -44,23 +39,35 @@ en:
         metamodels/attribute_text: Attribute text
         metamodels/attribute_url: Attribute URL
         metamodels/attribute_timestamp: Attribute date/time
+        metamodels/attribute_token: Attribute unique token
         metamodels/attribute_translatedalias: Attribute translated alias
         metamodels/attribute_translatedcheckbox: Attribute translated checkbox
         metamodels/attribute_translatedcontentarticle: Attribute translated article content
         metamodels/attribute_translatedcombinedvalues: Attribute translated combined values
         metamodels/attribute_translatedfile: Attribute translated file
         metamodels/attribute_translatedlongtext: Attribute translated long text
+        metamodels/attribute_translatedselect: Attribute translated single selection [select]
         metamodels/attribute_translatedtabletext: Attribute translated table text
         metamodels/attribute_translatedtablemulti: Attribute translated multi table (MCW)
+        metamodels/attribute_translatedtags: Attribute translated multiple selection [tags]
         metamodels/attribute_translatedtext: Attribute translated text
         metamodels/attribute_translatedurl: Attribute translated URL
+        metamodels/filter_by_related: Filter by related model
         metamodels/filter_checkbox: Filter checkbox
         metamodels/filter_fromto: Filter from/to
-        metamodels/filter_perimetersearch: Filter perimetersearch
+        metamodels/filter_loupe: Filter Loupe (full-text search)
+        metamodels/filter_parent: Filter parent table
+        metamodels/filter_perimetersearch: Filter perimeter search
         metamodels/filter_range: Filter range
         metamodels/filter_register: Filter register [A-Z]
         metamodels/filter_select: Filter single selection
         metamodels/filter_tags: Filter multiple selection
         metamodels/filter_text: Filter text search
         metamodels/contao-frontend-editing: Module Frontend-Editing
-        metamodels/bundle_frontend_editing: All packages for Frontend-Editing
+        metamodels/cowegis-layer: Layer for CoWegis maps
+        metamodels/dropzone_file_upload: Dropzone file upload for file attribute
+        metamodels/isotope-bridge: Isotope eCommerce bridge
+        metamodels/metadata_extractor: File metadata extractor (IPTC/EXIF)
+        metamodels/notelist: Note list / watch list
+        metamodels/translator-bridge: Machine translation (DeepL, ChatGPT)
+        metamodels/xliff-export-import: XLIFF export/import
