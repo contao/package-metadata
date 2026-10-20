@@ -1,0 +1,12 @@
+en:
+    title: Contao Live Edit
+    description: Edit Contao pages directly in the frontend. Update text, headlines, images and links, insert or reorder content elements, and edit project templates while signed in as an administrator.
+    keywords:
+        - frontend editor
+        - visual editing
+        - inline editing
+        - content editor
+    support:
+        issues: https://github.com/bngmnn/contao-live-edit/issues
+        docs: https://github.com/bngmnn/contao-live-edit#readme
+    homepage: https://github.com/bngmnn/contao-live-edit

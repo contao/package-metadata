@@ -1,0 +1,12 @@
+de:
+    title: Contao Live Edit
+    description: Bearbeite Contao-Seiten direkt im Frontend. Aktualisiere Texte, Überschriften, Bilder und Links, füge Inhaltselemente ein, ordne sie neu und bearbeite Projekt-Templates als angemeldeter Administrator.
+    keywords:
+        - Frontend-Editor
+        - visuelle Bearbeitung
+        - Inline-Bearbeitung
+        - Inhaltseditor
+    support:
+        issues: https://github.com/bngmnn/contao-live-edit/issues
+        docs: https://github.com/bngmnn/contao-live-edit#readme
+    homepage: https://github.com/bngmnn/contao-live-edit
