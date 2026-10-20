@@ -1,0 +1,8 @@
+en:
+    title: Random gallery content element
+    description: >
+        Creates a gallery with random images from a larger pool of images in the file manager.
+    keywords:
+        - gallery
+        - images
+        - random
