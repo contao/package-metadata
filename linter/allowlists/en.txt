@@ -91,6 +91,7 @@ Groups
 HeaderFooterCode
 helpdesk
 hotspot
+hotspots
 hovercard
 http
 IconInsertTags

@@ -1,0 +1,20 @@
+en:
+    title: Advent Calendar for Contao
+    description: >
+        Advent calendar for Contao 5.7 and 6: a calendar image with 24 hotspots, detail cards with sponsor and prize,
+        timed doors and a list of winners. Contents of closed doors are withheld on the server side, opening hours can
+        be set per calendar and per door. Accessible, with a door list for small screens and optional linking of events
+        from the Contao calendar.
+    keywords:
+        - advent calendar
+        - Christmas
+        - xmas
+        - raffle
+        - hotspots
+        - doors
+        - winners
+        - sponsors
+        - marketing
+    homepage: https://github.com/pdir/contao-advent-calendar-bundle
+    support:
+        email: support@pdir.de

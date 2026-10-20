@@ -1,0 +1,20 @@
+de:
+    title: Adventskalender für Contao
+    description: >
+        Adventskalender für Contao 5.7 und 6: ein Kalenderbild mit 24 Hotspots, Detailkarten mit Sponsor und Gewinn,
+        zeitgesteuerte Türchen und eine Gewinnerliste. Inhalte geschlossener Türchen werden serverseitig zurückgehalten,
+        die Öffnungszeiten lassen sich je Kalender und Türchen festlegen. Barrierearm, mit Türchen-Liste für kleine
+        Bildschirme und optionaler Verknüpfung mit Terminen aus dem Contao-Kalender.
+    keywords:
+        - Adventskalender
+        - Weihnachtskalender
+        - Weihnachten
+        - Gewinnspiel
+        - Hotspots
+        - Türchen
+        - Gewinner
+        - Sponsoren
+        - Marketing
+    homepage: https://github.com/pdir/contao-advent-calendar-bundle
+    support:
+        email: support@pdir.de
