@@ -417,6 +417,7 @@ packagist
 packagist.com
 Pay
 PayPal
+PageSpeed
 pdf
 PDF
 PDFs

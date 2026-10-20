@@ -14,6 +14,7 @@ Admins
 Adress
 Adressdaten
 Advanced
+Adventskalender
 agentischen
 ajaxpagenierung
 AjaxPagination
@@ -77,6 +78,7 @@ Badge
 Bannerelement
 Bannervorlage
 barrierearm
+Barrierearm
 base
 Basisbibliotheken
 Baumstruktur
@@ -233,6 +235,7 @@ Debug
 Delete
 Detailansicht
 Detailinhalt
+Detailkarten
 Detailseite
 Detailseiten
 Detection
@@ -399,6 +402,7 @@ gestylt
 gestylten
 gestyltes
 Get
+Gewinnerliste
 Github
 Glossarbegriffe
 Grid
@@ -483,6 +487,7 @@ Jobletter
 Jobposting
 Kaderlisten
 Kaderstufe
+Kalenderbild
 Kalenderformate
 Kalendermodul
 Kalenderraster
@@ -954,6 +959,7 @@ Styling
 Subnetze
 Subvendoren
 Suchabos
+Suchanfragen
 Suchbar
 Suchbegriff
 Suchbegriffe
@@ -1083,6 +1089,7 @@ visibility
 Visitor
 visits
 Visualization
+Vitals
 visuell
 Vollbild
 Vollbildkarte
