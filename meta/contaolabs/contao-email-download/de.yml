@@ -1,0 +1,20 @@
+de:
+    title: E-Mail-Download
+    description: >
+        Download gegen E-Mail-Adresse: Besucher tragen ihre E-Mail-Adresse ein und bekommen einen geschützten Link
+        per E-Mail, zum Beispiel für ein PDF, eine Checkliste oder eine ZIP-Datei. Der Link läuft nach einer
+        einstellbaren Zeit ab und ist nur einige Male nutzbar, die Datei selbst hat keine öffentliche Adresse.
+
+        Mit Häkchen für die Zustimmung, optionalem Hinweis-Banner, eingebautem Versand per E-Mail, Liste aller Anfragen
+        im Backend mit CSV-Export, automatischem Löschen alter Anfragen und Schutz vor Spam. Kostenlos für Contao 4.13,
+        5.3 und 5.7.
+    keywords:
+        - download
+        - e-mail
+        - lead
+        - pdf
+        - datei
+        - formular
+        - kostenlos
+    support:
+        docs: https://github.com/contaolabs/contao-email-download/blob/main/README.de.md
