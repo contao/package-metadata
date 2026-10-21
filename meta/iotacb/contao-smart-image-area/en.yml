@@ -1,0 +1,4 @@
+en:
+    title: Contao Smart Image Area
+    description: Automatically identify important image areas using local face detection, object detection, and visual saliency for Contao 5.7
+    homepage: https://www.chrisbrandt.xyz/
