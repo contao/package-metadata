@@ -109,6 +109,7 @@ Betreiberseiten
 Bewertungsarchive
 Bewertungssystem
 Bezahlungsmethode
+Beziehungskarte
 Bienenschwarmfänger
 Bildbeschreibung
 Bilddatenbank
@@ -290,6 +291,7 @@ endgeräteübergreifenden
 Energieausweis
 Energieskala
 Engine
+Entitäten
 Entwicklungsserver
 Erinnerungsschreiben
 error

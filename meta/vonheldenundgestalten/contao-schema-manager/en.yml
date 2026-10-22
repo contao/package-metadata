@@ -1,0 +1,15 @@
+en:
+    title: Contao Schema Manager
+    description: >
+        Manages Schema.org entities for organizations, people, services and events centrally and adds them to Contao's existing JSON-LD graph. Pages, news and events reference these entities, a relationship map shows how they connect, and an extension API lets other bundles register their own sources and relationships.
+    keywords:
+      - contao
+      - seo
+      - schema.org
+      - structured data
+      - json-ld
+      - entities
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-schema-manager/issues
+        docs: https://www.vhug.tech/en/contao-extensions/schema-manager.html
+    homepage: https://www.vhug.tech
