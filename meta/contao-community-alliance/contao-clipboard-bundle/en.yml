@@ -1,0 +1,27 @@
+en:
+    title: Clipboard
+    description: >
+        A long-term clipboard for the Contao backend: copy pages, articles, content elements, modules, forms and
+        groups once and paste them anywhere, even days later. Version 3.0 is a rewrite for Contao 5 and funded by a
+        fundraising - support it now!
+
+        The clipboard stays between sessions and is saved per user, so nothing gets lost when you log out. Entries can
+        be pasted after or into a record, with or without their child records, and in the backend of a different
+        installation: the clipboard administration exports and imports entries as ZIP or YAML files. The buttons
+        appear in the lists of all supported tables, extensions can register their own tables, and the use is
+        controlled by a permission per user group.
+
+        Version 3.0 is built for Contao 5.3 and later without a custom data container driver, so it no longer has to be
+        adapted for every Contao release. This costs a lot of time, and the fundraising makes sure that the extension
+        stays maintained. Details about the fundraising can be found in the repository.
+    keywords:
+        - contao
+        - clipboard
+        - copy
+        - paste
+        - backend
+        - export
+        - import
+    homepage: https://github.com/contao-community-alliance/contao-clipboard-bundle/tree/fundraising/3.0.0
+    support:
+        docs: https://github.com/contao-community-alliance/contao-clipboard-bundle/tree/fundraising/3.0.0
