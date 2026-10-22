@@ -1,0 +1,6 @@
+en:
+    title: contaolabs license check
+    description: >
+        Shared license check for the extensions from contaolabs.de. It is installed automatically together with the
+        extensions, you enter the license key under System → Settings.
+    dependency: true
