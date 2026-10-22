@@ -398,6 +398,7 @@ gerendert
 Gesamtstand
 gescannten
 Geschäftsabläufe
+Gesichtserkennung
 Geschütztes
 gestreamt
 gestylt
@@ -690,6 +691,7 @@ Nutzererfahrung
 Nutzerfreundlichkeit
 Nutzerinteraktion
 Nutzerverhalten
+Objekterkennung
 Objektliste
 On
 One
@@ -829,6 +831,7 @@ Root
 Routenplaner
 Routenplanung
 Röntgenaufnahmen
+Salienz
 Scans
 Schachaufgaben
 Schachbund
