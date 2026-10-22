@@ -7,8 +7,10 @@ en:
          - Define entry priority and cache TTL for each sitemap individually
          - Filter indexed pages by page tree (root or sub nodes possible - even multiple)
          - Create index files for existing sitemaps
+         - Control over Events, News and FAQs in Sitemap (Add/Remove)
     keywords:
         - Sitemap
+        - Index
         - JB-Support
     support:
         issues: https://github.com/jb-support/multiple-sitemaps/issues

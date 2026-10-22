@@ -1,0 +1,21 @@
+de:
+    title: Eigenes Backend-Menü
+    description: >
+        Legt im Backend eigene Bereiche für die Navigation an, jeder mit eigenem
+        Namen, Icon und eigener Farbe. Module lassen sich frei auf die Bereiche
+        verteilen und ihre Reihenfolge mit der Maus festlegen. Bereiche gelten für
+        alle Benutzer oder nur für einzelne, und jeder Benutzer kann die
+        gemeinsamen Bereiche für sich ausblenden. Die vorhandenen Bereiche von
+        Contao bleiben erhalten.
+    keywords:
+        - Backend
+        - Menü
+        - Navigation
+        - Menübereich
+        - Icon
+        - Font Awesome
+        - Lucide
+        - Drag and Drop
+    support:
+        source: https://github.com/Samson1964/contao-backendmenue-bundle
+        issues: https://github.com/Samson1964/contao-backendmenue-bundle/issues

@@ -1,0 +1,12 @@
+en:
+    title: avalex Legal Texts
+    description: Integrates the automatically generated and continuously updated legal texts by avalex into a Contao website. Imprint and privacy policy as well as - if purchased - cancellation policy and terms and conditions are fetched directly from avalex and stay up to date without any manual effort.
+    keywords:
+        - avalex
+        - legal texts
+        - imprint
+        - privacy policy
+        - data privacy
+        - gdpr
+        - cancellation policy
+        - terms and conditions

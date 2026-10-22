@@ -1,0 +1,21 @@
+en:
+    title: Google Site Kit for Contao
+    description: >
+        Brings Google Search Console, Analytics 4, PageSpeed Insights and Tag Manager into the Contao back end.
+        Shows clicks, impressions, top queries, visitor numbers and Core Web Vitals right in the dashboard and
+        outputs the tracking code (gtag.js with Consent Mode v2) or the Tag Manager container per website root.
+    keywords:
+        - Contao
+        - Google
+        - Site Kit
+        - Search Console
+        - Analytics
+        - GA4
+        - PageSpeed
+        - Core Web Vitals
+        - Tag Manager
+        - SEO
+        - Statistics
+    homepage: https://pdir.de
+    support:
+        email: support@pdir.de

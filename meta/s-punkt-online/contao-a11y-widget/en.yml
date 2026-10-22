@@ -1,0 +1,17 @@
+en:
+    title: Accessibility Widget
+    description: >
+        Floating button with a panel in which visitors adjust how your website
+        is displayed: font size, highlighted links, simple font, text spacing,
+        high contrast and a distraction-free mode. The settings apply to the
+        whole website and are stored in the browser. The widget itself is
+        built to be accessible. You configure position, colour scheme, accent
+        colour and all texts in the frontend module.
+    keywords:
+        - accessibility
+        - a11y
+        - font size
+        - contrast
+        - widget
+    support:
+        issues: https://github.com/S-Punkt-Online/contao-a11y-widget/issues

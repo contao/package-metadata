@@ -1,0 +1,14 @@
+en:
+    title: Grid – columns in one click
+    description: >
+        Visual 12-column grid: create rows with 1 to 4 columns via "New grid"
+        and adjust the column widths directly in the element list with + and −
+        – neighbouring columns adapt automatically. Set column gaps (L/M/S)
+        and equal height per row. Based on nested content elements, no CSS
+        framework required.
+    keywords:
+        - grid
+        - columns
+        - layout
+    support:
+        issues: https://github.com/S-Punkt-Online/contao-grid-bundle/issues

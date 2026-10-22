@@ -1,0 +1,18 @@
+de:
+    title: Sicherheitsdreieck für Untermenüs
+    description: >
+        Ergänzt das barrierefreie Navigationsmenü von Contao (Template mod_navigation_accessible) um ein Sicherheitsdreieck: Fährt die Maus schräg auf ein geöffnetes Untermenü zu und streift dabei andere Menüpunkte, bleibt das Untermenü geöffnet, statt zum falschen Menüpunkt zu wechseln. Das Dreieck wirkt auf allen Ebenen, für Untermenüs unter, rechts und links neben dem Menüpunkt. Außerdem lassen sich im Navigationsmodul einstellen: das erneute Öffnen eines Untermenüs, wenn die Maus nach kurzem Verlassen zurückkehrt, das Öffnen seitlicher Untermenüs nach links bei Platzmangel, ein Ein- und Ausblenden mit einstellbarer Dauer, der Schatten und das Symbol für Menüpunkte mit Untermenü (Winkel, Pfeil, Dreieck, Plus und Minus, kein Symbol oder eine eigene SVG-Datei). Alle Einstellungen gelten in der Desktop-Ansicht; Tastatur, Touch und die mobile Ansicht behalten das Verhalten von Contao. Für Contao 5.7 und 6.0.
+    keywords:
+        - navigation
+        - menü
+        - untermenü
+        - submenu
+        - dropdown
+        - flyout
+        - hover
+        - sicherheitsdreieck
+        - safe triangle
+        - menu aim
+        - barrierefrei
+        - barrierefreiheit
+        - accessibility

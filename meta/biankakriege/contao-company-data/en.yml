@@ -5,14 +5,22 @@ en:
         Content elements and modules for contact data, imprint or the logo are available. People can also be added.
         A signature or tokens can be used in the form generator.
     keywords:
-        - Company data
-        - Personal data
-        - form
-        - e-mail
+        - Company details
+        - People
+        - Form
         - Notifications
-        - Imprint
+        - Legal notice
         - Logo
         - Contact details
+        - Organisation
+        - Company details
+        - Contact person
+        - Team
+        - Address
+        - Email signature
+        - Structured data
+        - JSON-LD
+        - Schema.org
     support:
         issues: https://github.com/biankakriege/contao-company-data/issues
         source: https://github.com/biankakriege/contao-company-data

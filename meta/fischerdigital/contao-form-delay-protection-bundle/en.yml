@@ -1,13 +1,17 @@
 en:
     title: Form Delay Protection
     description: >
-        Time-based spam protection for Contao forms. Adds a minimum
-        delay between page load and form submission using HMAC-signed
-        timestamps. Session-independent and compatible with HTTP caching
-        and AJAX forms.
+        Multi-layered spam protection for Contao forms: time-based minimum
+        delay using HMAC-signed timestamps, input validation against typical
+        spam patterns (regex) and optional silent drop with logging to the
+        system log. Detected spam is silently discarded – including delivery
+        via the Notification Center. Session-independent and compatible with
+        HTTP caching and AJAX forms.
     keywords:
         - spam
         - protection
         - form
         - delay
         - hmac
+        - regex
+        - silent drop

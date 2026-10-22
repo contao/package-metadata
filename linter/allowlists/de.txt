@@ -14,6 +14,7 @@ Admins
 Adress
 Adressdaten
 Advanced
+Adventskalender
 agentischen
 ajaxpagenierung
 AjaxPagination
@@ -77,6 +78,7 @@ Badge
 Bannerelement
 Bannervorlage
 barrierearm
+Barrierearm
 base
 Basisbibliotheken
 Baumstruktur
@@ -234,6 +236,7 @@ Debug
 Delete
 Detailansicht
 Detailinhalt
+Detailkarten
 Detailseite
 Detailseiten
 Detection
@@ -401,6 +404,7 @@ gestylt
 gestylten
 gestyltes
 Get
+Gewinnerliste
 Github
 Glossarbegriffe
 Grid
@@ -485,6 +489,7 @@ Jobletter
 Jobposting
 Kaderlisten
 Kaderstufe
+Kalenderbild
 Kalenderformate
 Kalendermodul
 Kalenderraster
@@ -595,6 +600,7 @@ Ländernamen
 mailto
 Maklermodul
 Maklersoftware
+Mannschaftsturniere
 Maps
 Markdown
 Markerclustern
@@ -669,6 +675,7 @@ Navbar
 Navigationselementes
 Navigationen
 Navigationsmenü
+Navigationsmodul
 Neubauprojekten
 news
 Newsbeiträge
@@ -823,6 +830,7 @@ Routenplaner
 Routenplanung
 Röntgenaufnahmen
 Scans
+Schachaufgaben
 Schachbund
 Schachbundes
 Schachchronik
@@ -886,6 +894,7 @@ Share
 Shopsystem
 Short
 Sibling
+Sicherheitsdreieck
 Sichtbarkeiten
 Sidebar
 Sidepanel
@@ -952,6 +961,7 @@ Styling
 Subnetze
 Subvendoren
 Suchabos
+Suchanfragen
 Suchbar
 Suchbegriff
 Suchbegriffe
@@ -1047,6 +1057,7 @@ Unique
 Unterformular
 Unterformularen
 Unterkategorien
+Untermenüs
 Unternehmensdaten
 Unterpaletten
 updatefreundlich
@@ -1080,6 +1091,7 @@ visibility
 Visitor
 visits
 Visualization
+Vitals
 visuell
 Vollbild
 Vollbildkarte
@@ -1190,3 +1202,12 @@ Schreibvorgang
 mitinstalliert
 vorbeizuschreiben
 Spaltenanzahl
+zeitbasierte
+Zeitstempel
+Silent
+Casa
+plentacasa
+Fremdsystem
+Objektlisten
+Seitenreload
+Zufallsgalerie

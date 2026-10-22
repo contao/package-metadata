@@ -6,13 +6,21 @@ de:
         Im Formulargenerator kann eine Signatur oder Tokens genutzt werden.
     keywords:
         - Firmendaten
-        - Personendaten
+        - Personen
         - Formular
-        - E-Mail
         - Benachrichtigungen
         - Impressum
         - Logo
         - Kontaktdaten
+        - Unternehmen
+        - Firmendaten
+        - Ansprechpartner
+        - Team
+        - Adresse
+        - E-Mail-Signatur
+        - Strukturierte Daten
+        - JSON-LD
+        - Schema.org
     support:
         issues: https://github.com/biankakriege/contao-company-data/issues
         source: https://github.com/biankakriege/contao-company-data

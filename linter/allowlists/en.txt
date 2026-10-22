@@ -91,6 +91,7 @@ Groups
 HeaderFooterCode
 helpdesk
 hotspot
+hotspots
 hovercard
 http
 IconInsertTags
@@ -193,6 +194,8 @@ staging
 stardate
 stylable
 StyleManager
+submenu
+submenus
 subnets
 subpages
 subtemplates
@@ -238,3 +241,5 @@ Chatbot
 fullsize
 browsable
 breakpoint
+Casa
+plentacasa
