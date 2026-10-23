@@ -20,6 +20,7 @@ ajaxpagenierung
 AjaxPagination
 Akkordions
 Aliases
+Allergenen
 Alliance
 alone
 AMPHTML
@@ -104,6 +105,8 @@ Benutzerprofil
 Benutzerrechte
 Berechnungsarten
 Bestellprozess
+Bestellsystem
+Bestellterminal
 Bestätigungscodes
 Bestätigungsmails
 Besuchererweiterung
@@ -476,6 +479,7 @@ Inserttags
 Insights
 install
 Install
+Installationsanleitung
 Installationspaket
 Installer
 Invalidation
@@ -550,6 +554,7 @@ Kreuztabellen
 Kundenrezensionen
 Kundenstimmen
 Kurzlinks
+Küchenbon
 Landesverband
 Landingpages
 Langtext
@@ -585,6 +590,7 @@ Listenform
 listwizard
 listWizard
 LiteSpeed
+Livestatus
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
@@ -631,6 +637,7 @@ Mietangebote
 Mieteinheiten
 Mieträume
 Migrationshinweise
+Mindestbestellwert
 Mindestlänge
 Mindestzeit
 Minimalversion
@@ -677,6 +684,7 @@ Navigationselementes
 Navigationen
 Navigationsmenü
 Navigationsmodul
+Netzwerkdrucker
 Neubauprojekten
 news
 Newsbeiträge
@@ -995,6 +1003,7 @@ Tabellenstruktur
 Tabellentext
 Tabellenzeile
 TableLookupWizard
+Tablet
 Tablets
 Tabs
 Tageszeitabhängige
@@ -1133,6 +1142,7 @@ Wohnungsunternehmen
 Wortfilter
 WOW
 Wrapper
+Wunschzeit
 Währungsfeld
 yes
 youtube
@@ -1215,3 +1225,6 @@ Objektlisten
 Seitenreload
 Zufallsgalerie
 Fundraising
+Zubereitungszeit
+Zusatzstoffen
+Überlastungsschutz

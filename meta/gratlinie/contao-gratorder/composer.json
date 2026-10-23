@@ -1,0 +1,26 @@
+{
+    "name": "gratlinie/contao-gratorder",
+    "description": "GratOrder – Online-Bestellsystem für Restaurants auf Basis von Contao",
+    "keywords": ["contao", "restaurant", "ordering", "delivery", "pickup", "pizza", "terminal"],
+    "homepage": "https://www.gratorder.de",
+    "type": "contao-bundle",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Gratlinie",
+            "homepage": "https://www.gratorder.de"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "ext-sodium": "*",
+        "contao/core-bundle": "^5.7",
+        "terminal42/notification_center": "^2.0"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0"
+    },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    }
+}
