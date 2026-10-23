@@ -555,6 +555,7 @@ Stripe
 Structured
 Stylesheet
 stylesheet
+SumUp
 Survey
 svg
 SVG
