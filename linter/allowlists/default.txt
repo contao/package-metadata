@@ -97,6 +97,7 @@ Clickpress
 Clickskeks
 Cloud
 Cloudflare
+CloudPRNT
 CMACE
 CMS
 CMX
@@ -249,6 +250,8 @@ GPT
 GPX
 Grand
 Graphhopper
+gratorder
+GratOrder
 grid
 gtag
 gurado
@@ -553,6 +556,7 @@ Stripe
 Structured
 Stylesheet
 stylesheet
+SumUp
 Survey
 svg
 SVG
