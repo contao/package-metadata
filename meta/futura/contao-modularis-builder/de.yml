@@ -1,0 +1,14 @@
+de:
+    title: Modularis Builder
+    description: >
+        Fuege einmalig eine HTML-Vorlage mit Platzhaltern hinzu, und Redakteure waehlen sie danach als normales Inhaltselement aus und fuellen nur noch die Felder aus. HTML-Kenntnisse sind dafuer nicht noetig.
+
+        Fuer wiederkehrende Bausteine wie Teaser, Embeds oder Karten entfaellt damit die eigene Modulprogrammierung: kein eigener DCA, kein eigener Fragment-Controller, kein eigenes Twig-Template pro Baustein mehr.
+
+        Unterstuetzt Text-, Bild-, Link-, Auswahl- und Checkbox-Felder inklusive voller Bildgroessen- und Lightbox-Kontrolle wie beim nativen Contao-Bildfeld, sowie einen Loeschschutz fuer Vorlagen, die noch verwendet werden.
+    keywords:
+        - Platzhalter
+        - Vorlage
+        - Baukasten
+        - HTML-Snippet
+        - wiederverwendbar
