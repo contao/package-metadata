@@ -1,0 +1,14 @@
+en:
+    title: Modularis Builder
+    description: >
+        Add a single HTML template with placeholders once, and editors pick it as a regular content element and only fill in the fields. No HTML knowledge required.
+
+        For recurring building blocks such as teasers, embeds or cards, this removes the need for custom module programming: no custom DCA, no custom fragment controller, no custom Twig template per building block.
+
+        Supports text, image, link, select and checkbox fields with full control over image sizes and lightbox, just like the native Contao image field, plus delete protection for templates that are still in use.
+    keywords:
+        - placeholder
+        - template
+        - building blocks
+        - html snippet
+        - reusable
