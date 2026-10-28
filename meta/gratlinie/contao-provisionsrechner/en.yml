@@ -1,0 +1,21 @@
+en:
+    title: Commission calculator
+    description: >-
+        Shows your visitors what the commission of a platform costs them per year and when a
+        solution of their own pays off – for restaurants with delivery platforms, hotels with
+        booking portals, retailers with marketplaces and anyone else who sells through a
+        platform. Three sliders with free labels, start, minimum, maximum and step, results live
+        in the browser with savings, a bar comparison and the payback of a one-off payment.
+        Maintain offers in the module or provide them from another extension via an event.
+        Plain JavaScript and CSS, texts in German and English.
+    keywords:
+        - commission
+        - calculator
+        - platform
+        - marketplace
+        - delivery
+        - booking portal
+        - restaurant
+        - comparison
+        - savings
+    homepage: https://github.com/gratlinie/contao-provisionsrechner
