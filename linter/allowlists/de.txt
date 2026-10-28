@@ -153,6 +153,7 @@ Bspw
 bspw
 Buchnavigation
 Buchungsformular
+Buchungsportalen
 Builder
 Buttongenerator
 bzw
@@ -579,6 +580,7 @@ Libraries
 Lieblingsinhalte
 Lieferadresse
 Lieferanschrift
+Lieferdiensten
 LinkedIn
 Linksammlungen
 Linksplitter

@@ -1,0 +1,21 @@
+de:
+    title: Provisionsrechner
+    description: >-
+        Zeigt deinen Besuchern, was sie die Provision einer Plattform im Jahr kostet und ab wann
+        sich eine eigene Lösung rechnet – für Restaurants mit Lieferdiensten, Hotels mit
+        Buchungsportalen, Händler mit Marktplätzen und alle anderen, die über eine Plattform
+        verkaufen. Drei Regler mit frei wählbarer Beschriftung, Start, Minimum, Maximum und
+        Schritt, Ergebnis live im Browser mit Ersparnis, Vergleich als Balken und Amortisation
+        einer Einmalzahlung. Angebote im Modul pflegen oder per Event aus einer anderen Erweiterung
+        liefern. Reines JavaScript und CSS, Texte auf Deutsch und Englisch.
+    keywords:
+        - Provision
+        - Rechner
+        - Plattform
+        - Marktplatz
+        - Lieferdienst
+        - Buchungsportal
+        - Restaurant
+        - Vergleich
+        - Ersparnis
+    homepage: https://github.com/gratlinie/contao-provisionsrechner
