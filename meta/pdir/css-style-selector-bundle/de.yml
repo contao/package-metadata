@@ -1,0 +1,18 @@
+de:
+    title: CSS Style Selector
+    description: >
+        Lege CSS-Stile einmal im Backend an und lass Redakteure sie in Artikeln, Inhaltselementen, Modulen, Formularen,
+        Formularfeldern, Seitenlayouts, Seiten, Nachrichten und Events auswählen. Die Stile werden in Gruppen mit
+        Einfach- oder Mehrfachauswahl organisiert, können eine Vorschau als Farbe oder Bild zeigen und lassen sich auf
+        bestimmte Typen von Elementen und Backend-Benutzergruppen beschränken. Die gewählten Stile werden in den
+        Listenansichten angezeigt.
+    keywords:
+        - CSS
+        - Stile
+        - CSS-Klassen
+        - Klassen
+        - Stilauswahl
+        - Redakteure
+        - Backend
+        - Inhaltselemente
+        - Layout
