@@ -1,0 +1,14 @@
+en:
+    title: Hazelchat – AI chatbot
+    description: Adds your Hazelchat AI chat agent to every page from one pasted installation code. It answers visitors from the pages you approve, shows its sources and passes their requests on to you. Works with cookie banners. Needs a Hazelchat account; the Free plan covers one website.
+    keywords:
+        - chatbot
+        - ai
+        - chat
+        - ai chat agent
+        - requests
+        - lead capture
+        - customer service
+    support:
+        email: hello@hazelchat.co
+        docs: https://hazelchat.co/integrations/contao/

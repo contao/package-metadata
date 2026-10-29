@@ -1,0 +1,28 @@
+de:
+    title: Zwischenablage
+    description: >
+        Eine Langzeit-Zwischenablage für das Contao-Backend: Seiten, Artikel, Inhaltselemente, Module, Formulare und
+        Gruppen einmal kopieren und beliebig einfügen, auch Tage später. Version 3.0 ist eine Neuentwicklung für
+        Contao 5 und wird über ein Fundraising finanziert - unterstütze es jetzt!
+
+        Die Zwischenablage bleibt über Sitzungen hinweg erhalten und wird pro Benutzer gespeichert, nach dem Logout geht
+        also nichts verloren. Einträge lassen sich nach oder in einen Datensatz einfügen, mit oder ohne untergeordnete Datensätze,
+        und auch im Backend einer anderen Installation: Die Verwaltung der Zwischenablage exportiert und importiert
+        Einträge als ZIP- oder YAML-Datei. Die Buttons erscheinen in den Listen aller unterstützten Tabellen,
+        Erweiterungen können eigene Tabellen anmelden, und die Nutzung wird über ein Recht für Benutzergruppen gesteuert.
+
+        Version 3.0 ist für Contao 5.3 und neuer gebaut und kommt ohne eigenen Data-Container-Treiber aus, sie muss also
+        nicht mehr bei jedem Contao-Release angepasst werden. Das kostet viel Zeit, und das Fundraising sorgt dafür, dass
+        die Erweiterung gepflegt bleibt. Details zum Fundraising stehen im Repository.
+    keywords:
+        - contao
+        - zwischenablage
+        - clipboard
+        - kopieren
+        - einfügen
+        - backend
+        - export
+        - import
+    homepage: https://github.com/contao-community-alliance/contao-clipboard-bundle/tree/fundraising/3.0.0
+    support:
+        docs: https://github.com/contao-community-alliance/contao-clipboard-bundle/tree/fundraising/3.0.0

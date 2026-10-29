@@ -20,6 +20,7 @@ ajaxpagenierung
 AjaxPagination
 Akkordions
 Aliases
+Allergenen
 Alliance
 alone
 AMPHTML
@@ -104,6 +105,8 @@ Benutzerprofil
 Benutzerrechte
 Berechnungsarten
 Bestellprozess
+Bestellsystem
+Bestellterminal
 Bestätigungscodes
 Bestätigungsmails
 Besuchererweiterung
@@ -111,6 +114,7 @@ Betreiberseiten
 Bewertungsarchive
 Bewertungssystem
 Bezahlungsmethode
+Beziehungskarte
 Bienenschwarmfänger
 Bildbeschreibung
 Bilddatenbank
@@ -149,6 +153,7 @@ Bspw
 bspw
 Buchnavigation
 Buchungsformular
+Buchungsportalen
 Builder
 Buttongenerator
 bzw
@@ -293,6 +298,7 @@ endgeräteübergreifenden
 Energieausweis
 Energieskala
 Engine
+Entitäten
 Entwicklungsserver
 Erinnerungsschreiben
 error
@@ -396,6 +402,7 @@ gerendert
 Gesamtstand
 gescannten
 Geschäftsabläufe
+Gesichtserkennung
 Geschütztes
 gestreamt
 gestylt
@@ -474,6 +481,7 @@ Inserttags
 Insights
 install
 Install
+Installationsanleitung
 Installationspaket
 Installer
 Invalidation
@@ -548,6 +556,7 @@ Kreuztabellen
 Kundenrezensionen
 Kundenstimmen
 Kurzlinks
+Küchenbon
 Landesverband
 Landingpages
 Langtext
@@ -572,6 +581,7 @@ Libraries
 Lieblingsinhalte
 Lieferadresse
 Lieferanschrift
+Lieferdiensten
 LinkedIn
 Linksammlungen
 Linksplitter
@@ -583,6 +593,7 @@ Listenform
 listwizard
 listWizard
 LiteSpeed
+Livestatus
 LiveValidation
 Lizenzhinweis
 Lizenzhinweise
@@ -629,6 +640,7 @@ Mietangebote
 Mieteinheiten
 Mieträume
 Migrationshinweise
+Mindestbestellwert
 Mindestlänge
 Mindestzeit
 Minimalversion
@@ -675,6 +687,7 @@ Navigationselementes
 Navigationen
 Navigationsmenü
 Navigationsmodul
+Netzwerkdrucker
 Neubauprojekten
 news
 Newsbeiträge
@@ -689,6 +702,7 @@ Nutzererfahrung
 Nutzerfreundlichkeit
 Nutzerinteraktion
 Nutzerverhalten
+Objekterkennung
 Objektliste
 On
 One
@@ -828,6 +842,7 @@ Root
 Routenplaner
 Routenplanung
 Röntgenaufnahmen
+Salienz
 Scans
 Schachaufgaben
 Schachbund
@@ -991,6 +1006,7 @@ Tabellenstruktur
 Tabellentext
 Tabellenzeile
 TableLookupWizard
+Tablet
 Tablets
 Tabs
 Tageszeitabhängige
@@ -1129,6 +1145,7 @@ Wohnungsunternehmen
 Wortfilter
 WOW
 Wrapper
+Wunschzeit
 Währungsfeld
 yes
 youtube
@@ -1209,3 +1226,8 @@ plentacasa
 Fremdsystem
 Objektlisten
 Seitenreload
+Zufallsgalerie
+Fundraising
+Zubereitungszeit
+Zusatzstoffen
+Überlastungsschutz

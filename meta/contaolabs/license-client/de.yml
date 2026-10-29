@@ -1,0 +1,6 @@
+de:
+    title: contaolabs Lizenz-Prüfung
+    description: >
+        Gemeinsame Prüfung der Lizenzen für die Erweiterungen von contaolabs.de. Wird automatisch zusammen mit den
+        Erweiterungen installiert, den Lizenzschlüssel trägst du unter System → Einstellungen ein.
+    dependency: true

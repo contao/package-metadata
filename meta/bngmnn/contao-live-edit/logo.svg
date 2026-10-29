@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Contao Live Edit</title>
+  <defs>
+    <linearGradient id="glass" x1="31" y1="28" x2="220" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#555654" stop-opacity=".96"/>
+      <stop offset=".48" stop-color="#292b2b" stop-opacity=".97"/>
+      <stop offset="1" stop-color="#17191a" stop-opacity=".96"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="51" y1="45" x2="207" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#f16a4c" stop-opacity=".84"/>
+    </linearGradient>
+    <radialGradient id="reflection" cx="0" cy="0" r="1" gradientTransform="matrix(155 130 -103 123 59 50)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dy="8"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".24"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="bubble"><circle cx="128" cy="124" r="101"/></clipPath>
+  </defs>
+  <g filter="url(#shadow)">
+    <circle cx="128" cy="124" r="102" fill="url(#glass)" stroke="url(#rim)" stroke-width="3"/>
+    <g clip-path="url(#bubble)">
+      <ellipse cx="105" cy="85" rx="112" ry="92" fill="url(#reflection)"/>
+      <path d="M54 92C66 62 91 43 123 35" fill="none" stroke="#fff" stroke-linecap="round" stroke-opacity=".66" stroke-width="2"/>
+      <path d="M174 207c18-8 32-21 41-38" fill="none" stroke="#ef7155" stroke-linecap="round" stroke-opacity=".8" stroke-width="2"/>
+      <circle cx="128" cy="124" r="96" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    </g>
+  </g>
+  <g transform="scale(4.5) translate(16 16)" fill="none" stroke="#fffefa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+    <path d="m21.64 3.64-1.28-1.28a1.21 1.21 0 0 0-1.72 0L2.36 18.64a1.21 1.21 0 0 0 0 1.72l1.28 1.28a1.2 1.2 0 0 0 1.72 0L21.64 5.36a1.2 1.2 0 0 0 0-1.72Z"/>
+    <path d="m14 7 3 3M5 6v4M19 14v4M10 2v2M7 8H3m18 8h-4M11 3H9"/>
+  </g>
+</svg>

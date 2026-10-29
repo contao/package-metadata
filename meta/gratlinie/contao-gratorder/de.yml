@@ -1,0 +1,27 @@
+de:
+    title: GratOrder – Online-Bestellsystem für Restaurants
+    description: |
+        Online-Bestellungen direkt über die eigene Restaurant-Website, ohne Plattform und ohne Provision pro Bestellung.
+
+        Speisekarte mit Größen, Extras, Allergenen und Zusatzstoffen, Pizza-Konfigurator, Warenkorb und Kasse als Gast, Abholung und Lieferung mit Mindestbestellwert, Bestellung für sofort, zur Wunschzeit oder als Vorbestellung. Im Restaurant laufen die Bestellungen in einem Bestellterminal fürs Tablet ein, mit Ton, Zubereitungszeit, Überlastungsschutz und Küchenbon auf dem Netzwerkdrucker, auch auf Star-Druckern per CloudPRNT, wahlweise 58 oder 80 mm. Der Gast bekommt Bestätigung und Livestatus per E-Mail. Bezahlt wird bar oder online über SumUp, mit Karte und Apple Pay; lehnst du eine bezahlte Bestellung ab, wird automatisch erstattet.
+
+        GratOrder ist eine kommerzielle Erweiterung im Abo. Lizenz, Installationsanleitung und eine Live-Demo findest du auf gratorder.de.
+    keywords:
+        - Bestellsystem
+        - Online-Bestellung
+        - Restaurant
+        - Lieferservice
+        - Abholung
+        - Speisekarte
+        - Pizza
+        - Bestellterminal
+        - Bondrucker
+        - Star
+        - CloudPRNT
+        - Gastronomie
+        - Online-Zahlung
+        - SumUp
+    homepage: https://www.gratorder.de
+    support:
+        email: mail@gratlinie.de
+        docs: https://www.gratorder.de/dokumentation
