@@ -1,0 +1,19 @@
+de:
+    title: Creuva Theme
+    description: >
+        Creuva ist ein flexibles Theme für Contao 5.7 und Contao 6 auf Basis des Theme Components Bundle.
+        Ein einziger Konsolenbefehl richtet Theme, Seitenlayout, Module und Startpunkt ein, auf Wunsch mit Grundseiten
+        oder einer kompletten Demo-Website. Mit 17 Farbschemata, den Varianten Hell, Dunkel und Editorial sowie einem
+        Style-Switcher zum Ausprobieren. Eigene Websites lassen sich als Demo-Vorlage exportieren und wieder importieren.
+    keywords:
+        - Theme
+        - Template
+        - Layout
+        - Demo
+        - Farbschema
+        - Dark Mode
+        - Responsive
+        - Contao 6
+    homepage: https://contao-themes.net/theme-detail/creuva.html
+    support:
+        email: support@pdir.de

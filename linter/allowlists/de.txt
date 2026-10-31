@@ -379,6 +379,7 @@ Frontend
 Frontendformular
 Frontendmodul
 Frontendmodule
+full
 Funnel
 Funnels
 Fußbereich
@@ -417,6 +418,7 @@ Grids
 Groups
 Grundgerüst
 Grundkonfiguration
+Grundseiten
 Grundstile
 hard
 Hardwarebeschleunigung
@@ -945,6 +947,7 @@ Sprachcode
 Sprachdateien
 Sprachenwechsler
 Sprachkennungen
+Sprachmodelle
 Sprachparameter
 Sprachversion
 Stage
