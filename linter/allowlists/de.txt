@@ -373,6 +373,7 @@ Frontend
 Frontendformular
 Frontendmodul
 Frontendmodule
+full
 Funnel
 Funnels
 Fußbereich
@@ -931,6 +932,7 @@ Sprachcode
 Sprachdateien
 Sprachenwechsler
 Sprachkennungen
+Sprachmodelle
 Sprachparameter
 Sprachversion
 Stage

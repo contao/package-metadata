@@ -225,6 +225,7 @@ front end
 Front end
 gap
 GDPR
+Gemini
 Gender
 geocoder
 Geocoder
@@ -335,6 +336,8 @@ Like
 linkdesigns
 LinkedIn
 listviews
+LLMs
+llms
 LocalStorage
 Locking
 locking
