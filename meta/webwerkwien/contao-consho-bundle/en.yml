@@ -11,14 +11,14 @@ en:
         - Prices: promotions with strike-through price, discount rules, discount codes, gift vouchers
         - Stock: stock levels, availability, back-in-stock notification
         - Tax: tax rates per country, tax in the country of destination with threshold counter and OSS export
-        - GDPR: data access request as ZIP, erasure request, anonymisation once the retention period has expired
+        - GDPR: data access request as ZIP, erasure request, anonymization once the retention period has expired
 
         Consho builds on Contao instead of rebuilding it: images, files, DCA, versions, members, multilingual content and cache come from Contao.
 
         Good to know:
 
         - Consho does not supply legal texts. The core provides what is technically required, you are responsible for the content
-        - Version 0.x: interfaces and the data model may change between minor versions, read the CHANGELOG before every update
+        - Version 0.x: interfaces and the data model may change between minor versions, read the changelog before every update
         - After installing, start in the back end under Consho → Dashboard → Setup
     keywords:
         - consho

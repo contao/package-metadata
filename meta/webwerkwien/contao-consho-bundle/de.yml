@@ -13,12 +13,12 @@ de:
         - Steuer: Steuersätze je Land, Steuer im Bestimmungsland mit Schwellenzähler und OSS-Export
         - DSGVO: Auskunft als ZIP, Löschantrag, Anonymisierung nach Ablauf der Aufbewahrungsfrist
 
-        Consho baut auf Contao auf, statt es nachzubauen: Bilder, Dateien, DCA, Versionen, Mitglieder, Mehrsprachigkeit und Cache kommen von Contao.
+        Consho baut auf Contao auf, statt es neu zu bauen: Bilder, Dateien, DCA, Versionen, Mitglieder, Mehrsprachigkeit und Cache kommen von Contao.
 
         Gut zu wissen:
 
         - Consho liefert keine Rechtstexte. Der Kern stellt bereit, was technisch nötig ist, für den Inhalt bist du verantwortlich
-        - Version 0.x: Schnittstellen und Datenmodell können sich zwischen Minor-Versionen ändern, lies vor jedem Update den CHANGELOG
+        - Version 0.x: Bis zur Version 1.0 können sich Schnittstellen und Datenmodell ändern, lies vor jedem Update den Changelog
         - Nach der Installation startest du im Backend unter Consho → Dashboard → Einrichtung
     keywords:
         - consho
