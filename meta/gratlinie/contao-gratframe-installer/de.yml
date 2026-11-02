@@ -1,0 +1,13 @@
+de:
+    title: GratFrame-Installer
+    description: >-
+        Installiert das Contao-Theme GratFrame: E-Mail-Adresse und Lizenzschlüssel eingeben,
+        der Installer prüft die Lizenz und richtet das Paket-Repository ein. Zeigt neue
+        Versionen an und spielt auf Wunsch die Demo-Website „Studio Nord“ ein.
+    keywords:
+        - GratFrame
+        - Theme
+        - Installer
+        - Demo
+        - Lizenz
+    homepage: https://www.gratframe.de/dokumentation

@@ -1,0 +1,20 @@
+de:
+    title: GratFrame – Theme-Framework für Contao
+    description: >-
+        Das Contao-Theme, das auf den Core baut: Farben, Schriften und Größen im Theme mit
+        Live-Vorschau, Abstände, Spalten und Ausrichtung per Klick am Element. Erweitert die
+        Core-Elemente statt sie zu ersetzen, dazu Raster, Fläche, Icon-Box, Kennzahl, Team
+        und Preise. Reines CSS und JavaScript ohne zusätzliche Werkzeuge. Installation
+        mit dem GratFrame-Installer, Lizenz auf www.gratframe.de.
+    keywords:
+        - Theme
+        - Framework
+        - Layout
+        - Raster
+        - Grid
+        - Gestaltung
+        - Farben
+        - Schriften
+        - Responsive
+        - Twig
+    homepage: https://www.gratframe.de/

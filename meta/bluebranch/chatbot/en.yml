@@ -1,32 +1,57 @@
 en:
-    title: 'AI Chatbot + Free + DSGVO'
+    title: 'AI Chatbot with Voice – Free & GDPR'
     description: |
-        Answer your visitors' questions directly on your website – with an AI that knows nothing but your own page content and names the pages it used as sources. There is a free tier, all data is processed in Germany only, and an agreement under Art. 28 GDPR is available on request.
+        Your website assistant for Contao: visitors type or speak their question and get an answer right away – drawn only from your own pages, with sources. Fewer questions by mail and phone, your content gets found more easily, service around the clock.
 
-        How it works:
+        What you get:
+
+        - Chat widget, AI answer above the search results and a question module – all with a polished ready-made design in your accent colour
+        - Voice input with a microphone button and live waveform – handy on smartphones and for visitors who prefer speaking over typing
+        - Answers only from your content, with links to the sources
+        - A free tier to try it out, Pro and Expert for more requests and projects
+        - Hosted and processed in Germany, our own AI model without an OpenAI account, no training with your data, agreement under Art. 28 GDPR on request
+        - Thumbs up/down feedback, question analysis in the back end and CSV export
+        - Additional content from texts, PDF and Word files; time-controlled content is taken into account automatically
+        - Download the chat as a text or subtitle file
+
+        Ready in five minutes:
 
         - Install the extension: composer require bluebranch/chatbot or use the Contao Manager
         - Register at https://chatbot.bluebranch.de and create an API key
         - Store the API key on the website root page
         - Rebuild the search index – this trains your content
-        - Add a front end module: chat widget, AI answer above the search results or question module for your home page
+        - Add a front end module and switch on voice input if you like
 
         Good to know:
 
         - The API key stays on the server and is never sent to the browser
+        - Voice recordings are not stored
         - Single pages and entire sections can be excluded from the answers
-        - A back end module shows you what the chatbot has learned and lets you delete entries again
-        - Our own AI model, no training with your content, no sharing with third parties
+        - A back end module shows what the chatbot has learned
     keywords:
         - contao
-        - ai
         - chatbot
+        - ai
+        - ai chatbot
+        - artificial intelligence
         - search
+        - ai search
+        - site search
         - assistant
-        - gdpr
-        - free
-        - support
+        - website assistant
+        - voice assistant
+        - voice input
+        - speech to text
+        - voicebot
         - faq
+        - customer service
+        - support
+        - knowledge base
+        - semantic search
+        - rag
+        - gdpr
+        - privacy
+        - free
     homepage: https://chatbot.bluebranch.de/
     support:
         issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
