@@ -1,0 +1,43 @@
+de:
+    title: 'Consho – Onlineshop für Contao'
+    description: |
+        Consho ist ein Shopsystem für Contao: mehrere Shops in einer Installation, gebaut für das EU-Recht. Der Kern ist kostenlos und Open Source und führt einen vollständigen Shop.
+
+        - Katalog: Produkte mit Varianten, Eigenschaften und eigenen Feldern, Liste, Filter, Detailseite, JSON-LD, Grundpreis und Herstellerangaben
+        - Warenkorb und Kasse: Gastbestellung, Kundengruppen, Nettopreise für Geschäftskunden, Reverse Charge mit Prüfung bei VIES, Button-Lösung und Widerrufsbelehrung
+        - Versand und Zahlung: Versandarten mit Gewichtsstufen und Ländern, Vorkasse, Rechnung, Nachnahme, Schnittstellen für Zahlungsmodule
+        - Nach dem Kauf: Rechnung als PDF mit Nummernkreis, Storno und Korrektur, Lieferschein, E-Rechnung nach ZUGFeRD, Widerrufsfunktion, Kundenkonto
+        - Digitale Produkte und Abos: Dateien und Lizenzschlüssel, Abos mit Folgebestellung, Kündigungsbutton und Pause
+        - Preise: Aktionen mit Streichpreis, Rabattregeln, Rabattcodes, Wertgutscheine
+        - Lager: Bestand, Verfügbarkeit, Benachrichtigung bei Wiederverfügbarkeit
+        - Steuer: Steuersätze je Land, Steuer im Bestimmungsland mit Schwellenzähler und OSS-Export
+        - DSGVO: Auskunft als ZIP, Löschantrag, Anonymisierung nach Ablauf der Aufbewahrungsfrist
+
+        Consho baut auf Contao auf, statt es neu zu bauen: Bilder, Dateien, DCA, Versionen, Mitglieder, Mehrsprachigkeit und Cache kommen von Contao.
+
+        Gut zu wissen:
+
+        - Consho liefert keine Rechtstexte. Der Kern stellt bereit, was technisch nötig ist, für den Inhalt bist du verantwortlich
+        - Version 0.x: Bis zur Version 1.0 können sich Schnittstellen und Datenmodell ändern, lies vor jedem Update den Changelog
+        - Nach der Installation startest du im Backend unter Consho → Dashboard → Einrichtung
+    keywords:
+        - consho
+        - shop
+        - onlineshop
+        - webshop
+        - shopsystem
+        - e-commerce
+        - warenkorb
+        - kasse
+        - rechnung
+        - e-rechnung
+        - mehrere shops
+        - reverse charge
+        - oss
+        - dsgvo
+        - widerruf
+        - abo
+        - gutschein
+        - digitale produkte
+    support:
+        docs: https://consho.eu/de/dokumentation
