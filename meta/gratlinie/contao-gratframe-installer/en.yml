@@ -1,0 +1,13 @@
+en:
+    title: GratFrame Installer
+    description: >-
+        Installs the Contao theme GratFrame: enter your e-mail address and license key, the
+        installer checks the license and sets up the package repository. Shows new versions
+        and optionally imports a complete demo website.
+    keywords:
+        - GratFrame
+        - theme
+        - installer
+        - demo
+        - license
+    homepage: https://www.gratframe.de/dokumentation

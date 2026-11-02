@@ -1,0 +1,22 @@
+en:
+    title: Contao LLMs Bundle
+    description: >
+        Automatically provide your website as llms.txt and llms-full.txt for language models like ChatGPT, Claude or
+        Gemini. The llms.txt contains a structured overview of all public pages, the llms-full.txt their complete content
+        as Markdown. Settings are made per root page and per page in the page tree, sections can be named freely and legal
+        pages can be selected individually. News and events can optionally be included and multilingual websites are
+        supported. The content is cached and updated automatically when changes are made.
+    homepage: https://github.com/pdir/contao-llms-bundle
+    keywords:
+        - llms.txt
+        - llms-full.txt
+        - llm
+        - language models
+        - ai
+        - chatgpt
+        - claude
+        - gemini
+        - markdown
+        - seo
+        - geo
+        - ai crawler

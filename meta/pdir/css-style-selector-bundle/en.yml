@@ -1,0 +1,17 @@
+en:
+    title: CSS Style Selector
+    description: >
+        Define CSS styles once in the back end and let editors select them in articles, content elements, modules,
+        forms, form fields, page layouts, pages, news and events. Styles are organized in groups with single or
+        multiple selection, can show a color or image preview and can be limited to certain element types and back
+        end user groups. The selected styles are shown in the list views.
+    keywords:
+        - css
+        - styles
+        - classes
+        - css class
+        - style selection
+        - editor
+        - back end
+        - content elements
+        - layout

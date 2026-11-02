@@ -1,32 +1,58 @@
 de:
-    title: 'KI Chatbot + Kostenlos + DSGVO'
+    title: 'KI-Chatbot mit Sprache – kostenlos & DSGVO'
     description: |
-        Beantworte die Fragen deiner Besucher direkt auf deiner Website – mit einer KI, die ausschließlich deine eigenen Inhalte kennt und die verwendeten Seiten als Quelle nennt. Es gibt eine kostenlose Stufe, die Verarbeitung findet ausschließlich in Deutschland statt, und ein Vertrag nach Art. 28 DSGVO ist auf Anfrage möglich.
+        Dein Website-Assistent für Contao: Besucher tippen oder sprechen ihre Frage und bekommen sofort eine Antwort – ausschließlich aus deinen eigenen Seiten, mit Quellenangabe. Weniger Rückfragen per Mail und Telefon, bessere Auffindbarkeit deiner Inhalte, mehr Service rund um die Uhr.
 
-        So funktioniert es:
+        Das bekommst du:
+
+        - Chat-Widget, KI-Antwort über der Trefferliste der Suche und Frage-Modul – alle mit fertigem, ansprechendem Design in deiner Farbe
+        - Spracheingabe per Mikrofon-Knopf mit Anzeige der Aufnahme – praktisch am Smartphone und für Besucher, die lieber sprechen als tippen
+        - Antworten nur aus deinen Inhalten, mit Links zu den Quellen
+        - Kostenlose Stufe zum Ausprobieren, größere Pakete für mehr Anfragen und Projekte
+        - Betrieb und Verarbeitung in Deutschland, eigenes KI-Modell ohne OpenAI-Konto, kein Training mit deinen Daten, Vertrag nach Art. 28 DSGVO auf Anfrage
+        - Feedback mit Daumen hoch/runter, Auswertung der Fragen im Backend und CSV-Export
+        - Zusätzliche Inhalte aus Texten, PDF- und Word-Dateien; zeitgesteuerte Inhalte werden automatisch berücksichtigt
+        - Chat als Textdatei oder Untertitel-Datei herunterladen
+
+        In fünf Minuten startklar:
 
         - Erweiterung installieren: composer require bluebranch/chatbot oder über den Contao Manager
         - Auf https://chatbot.bluebranch.de registrieren und einen API-Key erstellen
         - API-Key am Startpunkt der Website hinterlegen
         - Suchindex neu aufbauen – dabei werden die Inhalte trainiert
-        - Frontend-Modul einbinden: Chat-Widget, KI-Antwort über der Trefferliste der Suche oder Frage-Modul für die Startseite
+        - Frontend-Modul einbinden und die Spracheingabe bei Bedarf aktivieren
 
         Gut zu wissen:
 
         - Der API-Key bleibt auf dem Server und wird nie an den Browser übertragen
+        - Die Aufnahme der Spracheingabe wird nicht gespeichert
         - Einzelne Seiten und ganze Bereiche kannst du von den Antworten ausnehmen
-        - Ein Modul im Backend zeigt dir, was der Chatbot gelernt hat, und lässt dich Einträge wieder löschen
-        - Eigenes KI-Modell, kein Training mit deinen Inhalten, keine Weitergabe an Dritte
+        - Ein Backend-Modul zeigt, was der Chatbot gelernt hat
     keywords:
         - contao
-        - ki
         - chatbot
+        - ki
+        - ki-chatbot
+        - künstliche intelligenz
+        - ai
         - suche
+        - ki-suche
+        - website-suche
         - assistent
-        - dsgvo
-        - kostenlos
-        - support
+        - website-assistent
+        - sprachassistent
+        - spracheingabe
+        - sprachsteuerung
+        - voicebot
         - faq
+        - kundenservice
+        - support
+        - besucherfragen
+        - wissensdatenbank
+        - semantische suche
+        - dsgvo
+        - datenschutz
+        - kostenlos
     homepage: https://chatbot.bluebranch.de/
     support:
         issues: https://github.com/BlueBranch-GmbH/chatbot-contao/issues
