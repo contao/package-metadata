@@ -4,7 +4,7 @@ en:
         Write SEO-friendly alt text for the images in your Contao file manager with AI. Generate it for one image, for a selection, for every image that is missing it, or automatically when an image is uploaded. Review the text, change anything you like and save it into the metadata of the file, where Contao uses it as the alt attribute of the image. Works in 131 languages, with a German and an English back end.
 
         How it works:
-          1. Install the extension via `$ composer require balt1794/contao-alt-text-generator-ai` or use the Contao Manager
+          1. Install the extension with the Contao Manager or with Composer
           2. Get a free API key at https://alttextgeneratorai.com/dashboard
           3. Enter the key in the Contao settings under System > Settings > Alt Text Generator AI
     keywords:

@@ -4,7 +4,7 @@ de:
         Erstellen Sie mit KI SEO-freundliche und barrierefreie Alt-Texte für die Bilder in Ihrer Contao-Dateiverwaltung: für ein einzelnes Bild, für eine Auswahl, für alle Bilder ohne Alt-Text oder automatisch direkt beim Hochladen. Prüfen Sie die Texte, ändern Sie sie nach Wunsch und speichern Sie sie in den Metadaten der Datei, wo Contao sie als alt-Attribut des Bildes verwendet. Funktioniert in 131 Sprachen, mit deutscher und englischer Oberfläche.
 
         So funktioniert es:
-          1. Installation der Erweiterung über `$ composer require balt1794/contao-alt-text-generator-ai` oder über den Contao Manager
+          1. Installation der Erweiterung über den Contao Manager oder mit Composer
           2. Einen kostenlosen API-Schlüssel erhalten Sie auf https://alttextgeneratorai.com/dashboard
           3. Den Schlüssel tragen Sie in den Contao-Einstellungen unter System > Einstellungen > Alt Text Generator AI ein
     keywords:
