@@ -1,0 +1,15 @@
+de:
+    title: 'Consho Lizenzprüfung'
+    description: |
+        Prüft die Lizenzen kostenpflichtiger Contao-Erweiterungen in der Installation: einen signierten Lizenzschlüssel, einmal eingetragen, und eine signierte Bestätigung, die einmal am Tag beim verkaufenden Shop abgeholt wird. Mehrere Erweiterungen auf einmal, vom selben oder von verschiedenen Anbietern.
+
+        Du installierst das Paket in der Regel nicht selbst, eine kostenpflichtige Erweiterung bringt es mit. Unter System → Lizenzen trägst du den Schlüssel ein und siehst den Zustand jeder Erweiterung.
+
+        Gut zu wissen:
+
+        - Übertragen werden nur der Schlüssel, eine zufällige Kennung der Installation und die Version der Erweiterung, keine Domain und keine Shopdaten
+        - Ist der Shop nicht erreichbar, gilt die letzte Bestätigung bis zu 14 Tage weiter
+        - Braucht den Consho-Shop selbst nicht
+    dependency: true
+    support:
+        docs: https://consho.eu/de/dokumentation

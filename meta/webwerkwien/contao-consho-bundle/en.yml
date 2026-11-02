@@ -1,0 +1,43 @@
+en:
+    title: 'Consho – Online shop for Contao'
+    description: |
+        Consho is a shop system for Contao: several shops in one installation, built for EU law. The core is free and open source and runs a complete shop.
+
+        - Catalogue: products with variants, properties and custom fields, list, filter, detail page, JSON-LD, unit price and manufacturer details
+        - Basket and checkout: guest orders, customer groups, net prices for business customers, reverse charge with VIES check, order button and withdrawal information
+        - Shipping and payment: shipping methods with weight tiers and countries, prepayment, on account, cash on delivery, extension points for payment modules
+        - After the purchase: invoice as PDF with a number range, cancellation and correction, delivery note, e-invoice under ZUGFeRD, withdrawal function, customer account
+        - Digital goods and subscriptions: files and licence keys, subscriptions with follow-up orders, cancellation button and pauses
+        - Prices: promotions with strike-through price, discount rules, discount codes, gift vouchers
+        - Stock: stock levels, availability, back-in-stock notification
+        - Tax: tax rates per country, tax in the country of destination with threshold counter and OSS export
+        - GDPR: data access request as ZIP, erasure request, anonymisation once the retention period has expired
+
+        Consho builds on Contao instead of rebuilding it: images, files, DCA, versions, members, multilingual content and cache come from Contao.
+
+        Good to know:
+
+        - Consho does not supply legal texts. The core provides what is technically required, you are responsible for the content
+        - Version 0.x: interfaces and the data model may change between minor versions, read the CHANGELOG before every update
+        - After installing, start in the back end under Consho → Dashboard → Setup
+    keywords:
+        - consho
+        - shop
+        - online shop
+        - webshop
+        - shop system
+        - e-commerce
+        - basket
+        - checkout
+        - invoice
+        - e-invoice
+        - multishop
+        - reverse charge
+        - oss
+        - gdpr
+        - withdrawal
+        - subscription
+        - gift voucher
+        - digital goods
+    support:
+        docs: https://consho.eu/en/documentation
