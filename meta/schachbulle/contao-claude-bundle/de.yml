@@ -1,0 +1,16 @@
+de:
+    title: Claude-Anbindung (MCP)
+    description: >
+        Macht eine Contao-Installation für Claude zugänglich: claude.ai, die Programme von Claude und Claude Code lesen und pflegen Seiten, Artikel, Nachrichten und Dateien über eine MCP-Schnittstelle.
+
+        Redakteure melden sich per OAuth mit ihrem eigenen Zugang zum Backend an; Claude arbeitet nur mit deren Rechten. Gespeichert wird wie im Backend, mit Versionen und Protokoll. Neue Inhalte bleiben zunächst verborgen, Veröffentlichen und Löschen lassen sich einzeln erlauben.
+
+        Ein Knopf im Backend übergibt Claude die gerade bearbeitete Seite samt Anfrage.
+    keywords:
+        - Claude
+        - KI
+        - MCP
+        - OAuth
+        - Redaktion
+    support:
+        source: https://github.com/Samson1964/contao-claude-bundle
