@@ -1,0 +1,16 @@
+de:
+    title: All-Inkl
+    description: >
+        Verwaltet das Hosting bei All-Inkl direkt im Backend: Domains, Postfächer, Weiterleitungen, Datenbanken, Cronjobs und mehr. Die Daten kommen über die offizielle Schnittstelle von All-Inkl, Änderungen gehen sofort dorthin.
+
+        Ein Schreibschutz je Zugang erlaubt gefahrloses Ausprobieren.
+    keywords:
+        - All-Inkl
+        - KAS
+        - Webhosting
+        - Domains
+        - DNS
+        - FTP
+        - Postfächer
+    support:
+        source: https://github.com/Samson1964/contao-allinkl-bundle
