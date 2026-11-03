@@ -1,7 +1,7 @@
 en:
     title: Claude connector (MCP)
     description: >
-        Makes a Contao installation accessible to Claude: claude.ai, the Claude desktop and mobile apps and Claude Code read and maintain pages, articles, news and files through an MCP server.
+        Makes a Contao installation accessible to Claude: Claude in the browser, the Claude desktop and mobile apps and Claude Code read and maintain pages, articles, news and files through an MCP server.
 
         Editors sign in via OAuth with their own back end account; Claude only ever works with their permissions. Changes are saved like in the back end, with versions and an audit log. New content stays hidden at first, and publishing and deleting can be allowed separately.
 
