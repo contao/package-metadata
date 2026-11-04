@@ -1,0 +1,14 @@
+de:
+    title: Kürzel für Autoren
+    description: >
+        Ein InsertTag zeigt die Kürzel der Autoren eines Beitrags in Klammern an. Beim Überfahren mit der Maus erscheinen die Namen, ein Klick auf ein einzelnes Kürzel öffnet ein Fenster mit Name, Bild und kurzem Lebenslauf. Die Autoren werden im Backend gepflegt.
+
+        Ein Werkzeug stellt vorhandene Angaben im Text auf den InsertTag um, mit Vorschau und Versionen.
+    keywords:
+        - Inserttag
+        - Autor
+        - Autorenkürzel
+        - Popup
+        - Vita
+    support:
+        source: https://github.com/Samson1964/contao-autor-bundle
