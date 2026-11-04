@@ -1,7 +1,7 @@
 en:
     title: Author initials
     description: >
-        An insert tag shows the initials of the authors of an article, for example (bv/fb/mw). Hovering shows the names, clicking a single initial opens a popup with name, image and a short biography. Authors are managed in the back end.
+        An insert tag shows the initials of the authors of an article in brackets. Hovering shows the names, clicking a single initial opens a popup with name, image and a short biography. Authors are managed in the back end.
 
         A tool converts existing plain notations in the text to the insert tag, with preview and versions.
     keywords:
