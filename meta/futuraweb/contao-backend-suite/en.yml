@@ -1,0 +1,12 @@
+en:
+    title: Backend Suite
+    description: >
+        Practical backend tools for Contao 5: ID and alias search right in the page tree, a style selector for quickly assigning CSS classes, an extensible toolbar and a short-link generator.
+
+        Also included: the Field Builder, which lets editors create custom fields for events, news, FAQ entries or content elements straight from the backend UI - including automatic database columns and delete protection for fields that already hold data.
+    keywords:
+        - id search
+        - style selector
+        - toolbar
+        - short links
+        - field builder
