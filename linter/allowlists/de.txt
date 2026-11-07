@@ -121,6 +121,7 @@ Bilddatenbank
 Bildergalerie
 Bildergalerien
 Bilderslider
+Bildfeld
 Bildformaten
 Bildgröße
 Bildgrößen
@@ -289,6 +290,7 @@ Elementsets
 Elternelement
 Elterntabelle
 Embed
+Embeds
 Empfängerlisten
 Encryption
 Endgeräte
@@ -553,6 +555,7 @@ Kreuztabelle
 Kreuztabellen
 Kundenrezensionen
 Kundenstimmen
+Kurzlink
 Kurzlinks
 Küchenbon
 Landesverband
@@ -601,6 +604,7 @@ login
 Logout
 Logs
 Longitude
+Löschschutz
 Länderauswahl
 Ländercodes
 Ländernamen
@@ -655,7 +659,9 @@ Modal
 Modifier
 Modals
 Model
+Modularis
 Moduleinstellungen
+Modulprogrammierung
 Modules
 Modultyp
 Monitoring
@@ -1045,6 +1051,7 @@ TimeTags
 Titelattribut
 Titelleiste
 tmp
+Toolbar
 Toolbox
 Tooltip
 Tooltips
@@ -1163,6 +1170,7 @@ Zugangspaket
 Zugangstoken
 Zugriffsschutz
 Zugänglichkeitserklärung
+Zusatzfelder
 Zusatzinfos
 überschreibbare
 Übersetzungsfelder
