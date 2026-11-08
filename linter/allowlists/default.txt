@@ -139,6 +139,7 @@ CSP
 CSRF
 CSS
 CSV
+CVE
 Dalley
 Danova
 Database
@@ -371,6 +372,7 @@ maps
 mar-ke
 master
 Matomo
+Mattermost
 MaxMind
 MCP
 MCW
@@ -491,6 +493,7 @@ reset
 REST
 results
 RGAA
+Rocket
 RSCE
 Ritter
 Roboto

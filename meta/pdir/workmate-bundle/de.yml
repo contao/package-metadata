@@ -1,21 +1,28 @@
 de:
-    title: WorkMATE - Agentur Tool für Contao
+    title: WorkMATE - Agentur-Tool für Contao
     description: >
-        Verwalte alle deine Projektinformationen an einem Ort.
+        Verwalte Projekte, Kunden und Organisationen deiner Agentur zentral im Contao-Backend. WorkMATE verbindet sich
+        mit dem Contao Manager deiner Projekte, aktualisiert Manager, Pakete und Contao automatisch inklusive Backup,
+        Git-Commit und Datenbank-Update. Software-Versionen und ihr End of Life werden überwacht, PHP-Versionen auf
+        bekannte Schwachstellen (CVE) geprüft und neue Releases an Chat-Dienste wie Mattermost, Rocket.Chat, Slack
+        oder Microsoft Teams gemeldet. Dazu kommen ein Planer für wiederkehrende Aufgaben wie Website-Prüfungen und
+        Monitoring, Projektberichte und eine API für die Browser-Extension.
     keywords:
-        - Contao
-        - Typo3
-        - WordPress
-        - Magento
-        - Shopify
-        - Craft CMS
-        - Joomla
-        - Drupal
-        - Neos
-        - Tool
-        - Verwaltung
-        - Backend
+        - agentur
+        - projektverwaltung
+        - kundenverwaltung
         - mandantenfähig
+        - wartung
+        - contao manager
+        - update
+        - monitoring
+        - versionen
+        - end of life
+        - cve
+        - sicherheit
+        - mattermost
+        - backup
+        - git
         - pdir+ webtools
     homepage: https://pdir.de/
     support:
