@@ -1,0 +1,21 @@
+en:
+    title: WorkMATE agent for Contao
+    description: >
+        The agent extends WorkMATE in your Contao projects. Before and after a Contao update it creates a database
+        backup, commits it together with the Composer files to the Git repository of the project and
+        pushes the commit. It is installed with one click from WorkMATE via the Contao Manager, access is protected
+        by a token.
+    keywords:
+        - workmate
+        - agent
+        - backup
+        - database
+        - git
+        - commit
+        - update
+        - contao manager
+        - maintenance
+        - pdir+ webtools
+    homepage: https://pdir.de/
+    support:
+        email: support@pdir.de
