@@ -1,0 +1,16 @@
+en:
+    title: All-Inkl
+    description: >
+        Manages hosting at All-Inkl directly in the back end: domains, mailboxes, forwards, databases, cron jobs and more. The data comes from the official All-Inkl interface, and changes are sent there immediately.
+
+        A write protection per account allows safe testing.
+    keywords:
+        - All-Inkl
+        - KAS
+        - web hosting
+        - domains
+        - DNS
+        - FTP
+        - mailboxes
+    support:
+        source: https://github.com/Samson1964/contao-allinkl-bundle

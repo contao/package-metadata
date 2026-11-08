@@ -125,6 +125,7 @@ Mega
 Megamenu
 Merger
 Meta
+Modularis
 MonitoringClientSensorGoogleMaps
 MonitoringScanClientWorkerUpdateGooglemapsInstalles
 mouseover

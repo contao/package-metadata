@@ -1,0 +1,15 @@
+en:
+    title: 'Consho Licence Check'
+    description: |
+        Checks the licences of paid Contao extensions in the installation: a signed licence key, entered once, and a signed confirmation fetched once a day from the shop that sold it. Several extensions at once, from the same or from different sellers.
+
+        You usually do not install this package yourself, a paid extension brings it along. Under System → Licences you enter the key and see the state of every extension.
+
+        Good to know:
+
+        - Only the key, a random installation id and the extension's version are transmitted, no domain and no shop data
+        - If the shop cannot be reached, the last confirmation stays valid for up to 14 days
+        - Does not need the Consho shop itself
+    dependency: true
+    support:
+        docs: https://consho.eu/en/documentation

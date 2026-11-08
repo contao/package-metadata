@@ -1,0 +1,20 @@
+en:
+    title: Contao Block Editor
+    description: >
+        Edit your Contao content directly on the page instead of in the back end form. Click an element in the live preview
+        and change texts and headlines instantly, without loading times or switching pages. All other fields are available
+        in a sidebar that is generated automatically from the DCA, even for elements of other extensions. Move elements
+        using a handle or the keyboard, even between articles and columns. Changes are saved and versioned automatically.
+        All content remains regular Contao content elements, templates, insert tags and user permissions work as usual
+        and the classic back end stays available at any time.
+    homepage: https://github.com/pdir/contao-block-editor-bundle
+    keywords:
+        - block editor
+        - visual editor
+        - inline editing
+        - front end editing
+        - live preview
+        - page builder
+        - content elements
+        - editors
+        - autosave
