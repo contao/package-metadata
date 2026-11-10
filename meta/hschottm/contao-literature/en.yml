@@ -1,0 +1,9 @@
+en:
+    title: Contao Literature
+    description: >
+        Manages literature references in Contao. Records and groups publications
+        and displays them as bibliographies or individual references on the website.
+    keywords:
+        - literature
+        - references
+        - bibliography
