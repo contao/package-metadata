@@ -1,0 +1,11 @@
+de:
+    title: Contao Events Plus
+    description: >
+        Ergänzt Veranstaltungen im Kalender um zusätzliche Felder für Untertitel,
+        kurze Titel, Adresse, Koordinaten und weitere Angaben zum Ort.
+        Optional können Koordinaten automatisch über Google Maps ermittelt werden.
+    keywords:
+        - Kalender
+        - Veranstaltungen
+        - Koordinaten
+        - Google Maps
