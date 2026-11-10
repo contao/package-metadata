@@ -1,0 +1,9 @@
+de:
+    title: Newsletter BCC-Export
+    description: >
+        Exportiert aktive Newsletter-Abonnenten als Textdatei mit einer
+        E-Mail-Adresse pro Zeile zur Verwendung im BCC-Feld.
+    keywords:
+        - Newsletter
+        - Export
+        - BCC

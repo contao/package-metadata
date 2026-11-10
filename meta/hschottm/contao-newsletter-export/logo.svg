@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Contao Newsletter Export</title>
+  <rect width="512" height="512" rx="76" fill="#282c32"/>
+  <path d="M76 0h76L0 152V76A76 76 0 0 1 76 0Z" fill="#f47c00"/>
+  <g fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M264 198H90a24 24 0 0 0-24 24v174a24 24 0 0 0 24 24h292a24 24 0 0 0 24-24V252"/>
+    <path d="m72 222 164 126 129-99"/>
+    <path d="M282 246c4-78 65-126 162-126m-76-2h76v76"/>
+  </g>
+</svg>
