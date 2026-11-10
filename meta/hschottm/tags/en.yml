@@ -1,0 +1,9 @@
+en:
+    title: Contao Tags
+    description: >
+        Adds tags to elements in Contao, including articles, news and calendar
+        events. Provides modules to display tags and filter content by tags.
+    keywords:
+        - tags
+        - keywords
+        - filter
