@@ -1,0 +1,11 @@
+en:
+    title: Contao Survey
+    description: >
+        Creates questionnaires and runs online surveys in Contao.
+        Supports different question types as well as analysis and
+        export of responses.
+    keywords:
+        - survey
+        - questionnaire
+        - analysis
+        - export

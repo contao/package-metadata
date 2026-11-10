@@ -1,0 +1,11 @@
+de:
+    title: Contao Survey
+    description: >
+        Erstellt Fragebögen und führt Umfragen in Contao durch.
+        Unterstützt verschiedene Arten von Fragen sowie die Auswertung und
+        den Export der Antworten.
+    keywords:
+        - umfrage
+        - fragebogen
+        - auswertung
+        - export
