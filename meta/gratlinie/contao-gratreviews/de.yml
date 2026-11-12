@@ -1,0 +1,20 @@
+de:
+    title: GratReviews – Google-Bewertungen
+    description: >-
+        Holt die Bewertungen deines Google-Unternehmensprofils automatisch auf deine Website. Du trägst
+        den API-Schlüssel aus deinem Google-Cloud-Projekt ein, suchst dein Profil per Firmenname und Ort
+        und wählst es aus – danach ruft ein Cronjob die Bewertungen im gewählten Intervall ab und sammelt
+        sie. Im Backend blendest du einzelne Bewertungen aus, hebst sie hervor oder ergänzt eigene. Zwei
+        Inhaltselemente zeigen die Gesamtnote mit Sternen und Anzahl sowie die Bewertungen als Raster
+        oder Slider, jeweils mit Hinweis zur Echtheit der Bewertungen. Profilbilder werden lokal
+        gespeichert, deine Besucher laden nichts von Google. Passt zum Theme-Framework GratFrame, läuft
+        aber auch ohne.
+    keywords:
+        - Bewertungen
+        - Google
+        - Rezensionen
+        - Kundenbewertungen
+        - Sterne
+        - Unternehmensprofil
+        - Slider
+    homepage: https://github.com/gratlinie/contao-gratreviews

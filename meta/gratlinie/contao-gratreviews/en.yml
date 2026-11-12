@@ -1,0 +1,19 @@
+en:
+    title: GratReviews – Google reviews
+    description: >-
+        Brings the reviews of your Google Business Profile to your website automatically. Enter the API
+        key from your Google Cloud project, search your profile by business name and city and select it –
+        a cron job then fetches the reviews at the chosen interval and collects them. In the back end you
+        hide or feature single reviews or add your own. Two content elements show the overall rating with
+        stars and count as well as the reviews as a grid or slider, each with a notice on the authenticity
+        of the reviews. Profile pictures are stored locally, so your visitors load nothing from Google.
+        Fits the theme framework GratFrame but works without it as well.
+    keywords:
+        - reviews
+        - Google
+        - ratings
+        - customer reviews
+        - stars
+        - business profile
+        - slider
+    homepage: https://github.com/gratlinie/contao-gratreviews
