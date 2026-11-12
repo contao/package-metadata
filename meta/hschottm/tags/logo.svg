@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Contao Tags</title>
+  <rect width="512" height="512" rx="76" fill="#282c32"/>
+  <path d="M76 0h76L0 152V76A76 76 0 0 1 76 0Z" fill="#f47c00"/>
+  <g stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M294 106h112v112L238 386a20 20 0 0 1-28 0L126 302a20 20 0 0 1 0-28Z" fill="none"/>
+    <path d="M244 156h112v112L188 436a20 20 0 0 1-28 0L76 352a20 20 0 0 1 0-28Z" fill="#282c32"/>
+  </g>
+  <circle cx="302" cy="210" r="16" fill="#fff"/>
+</svg>

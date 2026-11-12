@@ -1,0 +1,10 @@
+de:
+    title: Contao Tags
+    description: >
+        Ermöglicht die Vergabe von Schlagwörtern für Elemente in Contao.
+        Unterstützt Artikel, Nachrichten und Veranstaltungen und bietet
+        Module zur Anzeige und Filterung nach Schlagwörtern.
+    keywords:
+        - tags
+        - schlagwörter
+        - filter
