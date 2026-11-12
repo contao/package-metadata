@@ -352,6 +352,7 @@ Fine
 Firefighter
 Firmendaten
 Firmendetailseiten
+Firmenname
 Fitnessbereich
 Flipbert
 Flipbook
@@ -407,6 +408,7 @@ Geokodierungsdienste
 Geokoordinaten
 georeferenzierte
 gerendert
+Gesamtnote
 Gesamtstand
 gescannten
 Geschäftsabläufe
@@ -563,6 +565,7 @@ Kontrollkästchen
 Kopfbereich
 Kreuztabelle
 Kreuztabellen
+Kundenbewertungen
 Kundenrezensionen
 Kundenstimmen
 Kurzlink
@@ -795,6 +798,7 @@ Produkttypen
 Produktvarianten
 Produktverwaltung
 Professional
+Profilbilder
 Profilbildes
 Programmierkenntnisse
 Projects
@@ -1096,6 +1100,8 @@ Unterformularen
 Unterkategorien
 Untermenüs
 Unternehmensdaten
+Unternehmensprofil
+Unternehmensprofils
 Unterpaletten
 updatefreundlich
 updatesicher
