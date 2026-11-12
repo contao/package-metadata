@@ -1,0 +1,11 @@
+de:
+    title: Contao MultiTextWizard
+    description: >
+        Erweitert Formulare im Backend um ein Widget für mehrere Textfelder
+        in Zeilen und Spalten. Die Einträge lassen sich hinzufügen, bearbeiten,
+        kopieren, verschieben und löschen.
+    keywords:
+        - text
+        - widget
+        - formular
+        - eingabe

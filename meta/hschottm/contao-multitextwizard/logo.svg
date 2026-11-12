@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Contao MultiTextWizard</title>
+  <rect width="512" height="512" rx="76" fill="#282c32"/>
+  <path d="M76 0h76L0 152V76A76 76 0 0 1 76 0Z" fill="#f47c00"/>
+  <g fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m300 216 66-66"/>
+    <rect x="96" y="250" width="124" height="40" rx="8" stroke-width="16"/>
+    <rect x="276" y="250" width="124" height="40" rx="8" stroke-width="16"/>
+    <rect x="96" y="324" width="124" height="40" rx="8" stroke-width="16"/>
+    <rect x="276" y="324" width="124" height="40" rx="8" stroke-width="16"/>
+    <rect x="96" y="398" width="124" height="40" rx="8" stroke-width="16"/>
+    <rect x="276" y="398" width="124" height="40" rx="8" stroke-width="16"/>
+  </g>
+  <path d="m402 64 13 35 35 13-35 13-13 35-13-35-35-13 35-13Z" fill="#fff"/>
+</svg>

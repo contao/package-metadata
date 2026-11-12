@@ -1,0 +1,10 @@
+en:
+    title: Contao MultiTextWizard
+    description: >
+        Adds a back end widget for multiple text input fields arranged in rows
+        and columns. Entries can be added, edited, copied, moved and deleted.
+    keywords:
+        - text
+        - widget
+        - form
+        - input
