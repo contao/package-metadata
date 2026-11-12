@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Contao Survey CE</title>
+  <rect width="512" height="512" rx="76" fill="#282c32"/>
+  <path d="M76 0h76L0 152V76A76 76 0 0 1 76 0Z" fill="#f47c00"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="112" y="106" width="288" height="320" rx="24" stroke-width="24"/>
+    <g stroke-width="16">
+      <path d="M202 188v22h-44v-44h22"/>
+      <path d="m170 178 14 14 28-34"/>
+      <rect x="158" y="246" width="44" height="44" rx="6"/>
+      <rect x="158" y="326" width="44" height="44" rx="6"/>
+    </g>
+    <path d="M246 188h102M246 268h82M246 348h102" stroke-width="24"/>
+  </g>
+</svg>

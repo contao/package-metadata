@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Contao Events Plus</title>
+  <rect width="512" height="512" rx="76" fill="#282c32"/>
+  <path d="M76 0h76L0 152V76A76 76 0 0 1 76 0Z" fill="#f47c00"/>
+  <g fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 162H120a24 24 0 0 0-24 24v210a24 24 0 0 0 24 24h264a24 24 0 0 0 24-24V246"/>
+    <path d="M156 132v54m108-54v54M96 234h230"/>
+    <path d="M358 150h80m-40-40v80"/>
+  </g>
+  <g fill="#fff">
+    <rect x="144" y="276" width="32" height="32" rx="6"/>
+    <rect x="236" y="276" width="32" height="32" rx="6"/>
+    <rect x="328" y="276" width="32" height="32" rx="6"/>
+    <rect x="144" y="348" width="32" height="32" rx="6"/>
+    <rect x="236" y="348" width="32" height="32" rx="6"/>
+    <rect x="328" y="348" width="32" height="32" rx="6"/>
+  </g>
+</svg>

@@ -180,6 +180,8 @@ class
 Classes
 Click
 Coaches
+Coaching
+Coachings
 Codebasis
 coded
 Collapse
@@ -309,6 +311,8 @@ Erscheinungsbild
 Erstberatungsgespräch
 Ersteinrichtung
 Erstellungswerkzeuge
+Erstgespräch
+Erstgespräche
 etc
 Event
 Eventleser
@@ -348,6 +352,7 @@ Fine
 Firefighter
 Firmendaten
 Firmendetailseiten
+Firmenname
 Fitnessbereich
 Flipbert
 Flipbook
@@ -403,6 +408,7 @@ Geokodierungsdienste
 Geokoordinaten
 georeferenzierte
 gerendert
+Gesamtnote
 Gesamtstand
 gescannten
 Geschäftsabläufe
@@ -501,6 +507,8 @@ Jobposting
 Kaderlisten
 Kaderstufe
 Kalenderbild
+Kalenderdatei
+Kalendereintrag
 Kalenderformate
 Kalendermodul
 Kalenderraster
@@ -557,6 +565,7 @@ Kontrollkästchen
 Kopfbereich
 Kreuztabelle
 Kreuztabellen
+Kundenbewertungen
 Kundenrezensionen
 Kundenstimmen
 Kurzlink
@@ -789,6 +798,7 @@ Produkttypen
 Produktvarianten
 Produktverwaltung
 Professional
+Profilbilder
 Profilbildes
 Programmierkenntnisse
 Projects
@@ -1037,6 +1047,8 @@ Telematik
 template
 Templatehint
 terminal
+Terminart
+Terminbuchung
 Testimonial
 Testimonials
 Textarea
@@ -1088,6 +1100,8 @@ Unterformularen
 Unterkategorien
 Untermenüs
 Unternehmensdaten
+Unternehmensprofil
+Unternehmensprofils
 Unterpaletten
 updatefreundlich
 updatesicher
@@ -1116,6 +1130,7 @@ versioniert
 Versionierte
 Versionierung
 Videohandbuch
+Videotermin
 Viewer
 Visibility
 visibility
@@ -1156,6 +1171,7 @@ Widerrufsbelehrung
 Wiederherstellungsfunktion
 with
 Wochenrhythmus
+Wochenzeiten
 Wohnparks
 Wohnungsunternehmen
 Wortfilter
