@@ -180,6 +180,8 @@ class
 Classes
 Click
 Coaches
+Coaching
+Coachings
 Codebasis
 coded
 Collapse
@@ -309,6 +311,8 @@ Erscheinungsbild
 Erstberatungsgespräch
 Ersteinrichtung
 Erstellungswerkzeuge
+Erstgespräch
+Erstgespräche
 etc
 Event
 Eventleser
@@ -501,6 +505,8 @@ Jobposting
 Kaderlisten
 Kaderstufe
 Kalenderbild
+Kalenderdatei
+Kalendereintrag
 Kalenderformate
 Kalendermodul
 Kalenderraster
@@ -1037,6 +1043,8 @@ Telematik
 template
 Templatehint
 terminal
+Terminart
+Terminbuchung
 Testimonial
 Testimonials
 Textarea
@@ -1116,6 +1124,7 @@ versioniert
 Versionierte
 Versionierung
 Videohandbuch
+Videotermin
 Viewer
 Visibility
 visibility
@@ -1156,6 +1165,7 @@ Widerrufsbelehrung
 Wiederherstellungsfunktion
 with
 Wochenrhythmus
+Wochenzeiten
 Wohnparks
 Wohnungsunternehmen
 Wortfilter

@@ -1,0 +1,25 @@
+en:
+    title: GratBooking – appointment booking with Google Calendar and Zoom
+    description: >-
+        Your customers book appointments straight from your Google Calendar – and automatically get a Zoom
+        meeting with it. GratBooking shows only the times that are free in your Google Calendar, creates a
+        Zoom meeting for every booking and adds the appointment with the Zoom link to your Google Calendar.
+        The confirmation with Zoom link and calendar file and later a reminder are sent via the Notification
+        Center. Using the link in the email, your customers can move or cancel until a deadline – the Zoom
+        meeting and the calendar entry follow automatically. Bookable weekly hours, duration, interval, buffer,
+        lead time and horizon are set per appointment type, vacations as absences. Ideal for coaching,
+        consulting and first consultations via video. Fits the theme framework GratFrame but works without it
+        as well.
+    keywords:
+        - Google Calendar
+        - Zoom
+        - Zoom meeting
+        - appointment booking
+        - online booking
+        - video call
+        - scheduling
+        - appointment
+        - coaching
+        - consulting
+        - consultation
+    homepage: https://github.com/gratlinie/contao-gratbooking
