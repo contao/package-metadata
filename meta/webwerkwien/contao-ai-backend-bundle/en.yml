@@ -10,7 +10,7 @@ en:
         - You choose the AI provider, a self-hosted model works too
         - Each user stores their own access in their profile, the bundle ships none
         - Requires ConpAI Core, which is installed along with it
-        - Runs on Contao 5.3 to 6.0
+        - Runs on Contao 5.7 to 6.0
     keywords:
         - conpai
         - contao-ai

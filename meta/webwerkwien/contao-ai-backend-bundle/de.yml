@@ -10,7 +10,7 @@ de:
         - Du wählst den KI-Anbieter selbst, auch ein selbst betriebenes Modell ist möglich
         - Jeder Benutzer hinterlegt seinen eigenen Zugang im Profil, das Bundle bringt keinen mit
         - Braucht ConpAI Core, das automatisch mitinstalliert wird
-        - Läuft auf Contao 5.3 bis 6.0
+        - Läuft auf Contao 5.7 bis 6.0
     keywords:
         - conpai
         - contao-ai
