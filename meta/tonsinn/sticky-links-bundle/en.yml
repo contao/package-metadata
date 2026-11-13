@@ -1,0 +1,20 @@
+en:
+    title: Sticky Links
+    description: >
+        A bar of icons for Contao 5 and 6 that stays fixed to the left or right
+        edge of the browser window. Each icon is either a link whose text slides
+        out on hover, or opens a panel showing an article - for a phone number,
+        a contact form or opening hours, for example. Position, size and colours
+        are configurable, and there are three variants for small screens. A
+        module shows the bar on every page. Icons come from Font Awesome or
+        from the icon font of the Tao and Oneo themes. Works with mouse,
+        keyboard and touch.
+    keywords:
+        - sticky
+        - icons
+        - links
+        - sidebar
+        - contact
+        - floating
+        - fontawesome
+        - schnellzugriff

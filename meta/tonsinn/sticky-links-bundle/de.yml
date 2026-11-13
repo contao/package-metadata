@@ -1,0 +1,20 @@
+de:
+    title: Sticky-Links
+    description: >
+        Eine Leiste mit Symbolen für Contao 5 und 6, die fest am linken oder
+        rechten Rand des Browsers steht. Jedes Symbol ist entweder ein Link,
+        dessen Text beim Überfahren erscheint, oder öffnet ein Panel mit einem
+        Artikel - etwa für Telefonnummer, Kontakt oder Öffnungszeiten. Position,
+        Größe und Farben lassen sich einstellen, für kleine Bildschirme gibt es
+        drei Varianten. Ein Modul zeigt die Leiste auf allen Seiten. Die Symbole
+        stammen aus Font Awesome oder aus der Schrift der Themes Tao und Oneo.
+        Bedienbar mit Maus, Tastatur und Touch.
+    keywords:
+        - sticky
+        - symbolleiste
+        - icons
+        - links
+        - schnellzugriff
+        - kontakt
+        - seitenrand
+        - fontawesome
