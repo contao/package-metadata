@@ -1,0 +1,13 @@
+en:
+    title: NEO SuperAgent
+    description: >
+        AI chat assistant for Contao: answers visitors from the knowledge of the website and your own
+        questions and answers. Waits for consent, one assistant per language; with a licence also tools of
+        MCP servers and skills, e.g. booking with apaleo.
+    keywords:
+        - ai
+        - chatbot
+        - chat assistant
+        - mcp
+        - apaleo
+    homepage: https://store.neo-digital.at/en/extensions/superagent

@@ -1,0 +1,13 @@
+en:
+    title: NEO Frontend Editor
+    description: >
+        Edit content directly on the page in Contao's own preview: headlines, texts and images inline, every
+        other field in Contao's form in a sidebar. Contao's permissions and versions apply. With a licence:
+        language versions, translation, AI writing aid and checks.
+    keywords:
+        - frontend editor
+        - inline editing
+        - wysiwyg
+        - preview
+        - translation
+    homepage: https://store.neo-digital.at/en/extensions/frontend-editor

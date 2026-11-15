@@ -1,0 +1,12 @@
+en:
+    title: NEO Cookie Consent
+    description: >
+        Cookie banner that holds back services of other providers until visitors consent. Templates for 47
+        common services, Google Consent Mode v2, proof of consent and a daily scan for new services.
+    keywords:
+        - cookie
+        - consent
+        - gdpr
+        - google consent mode
+        - privacy
+    homepage: https://store.neo-digital.at/en/extensions/cookie-consent

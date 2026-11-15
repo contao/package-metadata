@@ -1,0 +1,12 @@
+de:
+    title: NEO LLMS
+    description: >
+        Erzeugt llms.txt und llms-full.txt für KI-Assistenten und KI-Suchen aus Seitenbaum, FAQ und weiteren
+        Inhalten. Die Dateien aktualisieren sich beim Speichern und täglich über den Contao-Cron selbst.
+    keywords:
+        - llms.txt
+        - KI
+        - KI-Suche
+        - SEO
+        - FAQ
+    homepage: https://store.neo-digital.at/de/erweiterungen/llms
