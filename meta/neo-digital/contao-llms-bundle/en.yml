@@ -1,0 +1,12 @@
+en:
+    title: NEO LLMS
+    description: >
+        Generates llms.txt and llms-full.txt for AI assistants and AI search from the page tree, the FAQ and
+        further content. The files update themselves on saving and daily by the Contao cron.
+    keywords:
+        - llms.txt
+        - ai
+        - ai search
+        - seo
+        - faq
+    homepage: https://store.neo-digital.at/en/extensions/llms

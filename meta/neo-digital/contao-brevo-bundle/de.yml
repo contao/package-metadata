@@ -1,0 +1,11 @@
+de:
+    title: NEO Brevo Newsletter
+    description: >
+        Newsletter-Anmeldung über Brevo mit Double-Opt-in: ein Frontend-Modul und ein Anmelde-Feld für den
+        Formulargenerator. Listen und Vorlagen werden live aus dem Brevo-Konto gewählt; neutrales Design.
+    keywords:
+        - Newsletter
+        - Brevo
+        - Double-Opt-in
+        - Anmeldung
+    homepage: https://store.neo-digital.at/de/erweiterungen/brevo-newsletter

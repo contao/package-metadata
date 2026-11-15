@@ -1,0 +1,12 @@
+en:
+    title: NEO Accessibility
+    description: >
+        Accessibility panel for visitors: quick options and settings for text size, contrast, readable font,
+        reading mask, stopping animations and read aloud. The choices stay in the visitor's browser.
+    keywords:
+        - accessibility
+        - wcag
+        - contrast
+        - read aloud
+        - dyslexia
+    homepage: https://store.neo-digital.at/en/extensions/accessibility
