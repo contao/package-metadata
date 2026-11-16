@@ -118,6 +118,7 @@ Bewertungssystem
 Bezahlungsmethode
 Beziehungskarte
 Bienenschwarmfänger
+Bildauswahl
 Bildbeschreibung
 Bilddatenbank
 Bildergalerie
@@ -463,6 +464,7 @@ History
 Honeypot
 Hook
 Hooks
+Hostings
 Hover
 Hovercard
 hovern
@@ -819,6 +821,7 @@ Punktgleichheit
 Push
 PWA
 Pwned
+quelloffen
 quelloffene
 quelloffenes
 Queries
@@ -851,6 +854,7 @@ Relegationsplätze
 Remember
 Rendereinstellungen
 Rendering
+Rendern
 Rendert
 Replace
 Repository
@@ -901,6 +905,7 @@ Sec
 Secret
 Seitenaufruf
 Seitenaufrufe
+Seitenauswahl
 Seitenbaum
 Seitenbeschreibung
 Seitenbild
@@ -971,6 +976,7 @@ Spielerregister
 Spielersuche
 splitter
 Spoiler
+Sponsors
 Sportler
 Sprachcode
 Sprachdateien
@@ -1142,6 +1148,7 @@ Versionierung
 Videohandbuch
 Videotermin
 Viewer
+Virenscan
 Visibility
 visibility
 Visitor

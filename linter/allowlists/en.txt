@@ -90,6 +90,7 @@ Github
 Groups
 HeaderFooterCode
 helpdesk
+hostings
 hotspot
 hotspots
 hovercard
