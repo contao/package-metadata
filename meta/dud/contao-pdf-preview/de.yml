@@ -1,0 +1,24 @@
+de:
+    title: PDF-Vorschau
+    description: >
+        Zeigt PDF-Dateien als responsive Bilder – in News, Events und überall, wo Contao eine Bildauswahl bietet.
+        Die gewünschte Seite wird automatisch gerendert und durchläuft die normale Bildverarbeitung von Contao
+        mit Bildgrößen, WebP/AVIF und Lightbox. Seitenauswahl und wichtiger Bereich werden wie bei Bildern
+        in der Dateiverwaltung festgelegt, das Inhaltselement „PDF-Seiten“ zeigt mehrere Seiten.
+        Jede PDF wird vor der Verarbeitung auf aktive Inhalte geprüft, optional mit Virenscan über ClamAV.
+        Funktioniert auch auf Hostings ohne Imagick oder Ghostscript (Rendern im Browser).
+        Kostenlos und quelloffen – Unterstützung über GitHub Sponsors ist willkommen.
+    keywords:
+        - pdf
+        - vorschau
+        - bild
+        - responsive
+        - news
+        - events
+        - galerie
+        - sicherheit
+        - clamav
+    support:
+        issues: https://github.com/drum-und-dran/contao-pdf-preview/issues
+        source: https://github.com/drum-und-dran/contao-pdf-preview
+        docs: https://github.com/drum-und-dran/contao-pdf-preview#readme
