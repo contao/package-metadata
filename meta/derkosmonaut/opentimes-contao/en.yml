@@ -1,4 +1,12 @@
-title: "Opening hours"
-description: "Opening hours for several locations: regular and seasonal hours, exceptions, public holidays and spontaneous closures, with schema.org data."
-homepage: "https://github.com/derkosmonaut/opentimes_contao"
-logo: "logo.svg"
+en:
+    title: Opening hours for multiple locations
+    description: >
+        Opening hours for several locations with regular and seasonal hours,
+        exceptions, public holidays and spontaneous closures. Content element and
+        front end modules for status, weekly overview and a closure notice,
+        plus structured data (schema.org).
+    keywords:
+        - contao
+        - opening hours
+        - public holidays
+        - schema.org
