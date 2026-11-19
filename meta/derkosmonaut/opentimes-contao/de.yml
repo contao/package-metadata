@@ -1,4 +1,12 @@
-title: "Öffnungszeiten"
-description: "Öffnungszeiten für mehrere Orte: Standard- und Saisonzeiten, Ausnahmen, Feiertage und spontane Schließungen, mit schema.org-Daten."
-homepage: "https://github.com/derkosmonaut/opentimes_contao"
-logo: "logo.svg"
+de:
+    title: Öffnungszeiten für mehrere Orte
+    description: >
+        Öffnungszeiten für mehrere Orte mit Standard- und Saisonzeiten, Ausnahmen,
+        gesetzlichen Feiertagen und spontanen Schließungen. Inhaltselement und
+        Frontend-Module für Status, Wochenübersicht und einen Schließungs-Hinweis,
+        dazu strukturierte Daten nach schema.org.
+    keywords:
+        - contao
+        - öffnungszeiten
+        - feiertage
+        - schema.org
