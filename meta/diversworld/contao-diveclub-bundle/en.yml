@@ -1,0 +1,13 @@
+en:
+    title: Diveclub Manager
+    description: >
+        With the Diveclub Manager a dive club can manage the owned eqipment of the club.
+        Possibility for club members to rent equipment. Managing of the annual check of the tanks.
+
+        A functionality to plan and manage the offered courses is in the planning.
+    keywords:
+        - contao
+        - back end
+        - frontend
+        - diveclub
+        - environment
