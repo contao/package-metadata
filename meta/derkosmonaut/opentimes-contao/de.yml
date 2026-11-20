@@ -1,10 +1,10 @@
 de:
     title: Öffnungszeiten für mehrere Orte
     description: >
-        Öffnungszeiten für mehrere Orte mit Standard- und Saisonzeiten, Ausnahmen,
-        gesetzlichen Feiertagen und spontanen Schließungen. Inhaltselement und
-        Frontend-Module für Status, Wochenübersicht und einen Schließungs-Hinweis,
-        dazu strukturierte Daten nach schema.org.
+      Verwaltet die Öffnungszeiten mehrerer Orte: regelmäßige Zeiten, Zeiten für
+      einzelne Jahreszeiten, Ausnahmen, Feiertage und spontane Schließungen. Zeigt
+      auf der Webseite an, ob gerade geöffnet ist, und gibt strukturierte Daten
+      für Suchmaschinen aus.
     keywords:
         - contao
         - öffnungszeiten
