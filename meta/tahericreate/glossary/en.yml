@@ -1,0 +1,26 @@
+en:
+    title: Glossary
+
+    description: >
+        Glossary is a powerful glossary extension for Contao.
+
+        Manage glossary terms centrally in the backend and publish them
+        automatically on your website. The bundle provides glossary lists,
+        detail pages, SEO-friendly URLs, alphabetical navigation, search
+        functionality and automatic linking of glossary terms within content.
+
+        Ideal for knowledge bases, dictionaries, product directories,
+        technical terms and SEO optimization.
+
+    keywords:
+        - glossary
+        - dictionary
+        - knowledge-base
+        - seo
+        - terms
+        - lexicon
+        - contao
+
+    support:
+        issues: https://github.com/Tahericreate/contao-glossary/issues
+        docs: https://github.com/Tahericreate/contao-glossary

@@ -1,0 +1,28 @@
+de:
+    title: Glossary
+
+    description: >
+        Glossary ist eine leistungsstarke Glossar-Erweiterung für Contao.
+
+        Verwalte Glossarbegriffe zentral im Backend und stelle diese
+        automatisch auf deiner Website bereit. Das Bundle unterstützt
+        Glossarlisten, Detailseiten, SEO-freundliche URLs, alphabetische
+        Navigation, Suchfunktionen sowie die automatische Verlinkung von
+        Begriffen innerhalb von Inhalten.
+
+        Ideal für Wissensdatenbanken, Lexika, Produktverzeichnisse,
+        Fachbegriffe und SEO-Optimierung.
+
+    keywords:
+        - glossary
+        - glossar
+        - lexikon
+        - begriffe
+        - seo
+        - suchmaschinenoptimierung
+        - wissensdatenbank
+        - contao
+
+    support:
+        issues: https://github.com/Tahericreate/contao-glossary/issues
+        docs: https://github.com/Tahericreate/contao-glossary
