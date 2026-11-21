@@ -1,0 +1,15 @@
+en:
+    title: Gallery metadata
+    description: >
+        Change title, alternative text, link and caption of single images in the "Gallery" content element – for this one gallery only. The metadata in the file manager stays untouched and still applies everywhere else. The same image can therefore carry different texts in several galleries.
+
+        Each selected image is shown in the element with a small preview; the current values appear as placeholders. Changes are bound to the file, not to its position, so reordering or moving the images does no harm.
+    keywords:
+        - gallery
+        - metadata
+        - caption
+        - alt text
+        - image title
+    support:
+        issues: https://github.com/Samson1964/contao-galeriemetadaten-bundle/issues
+        source: https://github.com/Samson1964/contao-galeriemetadaten-bundle
