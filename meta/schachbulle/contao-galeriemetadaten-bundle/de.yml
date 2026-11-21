@@ -1,0 +1,15 @@
+de:
+    title: Galerie-Metadaten
+    description: >
+        Im Inhaltselement „Galerie“ lassen sich Titel, alternativer Text, Link und Beschriftung einzelner Bilder ändern – nur für diese eine Galerie. Die Angaben in der Dateiverwaltung bleiben unverändert und gelten überall sonst weiter. Dasselbe Bild kann so in mehreren Galerien jeweils andere Texte tragen.
+
+        Jedes ausgewählte Bild erscheint im Element mit einer kleinen Vorschau; die bisherigen Werte stehen als Platzhalter im Feld. Die Angaben hängen an der Datei, nicht an ihrer Position: Eine neue Reihenfolge oder ein Verschieben der Bilder schadet nicht.
+    keywords:
+        - Galerie
+        - Metadaten
+        - Bildunterschrift
+        - Alternativtext
+        - Bildtitel
+    support:
+        issues: https://github.com/Samson1964/contao-galeriemetadaten-bundle/issues
+        source: https://github.com/Samson1964/contao-galeriemetadaten-bundle
