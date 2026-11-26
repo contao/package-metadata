@@ -235,6 +235,7 @@ Datenbehälter
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+datenschutzfreundlich
 Datenschutzhinweis
 Datenschutzhinweise
 Datenschutzrichtlinien
@@ -468,6 +469,7 @@ Hostings
 Hover
 Hovercard
 hovern
+Händlersuche
 Höchstbestellmenge
 Iconfont
 IconInsertTags
@@ -994,6 +996,7 @@ Standardauswahlen
 standardmässig
 Standardrechte
 Standortermittlung
+Standortkarte
 Startbildschirm
 Startups
 Startzeit
