@@ -404,6 +404,7 @@ general
 Geo
 geo
 Geocode
+Geocoding
 Geodata
 Geodaten
 Geodatenbank
