@@ -1,0 +1,23 @@
+de:
+    title: GratMap – Standortkarte mit Umkreissuche
+    description: >-
+        Zeig deine Händler, Niederlassungen und Ansprechpartner auf einer Karte und in einer Liste. Im
+        Backend legst du Sammlungen, Kategorien und Standorte an; die Koordinaten ermittelt GratMap beim
+        Speichern aus der Adresse, auf einer Karte im Backend korrigierst du den Punkt bei Bedarf. Das
+        Inhaltselement zeigt Karte und/oder Liste mit Clustern, Umkreissuche nach PLZ oder Ort, „Mein
+        Standort“, Filtern nach Land und Kategorie sowie Routenplanung. Ein Standort kann für beliebig viele
+        Länder zuständig sein: Besucher wählen ihr Land oder klicken es in der Karte an und bekommen den
+        passenden Ansprechpartner. Die Liste lässt sich nach PLZ-Bereich, Land oder Kontinent gruppieren.
+        Ohne Google und datenschutzfreundlich: Leaflet und OpenStreetMap, Bibliotheken lokal im Bundle,
+        Geocoding serverseitig, Kacheln der Karte erst nach Zwei-Klick-Freigabe.
+    keywords:
+        - Karte
+        - Standortkarte
+        - Händlersuche
+        - Umkreissuche
+        - Standorte
+        - Filialen
+        - Ansprechpartner
+        - Leaflet
+        - OpenStreetMap
+    homepage: https://github.com/gratlinie/contao-gratmap

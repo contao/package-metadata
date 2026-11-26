@@ -235,6 +235,7 @@ Datenbehälter
 Dateninhalte
 Datenschutzeinstellungen
 Datenschutzerklärung
+datenschutzfreundlich
 Datenschutzhinweis
 Datenschutzhinweise
 Datenschutzrichtlinien
@@ -403,6 +404,7 @@ general
 Geo
 geo
 Geocode
+Geocoding
 Geodata
 Geodaten
 Geodatenbank
@@ -468,6 +470,7 @@ Hostings
 Hover
 Hovercard
 hovern
+Händlersuche
 Höchstbestellmenge
 Iconfont
 IconInsertTags
@@ -994,6 +997,7 @@ Standardauswahlen
 standardmässig
 Standardrechte
 Standortermittlung
+Standortkarte
 Startbildschirm
 Startups
 Startzeit

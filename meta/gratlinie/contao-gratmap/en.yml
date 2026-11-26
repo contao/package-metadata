@@ -1,0 +1,22 @@
+en:
+    title: GratMap – store locator map with radius search
+    description: >-
+        Show your dealers, branches and contact persons on a map and in a list. In the back end you create
+        collections, categories and locations; GratMap looks up the coordinates of the address when saving, and a map in the
+        back end lets you correct the point if needed. The content element shows a map and/or a list with
+        clusters, radius search by postcode or city, "my location", country and category filters and route
+        planning. One location can be responsible for any number of countries: visitors choose their
+        country or click it on the map and get the right contact. The list can be grouped by postcode
+        area, country or continent. Privacy-friendly without Google: Leaflet and OpenStreetMap, libraries
+        bundled locally, server-side geocoding, map tiles only after two-click consent.
+    keywords:
+        - map
+        - store locator
+        - dealer locator
+        - radius search
+        - locations
+        - branches
+        - contact persons
+        - Leaflet
+        - OpenStreetMap
+    homepage: https://github.com/gratlinie/contao-gratmap
