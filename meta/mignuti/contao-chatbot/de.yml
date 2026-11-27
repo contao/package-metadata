@@ -1,0 +1,21 @@
+de:
+    title: Mignuti Chatbot – KI-Chatbot für deine Website
+    description: >-
+        Bindet den Mignuti Chatbot auf jeder Seite einer Website ein: einen KI-Chatbot, der Fragen von
+        Besucherinnen und Besuchern aus deinen eigenen Inhalten (Seiten, PDFs, FAQ) beantwortet und auf
+        deinen Kontaktweg verweist, wenn er etwas nicht weiß. Die Einstellungen sitzen am Startpunkt der
+        Webseite in der Seitenstruktur, so können mehrere Websites in einer Installation verschiedene Bots
+        nutzen. Keine Änderung an Layouts oder Templates. Optional: vor dem Laden auf die
+        Cookie-Einwilligung warten, Akzentfarbe, für angemeldete Mitglieder ausblenden. Für Projekt-ID und
+        Secret ist ein Konto bei Mignuti Chatbot nötig.
+    keywords:
+        - Chatbot
+        - KI
+        - Chat
+        - Livechat
+        - FAQ
+        - Kundenservice
+        - DSGVO
+        - Widget
+    support:
+        docs: https://chatbot.mignuti.com/contao

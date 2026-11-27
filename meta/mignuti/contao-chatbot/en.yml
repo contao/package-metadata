@@ -1,0 +1,20 @@
+en:
+    title: Mignuti Chatbot – AI chatbot for your website
+    description: >-
+        Adds the Mignuti Chatbot to every page of a website: an AI chatbot that answers visitor questions
+        from your own content (pages, PDFs, FAQ) and points to your contact option when it does not know
+        the answer. The settings sit on the website root in the site structure, so several websites in one
+        installation can run different bots. No layout or template changes. Optional: wait for cookie
+        consent before loading, accent colour, hide for logged-in members. Requires a Mignuti Chatbot
+        account for the project ID and secret.
+    keywords:
+        - chatbot
+        - AI
+        - chat
+        - live chat
+        - FAQ
+        - customer service
+        - GDPR
+        - widget
+    support:
+        docs: https://chatbot.mignuti.com/en/contao
