@@ -1,0 +1,20 @@
+de:
+    title: trackd.one – datenschutzfreundlich Besucher zählen
+    description: >-
+        Bindet das Script von trackd.one in jede Seite einer Website ein: Reichweitenmessung ohne Cookies,
+        ohne lokale Speicherung und ohne Fingerprinting, betrieben in der EU. Die Einstellungen sitzen am
+        Startpunkt der Webseite in der Seitenstruktur, so kann jeder Startpunkt in eine eigene Website bei
+        trackd.one messen. Keine Änderung an Layouts oder Templates. Optional: Web Vitals und Heatmaps,
+        angemeldete Mitglieder nicht zählen. Backend-Benutzer in der Vorschau werden standardmäßig nicht
+        gezählt. Für die Website-ID ist ein Konto bei trackd.one nötig.
+    keywords:
+        - Statistik
+        - Analytics
+        - Reichweitenmessung
+        - Besucherzahlen
+        - Datenschutz
+        - DSGVO
+        - cookielos
+        - Web Vitals
+    support:
+        docs: https://trackd.one/docs/contao/

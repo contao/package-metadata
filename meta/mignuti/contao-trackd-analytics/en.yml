@@ -1,0 +1,20 @@
+en:
+    title: trackd.one – privacy-friendly analytics
+    description: >-
+        Adds the trackd.one script to every page of a website: web analytics without cookies, without local
+        storage and without fingerprinting, hosted in the EU. The settings sit on the website root in the site
+        structure, so every website root can measure into its own trackd.one website. No layout or template
+        changes. Optional: Web Vitals and heatmaps, do not count logged-in members. Back end users previewing
+        the site are not counted by default.
+        Requires a trackd.one account for the website ID.
+    keywords:
+        - statistics
+        - analytics
+        - web analytics
+        - visitors
+        - privacy
+        - GDPR
+        - cookieless
+        - Web Vitals
+    support:
+        docs: https://trackd.one/en/docs/contao/

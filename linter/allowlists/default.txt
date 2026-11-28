@@ -274,6 +274,8 @@ gutesio
 handball
 Hazelchat
 Hazenberg
+heatmaps
+Heatmaps
 Heiko
 heimrichhannot
 heimseiten
@@ -622,6 +624,7 @@ Token
 tossncaptcha
 TossnCaptcha
 TOTP
+trackd
 Trek
 trilobit
 Trusted

@@ -356,6 +356,7 @@ Filtereinstellungen
 Filterfunktionalität
 Filterfunktionen
 Fine
+Fingerprinting
 Firefighter
 Firmendaten
 Firmendetailseiten
@@ -737,6 +738,7 @@ Objekterkennung
 Objektliste
 of
 On
+one
 One
 Onepage
 Onlineshop
@@ -849,6 +851,7 @@ Registerkarte
 Registration
 Regular
 Rehabilitationsgesetz
+Reichweitenmessung
 reimport
 reimportieren
 rel
