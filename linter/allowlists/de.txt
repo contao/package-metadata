@@ -19,6 +19,7 @@ agentischen
 ajaxpagenierung
 AjaxPagination
 Akkordions
+Akzentfarbe
 Aliases
 Allergenen
 Alliance
@@ -568,6 +569,7 @@ Konsolenaufrufe
 Konsolenbefehl
 Kontaktbemühungen
 Kontaktdaten
+Kontaktweg
 Kontextmenü
 Kontingentverwaltung
 Kontrollkästchen
